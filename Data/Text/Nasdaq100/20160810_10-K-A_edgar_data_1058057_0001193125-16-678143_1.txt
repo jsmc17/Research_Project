@@ -1,0 +1,349 @@
+<Header>
+<FileStats>
+    <FileName>20160810_10-K-A_edgar_data_1058057_0001193125-16-678143_1.txt</FileName>
+    <GrossFileSize>92900</GrossFileSize>
+    <NetFileSize>16152</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>52998</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>10</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-16-678143.hdr.sgml : 20160810
+<ACCEPTANCE-DATETIME>20160810163732
+ACCESSION NUMBER:		0001193125-16-678143
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20160130
+FILED AS OF DATE:		20160810
+DATE AS OF CHANGE:		20160810
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MARVELL TECHNOLOGY GROUP LTD
+		CENTRAL INDEX KEY:			0001058057
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770481679
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30877
+		FILM NUMBER:		161821936
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CANON'S COURT
+		STREET 2:		22 VICTORIA STREET
+		CITY:			HAMILTON HM 12
+		STATE:			D0
+		BUSINESS PHONE:		4412966395
+
+</SEC-Header>
+</Header>
+
+ 0001193125-16-678143.txt : 20160810
+
+10-K/A
+ 1
+ d226276d10ka.htm
+ AMENDMENT NO. 1 TO FORM 10-K
+
+Amendment No. 1 to Form 10-K 
+
+Table of Contents  
+
+UNITED STATES    
+   SECURITIES AND EXCHANGE COMMISSION        Washington, D.C. 20549        Form 10-K/A    
+   Amendment No. 1    
+  (Mark One)   
+ 
+  For the fiscal year ended January 30, 2016      or       
+ 
+  For the transition period from              to
+                 Commission file number 0-30877   
+   Marvell Technology Group Ltd.           (Exact name of registrant as specified in its charter)           
+
+Bermuda   
+     
+   77-0481679    
+ 
+      (State or other jurisdiction of  incorporation or organization)      
+     
+      (I.R.S. Employer  Identification No.)       
+     Canon s Court, 22 Victoria Street, Hamilton HM 12, Bermuda    
+      (Address of principal executive offices)       
+   (441) 296-6395           (Registrant s telephone number, including area code)           Securities registered pursuant to Section 12(b) of the Act:        
+
+Title of each class    
+     
+     Name of each exchange on which registered     
+
+Common shares, $0.002 par value per share   
+     
+   The NASDAQ Stock Market LLC    
+     Securities registered pursuant to Section 12(g) of the Act:    
+   None    
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.    Yes         No        
+  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the
+Act.    Yes         No        
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days.    Yes         No        
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every
+Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and
+post such files).    Yes         No        
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K ( 229.405 of this
+chapter) is not contained herein, and will not be contained, to the best of the registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.              Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated
+filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one):       
+
+Large accelerated filer            
+      
+  Accelerated filer            
+      
+  Non-accelerated filer           
+      
+  Smaller reporting company            
+
+(Do not check if a smaller     reporting company)   
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).    Yes         No        
+  The aggregate market value of the registrant s common shares held by non-affiliates of the registrant was approximately $4,380
+million based upon the closing price of $12.44 per share on the NASDAQ Global Select Market on July 31, 2015 (the last business day of the registrant s most recently completed second quarter). Common shares held by each director and
+executive officer of the registrant, as well as shares held by each holder of more than 5% of the common shares known to the registrant (based on Schedule 13G filings), have been excluded for purposes of the foregoing calculation.   
+  As of July 29, 2016, there were 511.2 million common shares of the registrant outstanding.   
+   DOCUMENTS INCORPORATED BY REFERENCE       None       TRADEMARKS    
+  Marvell     , Alaska     , ARMADA      Avanta     , Avastar     , Kirkwood     , Link Street     , Prestera     , Xelerated      and Yukon      are registered trademarks of Marvell International Ltd. and/or its affiliates. Any other trademarks or trade names mentioned are the property of their respective
+owners.           
+
+Table of Contents  
+
+      TABLE OF CONTENTS    
+
+Table of Contents  
+
+    PART IV    
+
+Item 15.   
+      Exhibits, Financial Statement Schedules             
+
+(a)  
+  The following documents are filed as part of this Annual Report on Form 10-K/A Amendment No. 1:     
+
+1.  
+   Financial Statements:      
+  See the  Index to Consolidated Financial Statements  on page 57 of the originally filed Annual Report on Form 10-K for the
+fiscal year ended January 30, 2016 as filed with the SEC on July 21, 2016.       
+
+2.  
+   Financial Statement Schedule:         All other schedules not listed above have been omitted because they are not applicable or required, or the information required to be set forth therein is included in the Consolidated Financial Statements
+or Notes thereto.       
+    See the
+ Index to Exhibits  immediately following the signature page of this Annual Report on Form 10-K/A Amendment No. 1.   
+         1   
+
+Table of Contents  
+
+      SIGNATURES    
+  Pursuant to the requirements of section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly authorized.       
+
+M ARVELL  T ECHNOLOGY  G ROUP  L TD .   
+
+Dated: August 10, 2016  
+     
+  By:  
+     
+  / S /    D AVID  P.
+E ICHLER            
+
+David P. Eichler        Interim Chief Financial Officer        (Principal Financial
+Officer)     
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the
+following persons on behalf of the registrant in the capacities and on the dates indicated.       
+ 
+         2   
+
+Table of Contents  
+
+    INDEX TO EXHIBITS    
+
+Table of Contents  
+
+Table of Contents  
+
+#  
+  Management contracts or compensation plans or arrangements in which directors or executive officers are eligible to participate.     
+
+~  
+  In accordance with Item 601(b)(32)(ii) of Regulation S-K and SEC Release No. 33-8238 and 34-47986, Final Rule: Management s Reports on Internal
+Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany the Annual Report Form 10-K and will not be deemed
+ filed  for purposes of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filings under the Securities Act or the Exchange Act, except to the extent that the registrant
+specifically incorporates it by reference.     
+
+<EX-23.1>
+ 2
+ d226276dex231.htm
+ EX-23.1
+
+EX-23.1 
+
+Exhibit 23.1    
+   CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM       We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (Nos. 333-40152, 333-40154, 333-54188, 333-55974, 333-56322, 333-87322, 333-91124, 333-104925, 333-106683,
+333-108334, 333-111133, 333-114434, 333-124072, 333-133281, 33-148621, 333-151816, 333-163644, 333-180412, 333-187641, 333-194865 and 333-204730) of Marvell Technology Group Ltd. of our reports dated July 21, 2016 relating to the consolidated
+financial statements, financial statement schedule and the effectiveness of internal control over financial reporting, (which report expresses an adverse opinion on the effectiveness of the Company s internal control over financial reporting
+because of material weaknesses) appearing in the Annual Report on Form 10-K of the Company for the year ended January 30, 2016.      /s/
+Deloitte   Touche LLP      San Jose, California      August 10, 2016   
+
+</EX-23.1>
+
+<EX-23.2>
+ 3
+ d226276dex232.htm
+ EX-23.2
+
+EX-23.2 
+
+Exhibit 23.2    
+   CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM       We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (Nos. 333-40152, 333-40154, 333-54188, 333-55974, 333-56322, 333-87322, 333-91124, 333-104925, 333-106683,
+333-108334, 333-111133, 333-114434,  333-124072,  333-133281, 33-148621, 333-151816, 333-163644, 333-180412, 333-187641, 333-194865 and 333-204730) of Marvell Technology Group Ltd. of our report dated
+March 26, 2015 relating to the consolidated financial statements and financial statement schedule, which appears in the Annual Report on Form 10-K for the year ended January 30, 2016.   
+  /s/ PricewaterhouseCoopers LLP      San Jose,
+California      August 10, 2016   
+
+</EX-23.2>
+
+<EX-31.1>
+ 4
+ d226276dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1   
+  CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER   
+  PURSUANT TO SECURITIES EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a),   
+  AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002   
+ I, Richard S. Hill, certify that:      
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report;        
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report;        
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:        
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;        
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;        
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of
+the period covered by this report based on such evaluation; and        
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter
+in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and    
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the
+registrant s board of directors (or persons performing the equivalent functions):        
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record,
+process, summarize and report financial information; and        
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.    
+
+Date: August 10, 2016  
+   
+   By:  
+   
+    /s/ RICHARD S. HILL           
+
+Richard S. Hill      Chairman
+of the Board      (Interim Principal Executive Officer)    
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ d226276dex312.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2   
+  CERTIFICATION OF THE CHIEF FINANCIAL OFFICER   
+  PURSUANT TO SECURITIES EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a),   
+  AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002   
+ I, David P. Eichler, certify that:      
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report;        
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report;        
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:        
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;        
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;        
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of
+the period covered by this report based on such evaluation; and        
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter
+in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and    
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the
+registrant s board of directors (or persons performing the equivalent functions):        
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record,
+process, summarize and report financial information; and        
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.    
+
+Date: August 10, 2016  
+   
+   By:  
+   
+    /s/    DAVID P.
+EICHLER           
+
+David P. Eichler   Interim Chief Financial Officer  
+   (Principal Financial Officer)    
+
+</EX-31.2>
+

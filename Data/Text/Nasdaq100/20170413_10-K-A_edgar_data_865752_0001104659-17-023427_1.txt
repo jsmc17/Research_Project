@@ -1,0 +1,361 @@
+<Header>
+<FileStats>
+    <FileName>20170413_10-K-A_edgar_data_865752_0001104659-17-023427_1.txt</FileName>
+    <GrossFileSize>72072</GrossFileSize>
+    <NetFileSize>13122</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>52990</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-17-023427.hdr.sgml : 20170413
+<ACCEPTANCE-DATETIME>20170413171323
+ACCESSION NUMBER:		0001104659-17-023427
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20161231
+FILED AS OF DATE:		20170413
+DATE AS OF CHANGE:		20170413
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Monster Beverage Corp
+		CENTRAL INDEX KEY:			0000865752
+		STANDARD INDUSTRIAL CLASSIFICATION:	BOTTLED & CANNED SOFT DRINKS CARBONATED WATERS [2086]
+		IRS NUMBER:				471809393
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-18761
+		FILM NUMBER:		17761368
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 MONSTER WAY
+		CITY:			CORONA
+		STATE:			CA
+		ZIP:			92879
+		BUSINESS PHONE:		909-739-6200
+
+	MAIL ADDRESS:	
+		STREET 1:		1 MONSTER WAY
+		CITY:			CORONA
+		STATE:			CA
+		ZIP:			92879
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HANSEN NATURAL CORP
+		DATE OF NAME CHANGE:	19930328
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNIPAC CORP
+		DATE OF NAME CHANGE:	19600201
+
+</SEC-Header>
+</Header>
+
+ 0001104659-17-023427.txt : 20170413
+
+10-K/A
+ 1
+ a17-4132_110ka.htm
+ 10-K/A
+
+UNITED STATES   
+   SECURITIES AND EXCHANGE COMMISSION   
+
+Washington, D.C. 20549  
+     
+  Form 10-K/A  
+  (Amendment No. 1)  
+     
+  [ X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF  
+  THE SECURITIES EXCHANGE ACT OF 1934  
+     
+  For the fiscal year ended December 31, 2016  
+     
+  OR  
+     
+  [  ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF  
+  THE SECURITIES EXCHANGE ACT OF 1934  
+     
+  For the transition period from _____ to _____  
+     
+  Commission File Number 001-18761  
+     
+   MONSTER BEVERAGE CORPORATION   
+  (Exact name of registrant as specified in its charter)  
+
+Delaware       
+ 
+  47-1809393           
+
+(State   or other jurisdiction of       
+ 
+  (I.R.S.   Employer           
+
+incorporation   or organization)       
+ 
+  Identification   No.)              
+     
+  1 Monster Way  
+  Corona, California 92879  
+  (Address of principal executive offices)    (Zip Code)  
+     
+  Registrant s telephone number, including area code:  (951) 739 - 6200  
+     
+  Securities registered pursuant to Section 12(b) of the Act:  
+
+Title of Each Class        
+
+Name of each exchange   on which registered            
+
+Common Stock, $.005 par   value per share       
+
+Nasdaq Global Select   Market              
+     
+  Securities registered pursuant to Section 12(g) of the Act: None  
+     
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.  Yes       No  o  
+     
+  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes  o    No     
+     
+  Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes       No   o  
+     
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes      No   o  
+     
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.   o  
+     
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one):  
+
+Large   accelerated filer           
+ 
+  Accelerated   filer   o           
+
+Non-accelerated   filer   o       
+ 
+  Smaller   reporting company   o           
+
+(Do   not check if a smaller reporting company)       
+
+Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act.)     Yes   o   No      
+     
+  The aggregate market value of the voting and non-voting common equity held by non-affiliates of the registrant was $27,920,735,052 computed by reference to the closing sale price for such stock on the NASDAQ Global Select Market on June 30, 2016, the last business day of the registrant s most recently completed second fiscal quarter.  
+     
+  The number of shares of the registrant s common stock, $0.005 par value per share (being the only class of common stock of the registrant), outstanding on April 5, 2017 was 567,788,360 shares.  
+     
+  DOCUMENTS INCORPORATED BY REFERENCE:  
+     
+  Portions of the registrant s Definitive Proxy Statement to be filed subsequent to the date hereof with the Commission pursuant to Regulation 14A in connection with the registrant s 2017 Annual Meeting of Stockholders are incorporated by reference into Part III of this Report. Such Definitive Proxy Statement will be filed with the Securities and Exchange Commission no later than 120 days after the conclusion of the registrant s fiscal year ended December 31, 2016.  
+
+Explanatory Note   
+     
+  We are filing this Amendment No. 1 ( Amendment No. 1 ) to our Annual Report on Form 10-K for the fiscal year ended December 31, 2016, as filed with the Securities and Exchange Commission (the  SEC ) on March 1, 2017 (the  Original Form 10-K ), to correct a typographical error in the content of Exhibit 23.1, Consent of Independent Registered Public Accounting Firm (the  Consent ). The Consent in the Original Form 10-K incorrectly referenced the audit reports of Deloitte   Touche LLP as of February 29, 2016. The correct date for the audit reports referenced in the Original Form 10-K is March 1, 2017. A new consent with the correct date is filed as an exhibit attached hereto.  
+     
+  Pursuant to Rule 12b-15 under the Securities Exchange Act of 1934, as amended (the  Exchange Act ), this Amendment No. 1 also contains new certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, which are attached hereto. Because no financial statements have been included in this Amendment No. 1 and this Amendment No. 1 does not contain or amend any disclosure with respect to Items 307 and 308 of Regulation S-K under the Exchange Act, paragraphs 3, 4 and 5 of the certifications have been omitted. Pursuant to Rule 13a-14 under the Exchange Act, this Amendment No. 1 also contains new certifications pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, which are attached hereto.  
+     
+  Other than this date correction to the Consent, no other changes have been made to the Original Form 10-K. This Amendment No. 1 does not reflect subsequent events occurring after the original filing date of the Original Form 10-K or modify or update in any way disclosures made in the Original Form 10-K. This Amendment No. 1 should be read in conjunction with the Original Form 10-K.  
+     
+ 2   
+
+PART IV   
+     
+  ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES  
+     
+  (a) Documents filed as part of the report:  
+     
+  Exhibits: The exhibits, listed on the accompanying exhibit index that is set forth after the signature page, are filed or furnished as part of this Amendment No. 1.  
+     
+ 3   
+
+SIGNATURES   
+     
+  Pursuant to the requirements of Sections 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this Amendment No. 1 to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+Signature        
+
+Title        
+
+Date            
+
+MONSTER   BEVERAGE    
+   CORPORATION        
+
+Rodney   C. Sacks       
+
+April 13, 2017           
+
+/s/   RODNEY C. SACKS       
+
+Chairman   of the Board       
+
+Rodney   C. Sacks       
+
+/s/   RODNEY C. SACKS       
+
+Chairman   of the Board of       
+
+April 13, 2017           
+
+Rodney   C. Sacks       
+
+Directors   and Chief Executive Officer (principal executive officer)       
+
+/s/ HILTON H.   SCHLOSBERG       
+
+Vice   Chairman of the Board       
+
+Hilton H. Schlosberg       
+
+of   Directors, President, Chief Operating Officer, Chief Financial Officer and   Secretary (principal financial officer, controller and principal accounting   officer)       
+
+April 13, 2017              
+     
+ 4   
+
+INDEX TO EXHIBITS   
+
+*Exhibit filed or furnished with this report.  
+     
+ 5   
+
+<EX-23>
+ 2
+ a17-4132_1ex23.htm
+ EX-23
+
+EXHIBIT 23   
+     
+  CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+     
+  We consent to the incorporation by reference in Registration Statement No. 333-215326, Post-Effective Amendment No. 1 to Registration Statement No. 333-41333, No. 333-89123, No. 333-112482, No. 333-131467, No. 333-170713 and No. 333-174614 and Post-Effective Amendment No. 2 to Registration Statement No. 033-92526 on Form S-8 of our reports dated March 1, 2017, relating to the consolidated financial statements and financial statement schedule of Monster Beverage Corporation and subsidiaries (the  Company ) and the effectiveness of the Company s internal control over financial reporting, appearing in the Annual Report on Form 10-K of Monster Beverage Corporation and subsidiaries for the year ended December 31, 2016.  
+     
+  /s/ DELOITTE   TOUCHE LLP  
+     
+  Costa Mesa ,  California  April 13, 2017  
+
+</EX-23>
+
+<EX-31.1>
+ 3
+ a17-4132_1ex31d1.htm
+ EX-31.1
+
+EXHIBIT 31.1   
+     
+  CERTIFICATION PURSUANT TO RULE 13A-14(a) OR 15D-14(a) OF THE SECURITIES  
+  EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE  
+  SARBANES-OXLEY ACT OF 2002  
+     
+  I, Rodney Sacks, certify that:  
+     
+  1.                I have reviewed this annual report on Form 10-K/A of Monster Beverage Corporation; and  
+     
+  2.                Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report.  
+
+Date:       
+ 
+  April 13, 2017       
+ 
+  /s/Rodney   C. Sacks       
+
+Rodney   C. Sacks           
+
+Chairman of the   Board of Directors and Chief Executive Officer              
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ a17-4132_1ex31d2.htm
+ EX-31.2
+
+EXHIBIT 31.2   
+     
+  CERTIFICATION PURSUANT TO RULE 13A-14(a) OR 15D-14(a) OF THE SECURITIES  
+  EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE  
+  SARBANES-OXLEY ACT OF 2002  
+     
+  I, Hilton Schlosberg, certify that:  
+     
+  1.                I have reviewed this annual report on Form 10-K/A of Monster Beverage Corporation; and  
+     
+  2.                Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report.  
+
+Date:       
+ 
+  April 13,   2017       
+ 
+  /s/ Hilton H. Schlosberg       
+
+Hilton H. Schlosberg           
+
+Vice Chairman of the Board of Directors, President, Chief Operating   Officer, Chief Financial Officer and Secretary              
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ a17-4132_1ex32d1.htm
+ EX-32.1
+
+EXHIBIT 32.1   
+     
+  CERTIFICATION PURSUANT TO  
+  18 U.S.C. SECTION 1350,  
+  AS ADOPTED PURSUANT TO  
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+     
+  In connection with the annual report of Monster Beverage Corporation (the  Company ) on Form 10-K/A for the year ended December 31, 2016 as filed with the Securities and Exchange Commission (the  Report ), the undersigned, Rodney C. Sacks, Chairman of the Board of Directors and Chief Executive Officer of the Company, certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:  
+     
+  1.                The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+     
+  2.                The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+
+Date:       
+ 
+  April 13,   2017       
+ 
+  /s/ Rodney C. Sacks       
+
+Rodney C. Sacks           
+
+Chairman of the Board of Directors and Chief Executive Officer              
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ a17-4132_1ex32d2.htm
+ EX-32.2
+
+EXHIBIT 32.2   
+     
+  CERTIFICATION PURSUANT TO  
+  18 U.S.C. SECTION 1350,  
+  AS ADOPTED PURSUANT TO  
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+     
+  In connection with the annual report of Monster Beverage Corporation (the  Company ) on Form 10-K/A for the year ended December 31, 2016 as filed with the Securities and Exchange Commission (the  Report ), the undersigned, Hilton H. Schlosberg, Vice Chairman of the Board of Directors, President, Chief Operating Officer, Chief Financial Officer and Secretary of the Company, certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:  
+     
+  1.                The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+     
+  2.                The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+
+Date:       
+ 
+  April 13, 2017       
+ 
+  /s/   Hilton H. Schlosberg       
+
+Hilton   H. Schlosberg           
+
+Vice Chairman of   the Board of Directors, President, Chief Operating Officer, Chief Financial   Officer and Secretary              
+
+</EX-32.2>
+

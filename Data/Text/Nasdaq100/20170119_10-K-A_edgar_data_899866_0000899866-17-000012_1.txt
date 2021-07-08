@@ -1,0 +1,1665 @@
+<Header>
+<FileStats>
+    <FileName>20170119_10-K-A_edgar_data_899866_0000899866-17-000012_1.txt</FileName>
+    <GrossFileSize>14288747</GrossFileSize>
+    <NetFileSize>170549</NetFileSize>
+    <NonText_DocumentType_Chars>816432</NonText_DocumentType_Chars>
+    <HTML_Chars>4148113</HTML_Chars>
+    <XBRL_Chars>6625042</XBRL_Chars>
+    <XML_Chars>2323714</XML_Chars>
+    <N_Tables>83</N_Tables>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000899866-17-000012.hdr.sgml : 20170119
+<ACCEPTANCE-DATETIME>20170119171433
+ACCESSION NUMBER:		0000899866-17-000012
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		120
+CONFORMED PERIOD OF REPORT:	20151231
+FILED AS OF DATE:		20170119
+DATE AS OF CHANGE:		20170119
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALEXION PHARMACEUTICALS INC
+		CENTRAL INDEX KEY:			0000899866
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				133648318
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27756
+		FILM NUMBER:		17536618
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 COLLEGE STREET
+		CITY:			NEW HAVEN
+		STATE:			CT
+		ZIP:			06510
+		BUSINESS PHONE:		2032722596
+
+	MAIL ADDRESS:	
+		STREET 1:		100 COLLEGE STREET
+		CITY:			NEW HAVEN
+		STATE:			CT
+		ZIP:			06510
+
+</SEC-Header>
+</Header>
+
+ 0000899866-17-000012.txt : 20170119
+
+10-K/A
+ 1
+ alxn10ka12312015.htm
+ 10-K/A
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-K/A 
+  (Amendment No. 1) 
+
+For the fiscal year ended   December 31, 2015 
+  or 
+
+For the transition period from              to              
+  Commission file number: 0-27756 
+    
+  ALEXION PHARMACEUTICALS, INC. 
+  (Exact Name of Registrant as Specified in Its Charter) 
+                 Delaware 
+    13-3648318 
+      (State or Other Jurisdiction of Incorporation or Organization) 
+    (I.R.S. Employer Identification No.) 
+
+100 College Street, New Haven, Connecticut 06510 
+  (Address of Principal Executive Offices) (Zip Code) 
+  475-230-2596 
+  (Registrant s telephone number, including area code) 
+    
+                   Securities registered pursuant to Section 12(b) of the Act: 
+      
+    Common Stock, par value $0.0001 
+
+Name of each exchange on which registered:    The NASDAQ Stock Market LLC 
+      Securities registered pursuant to Section 12(g) of the Act:    None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes    x      No      
+  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes           No    x 
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes    x      No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes    x     No      
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (  229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. Check One: 
+  Large accelerated filer    x     Accelerated filer           Non-accelerated filer        (Do not check if a smaller reporting company) 
+  Smaller reporting company      
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes           No    x 
+  The aggregate market value of the Common Stock held by non-affiliates of the registrant, based upon the last sale price of the Common Stock reported on The NASDAQ Stock Market LLC on   June 30, 2015  , was   $39,491,560,848  .   (1)   
+  The number of shares of Common Stock outstanding as of   February 3, 2016   was   225,291,331  . 
+  DOCUMENTS INCORPORATED BY REFERENCE 
+  
+   1 
+
+Portions of the registrant s Definitive Proxy Statement to be used in connection with its Annual Meeting of Stockholders to be held on   May 11, 2016  , are incorporated by reference into Part III of this report. 
+  (1) Excludes   7,551,963   shares of common stock held by directors and executive officers at   June 30, 2015  . Exclusion of shares held by any person should not be construed to indicate that such person possesses the power, directly or indirectly, to direct or cause the direction of the management or policies of the registrant, or that such person is controlled by or under common control with the registrant. 
+  
+   2 
+
+Alexion Pharmaceuticals, Inc. 
+  Table of Contents 
+
+PART II 
+
+Item 8.  
+     Financial Statements and Supplementary Data  
+    5 
+      Item 9A. 
+     Controls and Procedures  
+    5 
+
+PART IV 
+
+Item 15. 
+     Exhibits and Financial Statement Schedules  
+    7 
+
+SIGNATURES  
+    10 
+
+3 
+
+EXPLANATORY NOTE 
+    
+  Alexion Pharmaceuticals, Inc. (the Company) is filing this Amendment No. 1 on Form 10-K/A (this Amended Filing) to its Annual Report on Form 10-K for the fiscal year ended December 31, 2015 that was filed on February 8, 2016 (the Original Filing) to: (i) amend and restate management s conclusions regarding the effectiveness of disclosure controls and procedures and internal control over financial reporting as of December 31, 2015, and (ii) amend and restate the Report of the Independent Registered Public Accounting Firm to change the firm s opinion regarding the effectiveness of the Company s internal control over financial reporting as of December 31, 2015.  
+   As described in the Company s Quarterly Report on Form 10-Q for the period ending September 30, 2016 filed on January 4, 2017, management has concluded that its disclosure controls and procedures and internal control over financial reporting were not effective as of December 31, 2015 due to a material weakness in its internal control over financial reporting identified subsequent to the issuance of its Original Filing. The Company s consolidated financial statements as of and for the year ended December 31, 2015, which were included in the Original Filing, have not changed as a result of the material weakness. See Item 9A.,  Controls and Procedures,  for discussion of management s disclosure controls and procedures, management s restated, annual report on internal control over financial reporting, changes in internal control over financial reporting and remediation plan and activities. Accordingly, the Company hereby amends and replaces in its entirety Items 9A and 15 in the Original Filing. 
+  As required by Rule 12b-15, the Company s principal executive officer and principal financial officer are providing new currently dated certifications. In addition, the Company is filing a new consent of PricewaterhouseCoopers LLP. Accordingly, the Company hereby amends Item 15 in the Original Filing to reflect the filing of the new certifications and consent. 
+  Except as described above, this Amended Filing does not amend, update or change any other items or disclosures in the Original Filing and does not purport to reflect any information or events subsequent to the filing date of the Original Filing. As such, the Company s consolidated financial statements as of and for the year ended December 31, 2015, which were included in the Original Filing, have not changed as a result of the material weakness. This Amended Filing speaks only as of the date the Original Filing was filed, and the Company has not undertaken herein to amend, supplement or update any information contained in the Original Filing to give effect to any subsequent events. Accordingly, this Amended Filing should be read in conjunction with the Company s filings made with the Securities and Exchange Commission subsequent to the filing of the Original Filing, including any amendment to those filings. 
+
+4 
+
+PART II 
+
+Item 8. 
+    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+     The consolidated financial statements and supplementary data of the Company required in this item are set forth beginning on page F-1. The only changes from the financial statements filed with the Company s Original Filing are changes to the Report of Independent Registered Public Accounting Firm on Page F-2.  
+
+Item 9A. 
+    CONTROLS AND PROCEDURES. 
+     Disclosure Controls and Procedures. 
+  We have established disclosure controls and procedures to provide reasonable assurance that information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure, and ensure that information required to be disclosed in the reports we file or submit under the Securities Exchange Act of 1934, as amended (Exchange Act) is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms.  
+  Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of   December 31, 2015  . At the time that the Original Filing was filed on February 8, 2016, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of   December 31, 2015  . Subsequent to this evaluation, the Company s current Interim Chief Executive Officer and current Chief Financial Officer concluded that our disclosure controls and procedures were not effective as of December 31, 2015, due to the material weakness in internal control over financial reporting as described below.  
+  Notwithstanding the material weaknesses in our internal control over financial reporting as of December 31, 2015, management has concluded that the consolidated financial statements included in the Original Filing and in this Form 10-K/A present fairly, in all material respects, our financial position, results of operations and cash flows for the periods presented as described below. 
+  Management's Report on Internal Control over Financial Reporting (Restated). 
+  Management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+  Management conducted an evaluation of the effectiveness of our internal control over financial reporting as of   December 31, 2015   based on the framework in    Internal Control-Integrated Framework   (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements will not be prevented or detected on a timely basis.  
+  We did not maintain an effective control environment as our senior management failed to set an appropriate Tone at the Top. Specifically, senior management failed to reinforce the need for compliance with the Company s policies and procedures, which resulted in inappropriate business conduct. This control deficiency did not result in a misstatement to the Company s consolidated financial statements. However, this control deficiency could result in a misstatement to disclosures that would result in a material misstatement to our annual or interim consolidated financial statements that would not be prevented or detected. Accordingly, our management has determined that this control deficiency constitutes a material weakness. 
+  In Management's Report on Internal Control over Financial Reporting included in our Original Annual Report on Form 10-K for the year ended December 31, 2015, our management, including our Chief Executive Officer and Chief Financial Officer, concluded that our internal control over financial reporting was effective as of   December 31, 2015  . Management subsequently concluded that the material weakness described above existed as of December 31, 2015. As a result, management has concluded that we did not maintain effective internal control over financial reporting as of December 31, 2015 based on the framework in   Internal Control-Integrated Framework (2013)   issued by the COSO. Accordingly, management has restated its report on internal control over financial reporting. 
+  
+   5 
+
+Management has excluded the Synageva BioPharma Corp. (Synageva) business from its assessment of internal control over financial reporting as of December 31, 2015, because it was acquired on June 22, 2015 and accounted for under the acquisition method of accounting for business combinations.   Synageva is a wholly-owned subsidiary whose total assets and revenues represented approximately 1% and less than 1%, respectively, of the accompanying consolidated financial statement amounts as of an for the year ended   December 31, 2015  .   
+  The effectiveness of our internal control over financial reporting as of   December 31, 2015   has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their report, which is included herein. 
+  Changes in Internal Control over Financial Reporting. 
+  There has been no change in our internal control over financial reporting that occurred during the quarter ended   December 31, 2015   that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+  Remediation Plan and Activities 
+  Management is engaged in remedial activities to address the material weakness described above.  The remedial activities include the following:  
+     The Board of Directors has and will reinforce to key leadership the importance of setting appropriate Tone at the Top and of appropriate behavior with respect to the Company s commitment to ethics and compliance programs in the performance of the Company s mission, as well as adherence to the Company s internal control over financial reporting framework; 
+     Members of senior management, with the participation and input of the Audit and Finance Committee and the Board of Directors, have and will increase communication with, and training of employees regarding: 
+     Our commitment to ethical standards and the integrity of our business practices; 
+     Requirements for compliance with applicable laws, our Code of Ethics and Business Conduct and other Company policies; and 
+     Availability of and processes for reporting suspected violations of law or our Code of Ethics and Business Conduct. 
+     Revised financial reporting processes to ensure that all employees annually confirm compliance with the Company s Code of Ethics and Business Conduct and that deviations are identified and timely remediated; and 
+     The Board of Directors, together with management, is evaluating certain Company practices and procedures, including those related to compensation, planning and forecasting, as well as the Company s organizational structure, to determine which practices and procedures should be modified or terminated, and management is assessing roles and responsibilities to enhance controls and compliance. 
+  In addition, on December 11, 2016, our Board of Directors oversaw a change in the Company s senior leadership when it appointed a new Interim Chief Executive Officer and a new Chief Financial Officer following the departures of our former Chief Executive Officer and Chief Financial Officer, as well as other personnel changes. 
+  The Company is committed to maintaining a strong internal control environment. Management believes the foregoing efforts will effectively remediate the material weakness. We will provide further updates to the Company's Board on an ongoing basis with measurable milestones and responsibilities regarding the progress of our remediation efforts.  
+
+PART IV 
+
+Item 15. 
+    EXHIBITS AND FINANCIAL STATEMENT SCHEDULES. 
+
+(1) 
+    Financial Statements 
+     The financial statements required by this item are submitted in a separate section beginning on page F-1 of this report. 
+    
+           (2) 
+    Financial Statement Schedules 
+     Schedules have been omitted because of the absence of conditions under which they are required or because the required information is included in the financial statements or notes thereto beginning on page F-1 of this report. 
+    
+                    2.1 
+      
+    Agreement and Plan of Merger by and among Alexion, TPCA Corporation, Taligen Therapeutics, Inc., each stockholder of Taligen that signed the Agreement as a seller of Series Bl Call Rights, and, only for the limited purposes described therein as Stockholders  Representatives (and not in their individual capacities), Nick Galakatos, Ed Hurwitz and Timothy Mills, dated as of January 28, 2011.(1)+ 
+
+2.2 
+      
+    Agreement and Plan of Merger by and among Alexion, EMRD Corporation, Enobia Pharma Corp., and the Stockholder Representatives named therein, dated as of December 28, 2011.(2)+ 
+
+2.3 
+      
+    Amendment No. 1 to the Agreement and Plan of Merger, dated December 28, 2011, by and among Alexion, EMRD Corporation, Enobia Pharma Corp., and the Stockholder Representatives named therein, dated February 1, 2012.(3) 
+
+2.4 
+      
+    Agreement and Plan of Reorganization, dated May 5, 2015, among Alexion Pharmaceuticals, Inc., Pulsar Merger Sub Inc., Galaxy Merger Sub LLC and Synageva BioPharma Corp. (4) 
+
+3.1 
+      
+    Certificate of Incorporation, as amended.(5) 
+
+3.2 
+      
+    Certificate  of Amendment of the Certificate of Incorporation.(6) 
+
+3.3 
+      
+    Bylaws, as amended.(7) 
+
+4.1 
+      
+    Specimen Common Stock Certificate.(8) 
+
+10.1 
+      
+    Consulting Agreement, by and between Alexion Pharmaceuticals, Inc. and Dr. Leonard Bell, dated April 1, 2015.(9) 
+
+10.2 
+      
+    Letter Agreement, by and between Alexion Pharmaceuticals, Inc. and Dr. Leonard Bell, dated April 1, 2015.(9) 
+
+10.5 
+      
+    Employment Agreement, dated as of February 14, 2006, between Alexion and Vikas Sinha.(10)** 
+
+10.6 
+      
+    Amendment No. 1 to the Employment Agreement, dated as of December 23, 2009, between Alexion and Vikas Sinha.(11)** 
+
+10.7 
+      
+    Form of Employment Agreement (Senior Vice Presidents).(10)** 
+
+10.8 
+      
+    Form of Amendment No. 1 to Employment Agreements (Senior Vice Presidents). (11)** 
+
+10.9 
+      
+    Form of Indemnification Agreement for Officers and Directors. (12) 
+
+10.10 
+      
+    Agreement of Lease, dated May 9, 2000, between Alexion and WE Knotter L.L.C.(13)+ 
+
+10.11 
+      
+    Lease, dated November 15, 2012, between Alexion and WE Route 34, LLC.(14) 
+
+10.12 
+      
+    Alexion s 2000 Stock Option Plan, as amended.(15)** 
+
+10.13 
+      
+    Alexion s 1992 Outside Directors Stock Option Plan, as amended.(16)** 
+
+10.14 
+      
+    Alexion s Amended and Restated 2004 Incentive Plan.(17)** 
+
+10.15 
+      
+    License Agreement dated March 27, 1996 between Alexion and Medical Research Council.(18)+ 
+
+10.16 
+      
+    Master Manufacturing and Supply Agreement, dated December 16, 2014 between Alexion Pharma International Trading, Alexion Pharmaceuticals, Inc, Lonza Group AG, Lonza Biologics Tuas PTE LTD and Lonza Sales AG. (24)* 
+
+10.17 
+      
+    Form of Stock Option Agreement for Directors.(20)** 
+
+10.18 
+      
+    Form of Stock Option Agreement for Executive Officers (Form A).(21)** 
+
+10.19 
+      
+    Form of Stock Option Agreement for Executive Officers (Form B).(21)** 
+      10.20 
+      
+    Form of Restricted Stock Award Agreement for Executive Officers (Form A).(22)** 
+
+10.21 
+      
+    Form of Stock Option Agreement (Incentive Stock Options).(19) 
+
+10.22 
+      
+    Form of Stock Option Agreement (Nonqualified Stock Options).(19) 
+
+10.23 
+      
+    Form of Restricted Stock Award Agreement.(19) 
+
+10.24 
+      
+    Form of Restricted Stock Unit Award Agreement.(23) 
+
+10.25 
+      
+    Form of Stock Option Agreement for Participants in France.(19)** 
+
+10.26 
+      
+    Form of Restricted Stock Unit Agreement for Participants in France.(19)** 
+
+10.27 
+      
+    Credit Agreement, dated as of June 22, 2015, by and among Alexion Pharmaceuticals, Inc, as administrative borrower, the guarantors referred to therein, the lenders referred to therein and Bank of America, N.A., as administrative agent. (25)   
+
+21.1 
+      
+    Subsidiaries of Alexion Pharmaceuticals, Inc. 
+
+23.1 
+      
+    Consent of PricewaterhouseCoopers LLP, an Independent Registered Public Accounting Firm 
+
+31.1 
+      
+    Certificate of Chief Executive Officer pursuant to Exchange Act Rules 13a-14 and 15d-14, as adopted pursuant to Section 302 Sarbanes Oxley Act of 2002. 
+
+31.2 
+      
+    Certificate of Chief Financial Officer pursuant to Exchange Act Rules 13a-14 and 15d-14, as adopted pursuant to Section 302 of Sarbanes Oxley Act of 2002. 
+
+32.1 
+      
+    Certificate of Chief Executive Officer pursuant to Section 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act. 
+
+32.2 
+      
+    Certificate of Chief Financial Officer pursuant to Section 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act. 
+
+101 
+      
+    The following materials from the Alexion Pharmaceuticals, Inc. Annual Report on Form 10-K for the year ended December 31, 2015 formatted in eXtensible Business Reporting Language (XBRL): (i) the Consolidated Statements of Operations, (ii) the Consolidated Statements of Comprehensive Income, (iii) the Consolidated Balance Sheets, (iv) the Consolidated Statements of Changes in Stockholders' Equity, (v) the Consolidated Statements of Cash Flows and (vi) related notes, tagged as blocks of text. 
+
+_____________________ 
+
+8 
+
++     
+    Confidential treatment was granted for portions of such exhibit. 
+       
+           * 
+    Confidential treatment requested under 17 C.F.R.   200.80(b)(4) and 24b-2. The confidential portions of this exhibit have been omitted and are marked accordingly. The confidential portions have been filed separately with the SEC pursuant to the confidential treatment request. 
+       
+  **    Indicates a management contract or compensatory plan or arrangement required to be filed pursuant to Item 15(b) of Form 10-K. 
+
+Item 15(b) Exhibits 
+  See (a) (3) above. 
+
+Item 15(c) Financial Statement Schedules 
+  See (a) (2) above. 
+
+9 
+
+SIGNATURES 
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+    
+                 A  LEXION   P  HARMACEUTICALS  , I  NC  . 
+
+By: 
+    /s/    David R. Brennan 
+        
+    David R. Brennan 
+  Interim Chief Executive Officer                                                                                                                                       (principal executive officer) 
+  Dated: January 19, 2017 
+
+By: 
+    /s/    David J. Anderson 
+        
+    David J. Anderson                                                                                                                                                                                 Executive Vice President and Chief Financial Officer (principal financial officer) 
+  Dated: January 19, 2017 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated.    
+                     /s/    David R. Brennan 
+      
+    Interim Chief Executive Officer and Director (principal executive officer) 
+    January 19, 2017 
+      David R. Brennan 
+
+/s/    David J. Anderson 
+      
+    Executive Vice President and Chief Financial Officer (principal financial officer) 
+    January 19, 2017 
+      David J. Anderson 
+
+/s/    Daniel A. Bazarko 
+      
+    Senior Vice President and Chief Accounting Officer (principal accounting officer) 
+    January 19, 2017 
+      Daniel A. Bazarko, C.P.A. 
+
+/s/    Leonard Bell 
+      
+    Chairman  
+    January 19, 2017 
+      Leonard Bell, M.D. 
+
+/s/    Felix J. Baker 
+      
+    Director 
+    January 19, 2017 
+      Felix J. Baker, Ph.D. 
+
+/s/    M. Michele Burns 
+      
+    Director 
+    January 19, 2017 
+      M. Michele Burns 
+
+/s/    Christopher J. Coughlin 
+      
+    Director 
+    January 19, 2017 
+      Christopher J. Coughlin 
+
+/s/    John T. Mollen 
+      
+    Director 
+    January 19, 2017 
+      John T. Mollen 
+
+/s/    R. Douglas Norby 
+       
+    Director 
+    January 19, 2017 
+      R. Douglas Norby 
+
+/s/    Alvin S. Parven 
+      
+    Director 
+    January 19, 2017 
+      Alvin S. Parven 
+
+/s/   Andreas Rummelt 
+      
+    Director 
+    January 19, 2017 
+      Andreas Rummelt, Ph.D. 
+
+/s/   Ann M. Veneman 
+      
+    Director 
+    January 19, 2017 
+      Ann M. Veneman 
+
+Alexion Pharmaceuticals, Inc. 
+  Contents 
+  For the Years Ended   December 31, 2015  ,   2014   and   2013 
+
+Page(s) 
+       Report of Independent Registered Public Accounting Firm  
+    F-2 
+      Consolidated Financial Statements 
+      
+       Consolidated Balance Sheets  
+    F-4 
+       Consolidated Statements of Operations  
+    F-5 
+       Consolidated Statements of Comprehensive Income  
+    F-6 
+       Consolidated Statements of Changes in Stockholders  Equity  
+    F-7 
+       Consolidated Statements of Cash Flows  
+     F-7 to F-8  
+    
+       Notes to Consolidated Financial Statements  
+     F-9 to F-46  
+
+F-1 
+
+Report of Independent Registered Public Accounting Firm 
+    
+  To the Board of Directors and Stockholders of Alexion Pharmaceuticals, Inc. 
+  In our opinion, the accompanying consolidated balance sheets and the related consolidated statements of operations, comprehensive income, changes in stockholders  equity and cash flows present fairly, in all material respects, the financial position of Alexion Pharmaceuticals, Inc. and its subsidiaries     as of December 31, 2015 and 2014, and the results of their operations and their cash flows for each of the three years in the period ended December 31, 2015     in conformity with accounting principles generally accepted in the United States of America. Management and we previously concluded that the Company maintained effective internal control over financial reporting as of December 31, 2015. However, management has subsequently determined that a material weakness in internal control over financial reporting existed as of that date related to not maintaining an effective control environment as senior management failed to set an appropriate tone at the top. Specifically, senior management failed to reinforce the need for compliance with the Company s policies and procedures, which resulted in inappropriate business conduct. Accordingly, management s report has been restated and our opinion on internal control over financial reporting, as presented herein, is different from that expressed in our previous report. Also in our opinion, the Company did not maintain, in all material respects, effective internal control over financial reporting as of December 31, 2015, based on criteria established in   Internal Control - Integrated Framework (  2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) because a material weakness in internal control over financial reporting existed as of that date related to not maintaining an effective  control environment as senior management failed to set an appropriate tone at the top. Specifically, senior management failed to reinforce the need for compliance with the Company s policies and procedures, which resulted in inappropriate business conduct. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis. The material weakness referred to above is described in Management's Report on Internal Control over Financial Reporting appearing under Item 9A. We considered this material weakness in determining the nature, timing, and extent of audit tests applied in our audit of the 2015 consolidated financial statements, and our opinion regarding the effectiveness of the Company s internal control over financial reporting does not affect our opinion on those consolidated financial statements. The Company's management is responsible for these financial statements, for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in Management's Report on Internal Control over Financial Reporting. Our responsibility is to express opinions on these financial statements and on the Company's internal control over financial reporting based on our integrated audits. We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement and whether effective internal control over financial reporting was maintained in all material respects. Our audits of the financial statements included examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, and evaluating the overall financial statement presentation. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions. 
+  A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+  Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+  As described in Management's Report on Internal Control over Financial Reporting, management has excluded Synageva BioPharma Corp. from its assessment of internal control over financial reporting as of December 31, 2015 because it was acquired by the Company in a purchase business combination during 2015.  We have also excluded Synageva BioPharma Corp.  
+  
+   F-2 
+
+from our audit of internal control over financial reporting.  Synageva BioPharma Corp. is a wholly-owned subsidiary whose total assets and total revenues represent approximately 1% and less than 1%,     respectively, of the related consolidated financial statement amounts as of and for the year ended December 31, 2015.   
+  /s/ PricewaterhouseCoopers LLP 
+  Hartford, Connecticut 
+  February 8, 2016, except with respect to our opinion on internal control over financial reporting insofar as it relates to the effects of the matter described in the third paragraph of Management s Report on Internal Control over Financial Reporting, as to which the date is   January 19, 2017  . 
+  
+   F-3 
+
+Alexion Pharmaceuticals, Inc. 
+  Consolidated Balance Sheets 
+  (amounts in thousands, except per share amounts) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+  
+   F-4 
+
+Alexion Pharmaceuticals, Inc. 
+  Consolidated Statements of Operations 
+  (amounts in thousands, except per share amounts) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+  
+   F-5 
+
+Alexion Pharmaceuticals, Inc. 
+  Consolidated Statements of Comprehensive Income 
+  (amounts in thousands) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-6 
+
+Alexion Pharmaceuticals, Inc. 
+  Consolidated Statements of Changes in Stockholders  Equity 
+  (amounts in thousands) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+  
+   F-7 
+
+Alexion Pharmaceuticals, Inc. 
+  Consolidated Statements of Cash Flows 
+  (amounts in thousands) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+  
+   F-8 
+
+Alexion Pharmaceuticals, Inc. 
+  Consolidated Statements of Cash Flows 
+  (amounts in thousands) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-9 
+
+Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+1. 
+    Business Overview and Summary of Significant Accounting Policies 
+       
+  Business 
+  Alexion Pharmaceuticals, Inc. (Alexion, the Company, we, our or us) is a biopharmaceutical company focused on serving patients with devastating and ultra-rare disorders through the innovation, development and commercialization of life-transforming therapeutic products.  
+  In our complement franchise, Soliris  is the first and only therapeutic approved for patients with either paroxysmal nocturnal hemoglobinuria (PNH), a life-threatening and ultra-rare genetic blood disorder, or atypical hemolytic uremic syndrome (aHUS), a life-threatening and ultra-rare genetic disease.  PNH and aHUS are two severe and ultra-rare disorders resulting from chronic uncontrolled activation of the complement component of the immune system. 
+    In our metabolic franchise, we market Strensiq  for the treatment of patients with hypophasphatasia (HPP) and Kanuma  for the treatment of patients with lysosomal acid lipase deficiency (LAL-D).  HPP is a genetic ultra-rare disease characterized by defective bone mineralization that can lead to deformity of bones and other skeletal abnormalities.  LAL-D is a serious, life threatening ultra-rare disease in which genetic mutations result in decreased activity of the LAL enzyme leading to marked accumulation of lipids in vital organs, blood vessels and other tissues.  We initiated sales of these products in the third quarter 2015. 
+  We are also evaluating additional potential indications for eculizumab in other severe and devastating diseases in which uncontrolled complement activation is the underlying mechanism, and we are progressing in various stages of development with additional product candidates as potential treatments for patients with severe and life-threatening rare disorders.   
+  Basis of Presentation and Principles of Consolidation 
+  The accompanying consolidated financial statements include the accounts of Alexion and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.  For each of our business combinations, all of the assets acquired and liabilities assumed were recorded at their respective fair values as of the date of acquisition, and their results of operations are included in the consolidated financial statements from the date of acquisition.   
+  Dividend Policy 
+  We have never paid a cash dividend on shares of our stock. We currently intend to retain our earnings to finance future operations and do not anticipate paying any cash dividends on our stock in the foreseeable future. 
+  Critical Accounting Estimates 
+  The preparation of our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, requires us to make estimates, judgments and assumptions that may affect the reported amounts of assets, liabilities, revenues, expenses and related disclosure of contingent assets and liabilities in our financial statements. We believe the most complex judgments result primarily from the need to make estimates about the effects of matters that are inherently uncertain and are significant to our consolidated financial statements. We base our estimates on historical experience and on various other assumptions that we believe are reasonable, the results of which form the basis for making judgments about the carrying values of assets and liabilities. We evaluate our estimates, judgments and assumptions on an ongoing basis. Actual results may differ from these estimates under different assumptions or conditions. 
+  The most significant areas involving estimates, judgments and assumptions used in the preparation of our consolidated financial statements are as follows: 
+             
+    Revenue recognition; 
+                
+    Contingent liabilities; 
+                
+    Inventories; 
+                
+    Share-based compensation; 
+                
+    Valuation of goodwill, acquired intangible assets and in-process research and development (IPR  
+                
+    Valuation of contingent consideration; and 
+                
+    Income taxes. 
+     
+   F-10 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+Foreign Currency Translation 
+  The financial statements of our subsidiaries with functional currencies other than the U.S. dollar are translated into U.S. dollars using period-end exchange rates for assets and liabilities, historical exchange rates for stockholders  equity and weighted average exchange rates for operating results. Translation gains and losses are included in accumulated other comprehensive income (loss), net of tax, in stockholders  equity. Foreign currency transaction gains and losses are included in the results of operations in other income and expense. 
+  Cash and Cash Equivalents 
+  Cash and cash equivalents are stated at cost plus accrued interest, which approximates fair value, and include short-term highly liquid investments with original maturities of three months or less. 
+  Fair Value of Financial Instruments 
+  The carrying amounts reflected in the consolidated balance sheets for cash and cash equivalents, accounts receivable, other assets, accounts payable, accrued expenses and other liabilities approximate fair value due to their short-term maturities. Our marketable securities are valued based upon pricing of securities with similar investment characteristics and holdings.  Our derivative financial instruments are measured at fair value using observable market inputs such as forward rates, interest rates, our own credit risk and our counterparties  credit risks. Our debt obligations are carried at historical cost, which approximates fair value.  Our contingent consideration liabilities related to our acquisitions are valued based on various estimates, including probability of success, estimated revenues, discount rates and amount of time until the conditions of the milestone payments are met.   
+  Marketable Securities 
+  We invest our excess cash balances in marketable securities of highly rated financial institutions and investment-grade debt instruments. We seek to diversify our investments and limit the amount of investment concentrations for individual institutions, maturities and investment types. We classify these marketable securities as available-for-sale and, accordingly, record such securities at fair value.  We classify these marketable securities as current assets as these investments are intended to be available to the Company for use in funding current operations. 
+  Unrealized gains and losses that are deemed temporary are included in accumulated other comprehensive income (loss) as a separate component of stockholders' equity. If any adjustment to fair value reflects a significant decline in the value of the security, we evaluate the extent to which the decline is determined to be other-than-temporary and would mark the security to market through a charge to our consolidated statement of operations. Credit losses are identified when we do not expect to receive cash flows sufficient to recover the amortized cost basis of a security. In the event of a credit loss, only the amount associated with the credit loss is recognized in operating results, with the amount of loss relating to other factors recorded in accumulated other comprehensive income (loss). 
+  We sponsor a nonqualified deferred compensation plan which allows certain highly-compensated employees to elect to defer income to future periods.  Participants in the plan earn a return on their deferrals based on several investments options, which mirror returns on underlying mutual fund investments.  We choose to invest in the underlying mutual fund investments to offset the liability associated with our nonqualified deferred compensation plan.  These securities are classified as trading securities and are carried at fair value with gains and losses included in investment income.  The changes in the underlying liability to the employee are recorded in operating expenses. 
+  Accounts Receivable 
+  Our standard credit terms vary based on the country of sale and range from   30   to   120   days. Our consolidated average days  sales outstanding ranges from   60   to   80   days. We evaluate the creditworthiness of customers on a regular basis. In certain European countries, sales by us are subject to payment terms that are statutorily determined. This is primarily the case in countries where the payer is government-owned or government-funded, which we consider to be creditworthy. The length of time from sale to receipt of payment in certain countries exceeds our credit terms.  In countries in which collections from customers extend beyond normal payment terms, we seek to collect interest. We record interest on customer receivables as interest income when collected.  For non-interest bearing receivables with an estimated payment beyond one year, we discount the accounts receivable to present value at the date of sale, with a corresponding adjustment to revenue.   Subsequent adjustments for further declines in credit rating are recorded as bad debt expense as a component of selling, general and administrative expense.  We also use judgments as to our ability to collect outstanding receivables and provide allowances for  
+  
+   F-11 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+the portion of receivables if and when collection becomes doubtful, and we also assess on an ongoing basis whether collectibility is reasonably assured at the time of sale. 
+  Concentration of Credit Risk 
+  Financial instruments that potentially expose the Company to concentrations of credit risk are limited to cash equivalents, marketable securities, accounts receivable and our foreign exchange derivative contracts. We invest our cash reserves in money market funds or high-quality marketable securities in accordance with our investment policy.  The stated objectives of our investment policy is to preserve capital, provide liquidity consistent with forecasted cash flow requirements, maintain appropriate diversification and generate returns relative to these investment objectives and prevailing market conditions. 
+  At   December 31, 2015  ,   three   customers accounted for   51%   of the accounts receivable balance, with these individual customers ranging from   14%   to   22%   of the accounts receivable balance.  At   December 31, 2014  ,   four   customers accounted for   58%   of the accounts receivable balance, with individual customers accounting for   10%   and   23%  .    For the year ended     December 31, 2015  ,   three   customers accounted for   38%   of our product sales, with these individual customers ranging from   10%   to   18%     of our product sales. For the year ended   December 31, 2014  ,   one   customer accounted for   18%     of our product sales.      No other customers accounted for more than 10% of net product sales or accounts receivable. 
+  As a result of our foreign operations, we are exposed to changes in the general economic conditions in the countries in which we conduct business.      Substantially all of our accounts receivable due from these countries are due from or backed by sovereign or local governments, and the amount of non-sovereign accounts receivable is not material. We continue to monitor economic conditions, including volatility associated with international economies and the associated impacts on the financial markets and our business.  Although collection of our accounts receivables due from certain countries may extend beyond our standard credit terms, we do not expect any such delays to have a material impact on our financial condition or results of operations. 
+  Inventories 
+  Inventories are stated at the lower of cost or estimated realizable value. We determine the cost of inventory using the weighted-average cost method. 
+  The components of inventory are as follows: 
+
+Capitalization of Inventory Costs 
+  We capitalize inventory produced for commercial sale, which may include costs incurred for certain products awaiting regulatory approval. We capitalize inventory produced in preparation of product launches sufficient to support estimated initial market demand.  Capitalization of such inventory begins when we have (i) obtained positive results in clinical trials that we believe are necessary to support regulatory approval,  (ii) concluded that uncertainties regarding regulatory approval have been sufficiently reduced, and (iii) determined that the inventory has probable future economic benefit.  In evaluating whether these conditions have been met, we consider clinical trial results for the underlying product candidate, results from meetings with regulatory authorities, and the compilation of the regulatory application.  If we are aware of any material risks or contingencies outside of the standard regulatory review and approval process, or if there are any specific negative issues identified relating to the safety, efficacy, manufacturing, marketing or labeling of the product that would have a significant negative impact on its future economic benefits, the related inventory would not be capitalized. At   December 31, 2014  , we capitalized   $22,005   of inventory produced for commercial sale for products awaiting regulatory approval.  As a result of regulatory approval, we had no inventory capitalized for products awaiting regulatory approval at   December 31, 2015  . 
+  Products that have been approved by the U.S. Food and Drug Administration (FDA) or other regulatory authorities are also used in clinical programs to assess the safety and efficacy of the products for usage in diseases that have not been approved by the FDA or other regulatory authorities.  The form of the products utilized for both commercial and clinical programs is  
+  
+   F-12 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+identical and, as a result, the inventory has an "alternative future use" as defined in authoritative guidance.  Raw materials and purchased drug product associated with clinical development programs are included in inventory and charged to research and development expense when the product enters the research and development process and no longer can be used for commercial purposes and, therefore, does not have an "alternative future use". 
+   For products which are under development and have not yet been approved by regulatory authorities, purchased drug product is charged to research and development expense upon delivery.  Delivery occurs when the inventory passes quality inspection and ownership transfers to us.  Nonrefundable advance payments for research and development activities, including production of purchased drug product, are deferred and capitalized until the goods are delivered.  We also recognize expense for raw materials purchased for developmental purposes when the raw materials pass quality inspection and we have an obligation to pay for the materials.  
+  Inventory Write-Offs 
+  We analyze our inventory levels to identify inventory that may expire prior to sale, inventory that has a cost basis in excess of its estimated realizable value, or inventory in excess of expected sales requirements. Although the manufacturing of our product is subject to strict quality control, certain batches or units of product may no longer meet quality specifications or may expire, which requires adjustments to our inventory values. We also apply judgment related to the results of quality tests that we perform throughout the production process, as well as our understanding of regulatory guidelines, to determine if it is probable that inventory will be saleable. These quality tests are performed throughout the pre-and post-production process, and we continually gather additional information regarding product quality for periods after the manufacture date.  Our products currently have a maximum estimated life ranging from   36   to   48   months and, based on our sales forecasts, we expect to realize the carrying value of our inventory. In the future, reduced demand, quality issues or excess supply beyond those anticipated by management may result in a material adjustment to inventory levels, which would be recorded as an increase to cost of sales. 
+  The determination of whether or not inventory costs will be realizable requires estimates by our management. A critical input in this determination is future expected inventory requirements based on internal sales forecasts. We then compare these requirements to the expiry dates of inventory on hand. For inventories that are capitalized in preparation of product launch, we also consider the expected approval date in assessing realizability.  To the extent that inventory is expected to expire prior to being sold, we will write down the value of inventory. 
+  Derivative Instruments 
+  We record the fair value of derivative instruments as either assets or liabilities on the balance sheet. The accounting for gains and losses resulting from changes in fair value is dependent on the use of the derivative and whether it is designated and qualifies for hedge accounting. 
+  All qualifying hedging activities are documented at the inception of the hedge and must meet the definition of highly effective in offsetting changes to future cash. The effectiveness of the qualifying hedge contract is assessed quarterly. We record the fair value of the qualifying hedges in other current assets, other assets, other current liabilities and other liabilities. Gains or losses resulting from changes in the fair value of qualifying hedges are recorded in other comprehensive income (loss) until the forecasted transaction occurs. When the forecasted transaction occurs, this amount is reclassified into revenue. Any non-qualifying portion of the gains or losses resulting from changes in fair value, if any, is reported in other income and expense. 
+  Property, Plant and Equipment 
+  Property, plant and equipment are stated at cost and are depreciated on a straight-line basis over the estimated useful lives of the assets. We estimate economic lives as follows: 
+             
+    Building and improvements fifteen to thirty five years 
+                
+    Machinery and laboratory equipment five to fifteen years    
+                
+    Computer hardware and software three to seven years 
+                
+    Furniture and office equipment  five to ten years 
+     Leasehold improvements and assets under capital lease arrangements are amortized over the lesser of the asset's estimated useful life or the term of the respective lease. Maintenance costs are expensed as incurred. 
+  Construction-in-progress reflects amounts incurred for property, plant, or equipment construction or improvements that have not been placed in service. 
+  
+   F-13 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+Manufacturing Facilities 
+  We capitalize costs incurred for the construction of facilities which support commercial manufacturing. We also capitalize costs related to validation activities which are directly attributable to preparing the facility for its intended use, including engineering runs and inventory production necessary to obtain approval of the facility from government regulators for the production of a commercially approved drug. When the facility is substantially complete and ready for its intended use and regulatory approval for commercial production has been received, we will place the asset in service. 
+  The production of inventory for preparing the facility for its intended use requires two types of production: engineering runs which are used for testing purposes only and do not result in saleable inventory, and validation runs which are used for validating equipment and may result in saleable inventory.  The costs associated with inventory produced during engineering runs and normal production losses during validation runs are capitalized to fixed assets and depreciated over the asset's useful life.  Saleable inventory produced during the validation process is initially treated as a fixed asset; however, upon regulatory approval, this inventory is reclassified to inventory and expensed in cost of goods sold as product is sold, or in research and development expenses as product is utilized in R D activities.  Abnormal production costs incurred during the validation process are expensed as incurred. 
+  Acquisitions 
+  Business combinations are accounted for using the acquisition method of accounting.  Under the acquisition method of accounting, the tangible and intangible assets acquired and the liabilities assumed are recorded as of the acquisition date at their respective fair values.  We evaluate a business as an integrated set of activities and assets that is capable of being managed for the purpose of providing a return in the form of dividends, lower costs or other economic benefits and consists of inputs and processes that provide or have the ability to provide outputs.  In an acquisition of a business, the excess of the fair value of the consideration transferred over the fair value of the net assets acquired is recorded as goodwill.  In an acquisition of net assets that does not constitute a business, no goodwill is recognized. 
+  Our consolidated financial statements include the results of operations of an acquired business after the completion of the acquisition. 
+  Intangible Assets 
+  Our intangible assets consist of licenses, patents, purchased technology and acquired in-process research and development (IPR D).  Intangible assets with definite lives are amortized based on their pattern of economic benefit over their estimated useful lives and reviewed periodically for impairment.   
+  Intangible assets related to IPR D projects are considered to be indefinite-lived until the completion or abandonment of the associated research and development efforts. During the period the assets are considered indefinite-lived, they will not be amortized but will be tested for impairment. If and when development is complete, which generally occurs when regulatory approval to market a product is obtained, the associated assets are deemed finite-lived and are amortized over a period that best reflects the economic benefits provided by these assets.  
+  Goodwill 
+  Goodwill represents the excess of purchase price over fair value of net assets acquired in a business combination and is not amortized. Goodwill is subject to impairment testing at least annually or when a triggering event occurs that could indicate a potential impairment. We are organized and operate as a single reporting unit and therefore the goodwill impairment test is performed using our overall market value, as determined by our traded share price, compared to our book value of net assets.  
+  Impairment of Long-Lived Assets 
+  Our long-lived assets are primarily comprised of intangible assets and property, plant and equipment.  We evaluate our finite-lived intangible assets and property, plant and equipment, for impairment whenever events or changes in circumstances indicate the carrying value of an asset or group of assets is not recoverable. If these circumstances exist, recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset group to future undiscounted net cash flows expected to be generated by the asset group. If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of the assets.  
+  
+   F-14 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+In addition, indefinite-lived intangible assets, comprised of IPR D, are reviewed for impairment annually and whenever events or changes in circumstances indicate that it is more likely than not that the asset is impaired by comparing the fair value to the carrying value of the asset.   
+  Contingent Consideration 
+   We record contingent consideration resulting from a business combination at its fair value on the acquisition date.  On a quarterly basis, we revalue these obligations and record increases or decreases in their fair value as an adjustment to operating earnings. Changes to contingent consideration obligations can result from adjustments to discount rates, accretion of the liability due to the passage of time, changes in our estimates of the likelihood or timing of achieving development or commercial milestones, changes in the probability of certain clinical events or changes in the assumed probability associated with regulatory approval. 
+  Contingent Liabilities 
+  We are currently involved in various claims and legal proceedings. On a quarterly basis, we review the status of each significant matter and assess its potential financial exposure. If the potential loss from any claim, asserted or unasserted, or legal proceeding is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss. Because of uncertainties related to claims and litigation, accruals are based on our best estimates based on available information. On a periodic basis, as additional information becomes available, or based on specific events such as the outcome of litigation or settlement of claims, we may reassess the potential liability related to these matters and may revise these estimates. 
+  Treasury Stock 
+  Treasury stock is accounted for using the cost method, with the purchase price of the common stock recorded separately as a deduction from stockholders' equity. 
+  Revenue Recognition 
+  Our principal source of revenue is product sales.  We recognize revenue from product sales when persuasive evidence of an arrangement exists, title to product and associated risk of loss has passed to the customer, the price is fixed or determinable, collection from the customer is reasonably assured, and we have no further performance obligations. Depending on these criteria, revenue is usually recorded upon receipt of the product by the end customer, which is typically a hospital, physician s office, private or government pharmacy or other health care facility. On a regular basis, we review revenue arrangements, such as distributor relationships, to determine whether changes in these criteria have an impact on revenue recognition.  Amounts collected from customers and remitted to governmental authorities, such as value-added taxes (VAT) in foreign jurisdictions, are presented on a net basis in our consolidated statements of operations and do not impact net product sales. 
+  Our customers are primarily comprised of distributors, pharmacies, hospitals, hospital buying groups, and other health care providers. In some cases, we may also sell to governments and government agencies.  
+  Because of factors such as the price of our products, the limited number of patients, the short period from product sale to patient infusion and the lack of contractual return rights, our customers often carry limited inventory. We also monitor inventory within our sales channels to determine whether deferrals are appropriate based on factors such as inventory levels compared to demand, contractual terms and financial strength of distributors.  In some cases, exact quantities of inventory in the channel are not precisely known, requiring us to estimate these amounts.  If actual amounts of inventory differ from these estimates, these adjustments could have an impact in the period in which these estimates change.  
+  In addition to sales in countries where our products are commercially available, we have also recorded revenue on sales for patients receiving treatment through named-patient programs.  The relevant authorities or institutions in those countries have agreed to reimburse for product sold on a named-patient basis where our products have not received final approval for commercial sale.   
+  We record estimated rebates payable under governmental programs, including Medicaid in the United States and other programs outside the United States, as a reduction of revenue at the time of product sale. Our calculations related to these rebate accruals require analysis of historical claim patterns and estimates of customer mix to determine which sales will be subject to rebates and the amount of such rebates. We update our estimates and assumptions each period and record any necessary  
+  
+   F-15 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+adjustments, which may have an impact on revenue in the period in which the adjustment is made. Generally, the length of time between product sale and the processing and reporting of the rebates is three to six months. 
+  We have entered into volume-based arrangements with governments in certain countries in which reimbursement is limited to a contractual amount.  Under this type of arrangement, amounts billed in excess of the contractual limitation are repaid to these governments as a rebate. We estimate incremental discounts resulting from these contractual limitations, based on estimated sales during the limitation period, and we apply the discount percentage to product shipments as a reduction of revenue. Our calculations related to these arrangements require estimation of sales during the limitation period, and adjustments in these estimates may have a material impact in the period in which these estimates change. 
+  We record distribution and other fees paid to our customers as a reduction of revenue, unless we receive an identifiable and separate benefit for the consideration and we can reasonably estimate the fair value of the benefit received.  If both conditions are met, we record the consideration paid to the customer as an operating expense.  These costs are typically known at the time of sale, resulting in minimal adjustments subsequent to the period of sale. 
+  We enter into foreign exchange forward contracts to hedge exposures resulting from portions of our forecasted revenues, including intercompany revenues, that are denominated in currencies other than the U.S. dollar. These hedges are designated as cash flow hedges upon inception. We record the effective portion of these cash flow hedges to revenue in the period in which the sale is made to an unrelated third party and the derivative contract is settled. 
+  Research and Development Expenses 
+  Research and development expenses are comprised of costs incurred in performing research and development activities including payroll and benefits, pre-clinical, clinical trial and related clinical manufacturing costs, manufacturing development and scale-up costs, product development and regulatory costs, contract services and other outside contractor costs, research license fees, depreciation and amortization of lab facilities, and lab supplies. These costs are expensed as incurred. We accrue costs for clinical trial activities based upon estimates of the services received and related expenses incurred that have yet to be invoiced by the contract research organizations, clinical study sites, laboratories, consultants, or other clinical trial vendors that perform the activities. 
+  Share-Based Compensation 
+  We have two share-based compensation plans pursuant to which awards are currently being made: (i) the Amended and Restated 2004 Incentive Plan (2004 Plan) and (ii) the 2015 Employee Stock Purchase Plan (ESPP). Under the 2004 Plan, restricted stock, restricted stock units, stock options and other stock-related awards may be granted to our directors, officers, employees and consultants or advisors of the Company or any subsidiary.  Under the ESPP, eligible employees can purchase shares of common stock at a discount semi-annually through payroll deductions.  To date, share-based compensation issued under the plans consists of incentive and non-qualified stock options, restricted stock and restricted stock units, including restricted stock units with market and non-market performance conditions, and shares issued under our ESPP.  
+  Compensation expense for our share-based awards is recognized based on the estimated fair value of the awards on the grant date. Compensation expense reflects an estimate of the number of awards expected to vest and is primarily recognized on a straight-line basis over the requisite service period of the individual grants, which typically equals the vesting period. Compensation expense for awards with performance conditions is recognized using the graded-vesting method.  
+  Our estimates of employee stock option values rely on estimates of factors we input into the Black-Scholes model. The key factors involve an estimate of future uncertain events. Significant assumptions include the use of historical volatility to determine the expected stock price volatility. We also estimate expected term until exercise and the reduction in the expense from expected forfeitures. We currently use historical exercise and cancellation patterns as our best estimate of future estimated life.  
+  For our non-market performance-based awards, we estimate the anticipated achievement of the performance targets, including forecasting the achievement of future financial targets.  These estimates are revised periodically based on the probability of achieving the performance targets and adjustments are made throughout the performance period as necessary.   We use payout simulation models to estimate the grant date fair value of market performance-based awards.  The payout simulation models assume volatility of our common stock and the common stock of a comparator group of companies, as well as correlations of returns of the price of our common stock and the common stock prices of the comparator group. 
+  The purchase price of common stock under our ESPP is equal to   85%   of the lower of (i) the market value per share of the common stock on the first business day of an offering period or (ii) the market value per share of the common stock on the  
+  
+   F-16 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+purchase date. The fair value of the discounted purchases made under our ESPP is calculated using the Black-Scholes model. The fair value of the look-back provision plus the   15%   discount is recognized as compensation expense over the 6 month purchase period. 
+  Earnings Per Common Share 
+  Basic earnings per common share (EPS) are computed by dividing net income by the weighted-average number of shares of common stock outstanding. For purposes of calculating diluted EPS, the denominator reflects the potential dilution that could occur if stock options, unvested restricted stock, unvested restricted stock units or other contracts to issue common stock were exercised or converted into common stock, using the treasury stock method. 
+  The following table summarizes the calculation of basic and diluted EPS for years ended   December 31, 2015  ,   2014   and   2013  : 
+
+We exclude from EPS the weighted-average number of securities whose effect is anti-dilutive.  Excluded from the calculation of EPS for the years ended   December 31, 2015  ,   2014   and   2013   were   2,450  ,   1,099  , and   2,243   shares of common stock, respectively, because their effect is anti-dilutive.  
+  Income Taxes 
+  We utilize the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on the difference between the financial statement carrying amounts and tax basis of assets and liabilities using enacted tax rates in effect for years in which the temporary differences are expected to reverse.  We periodically evaluate the likelihood of the realization of deferred tax assets and reduce the carrying amount of these deferred tax assets by a valuation allowance when it is more likely than not that deferred tax assets will not be realized. 
+  We recognize the benefit of an uncertain tax position that has been taken or we expect to take on income tax returns if such tax position is more likely than not to be sustained.  The tax benefit recognized in the financial statements for a particular tax position is based on the largest benefit that is more likely than not to be realized.  The amount of unrecognized tax benefits is adjusted, as appropriate, for changes in facts and circumstances, such as significant amendments to existing tax law, new regulations or interpretations by the taxing authorities, or new information obtained during a tax examination or resolution of an examination.  We also accrued for potential interest and penalties related to unrecognized tax benefits as a component of tax expense. 
+  Comprehensive Income 
+  Comprehensive income is comprised of net income and other comprehensive income (loss). Other comprehensive income (loss) includes changes in equity that are excluded from net income, such as changes in pension liabilities, unrealized gains and losses on marketable securities, unrealized gains and losses on hedge contracts and foreign currency translation adjustments. Certain of these changes in equity are reflected net of tax. 
+  
+   F-17 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+Other Investments 
+  We invest in companies with securities that are not publicly traded and where fair value is not readily available. Other investments include an investment in the preferred stock of the non-public entity Moderna LLC.  During 2014, we purchased   $37,500   of preferred equity of Moderna LLC. We recorded our investment at cost within other assets in our condensed consolidated balance sheets.  We regularly monitor these investments to evaluate whether there has been an other-than-temporary decline in its fair value, based on the implied value of recent company financings, public market prices of comparable companies, and general market conditions. The carrying value of these investments was not impaired as of   December 31, 2015  . 
+  Reclassifications and Adjustments 
+  Certain items in the prior year's consolidated financial statements have been reclassified to conform to the current presentation. 
+    
+  New Accounting Pronouncements 
+  In May 2014, the Financial Accounting Standards Board (FASB) issued a comprehensive new standard which amends revenue recognition principles and provides a single set of criteria for revenue recognition among all industries.  The new standard provides a five step framework whereby revenue is recognized when promised goods or services are transferred to a customer at an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.  The standard also requires enhanced disclosures pertaining to revenue recognition in both interim and annual periods.  The standard is effective for interim and annual periods beginning after December 15, 2017 and allows for adoption using a full retrospective method, or a modified retrospective method.   Entities may elect to early adopt the standard for annual periods beginning after December 15, 2016. We are currently assessing the method of adoption and the expected impact the new standard has on our financial position and results of operations.    
+  In April 2015, the FASB issued a new standard simplifying the presentation of debt issuance costs. The new standard aligns the treatment of debt issuance costs with debt discounts and premiums and requires debt issuance costs be presented as a direct deduction from the carrying amount of the related debt. The standard is effective for interim and annual periods beginning after December 15, 2015, with early adoption permitted, and requires a retrospective method of adoption.  We will adopt the provisions of the new standard for the balance sheet disclosures of debt issuance costs beginning in the first quarter 2016. 
+  In September 2015, the FASB issued a new standard simplifying the accounting for measurement-period adjustments. The new standard eliminates the requirement to restate prior period financial statements for measurement period adjustments. The new standard requires that the cumulative impact of a measurement period adjustment (including the impact on prior periods) be recognized in the reporting period in which the adjustment is identified. The standard is effective for interim and annual periods beginning after December 15, 2015 and is not expected to have a material impact on our financial condition or results of operations. 
+  In November 2015, the FASB issued a new standard simplifying the classification of deferred tax assets and liabilities. The new standard requires that all deferred tax assets and liabilities, along with any related valuation allowance, be classified as noncurrent on the balance sheet. The standard is effective for interim and annual periods beginning after December 15, 2016 and allows for early adoption using a full retrospective method or a prospective method.  We have elected to early adopt the provisions of this new standard using a prospective method. As a result, all deferred taxes as of December 31, 2015 are classified as noncurrent in our consolidated balance sheet, while prior periods remain as previously reported. 
+
+2. 
+    Acquisitions 
+     On May 6, 2015, we announced that we entered into a definitive agreement to acquire Synageva BioPharma Corp. (Synageva), a publicly-held clinical-stage biotechnology company based in Lexington, Massachusetts for per share consideration of   $115   in cash and   0.6581   shares of Alexion stock. At this date, the announced purchase consideration was estimated at approximately   $8,400,000  , net of Synageva cash, based on the closing price of Alexion stock on May 5, 2015 of   $168.55  .   
+  On June 22, 2015, we completed the acquisition of Synageva, in a transaction accounted for under the acquisition method of accounting for business combinations. Under the acquisition method of accounting, the assets acquired and liabilities assumed from Synageva were recorded as of the acquisition date at their respective fair values. Synageva's results of operations are included in the consolidated financial statements from the date of acquisition.  The acquisition furthers our objective to  
+  
+   F-18 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+develop and commercialize life-transforming therapies to an increasing number of patients with devastating and rare diseases.  Synageva's lead product candidate, Kanuma, is an enzyme replacement therapy for patients suffering with LAL-D, a life-threatening, ultra-rare disease for which there are no approved treatments. 
+  We acquired all of the outstanding shares of common stock of Synageva for   $4,565,524   in cash and   26,125   shares of common stock.  At closing of the business combination on June 22, 2015, the purchase consideration was approximately   $8,860,000  , net of Synageva cash, based on Alexion's closing share price on the date of acquisition of   188.24  . We financed the cash consideration with existing cash and proceeds from our new credit facility described further in Note 8. 
+    
+  The aggregate consideration to acquire Synageva consisted of:    
+
+  The following table summarizes the estimated fair values of assets acquired and liabilities assumed: 
+
+Our accounting for this acquisition is preliminary. The fair value estimates for the assets acquired and liabilities assumed were based upon preliminary calculations, and our estimates and assumptions are subject to change as we obtain additional information for our estimates during the measurement period (up to one year from the acquisition date). The areas of these preliminary estimates that are not yet finalized relate primarily to tax-related items. During 2015, we recorded approximately   $40,744   of adjustments to the amounts initially recorded for the assets acquired and liabilities assumed as of the acquisition date.  These adjustments related primarily to the valuation of acquired inventory and the assessment of inventory-related items.   
+  We acquired   $23,880   of Kanuma inventory.  The estimated fair value of work-in-process and finished goods inventory was determined utilizing the comparative sales method, based on the expected selling price of the inventory, adjusted for incremental costs to complete the manufacturing process and for direct selling efforts, as well as for a reasonable profit allowance. The estimated fair value of raw material inventory was valued at replacement cost, which is equal to the value a market participant would pay to acquire the inventory. 
+  Intangible assets associated with IPR D projects primarily relate to Synageva's lead product candidate, Kanuma. The estimated fair value of IPR D assets of   $4,236,000   was determined using the multi-period excess earnings method, a variation of the income approach.  The multi-period excess earnings method estimates the value of an intangible asset equal to the present value of the incremental after-tax cash flows attributable to that intangible asset.  The fair value using the multi-period excess earnings method was dependent on an estimated weighted average cost of capital for Synageva of   10.0%  , which represents a rate of return that a market participant would expect for these assets.  
+  The excess of purchase price over the fair value amounts of the assets acquired and liabilities assumed represents the goodwill amount resulting from the acquisition. The goodwill, which is not tax-deductible, has been recorded as a noncurrent asset and is not amortized, but is subject to an annual review for impairment.  The goodwill represents future economic benefits arising from other assets acquired that could not be individually identified and separately recognized and expected synergies that are specific to our business and not available to market participants, including our unique ability to commercialize therapies for rare diseases, our existing relationships with specialty physicians who can identify patients with LAL-D, a global distribution network to facilitate drug delivery and other benefits that we believe will result from combining the operations of Synageva within our operations. 
+  We recorded a net deferred tax liability of   $171,638  .  This amount was primarily comprised of   $594,226   and   $8,661  , of deferred tax liabilities related to the IPR D and inventory acquired, respectively, offset by   $231,585  ,   $177,128  , and   $22,536   of  
+  
+   F-19 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+deferred tax assets related to net operating loss carryforwards (NOLs), tax credits, and other temporary differences, respectively, which we expect to utilize. 
+  For the year ended December 31, 2015  , we recorded    $96,433   of pre-tax operating losses associated with the continuing operations of Synageva in our consolidated statements of operations. 
+  Pro forma financial information (unaudited) 
+  The following unaudited pro forma information presents the combined results of Alexion and Synageva as if the acquisition of Synageva had been completed on January 1, 2014, with adjustments to give effect to pro forma events that are directly attributable to the acquisition, including the impact of acquisition financing and the related tax effects. The unaudited pro forma results do not reflect operating efficiencies or potential cost savings which may result from the consolidation of operations. Accordingly, the unaudited pro forma financial information is not necessarily indicative of the results of operations that we would have recognized had we completed the transaction on January 1, 2014.  
+
+The unaudited pro forma consolidated results include the following pro forma adjustments related to non-recurring activity: 
+             
+    Alexion and Synageva expenses of   $33,150   and   $127,290  , respectively, associated with the accelerated vesting of stock based compensation as a result of the acquisition were excluded from net income   for the year ended December 31, 2015  .  These expenses were included in net income   for the year ended December 31, 2014  ; 
+      Acquisition-Related Costs 
+  Acquisition-related costs associated with our business combinations for the years ended   December 31, 2015  ,   2014   and   2013   include the following: 
+
+The acquisition of Synageva also resulted in   $13,335   of restructuring related charges   for the year ended December 31, 2015  . See Note 17 for additional details. 
+  
+   F-20 
+
+Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+3. 
+    Property, Plant and Equipment, Net 
+     A summary of property, plant and equipment is as follows:    
+
+Included in construction-in-progress at   December 31, 2015   and   2014   was   $226,696   and   $126,566  , respectively, of costs associated with the construction of a new facility in New Haven, Connecticut and   $19,259   at   December 31, 2015   associated with the construction of a new manufacturing facility. Although we will not legally own these premises, we are deemed to be the owner of the buildings during the construction period based on applicable accounting guidance for build-to-suit leases, see Note 9, "Facility Lease Obligations" for additional information.  
+  In connection with the construction of facilities in New Haven, Connecticut, we entered into an agreement with the State of Connecticut Department of Economic and Community Development which provides for a forgivable loan and grants totaling   $26,000   and tax credits of up to   $25,000  . The program requires that we meet certain criteria in order to prevent forfeiture or repayment of the loan, grants and credits, which include (i) maintaining corporate headquarters in Connecticut for   10   years; (ii) satisfying minimum employment obligations; and (iii) minimum capital spending requirements.  In the third quarter 2015, we received   $26,000   for the forgivable loan and grants. The proceeds reduce the costs of our construction-in-process asset associated with the project.  As of   December 31, 2015  , we have not received any tax credits associated with our agreement with the State of Connecticut.  
+  Depreciation and amortization of property, plant and equipment was approximately   $43,618  ,   $34,901   and   $19,084   for the years ended   December 31, 2015  ,   2014   and   2013  , respectively. 
+  At   December 31, 2015   and   2014  , computer software costs included in property, plant and equipment were   $19,530   and   $16,292  , respectively. Depreciation and amortization expense for capitalized computer software costs was   $10,037  ,   $7,016   and   $4,503   for the years ended   December 31, 2015  ,   2014   and   2013  , respectively. 
+
+4. 
+    Intangible Assets and Goodwill 
+       
+  Intangible assets and goodwill, net of accumulated amortization, are as follows: 
+
+In the third quarter   2015   we received regulatory approval for Strensiq and Kanuma. As a result,   $587,000   and   $4,120,000   of acquired IPR D assets associated with Strensiq and Kanuma, respectively, were reclassified from acquired IPR D to purchased technology.  
+  
+   F-21 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+Amortization expense was   $116,627  ,   $11,159   and   $8,257   for the years ended   December 31, 2015  ,   2014   and   2013  , respectively.  Assuming no changes in the gross cost basis of intangible assets, the total estimated amortization expense for finite-lived intangible assets is   $320,223   for the year ending December 31,   2016   and   $320,142   for each of the years ending December 31,   2017   through December 31,   2020  . 
+  During the fourth quarter   2014  , we reviewed for impairment the value of the early stage, Phase II indefinite-lived intangible asset related to the Orphatec acquisition.  We initiated such review as part of our annual impairment testing and increased costs associated with clinical trial studies. The estimated value that can be obtained from a market participant in an arm's length transaction was determined to be de minimis as of December 31, 2014. As a result, in the fourth quarter 2014, we recognized an impairment charge of   $8,050   to write-down these assets to fair value. In addition, during the first quarter of 2014, we reviewed for impairment the value of an early stage, Phase I indefinite-lived intangible asset related to our acquisition of Taligen Therapeutics, Inc.  We initiated such review based on a reassessment of scientific findings associated with this acquired asset.  As a result, we recognized an impairment of   $3,464   for the year ended December 31, 2014 to adjust this asset to fair value, which was determined to be de minimis.  
+  During 2013, we reviewed for impairment the value of an early stage, Phase I indefinite-lived intangible asset related to the Taligen acquisition.  We initiated such review as part of our annual impairment testing and based our evaluation on preliminary scientific findings of a Phase I clinical trial which led us to reassess the development of this acquired asset.  The fair value of this IPR D asset was determined using the income approach, which used significant unobservable (Level 3) inputs.  These unobservable inputs included, among other things, risk-adjusted forecast future cash flows to be generated by this asset, contributory asset charges for other assets employed in this IPR D project and the determination of an appropriate discount rate based on a weighted average cost of capital of   21.5%   to be applied in calculating the present value of future cash flows. Based on these factors, the estimated value that can be obtained from a market participant in an arm's length transaction of   $3,464   was lower than the carrying amount.  We also reviewed for impairment the value of purchased technology associated with the Taligen acquisition and determined the estimated value to be de minimis. As a result, we recognized an impairment charge of   $33,521   to write-down these assets to fair value, which was recorded in operating expenses in our consolidated statement of operations for the year ended December 31, 2013.    
+  The following table summarizes the changes in the carrying amount of goodwill:  
+
+F-22 
+
+Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+5.  Marketable Securities 
+  The amortized cost, gross unrealized holding gains, gross unrealized holding losses and estimated fair value of available-for-sale investments by type of security at   December 31, 2015   and   December 31, 2014   were as follows: 
+
+The aggregate fair value of available-for-sale securities in an unrealized loss position as of   December 31, 2015   and   December 31, 2014   was   $293,947   and   $472,241  .  Investments that have been in a continuous unrealized loss position for more than 12 months were not material.  As of   December 31, 2015   we believe that the cost basis of our available-for-sale investments is recoverable. 
+  The fair values of available-for-sale securities by classification in the consolidated balance sheet were as follows: 
+
+The fair values of available-for-sale debt securities at   December 31, 2015  , by contractual maturity, are summarized as follows: 
+
+As of   December 31, 2015   and   December 31, 2014  , the fair value of our trading securities was   $8,817   and   $4,277  . 
+  
+   F-23 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+We utilize the specific identification method in computing realized gains and losses.  Realized gains and losses on our available-for-sale and trading securities were not material   for the year ended December 31, 2015   and   2014  .  
+
+6. 
+    Derivative Instruments and Hedging Activities 
+     We operate internationally and, in the normal course of business, are exposed to fluctuations in foreign currency exchange rates. The exposures result from portions of our revenues, as well as the related receivables, and expenses that are denominated in currencies other than the U.S. dollar, primarily the Euro and Japanese Yen. We manage our foreign currency transaction risk within specified guidelines through the use of derivatives. All of our derivative instruments are utilized for risk management purposes, and we do not use derivatives for speculative trading purposes. 
+  We enter into foreign exchange forward contracts, with durations of up to   60   months, to hedge exposures resulting from portions of our forecasted revenues, including intercompany revenues, that are denominated in currencies other than the U.S. dollar. The purpose of the hedges of revenue is to reduce the volatility of exchange rate fluctuations on our operating results and to increase the visibility of the foreign exchange impact on forecasted revenues. These hedges are designated as cash flow hedges upon contract inception. At   December 31, 2015  , we had open contracts with notional amounts totaling   $1,978,737   that qualified for hedge accounting. 
+  The impact on accumulated other comprehensive income (AOCI) and earnings from foreign exchange contracts that qualified as cash flow hedges, for the years ended   December 31, 2015   and   2014   were as follows: 
+
+Assuming no change in foreign exchange rates from market rates at   December 31, 2015  ,   $82,223   of   gains   recognized in AOCI will be reclassified to revenue over the next 12 months. 
+  We enter into foreign exchange forward contracts, with durations of approximately   30   days, designed to limit the balance sheet exposure of monetary assets and liabilities. We enter into these hedges to reduce the impact of fluctuating exchange rates on our operating results. Hedge accounting is not applied to these derivative instruments as gains and losses on these hedge transactions are designed to offset gains and losses on underlying balance sheet exposures. As of   December 31, 2015  , the notional amount of foreign exchange contracts where hedge accounting is not applied was   $556,753  . 
+  We recognized a gain of   $5,226  ,   $26,295   and   $8,306  , in other income and expense, for the years ended   December 31, 2015  ,   2014   and   2013  , respectively, associated with the foreign exchange contracts not designated as hedging instruments. These amounts were largely offset by gains or losses in monetary assets and liabilities. 
+  
+   F-24 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+The following tables summarize the fair value of outstanding derivatives at   December 31, 2015   and   2014  : 
+
+December 31, 2015 
+        
+    Asset Derivatives 
+      
+    Liability Derivatives 
+        
+    Balance Sheet Location 
+      
+    Fair Value 
+      
+    Balance Sheet Location 
+      
+    Fair Value 
+      Derivatives designated as hedging instruments: 
+
+Foreign exchange forward contracts 
+    Other current assets 
+      
+    $ 
+    85,058 
+
+Other current liabilities 
+      
+    $ 
+    1,491 
+      
+      Foreign exchange forward contracts 
+    Other non-current assets 
+      
+    66,309 
+
+Other non-current liabilities 
+      
+    4,773 
+      
+      Derivatives not designated as hedging instruments: 
+
+Foreign exchange forward contracts 
+    Other current assets 
+      
+    6,687 
+
+Other current liabilities 
+      
+    4,157 
+      
+      Total fair value of derivative instruments 
+
+$ 
+    158,054 
+
+$ 
+    10,421 
+
+December 31, 2014 
+        
+    Asset Derivatives 
+      
+    Liability Derivatives 
+        
+    Balance Sheet Location 
+      
+    Fair Value 
+      
+    Balance Sheet Location 
+      
+    Fair Value 
+      Derivatives designated as hedging instruments: 
+
+Foreign exchange forward contracts 
+    Other current assets 
+      
+    $ 
+    77,348 
+
+Other current liabilities 
+      
+    $ 
+    794 
+      
+      Foreign exchange forward contracts 
+    Other non-current assets 
+      
+    58,698 
+
+Other non-current liabilities 
+      
+    86 
+      
+      Total fair value of derivative instruments 
+
+$ 
+    136,046 
+
+$ 
+    880 
+
+The fair value of our foreign exchange forward contracts that are not designated as hedging instruments was   zero   as of   December 31, 2014  . 
+  Although we do not offset derivative assets and liabilities within our condensed consolidated balance sheets, our International Swap and Derivatives Association (ISDA) agreements provide for net settlement of transactions that are due to or from the same counterparty upon early termination of the agreement due to an event of default or other termination event.  The following tables summarize the potential effect on our consolidated balance sheets of offsetting our foreign exchange forward contracts subject to such provisions: 
+
+F-25 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+December 31, 2014 
+
+Gross Amounts Not Offset in the Consolidated Balance Sheet 
+
+Description 
+      
+    Gross Amounts of Recognized Assets/Liabilities 
+      
+    Gross Amounts Offset in the Consolidated Balance Sheet 
+      
+    Net Amounts of Assets/Liabilities Presented in the Consolidated Balance Sheet 
+      
+    Derivative Financial Instruments 
+      
+    Cash Collateral Received (Pledged) 
+      
+    Net Amount 
+      Derivative assets 
+      
+    $ 
+    136,046 
+
+$ 
+
+$ 
+    136,046 
+
+$ 
+    (880 
+    ) 
+      
+    $ 
+
+$ 
+    135,166 
+      
+      Derivative liabilities 
+      
+    (880 
+    ) 
+
+(880 
+    ) 
+      
+    880 
+
+7. 
+    Accrued Expenses  
+     Accrued expenses consist of the following:     
+
+On June 22, 2015, Alexion entered into a credit agreement (Credit Agreement) with a syndicate of banks, which provides for a   $3,500,000   term loan facility and a   $500,000   revolving credit facility maturing in five years.  Borrowings under the term loan facility are payable in quarterly installments equal to   1.25%   of the original loan amount, beginning December 31, 2015.  Final repayment of the term loan and any draw down of  revolving credit loans are due on June 22, 2020.  In addition to borrowings in which prior notice is required, the revolving credit facility includes a sublimit of   $100,000   in the form of letters of credit and borrowings on same-day notice, referred to as swingline loans, of up to   $25,000  .  Borrowings can be used for working capital requirements, acquisitions and other general corporate purposes.  With the consent of the lenders and the administrative agent, and subject to satisfaction of certain conditions, we may increase the term loan facility and/or the revolving credit facility in an amount that does not cause our consolidated net leverage ratio to exceed the maximum allowable amount.  
+  Under the Credit Agreement we may elect that the loans under the Credit Agreement bear interest at a rate per annum equal to either a base rate or a Eurodollar rate plus, in each case, an applicable margin.  The applicable margins on base rate loans range from   0.25%   to   1.00%   and the applicable margins on Eurodollar loans range from   1.25%   to   2.00%  , in each case depending upon our consolidated net leverage ratio (as calculated in accordance with the Credit Agreement). At   December 31, 2015   the interest rate on our outstanding loans under the Credit Agreement was   1.98%  .Our obligations under the credit facilities are guaranteed by certain of Alexion's foreign and domestic subsidiaries and secured by liens on certain of Alexion's and its subsidiaries' equity interests, subject to certain exceptions. 
+  The Credit Agreement requires us to comply with certain financial covenants on a quarterly basis.  Further, the Credit Agreement includes negative covenants, subject to exceptions, restricting or limiting our ability and the ability of our subsidiaries to, among other things, incur additional indebtedness, grant liens, and engage in certain investment, acquisition and disposition transactions.  The Credit Agreement also contains customary representations and warranties, affirmative covenants and events of default, including payment defaults, breach of representations and warranties, covenant defaults and cross defaults. If an event of default occurs, the interest rate would increase and the administrative agent would be entitled to take various actions, including the acceleration of amounts due under the loan.  
+  In connection with entering into the Credit Agreement, we paid   $45,492   in financing costs which are being amortized as interest expense over the life of the debt. Amortization expense associated with deferred financing costs for the year ended   December 31, 2015   was   $6,376  . Amortization expense associated with deferred financing costs for years ended December 31,   2014   and   2013   was not material. 
+  
+   F-26 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+In connection with the acquisition of Synageva in June 2015, we borrowed   $3,500,000   under the term loan facility and   $200,000   under the revolving facility, and we used our available cash for the remaining cash consideration.  At   December 31, 2015  , we had   $3,456,250   outstanding on the term loan and   zero   outstanding on the revolving facility.  At   December 31, 2015  , we had open letters of credit of   $13,784  , and our borrowing availability under the revolving facility was   $486,216  .      
+  The fair value of our long term debt, which is measured using Level 2 inputs, approximates book value. 
+  On June 22, 2015, in connection with, and simultaneously with, the execution of the Credit Agreement described above, the 2012 Credit Agreement (Prior Credit Agreement) dated February 7, 2012 was terminated, and outstanding borrowings of   $33,500   were repaid.   
+  The contractual maturities of our long-term debt obligations due subsequent to   December 31, 2015   are as follows: 
+
+9. 
+    Facility Lease Obligations 
+     New Haven Facility Lease Obligation 
+  In November 2012, we entered into a new lease agreement for office and laboratory space to be constructed in New Haven, Connecticut. The term of the new lease commenced in 2015 and will expire in 2030, with a renewal option of   10   years. Although we will not legally own the premises, we are deemed to be the owner of the building during the construction period based on applicable accounting guidance for build-to-suit leases because of the substantial amount of tenant improvements we directly funded during the construction period. Due to the substantial tenant improvements directly funded during construction, we will continue to be deemed the owner of the building once construction is complete.  Accordingly, the landlord's costs of constructing the facility during construction are required to be capitalized, as a non-cash transaction, offset by a corresponding facility lease obligation in our consolidated balance sheet. 
+  Construction of the new facility began in June 2013 and was completed in January 2016. Monthly lease payments began in 2015. The imputed interest rate on this facility lease obligation is approximately   9%  .   For the year ended December 31, 2015  , we recognized   $4,862   of interest expense. As of   December 31, 2015   and 2014, our facility lease obligation was   $132,866   and   $107,099  , respectively. 
+  Aggregate future minimum non-cancellable commitments under the New Haven facility lease obligation, as of   December 31, 2015   are as follows: 
+
+Lonza Facility Lease Obligation 
+  During the third quarter 2015, we entered into a new agreement with Lonza Group AG and its affiliates (Lonza) whereby Lonza will construct a new manufacturing facility dedicated to Alexion at its existing Portsmouth, New Hampshire facility.  The agreement requires us to make certain payments during the construction of the new manufacturing facility and annual payments for ten years thereafter.  As a result of our contractual right to full capacity of the new manufacturing facility, a portion of the payments under the agreement are considered to be lease payments and a portion as payment for the supply of inventory.  Although we will not legally own the premises, we are deemed to be the owner of the manufacturing facility during the construction period based on applicable accounting guidance for build-to-suit leases due to our involvement during the  
+  
+   F-27 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+construction period. As of   December 31, 2015  , we recorded a construction-in-process asset of   $19,259   and an offsetting facility lease obligation of   $15,229   associated with the manufacturing facility. 
+  Payments made to Lonza under the agreement are allocated to the purchases of inventory and the repayment of the facility lease obligation on a relative fair value basis.  In 2015, we made   $31,000   of payments to Lonza under this agreement, of which   $4,030   was applied against the outstanding facility lease obligation and   $26,970   was recognized as a prepayment of inventory. See Note 10 for minimum fixed payments due under Lonza agreements. 
+
+10. 
+    Commitments and Contingencies 
+     Commitments 
+  License Agreements 
+  We have entered into a number of license agreements since our inception in order to advance and obtain technologies and services related to our business.  License agreements generally provide for us to pay an initial fee followed by milestone and royalty payments if certain conditions are met. Certain agreements call for future payments upon the attainment of agreed upon development and/or commercial milestones. These agreements may also require minimum royalty payments based on sales of products developed from the applicable technologies, if any. 
+  In March   2015  , we entered into an agreement with a third party that allowed us to exercise an option with another third party for exclusive, worldwide, perpetual license rights to a specialized technology and other intellectual property, and we simultaneously exercised the option. Due to the early stage of these assets, we recorded expense for the payments of   $47,000   during the first quarter   2015  .  
+  In March   2015  , we entered into a collaboration agreement with a third party that allows us to identify and optimize drug candidates. Alexion will have the exclusive worldwide rights to develop and commercialize products arising from the collaboration.  Due to the early stage of the assets we are licensing in connection with the collaboration, we recorded expense for the upfront payment of   $15,000   during the first quarter   2015  .  In addition, we could be required to pay up to an additional   $250,750   if certain development, regulatory, and commercial milestones are met over time, as well as royalties on commercial sales. 
+  In January   2015  , we entered into a license agreement with a third party to obtain an exclusive research, development and commercial license for specific therapeutic molecules.  Due to the early stage of these assets, we recorded expense for the upfront payment of   $50,000   during the first quarter   2015  .  In addition, we could be required to pay up to an additional   $822,000   if certain development, regulatory, and commercial milestones are met over time, as well as royalties on commercial sales.  
+  In December 2014, we entered into an agreement with X-Chem Pharmaceuticals (X-Chem) that allows us to identify novel drug candidates from X-Chem's proprietary drug discovery engine. Alexion will have the exclusive worldwide rights to develop and commercialize products arising from the collaboration in up to   three   program targets. Due to the early stage of these assets, we recorded expense for an upfront payment of   $8,000  . In addition, for each program target, for a maximum of   three   targets,  we could be required to make additional payments upon the achievement of specified research, development and regulatory milestones up to   $75,000  , as well as royalties on commercial sales. 
+  In January 2014, we entered into an agreement with Moderna Therapeutics, Inc. (Moderna) that allows us to purchase   ten   product options to develop and commercialize treatments for rare diseases with Moderna's messenger RNA (mRNA) therapeutics platform.  Alexion will lead the discovery, development and commercialization of the treatments produced through this broad, long-term strategic agreement, while Moderna will retain responsibility for the design and manufacture of the messenger RNA against selected targets.  Due to the early stage of these assets, we recorded expense for an upfront payment of   $100,000  .  We will also be responsible for funding research activities under the program.  In addition, for each drug target, up to a maximum of   ten   targets, we could be required to make an option exercise payment of   $15,000   and to pay up to an additional   $120,000   with respect to a rare disease product and   $400,000   with respect to a non-rare disease product in development and sales milestones if the specific milestones are met over time as well as royalties on commercial sales. 
+  In July 2013, we entered into a license and collaboration agreement with Ensemble Therapeutics Corporation for the identification, development and commercialization of therapeutic candidates based on specific drug targets.  Due to the early stage of these assets, we recorded expense for an upfront payment of   $11,500   during the third quarter of 2013.  We will also be responsible for funding research activities under the program.  In addition, for each drug target, up to a maximum of   four   targets, we could be required to pay up to an additional   $90,750   in development milestones as the specific milestones are met over time.  The agreement also provides for royalty payments on commercial sales of each product developed under the agreement. 
+  
+   F-28 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+In January 2013, we entered into a license agreement for a technology, which provides an exclusive research license and an option for an exclusive commercial license for specific targets and products to be developed.   Due to the early stage of this asset, we recorded expense for an upfront payment of   $3,000   during the first quarter of 2013.  We will also be required to pay annual maintenance fees during the term of the arrangement.  In addition, for each target up to a maximum of   six   targets we develop, we could be required to pay up to an additional   $70,500   in license fees, development and sales milestones as the specific milestones are met over time. 
+  Manufacturing Agreements 
+  Manufacturing development agreements provide for us to fund manufacturing development to support our clinical and commercial product needs.  
+  We rely on Lonza, a third party manufacturer, to produce a portion of commercial and clinical quantities of Soliris and Strensiq.  We have various agreements with Lonza with remaining total non-cancellable future commitments of approximately   $1,156,980  .  If we terminate certain supply agreements with Lonza without cause, we will be required to pay for product scheduled for manufacture under our arrangement.  Under an existing arrangement with Lonza, we also pay Lonza a royalty on sales of Soliris manufactured at Alexion Rhode Island Manufacturing Facility (ARIMF) and a payment with respect to sales of Soliris manufactured at Lonza facilities.  
+  In addition to Lonza, we have non-cancellable commitments of   $36,400   with other third party manufacturers.   
+  Contingent Liabilities 
+  We are currently involved in various claims, lawsuits and legal proceedings. On a quarterly basis, we review the status of each significant matter and assess its potential financial exposure. If the potential loss from any claim, asserted or unasserted, or legal proceeding is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss. Because of uncertainties related to claims and litigation, accruals are based on our best estimates based on available information. On a periodic basis, as additional information becomes available, or based on specific events such as the outcome of litigation or settlement of claims, we may reassess the potential liability related to these matters and may revise these estimates, which could result in a material adverse adjustment to our operating results. 
+  We have in the past received, and may in the future receive, notices from third parties claiming that their patents may be infringed by the development, manufacture or sale of Soliris.  Under the guidance of ASC 450,   Contingencies  , we record a royalty accrual based on our best estimate of the fair value percent of net sales of Soliris that we could be required to pay the owners of patents for technology used in the manufacture and sale of Soliris. A costly license, or inability to obtain a necessary license, could have a material adverse effect on our financial results.  
+  In May 2015, we received a subpoena in connection with an investigation by the Enforcement Division of the U.S. Securities and Exchange Commission (SEC) requesting information related to our grant-making activities and compliance with the Foreign Corrupt Practices Act (FCPA) in various countries.  The SEC also seeks information related to Alexion s recalls of specific lots of Soliris and related securities disclosures. In addition, in October 2015, Alexion received a request from the U.S. Department of Justice for the voluntary production of documents and other information pertaining to Alexion's compliance with the FCPA.  Alexion is cooperating with these investigations.  At this time, Alexion is unable to predict the duration, scope or outcome of these investigations.  Given the ongoing nature of these investigations, management does not currently believe a loss related to these matters is probable or that the potential magnitude of such loss or range of loss, if any, can be reasonably estimated. 
+  In     March 2013, we received a Warning Letter (Warning Letter) from the U.S. Food and Drug Administration (FDA) regarding compliance with current Good Manufacturing Practices (cGMP) at ARIMF.  The Warning Letter followed receipt of a Form 483 Inspectional Observations by the FDA in connection with an FDA inspection that concluded in August 2012.   The observations relate to commercial and clinical manufacture of Soliris at ARIMF.   We responded to the Warning Letter in a letter to the FDA dated in April 2013.  As previously announced, the FDA issued Form 483s in August 2014 and August 2015 relating to observations at ARIMF. The inspectional observations from the August 2015 letter have since been closed out by the FDA.   The observations are inspectional and do not represent a final FDA determination of compliance. We continue to manufacture products, including Soliris, in this facility. While the resolution of the issues raised in the Warning Letter is difficult to predict, we do not currently believe a loss related to this matter is probable or that the potential magnitude of such loss or range of loss, if any, can be reasonably estimated. 
+  Unrelated to the Warning Letter, we initiated voluntary recalls and replacements of certain lots of Soliris in 2013 and 2014 due to the presence of visible particles detected in a limited number of vials in these lots.  These recalls did not interrupt the  
+  
+   F-29 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+supply of Soliris to patients. Following investigation, we believe that we have identified the filling process step at our third party fill/finish provider that resulted in the presence of the visible particles, and we have implemented the changes necessary to modify the process step.  During the fourth quarter of 2013, we recorded expense of   $14,277   in cost of sales resulting from the expected disposal of inventory in 2014.  Expenses associated with recalls were not material in 2014. 
+  Operating Leases 
+  As of   December 31, 2015  , we have operating leases for office and laboratory space in Cheshire, Connecticut, regional executive and sales offices in Zurich, Switzerland, as well as offices in other U.S.and foreign locations to support our operations as a global organization. 
+  Aggregate lease expense was   $27,839  ,   $22,738   and   $19,094   for the years ended   December 31, 2015  ,   2014   and   2013  , respectively. Lease expense is being recorded on a straight-line basis over the applicable lease terms. 
+  Aggregate future minimum annual rental payments, for the next five years and thereafter under non-cancellable operating leases (including facilities and equipment) as of   December 31, 2015   are: 
+
+The income tax provision is based on income before income taxes as follows: 
+
+During the fourth quarter of 2013, in connection with the centralization of our global supply chain and technical operations in Ireland, our U.S. parent company became a direct partner in a captive foreign partnership. The partnership income, which is derived in foreign jurisdictions, is classified as  non-U.S. income  for purposes of financial reporting. Substantially all non-U.S. income for the years ended   December 31, 2015   and    2014   relates to income from our captive foreign partnership. 
+  
+   F-30 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+The components of the income tax provision are as follows: 
+
+We continue to maintain a valuation allowance against certain deferred tax assets where realization is not certain.  
+  We continue to pay cash taxes in U.S. Federal, various U.S. state, and foreign jurisdictions where we have operations and have utilized all of our net operating losses. 
+  At   December 31, 2015  , we have federal and state net operating loss carryforwards of   $423,665   and   $13,571  , respectively.  Our NOL s expire between 2018 and 2035. We also have federal and state income tax credit carryforwards of   $463,796   and   $13,380  , respectively. These income tax credits expire between 2016 and 2035. Of these U.S. federal and state income tax credit carryforwards,   $262,216   and   $3,501  , respectively, are attributable to excess tax benefits from the exercise of non-qualified stock options and vestings of restricted stock. 
+  Certain stock option exercises and restricted stock vestings resulted in tax deductions in excess of previously recorded benefits based on the value at the time of grant. Although these additional tax benefits or  windfalls  are reflected in U.S. state net operating loss carryforwards and U.S. federal and state income tax credit carryforwards, pursuant to authoritative guidance, the additional tax benefit associated with the windfall is not recognized until the deduction reduces taxes payable. Accordingly, since the tax benefit does not reduce our current taxes payable due to net operating loss carryforwards and credit carryforwards, these  windfall  tax benefits are not reflected in our net operating losses and credit carryforwards in deferred tax assets for all periods presented. 
+  We were granted an incentive tax holiday in the Canton of Vaud in Switzerland effective January 1, 2010. This tax holiday had exempted us from most local corporate income taxes in Switzerland through the end of 2014 and was renewable for an additional 5 years with final expiration in 2019.  During 2013, we undertook a restructuring which significantly changed our business model in Switzerland and we converted from a principal company to a distribution and service company.  As a result of the significant change to our business activities in Switzerland, the Canton of Vaud in Switzerland provided final notification to us in December 2014 that our structure no longer complied with the conditions of the incentive tax holiday.  In the fourth quarter of 2014, we made a payment of   $22,817   in satisfaction of the clawback of previously exempted cantonal income taxes for tax years 2010 through 2013.  This amount was fully accrued on our balance sheet as of December 31, 2013.  Prospectively, our federal and cantonal tax will be based on the current enacted tax rates in Switzerland. 
+  The Tax Reform Act of 1986 contains certain provisions that can limit a taxpayer's ability to utilize net operating loss and tax credit carryforwards in any given year resulting from cumulative changes in ownership interests in excess of   50%   over a three-year period. We have determined that these limiting provisions were triggered during a prior year. In connection with our acquisition of Synageva, the change in ownership triggered a new limitation.  We are currently in the process of determining the impact of this limitation to Synageva tax attributes, including net operating losses. We do not expect any reduction to the amounts recorded for these attributes as of the date of acquisition.  It is reasonably possible, however, based on our ongoing  assessment, that the amounts recorded for these attributes will increase in the foreseeable future.   
+  The provision (benefit) for income taxes differs from the U.S. federal statutory tax rate. The reconciliation of the statutory U.S. federal income tax rate to our effective income tax rate is as follows: 
+  
+   F-31 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+During the fourth quarter of 2013, in connection with the centralization of our global supply chain and technical operations in Ireland, our U.S. parent company became a direct partner in a captive foreign partnership. Starting in 2014, a significant portion of the non-U.S. income flows through the partnership and the portion of the partnership income that is attributable to our U.S. parent company s ownership percentage is taxed in the U.S. The remainder of the non-U.S. income is taxed based on the tax rate enacted in the local foreign jurisdictions in which the income is earned. 
+  We have operations in many foreign tax jurisdictions, which impose income taxes at different rates than the United States. The impact of these rate differences is included in the foreign income tax rate differential that we disclose in our reconciliation of the U.S. statutory income tax rate to our effective tax rate.  Additionally, included in the foreign income tax rate differential line item is the impact of ASC 740-10-25-3(e) attributable to intercompany transactions in the amount of approximately   $24,000   and   $23,000   of tax expense for   2015   and   2014  , respectively and   $45,000   tax benefit for   2013  . 
+  As a U.S.-based multinational corporation, we benefit from U.S. income tax credits for taxes assessed in foreign jurisdictions. Our foreign income tax credit for 2013 included approximately   $157,000   of credits generated from the repatriation of the majority of earnings and profits of our non-U.S. subsidiaries via a one-time dividend. 
+  Our 2013 other non-deductible and permanent differences includes expense relating to an intercompany transaction of approximately   $46,500  . The 2014 rate reconciliation does not include a similar transaction. 
+  
+   F-32 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+Provisions have been made for deferred taxes based on the differences between the basis of the assets and liabilities for financial statement purposes and the basis of the assets and liabilities for tax purposes using currently enacted tax rates and regulations that will be in effect when the differences are expected to be recovered or settled. The components of the deferred tax assets and liabilities, which exclude "windfall" tax benefits, are as follows:    
+
+The decrease in our research and development deferred tax assets is primarily attributable to our election to deduct, rather than capitalize research and development expenses pursuant to Internal Revenue Code section 59(e) on our 2014 federal income tax return. The increase in our investment in foreign partnership deferred tax liability is due to the contribution of certain assets acquired in the Synageva acquisition into our captive foreign partnership.  The increase in our depreciable assets deferred tax liability is primarily attributable to the construction of our corporate headquarters in New Haven, Connecticut.  This increase is substantially offset by the increase in our accruals and allowances deferred tax asset, which is primarily attributable to the lease liability for our corporate headquarters in New Haven, Connecticut.  The increase in our net operating losses and income tax credit deferred tax assets is primarily attributed to the acquisition of Synageva.  The decrease in our accrued royalties deferred tax asset is primarily attributable to realization of tax deductions by our technical operations center in Ireland for previously accrued but unpaid royalties.  The increase to our intangible assets deferred tax liability is attributable to intellectual property acquired in the Synageva acquisition. 
+  We follow authoritative guidance regarding accounting for uncertainty in income taxes, which prescribes a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. The interpretation also provides guidance on derecognition, classification, interest and penalties, accounting in interim periods, disclosures, and transition. 
+  
+   F-33 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+The beginning and ending amounts of unrecognized tax benefits reconciles as follows:    
+
+The total amount of accrued interest and penalties was not significant as of   December 31, 2015  .  The total amount of tax benefit recorded during   2015   which related to unrecognized tax benefits was   $82,717  .  Expense recognized during   2014   and   2013   was   $17,012   and   $7,897  , respectively.  Unless related to excess tax benefits from stock options, all of our unrecognized tax benefits, if recognized, would have a favorable impact on the effective tax rate. 
+  We expect   none   of our total unrecognized tax benefits to reverse within the next twelve months.  We file federal and state income tax returns in the U.S. and in numerous foreign jurisdictions. The U.S. and foreign jurisdictions have statute of limitations ranging from   3   to   5   years. However, the limitation period could be extended due to our NOL carryforward position in a number of our jurisdictions. The tax authorities generally have the ability to review income tax returns for periods where the limitation period has previously expired and can subsequently adjust the NOL carryforward or tax credit amounts. Accordingly, we do not expect to reverse any significant portion of the unrecognized tax benefits. 
+  The Internal Revenue Service (IRS) commenced an examination of our U.S. income tax return for 2013 during the third quarter of 2015 that is anticipated to be completed within the next twelve months. As a result of this audit, it is possible that the amount of the liability for unrecognized tax benefits could change over the next twelve months. The impact to our unrecognized benefits is difficult to determine based on the preliminary stage of the audit. As of December 31, 2015, we have not been notified of any significant proposed adjustments by the IRS. 
+  We do not record U.S. tax expense on the undistributed earnings of our controlled foreign corporation (CFC) subsidiaries. We intend to reinvest these earnings permanently outside the U.S. or repatriate the earnings only when it is tax efficient to do so. Accordingly, we believe that U.S. tax on any earnings that might be repatriated would be substantially offset by other tax attributes.  At   December 31, 2015  , the cumulative amount of these earnings was approximately   $1,012,000  .   
+  During the fourth quarter of 2013, in connection with the centralization of our global supply chain and technical operations in Ireland, our U.S. parent company became a direct partner in a captive foreign partnership.  To the extent that our U.S. parent company receives its allocation of partnership income, the amounts will be taxable in the U.S. each year and therefore the permanent reinvestment assertion will no longer apply to such earnings. The recognition of deferred tax liabilities associated with the aforementioned partnership resulted in tax expense of approximately   $95,800   during the fourth quarter of 2013. We also distributed the majority of earnings and profits of our non U.S. subsidiaries via a dividend in the amount of   $152,000   during the fourth quarter of 2013. This dividend did not give rise to any U.S. cash tax liability. This resulted in repatriation of a significant portion of our remitted earnings at   December 31, 2013  . 
+  We do not have any present or anticipated future need for cash held by our CFCs, as cash generated in the U.S., as well as borrowings, are expected to be sufficient to meet U.S. liquidity needs for the foreseeable future. 
+  It is not practicable to estimate the amount of additional taxes which might be payable on our CFCs  undistributed earnings due to a variety of factors, including the timing, extent and nature of any repatriation.  While our expectation is that all foreign undistributed earnings, other than our U.S. parent company's share of the foreign partnership profits, are permanently invested, there could be certain unforeseen future events that could impact our permanent reinvestment assertion.  Such events include acquisitions, corporate restructuring or tax law changes not currently contemplated. 
+
+12. 
+    Share-based Compensation 
+     Amended and Restated 2004 Incentive Plan 
+  The 2004 Plan was approved by our stockholders in May 2013 and is a broad based plan that provides for the grant of equity awards including restricted stock and restricted stock units (collectively referred to as Restricted Stock), incentive and non-qualified stock options, and other stock-related awards to our directors, officers, key employees and consultants, for up to a  
+  
+   F-34 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+maximum of   47,874   shares. Stock options granted under the 2004 Plan have a maximum contractual term of   ten   years from the date of grant, have an exercise price not less than the fair value of the stock on the grant date and generally vest over   four   years.  Restricted stock awards also generally vest over   four   years, with performance-based restricted stock units having a   three  -year vesting period. 
+  Stock Options 
+  A summary of the status of our stock option plans at   December 31, 2015  , and changes during the year then ended is presented in the table and narrative below:    
+
+Total intrinsic value of stock options exercised during the years ended   December 31, 2015  ,   2014   and   2013   was   $168,287  ,   $459,940   and   $204,470  , respectively. We primarily utilize newly issued shares to satisfy the exercise of stock options. The total fair value of options vested during the years ended   December 31, 2015  ,   2014   and   2013   was   $50,964  ,   $35,859   and   $32,249  , respectively. 
+  The fair value of options at the date of grant was estimated using the Black-Scholes model with the following ranges of weighted average assumptions:    
+
+The expected stock price volatility rates are based on historical volatilities of our common stock. The risk-free interest rates are based on the U.S. Treasury yield curve in effect at the time of grant for periods corresponding with the expected life of the option. The average expected life represents the weighted average period of time that options granted are expected to be outstanding. We have evaluated three distinct employee groups in determining the expected life assumptions, and we estimate the expected life of stock options based on historical experience of exercises, cancellations and forfeitures of our stock options. 
+  The weighted average fair value at the date of grant for options granted during the years ended   December 31, 2015  ,   2014   and   2013   was   $53.03  ,   $51.22   and   $23.99   per option, respectively. 
+  
+   F-35 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+Restricted Stock 
+  A summary of the status of our nonvested Restricted Stock and changes during the period then ended is as follows:    
+
+Restricted stock awards granted in   2015   include   460   restricted stock units granted to senior management, which have both non-market performance-based and service-based vesting conditions.  The weighted average grant date fair value of these awards granted in   2015   was   $191.01  .  The number of non-market performance-based restricted stock units granted represents the number of shares earned during the performance period, which ended on   December 31, 2015  , based on specific pre-established performance goals.  These awards will vest over a three year period, subject to the employees' continued employment with the Company. 
+  The fair value of restricted stock at the date of grant is based on the fair market value of the shares of common stock underlying the awards on the date of grant.  The weighted average fair value at the date of grant for restricted stock awards granted during the years ended   December 31, 2015  ,   2014   and   2013  , including restricted stock units with non-market performance conditions, was   $184.09  ,   $174.22   and   $95.06   per share, respectively.  The total weighted average grant date fair value of restricted stock vested during the years ended   December 31, 2015  ,   2014   and   2013   was   $135,337  ,   $41,304   and   $26,679  , respectively. 
+  During   2015   and   2014  , we granted market-based performance awards to senior management which provides the recipient the right to receive restricted stock at the end of a three year performance period, based on pre-established market-based performance goals.  We used payout simulation models to estimate the grant date fair value of the awards and recognized expense of   $526   and    $301   during the years ended   December 31, 2015   and    2014  , respectively. 
+  Employee Stock Purchase Plan 
+  During 2015, the Company adopted the ESPP under which employees can purchase shares of our common stock based on a percentage of their compensation subject to certain limits. The purchase price per share is equal to the lower of   85%   of the fair market value of our common stock on the offering date or the purchase date with a six month look-back feature.  Under the ESPP, up to   1,000   shares of common stock may be issued to eligible employees who elect to participate in the purchase plan. Shares issued and compensation expense under the ESPP   for the year ended December 31, 2015   were not material. 
+  Share-Based Compensation Expense 
+  The following table summarizes the share-based compensation expense in the consolidated statements of operations:      
+
+  Share-based compensation expense capitalized to inventory during the years ended   December 31, 2015  ,   2014   and   2013   was   $7,809  ,   $10,211  , and   $3,978  , respectively. 
+  
+   F-36 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+As of   December 31, 2015  , there was   $343,301   of total unrecognized share-based compensation expense related to non-vested share-based compensation arrangements granted under the 2004 Plan. The expense is expected to be recognized over a weighted-average period of   2.45   years. 
+
+13. 
+    Stockholders' Equity 
+     Preferred Stock 
+  In February 1997, our Board of Directors declared a dividend of   one   preferred stock purchase right for each outstanding share of common stock (including all future issuances of common stock). Under certain conditions, each right could be exercised to purchase   one hundredth   of a share of a new series of preferred stock , subject to adjustment.The rights, which did not have voting rights, expired on March 23, 2015. 
+  Common Stock 
+  In June 2015, in connection with our acquisition of Synageva, we issued   26,125   shares of common stock to former Synageva stockholders and employees.  The fair value of the stock was   $4,913,754  , and we incurred   $4,053   of issuance costs. 
+  Share Repurchases 
+  In November 2012, our Board of Directors authorized a share repurchase program.  The repurchase program does not have an expiration date, and we are not obligated to acquire a particular number of shares.  The repurchase program may be discontinued at any time at the Company's discretion. In May 2015, our Board of Directors increased the authorization of shares up to   $1,000,000   for future purchases under the repurchase program, which superseded all prior repurchase programs.  Under the program, we repurchased   1,963   and   1,903   shares of our common stock at a cost of   $327,699   and   $302,599   during the years ended   December 31, 2015   and   2014  , respectively. The Company did not repurchase any shares during the pendency of the Synageva acquisition in the second quarter of 2015 and the Company began repurchasing shares again in the third quarter 2015.  Subsequent to   December 31, 2015  , we repurchased   648   shares of our common stock under our repurchase program at a cost of   $98,206  .  As of February 8, 2016, there is a total of   $657,658   remaining for repurchases under the repurchase program. 
+
+F-37 
+
+Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+14. 
+    Other Comprehensive Income and Accumulated Other Comprehensive Income 
+     The following table summarizes the changes in AOCI, by component, for the years ended   December 31, 2015  ,   2014   and   2013  : 
+
+F-38 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+The table below provides details regarding significant reclassifications from AOCI during the years ended   December 31, 2015  ,   2014   and   2013  :    
+
+(a)  This AOCI component is included in the computation of net periodic pension benefit cost (see Note 16 for additional details). 
+
+15. 
+    Fair Value Measurement 
+     Authoritative guidance establishes a valuation hierarchy for disclosure of the inputs to the valuation used to measure fair value. This hierarchy prioritizes the inputs into three broad levels as follows. Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities. Level 2 inputs are quoted prices for similar assets and liabilities in active markets or inputs that are observable for the asset or liability, either directly or indirectly through market corroboration, for substantially the full term of the financial instrument. Level 3 inputs are unobservable inputs based on our own assumptions used to measure assets and liabilities at fair value. 
+  
+   F-39 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+The following tables present information about our assets and liabilities that are measured at fair value on a recurring basis as of   December 31, 2015   and   2014  , and indicate the fair value hierarchy of the valuation techniques we utilized to determine such fair value.    
+
+F-40 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+There were no securities transferred between Level 1, 2 and 3   for the year ended December 31, 2015  . 
+    
+  Valuation Techniques 
+  We classify mutual fund investments, which are valued based on quoted market prices in active markets with no valuation adjustment, as Level 1 assets within the fair value hierarchy.  
+  Cash equivalents and marketable securities classified as Level 2 within the valuation hierarchy consist of institutional money market funds, commercial paper, municipal bonds, U.S. and foreign government-related debt, corporate debt securities and certificates of deposit.  We estimate the fair values of these marketable securities by taking into consideration valuations obtained from third-party pricing sources.  These pricing sources utilize industry standard valuation models, including both income and market-based approaches, for which all significant inputs are observable, either directly or indirectly, to estimate fair value. These inputs include market pricing based on real-time trade data for the same or similar securities, issuer credit spreads, benchmark yields, and other observable inputs. We validate the prices provided by our third-party pricing sources by  
+  
+   F-41 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+understanding the models used, obtaining market values from other pricing sources and analyzing pricing data in certain instances. 
+  Our derivative assets and liabilities include foreign exchange derivatives that are measured at fair value using observable market inputs such as forward rates, interest rates, our own credit risk as well as an evaluation of our counterparties  credit risks. Based on these inputs, the derivative assets and liabilities are classified within Level 2 of the valuation hierarchy.   
+  Contingent consideration liabilities related to acquisitions are classified as Level 3 within the valuation hierarchy and are valued based on various estimates, including probability of success, discount rates and amount of time until the conditions of the milestone payments are met. 
+  As of   December 31, 2015  , there has not been any impact to the fair value of our derivative liabilities due to our own credit risk. Similarly, there has not been any significant adverse impact to our derivative assets based on our evaluation of our counterparties  credit risks. 
+    
+  Contingent Consideration 
+  In connection with prior acquisitions, we may be required to pay future consideration that is contingent upon the achievement of specified development, regulatory approval or sales-based milestone events.  We determine the fair value of these obligations on the acquisition date using various estimates that are not observable in the market and represent a Level 3 measurement within the fair value hierarchy.  The resulting probability-weighted cash flows were discounted using a cost of debt ranging from   4.8%  to   5.5%   for developmental milestones and a weighted average cost of capital ranging from   10%   to   21%   for sales-based milestones. 
+  Each reporting period, we adjust the contingent consideration to fair value with changes in fair value recognized in operating earnings. Changes in fair values reflect new information about the probability and timing of meeting the conditions of the milestone payments. In the absence of new information, changes in fair value will only reflect the interest component of contingent consideration related to the passage of time as development work progresses towards the achievement of the milestones.  
+  Estimated future contingent milestone payments related to prior business combinations range from   zero   if no milestone events are achieved, to a maximum of   $826,000   if all development, regulatory and sales-based milestones are reached.  As of   December 31, 2015  , the fair value of acquisition-related contingent consideration was   $177,228  .   The following table represents a roll-forward of our acquisition-related contingent consideration: 
+
+16. 
+    Employee Benefit Plans 
+     Deferred Compensation Plan 
+  We have a nonqualified deferred compensation plan which allows certain highly-compensated employees to make voluntary deferrals of up to   80%   of their base salary and incentive bonuses. The plan is designed to work in conjunction with the 401(k) plan and provides for a total combined employer match of up to   6%   of an employee's eligible earnings, up to the IRS annual 401(k) contribution limitations. Deferred compensation amounts under this plan as of December 31, 2015 and 2014 were   $8,817   and   $4,277  , respectively, and are included in other liabilities within the consolidated balance sheets.  Employer matching contributions under the plan for the years ended December 31, 2015, 2014 and 2013 were not material. 
+  Defined Contribution Plan 
+  We have one qualified 401(k) plan covering all eligible employees. Under the plan, employees may contribute up to the statutory allowable amount for any calendar year. We make matching contributions equal to   $1.00   for each dollar contributed up to the first   6%   of an individual's base salary and incentive cash bonus up to the annual IRS maximum. For the years ended   December 31, 2015  ,   2014   and   2013  , we recorded matching contributions of approximately   $11,478  ,   $8,782  , and   $6,360   respectively. 
+  
+   F-42 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+Defined Benefit Plans 
+  We maintain defined benefit plans for employees in certain countries outside the United States, including retirement benefit plans required by applicable local law. The plans are valued by independent actuaries using the projected unit credit method. The liabilities correspond to the projected benefit obligations of which the discounted net present value is calculated based on years of employment, expected salary increases, and pension adjustments. 
+  In   2015   we recorded the impacts of a curtailment related to our Swiss plan as a result of a reduction of employees due to the relocation of our European headquarters as discussed in Note 17, "Restructuring". 
+  The following table sets forth the funded status and the amounts recognized for defined benefit plans, including the impacts of the   2015   curtailment: 
+
+The Company measures the fair value of plan assets based on the prices that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.  The following table presents total plan assets by investment category as of   December 31, 2015   and the classification of each investment category within the fair value hierarchy with respect to the inputs used to measure fair value: 
+  
+   F-43 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+All plan asset investments are classified as Level 2 within the fair value hierarchy and are valued utilizing observable prices for similar instruments and quoted prices for identical or similar instruments in markets that are not active.  Plan assets are managed by an independent investment fiduciary and are primarily invested in debt and equity securities and real estate funds in order to maximize the overall return from investment income considering asset allocation limits as determined by pension law.  
+  At   December 31, 2015  , we have recorded a liability of   $23,473   in other non-current liabilities and a charge to accumulated other comprehensive income, net of tax, of   $9,589   related to an additional minimum liability. 
+  The following table provides the weighted average assumptions used to calculate net periodic benefit cost and the actuarial present value of projected benefit obligations: 
+
+The discount rates used to determine the net periodic benefit cost and projected benefit obligation represent the yield on high quality AA-rated corporate bonds for periods that match the duration of the benefit obligations. 
+  The expected long-term rate of return on plan assets represents a weighted average of expected returns per asset category. The rate of return considers historical and estimated future risk free rates of return as well as risk premiums for the relevant investment categories.    
+  The components of net periodic benefit cost are as follows:    
+
+F-44 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+Other changes in plan assets and benefit obligations recognized in AOCI are as follows:    
+
+The amount in accumulated other comprehensive income as of   December 31, 2015   that is expected to be recognized as a component of the net periodic pension costs in   2016   is   $853  . 
+  We estimate that we will pay employer contributions of approximately   $3,102   in   2016  . The expected future cash flows to be paid in respect of the pension plans as of   December 31, 2015   were as follows:    
+
+In connection with the completion of our new corporate headquarters located in New Haven, Connecticut, we entered into a lease termination agreement for the previous corporate headquarters located in Cheshire, Connecticut during December   2015  . As a result of this action, we recorded restructuring expense of   $11,236   for contract termination costs in the fourth quarter of 2015.  
+  In conjunction with the acquisition and integration of Synageva in 2015, we recorded restructuring expense of   $13,335   primarily related to employee costs during 2015. We expect to pay all remaining accrued amounts related to this restructuring activity by the end of 2016. 
+  In the fourth quarter 2014, we announced plans to move the European headquarters from Lausanne to Zurich, Switzerland. The relocation of the European headquarters supports our operational needs based on growth in the European region. As a result of this action, we recorded restructuring expenses of   $15,365   related to employee costs in the fourth quarter of 2014. During the year ended   December 31, 2015  , we incurred additional restructuring costs of   $17,598  .  We expect to pay all remaining accrued amounts related to this restructuring activity by the end of 2016. 
+  
+   F-45 
+
+    Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+The following table presents a reconciliation of the restructuring reserve recorded within accrued expenses on the Company's condensed consolidated balance sheet for the year ended   December 31, 2015   and   December 31, 2014  , respectively: 
+
+18. 
+    Segment Information 
+     We operate as one business segment, which is the innovation, development and commercialization of life-transforming therapeutic products.  Therefore, results of our operations are reported on a consolidated basis for purposes of segment reporting, consistent with our management reporting.  Disclosures about net product sales and long-lived assets by geographic area are presented below. 
+  Net product sales 
+  Net product sales by product are as follows: 
+
+Geographical information 
+
+(2) 
+    Long-lived assets consist of property, plant and equipment. 
+
+F-46 
+
+Alexion Pharmaceuticals, Inc.  
+  Notes to Consolidated Financial Statements 
+  For the Years ended December 31, 2015, 2014 and 2013 
+  (amounts in thousands except per share amounts) 
+
+19. 
+    Quarterly Financial Information (unaudited) 
+     The following condensed quarterly financial information is for the years ended   December 31, 2015   and   2014  : 
+
+(1)    Included within cost of sales for the first quarter 2015 are costs   $24,352   associated with the write off a portion of a single manufacturing campaign at a third party manufacturer for Strensiq. 
+    
+  (2)    Included within operating expenses for the second quarter 2015 are acquisition costs of   $29,777   associated with the acquisition of Synageva. 
+    
+  (3)    Included within operating expenses for the third and fourth quarter 2015 is   $36,608   and   $79,976  , respectively,of amortization of purchased intangible assets associated with the approval of Strensiq and Kanuma. 
+    
+  (4)    Included within net income for the third quarter of 2015 is a one-time tax expense of $  315,569   resulting from our integration of the Synageva business with and into the Alexion business. This tax expense is attributable to the change in our deferred tax liability for the outside basis difference resulting from the movement of assets into our captive foreign partnership. 
+    
+  (5)    Included within revenues for the first quarter of 2014 is a reimbursement for shipments made in years prior to January 1, 2014 as a result of an agreement with the French government which positively impacted reimbursement for Soliris. As a result of the agreement, in the first quarter of 2014, we recognized   $87,830   of net product sales from Soliris in France relating to years prior to January 1, 2014. Also, included within cost of sales for the first quarter of 2014 is the incremental impact in cost of sales of   $2,055   for additional royalties related to the   $87,830   of net product sales from prior year shipments. 
+    
+  (6)    Included within operating expenses for the fourth quarter of 2014 is   $15,365   for restructuring expenses recognized in connection with the relocation of the European headquarters. 
+
+F-47 
+
+<EX-21.1>
+ 2
+ exhibit211123115a.htm
+ SUBSIDIARIES OF ALEXION PHARMACEUTICALS, INC.
+
+Exhibit 
+
+Exhibit 21.1  
+  SUBSIDIARIES OF ALEXION PHARMACEUTICALS, INC.  
+  Alexion Delaware Holding LLC is organized in the State of Delaware  
+  Alexion Services Latin America, Inc. is organized in the state of Delaware 
+  Alexion Pharma Argentina SRL is organized in Argentina  
+  Alexion Pharmaceuticals Australasia PTY LTD is organized in Australia  
+  Alexion Pharma Belgium Sprl is organized in Belgium  
+  Alexion Services Europe Sprl is organized in Belgium 
+  Alexion Bermuda L.P. is organized in Bermuda 
+  Alexion Bermuda II L.P. is organized in Bermuda  
+  Alexion Bermuda Holding ULC is organized in Bermuda 
+  Alexion Farmac utica Brasil Importa  o e Distribui  o de Produtos e Servi os de Administra  o de Vendas Ltda. (doing business as Alexion Brasil) is organized in Brazil  
+  Alexion Farmac utica Am rica Latina Servi os de Administra  o de Vendas Ltda. (doing business as Alexion Latina America) is organized in Brazil  
+  Alexion Pharma Canada Corp. is organized in Canada 
+  Alexion (Shanghai) Company Limited is organized in Shanghai  
+  Alexion Pharma Colombia SAS is organized in Colombia  
+  Alexion Pharma Czech s.r.o is organized in the Czech Republic 
+    
+  Alexion Pharma Middle East FZ-LL is organized in Dubai 
+  Alexion Europe SAS is organized in France  
+  Alexion Pharma France is organized in France  
+  Alexion R D France SAS is organized in France 
+  Alexion Pharma Germany GmbH is organized in Germany  
+  Alexion Business Services Private Limited is organized in India 
+  Alexion Pharma International Trading is organized in Ireland 
+  Alexion Pharma Holding is organized in Ireland 
+  Alexion Pharma Israel Ltd. is organized in Israel  
+  Alexion Pharma Italy Sarl is organized in Italy  
+  Alexion Pharma GK is organized in Japan  
+  Alexion Pharma Mexico, S. de R.L. de C.V. is organized in Mexico  
+  Alexion Holding B.V. is organized in the Netherlands  
+  Alexion Pharma Netherlands B.V. is organized in the Netherlands 
+
+Alexion Pharma LLC is organized in Delaware 
+  Alexion Holding LLC is organized in Delaware 
+  Alexion Bermuda Limited is organized in Bermuda 
+  Synageva BioPharma SAS is organized in France 
+  Synageva BioPharma B.V. is organized in the Netherlands 
+  Synageva BioPharma Limited is organized in the United Kingdom 
+  Savoy Therapeutics Corp. is organized Delaware 
+  Synageva BioPharma GmbH is organized in Switzerland 
+  Synageva BioPharma S.L. is organized in Spain 
+  Synageva BioPharma Luxembourg S.a.r.l. is organized in Luxembourg 
+  Synageva BioPharma Mexico S. de R.L. de C.V. is organized in Mexico 
+  Alexion Pharma OOO is organized in Russia 
+  Alexion Pharma Spain S.L. is organized in Spain  
+  Alexion Pharma Nordics AB is organized in Sweden 
+  Alexion Pharma GmbH is organized in Switzerland  
+  Alexion Ila  Ticaret Limited  irketi is organized in Turkey  
+  Alexion Pharma UK is organized in the United Kingdom 
+    
+  Alexion Pharma Austria GmbH is organized in Austria 
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ exhibit231123115a.htm
+ CONSENT OF PRICEWATERHOUSECOOPERS LLP
+
+Exhibit 
+
+Exhibit 23.1  
+  CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+    
+  We hereby consent to the incorporation by reference in the Registration Statement on Form S 3 (No. 333-206345) and Form S-8 (No. 333-205379, 333-204426, 333-146319, 333-139600, 333-123212 and 333-153612) of Alexion Pharmaceuticals, Inc. of our report dated February 8, 2016, except with respect to our opinion on internal control over financial reporting insofar as it relates to the effects of the matter described in the third paragraph of Management s Report on Internal Control over Financial Reporting, as to which the date is January 19, 2017 relating to the financial statements and the effectiveness of internal control over financial reporting, which appears in this Form 10 K/A. 
+    
+  /s/ PricewaterhouseCoopers LLP 
+    
+  Hartford, Connecticut  
+  January 19, 2017 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ exhibit311123115a.htm
+ CERTIFICATION OF CEO PURSUANT TO SECTION 302
+
+Exhibit 
+
+Exhibit 31.1  
+  I, David R. Brennan, certify that:  
+           1 
+    I have reviewed this Annual Report on Form 10-K/A for the year ended December 31, 2015 of Alexion Pharmaceuticals, Inc.; 
+              2 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+              5 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Dated: 
+    January 19, 2017 
+      
+    /s/    David R. Brennan 
+
+Interim Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ exhibit312123115a.htm
+ CERTIFICATION OF CFO PURSUANT TO SECTION 302
+
+Exhibit 
+
+I, David J. Anderson, certify that:  
+           1 
+    I have reviewed this Annual Report on Form 10-K/A for the year ended December 31, 2015 of Alexion Pharmaceuticals, Inc.; 
+              2 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+              5 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                     Dated: 
+    January 19, 2017 
+      
+    /s/     David J. Anderson         
+
+Executive Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ exhibit321123115a.htm
+ CERTIFICATION OF CEO PURSUANT TO SECTION 906
+
+Exhibit 
+
+Exhibit 32.1  
+  CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,  
+  AS ADOPTED PURSUANT TO  
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+  In connection with the Annual Report on Form 10-K/A of Alexion Pharmaceuticals, Inc. (the  Company ) for the year ended December 31, 2015 as filed with the Securities and Exchange Commission (the  Report ), I, David R. Brennan, Interim Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:  
+           (1) 
+    the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+                     Dated: 
+    January 19, 2017 
+      
+    /s/     David R. Brennan   
+
+Interim Chief Executive Officer 
+
+A signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ exhibit322123115a.htm
+ CERTIFICATION OF CFO PURSUANT TO SECTION 906
+
+Exhibit 
+
+Exhibit 32.2  
+  CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,  
+  AS ADOPTED PURSUANT TO  
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+  In connection with the Annual Report on Form 10-K/A of Alexion Pharmaceuticals, Inc. (the  Company ) for the year ended December 31, 2015 as filed with the Securities and Exchange Commission (the  Report ), I, David J. Anderson, Executive Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:  
+           (1) 
+    the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: 
+    January 19, 2017 
+      
+    /s/    David J. Anderson        
+
+Executive Vice President and Chief Financial Officer 
+
+A signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 8
+ alxn-20151231.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ alxn-20151231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ alxn-20151231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ alxn-20151231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ alxn-20151231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ alxn-20151231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

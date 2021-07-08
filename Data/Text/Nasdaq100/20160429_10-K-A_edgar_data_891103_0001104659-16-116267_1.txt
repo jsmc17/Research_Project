@@ -1,0 +1,1033 @@
+<Header>
+<FileStats>
+    <FileName>20160429_10-K-A_edgar_data_891103_0001104659-16-116267_1.txt</FileName>
+    <GrossFileSize>867775</GrossFileSize>
+    <NetFileSize>130170</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>550309</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>14</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-16-116267.hdr.sgml : 20160429
+<ACCEPTANCE-DATETIME>20160429165601
+ACCESSION NUMBER:		0001104659-16-116267
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20151231
+FILED AS OF DATE:		20160429
+DATE AS OF CHANGE:		20160429
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IAC/INTERACTIVECORP
+		CENTRAL INDEX KEY:			0000891103
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RETAIL STORES, NEC [5990]
+		IRS NUMBER:				592712887
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20570
+		FILM NUMBER:		161607745
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+		BUSINESS PHONE:		2123147300
+
+	MAIL ADDRESS:	
+		STREET 1:		555 WEST 18TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERACTIVECORP
+		DATE OF NAME CHANGE:	20030623
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	USA INTERACTIVE
+		DATE OF NAME CHANGE:	20020508
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	USA NETWORKS INC
+		DATE OF NAME CHANGE:	19980223
+
+</SEC-Header>
+</Header>
+
+ 0001104659-16-116267.txt : 20160429
+
+10-K/A
+ 1
+ a16-8615_110ka.htm
+ 10-K/A
+
+Table of Contents   
+       
+   As filed with the Securities and Exchange Commission on April 29, 2016   
+
+UNITED STATES   
+   SECURITIES AND EXCHANGE COMMISSION   
+   Washington, D.C. 20549   
+
+FORM 10-K   
+     
+   (Amendment No. 1)   
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE   
+   SECURITIES EXCHANGE ACT OF 1934   
+     
+   For the Fiscal Year Ended December 31, 2015   
+
+Commission File No. 0-20570   
+       
+   IAC/INTERACTIVECORP   
+  (Exact name of registrant as specified in its charter)  
+
+(212) 314-7300   
+  (Registrant s telephone number, including area code)  
+     
+   Securities registered pursuant to Section 12(b) of the Act:   
+
+Title of each class        
+
+Name of exchange on which registered            
+
+Common Stock, par value   $0.001       
+
+The Nasdaq Stock   Market LLC    (Nasdaq Global Select Market)              
+     
+   Securities registered pursuant to Section 12(g) of the Act:   
+     
+  None  
+     
+  Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes   x   No  o  
+     
+  Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes   o   No  x  
+     
+  Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. Yes   x   No  o  
+     
+  Indicate by check mark whether the Registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the Registrant was required to submit and post such files). Yes   x   No  o  
+     
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the Registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.   x  
+     
+  Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act.  
+
+Large accelerated filer   x       
+ 
+  Accelerated filer   o       
+ 
+  Non-accelerated filer   o     (Do not check if a smaller    reporting company)      
+ 
+  Smaller reporting company   o              
+     
+  Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   o  No  x  
+     
+  As of January 29, 2016, the following shares of the Registrant s Common Stock were outstanding:  
+
+The aggregate market value of the voting common stock held by non-affiliates of the Registrant as of June 30, 2015 was $6,083,825,075. For the purpose of the foregoing calculation only, all directors and executive officers of the Registrant are assumed to be affiliates of the Registrant.  
+
+Table of Contents   
+     
+   TABLE OF CONTENTS     
+
+Page    Number            
+
+PART III         
+
+Item 10.        
+ 
+   Directors,   Executive Officers and Corporate Governance        
+ 
+  2           
+
+Item 11.        
+ 
+   Executive   Compensation        
+ 
+  8           
+
+Item 12.        
+ 
+   Security   Ownership of Certain Beneficial Owners and Management and Related Stockholder   Matters        
+ 
+  23           
+
+Item 13.        
+ 
+   Certain   Relationships and Related Transactions, and Director Independence        
+ 
+  27           
+
+Item 14.        
+ 
+   Principal   Accounting Fees and Services        
+ 
+  29           
+
+PART IV        
+
+Item 15.        
+ 
+   Exhibits   and Financial Statement Schedules        
+ 
+  30              
+     
+ 1   
+
+Table of Contents   
+       
+   EXPLANATORY NOTE   
+     
+  The Registrant hereby amends Part III contained in its Annual Report on Form 10-K for the year ended December 31, 2015 (the  Original Form 10-K ). This Amendment No. 1 on Form 10-K/A to the Original Form 10-K is being filed to update the Original Form 10-K to include information required by Part III of Form 10-K concerning the Registrant s directors and executive officers, executive compensation, beneficial ownership of the Registrant s securities, certain relationships and related transactions and principal accountant fees and services.  
+     
+  This Amendment No. 1 only reflects the changes discussed above. No other information included in the Original Form 10-K has been amended by this Form 10-K/A, whether to reflect any information or events subsequent to the filing of the Original Form 10-K or otherwise.  
+     
+   PART III     
+     
+   Item 10.    Directors, Executive Officers and Corporate Governance  .   
+     
+   CERTAIN INFORMATION CONCERNING DIRECTORS   
+     
+  IAC s Board of Directors currently consists of 12 directors. Background information concerning each of these directors is set forth below.  
+     
+   Edgar Bronfman, Jr.  , age 60, has been a director of IAC since February 1998. Mr. Bronfman currently serves as a Managing Partner of Accretive, LLC, a private equity firm. Mr. Bronfman previously served as Chairman of Warner Music Group from August 2011 to January 2012. Prior to this time, Mr. Bronfman served as Chief Executive Officer and President of Warner Music Group from July 2011 to August 2011 and as Chairman and Chief Executive Officer of Warner Music Group from March 2004 to July 2011. Mr. Bronfman also served as a member of the board of directors of Warner Music Group from March 2004 through May 2013. Prior to joining Warner Music Group, Mr. Bronfman served as Chairman and Chief Executive Officer of Lexa Partners LLC, which he founded, from April 2002. Mr. Bronfman was appointed Executive Vice Chairman of Vivendi Universal, S.A. in December 2000. Mr. Bronfman resigned from his position as an executive officer and as Vice Chairman of the board of directors of Vivendi Universal, S.A. in March 2002 and December 2003, respectively. Prior to December 2000, Mr. Bronfman served as President and Chief Executive Officer of The Seagram Company Ltd., a post he had held since June 1994, and from 1989 to June 1994 he served as the President and Chief Operating Officer of Seagram. Mr. Bronfman has served as a member of the board of Accretive Health, Inc., which became a publicly traded company in May 2010, since October 2006. In his not-for-profit affiliations, Mr. Bronfman serves as Chairman of the Board of Endeavor Global, Inc. and is currently a member of the Board of NYU Elaine A. and Kenneth G. Langone Medical Center and The Council on Foreign Relations. In nominating Mr. Bronfman, the Board considered his experience as a member of senior management of various public and global companies, which the Board believes gives him particular insight into business strategy and leadership, marketing, consumer branding and international operations, as well as a high level of financial literacy and insight into the media and entertainment industries. The Board also considered Mr. Bronfman s private equity experience, which the Board believes gives him particular insight into investments in, and the development of, early stage companies. 
+     
+   Chelsea Clinton  , age 36, has been a director of IAC since September 2011. Since March 2013, Ms. Clinton has served as Vice Chair of the Clinton Foundation, where her work emphasizes improving global and domestic health, creating service opportunities and empowering the next generation of leaders. Prior to assuming this role, Ms. Clinton served as a member of the board of directors of the Clinton Foundation from September 2011. Ms. Clinton has also served as a member of the board of directors of the Clinton Health Access Initiative since September 2011. From March 2010 through May 2013, Ms. Clinton served as an Assistant Vice Provost at New York University, where she focused on interfaith initiatives and the university s Global Expansion Program. From November 2011 to August 2014, Ms. Clinton also worked as a special correspondent for NBC news. Prior to these efforts, Ms. Clinton worked as an associate at McKinsey   Company, a consulting firm, from August 2003 to October 2006, and as an associate at Avenue Capital Group, an investment firm, from October 2006 to November 2009. Ms. Clinton also currently serves on the boards of directors of The School of American Ballet, the Africa Center and the Weill Cornell Medical College and as Co-Chair of the Advisory Board of the Of Many Institute at New York University. In nominating Ms. Clinton, the Board considered her broad public policy experience and keen intellectual acumen, which together the Board believes bring a fresh and youthful perspective to IAC s businesses and initiatives. 
+     
+ 2   
+
+Table of Contents   
+     
+   Barry Diller  , age 74, has been a director and Chairman and Senior Executive of IAC since December 2010. Mr. Diller previously served as a director and Chairman and Chief Executive Officer of IAC (and its predecessors) from August 1995 to November 2010. Mr. Diller also serves as Chairman and Senior Executive of Expedia, Inc., which position he has held since August 2005. Prior to joining the Company, Mr. Diller was Chairman of the Board and Chief Executive Officer of QVC, Inc. from December 1992 through December 1994. From 1984 to 1992, Mr. Diller served as the Chairman of the Board and Chief Executive Officer of Fox, Inc. Prior to joining Fox, Inc., Mr. Diller served for 10 years as Chairman of the Board and Chief Executive Officer of Paramount Pictures Corporation. Mr. Diller served as Chairman (in a non-executive capacity) of the board of directors of Live Nation Entertainment, Inc. (and its predecessor companies, Ticketmaster Entertainment and Ticketmaster) ( Live Nation ) from August 2008 to October 2010, and continued to serve as a member of the board of directors of Live Nation through January 2011. Mr. Diller also served as Chairman and Senior Executive of TripAdvisor, Inc. ( TripAdvisor ) from December 2011 to December 2012, served as a member of the board of directors of TripAdvisor from December 2011 through April 2013 and has served as a special advisor to the Chief Executive Officer of TripAdvisor since April 2013. Mr. Diller is also currently a member of the board of directors of The Coca-Cola Company and Graham Holdings Company (formerly The Washington Post Company), which positions he has held during the past five years. In addition to his for profit affiliations, Mr. Diller is a member of the Board of Councilors for the University of Southern California s School of Cinematic Arts, the New York University Board of Trustees and the Executive Board for the Medical Sciences of University of California, Los Angeles. The Board nominated Mr. Diller because he has been Chairman and Senior Executive since 2010 and prior to that time, served as Chairman and Chief Executive Officer of the Company since 1995, and as a result, possesses a great depth of knowledge and experience regarding the Company and its businesses. In addition, the Board noted Mr. Diller s ability to exercise influence (subject to the Company s organizational documents and Delaware law) over the outcome of matters involving the Company that require stockholder approval given his significant ownership stake in the Company and related rights. 
+     
+   Michael D. Eisner  , age 74, has been a director of IAC since March 2011. Mr. Eisner currently serves as Chairman of The Tornante Company, LLC, a privately held company that invests in, acquires, incubates and operates media and entertainment companies ( Tornante ). Mr. Eisner also previously served as Chairman of two Tornante portfolio companies, The Topps Company, a leading creator and marketer of sports cards, distinctive confectionery and other entertainment products, and Vuguru, a studio focusing on the production of groundbreaking programming for the Internet and other digital platforms. Mr. Eisner served as Chairman of The Topps Company from October 2007 to April 2013 and as Chairman of Vuguru from October 2009 to December 2014, when Tornante acquired that portion of Vuguru that it did not already own. Prior to founding Tornante in 2005, Mr. Eisner served as Chairman and Chief Executive Officer of The Walt Disney Company from 1984. In addition to his for profit affiliations, Mr. Eisner serves on the boards of directors of Denison University, The Aspen Institute, the Yale School of Architecture Dean s Council and The Eisner Foundation. In nominating Mr. Eisner, the Board considered his experience with Tornante, which the Board believes gives him particular insight into investments in, and the development and operation of, media and entertainment companies that focus on programming and content for emerging platforms. The Board also considered Mr. Eisner s experience as the Chairman and Chief Executive Officer of The Walt Disney Company, which the Board believes gives him particular insight into business strategy and leadership, marketing and consumer branding, as well as a high level of financial literacy and insight into the media and entertainment industries. 
+     
+   Bonnie S. Hammer  , age 65, has been a director of IAC since September 2014. Ms. Hammer has been Chairman of NBCUniversal Cable Entertainment since February 2013. In this capacity, Ms. Hammer has executive oversight over a number of leading cable brands (USA Network, Syfy, E! Entertainment, Bravo, Oxygen, Esquire Network, Sprout, Chiller, Cloo and Universal HD), as well as Universal Cable Productions, which generates scripted content for cable and broadcast networks, and Wilshire Studios, which generates reality programming. Prior to her tenure as Chairman of NBCUniversal Cable Entertainment, Ms. Hammer served as Chairman of NBCUniversal Cable Entertainment and Cable Studios since November 2010. In this capacity, Ms. Hammer had executive oversight over certain leading cable brands (USA, Syfy, E! Entertainment, Chiller, Cloo and Universal HD), as well as Universal Cable Productions and Wilshire Studios. The networks led by Ms. Hammer are industry frontrunners, consistently generating innovative consumer social and digital experiences reflective of their brands. Prior to joining NBCUniversal in May 2004, Ms. Hammer served as President of Syfy from 2001 to 2004 and held other senior executive positions at Syfy and USA Network from 1989 to 2000. Before that, she was an original programming executive at Lifetime Television Network from 1987 to 1989. Ms. Hammer has served on the boards of directors of ShopNBC, a 24 hour TV shopping network, the International Radio and Television Society (IRTS) and the Ad Council. Ms. Hammer has served as a member of the board of directors of eBay, Inc. since January 2015 and also currently serves on the strategic planning committee for Boston University s College of Communication. In nominating Ms. Hammer, the Board considered her experience as the Chairman of NBCUniversal Cable Entertainment, as well as her prior roles with NBCUniversal Media, LLC, USA Network and Lifetime Television Network, which the Board believes give her particular insight into business strategy and leadership, as well as a high level of financial literacy and a seasoned insight into the media and entertainment industries, particularly pay television network programming and production and multiplatform branding. 
+     
+ 3   
+
+Table of Contents   
+       
+   Victor A. Kaufman  , age 72, has been a director of IAC (and its predecessors) since December 1996 and has been Vice Chairman of IAC since October 1999. Mr. Kaufman also serves as Vice Chairman of Expedia, Inc., which position he has held since August 2005. Previously, Mr. Kaufman served in the Office of the Chairman from January 1997 to November 1997 and as Chief Financial Officer of IAC from November 1997 to October 1999. Prior to his tenure with IAC, Mr. Kaufman served as Chairman and Chief Executive Officer of Savoy Pictures Entertainment, Inc. from March 1992 and as a director of Savoy from February 1992. Mr. Kaufman was the founding Chairman and Chief Executive Officer of Tri-Star Pictures, Inc. and served in such capacities from 1983 until December 1987, at which time he became President and Chief Executive Officer of Tri-Star s successor company, Columbia Pictures Entertainment, Inc. He resigned from these positions at the end of 1989 following the acquisition of Columbia by Sony USA, Inc. Mr. Kaufman joined Columbia in 1974 and served in a variety of senior positions at Columbia and its affiliates prior to the founding of Tri-Star. Mr. Kaufman also served as Vice Chairman of the board of directors of Live Nation from August 2008 through January 2010, and continued to serve as a member of the board of directors of Live Nation from January 2010 through December 2010. In addition, Mr. Kaufman served as a member of the board of directors of TripAdvisor from December 2011 to February 2013. In nominating Mr. Kaufman, the Board considered the unique knowledge and experience regarding the Company and its businesses that he has gained through his involvement with the Company in various roles since 1996, as well as his high level of financial literacy and expertise regarding mergers, acquisitions, investments and other strategic transactions. 
+     
+   Joseph Levin,   age 36, has been a director and Chief Executive Officer of IAC since June 2015.  Prior to his appointment as Chief Executive Officer of IAC, Mr. Levin served as Chief Executive Officer of IAC Search   Applications, overseeing the desktop software, mobile applications, and media properties that comprised IAC s former Search   Applications segment, since January 2012. From November 2009 to January 2012, Mr. Levin served as Chief Executive Officer of Mindspark Interactive Network, an IAC subsidiary that builds, markets and delivers a wide range of consumer software products, and previously served in various capacities at IAC in Strategic Planning, Mergers   Acquisitions and Finance since joining IAC in 2003.  Prior to joining IAC, Mr. Levin worked in the Technology Mergers   Acquisitions group for Credit Suisse First Boston (now Credit Suisse) advising public and private technology and e-commerce companies on a variety of transactions. Mr. Levin has served on the board of directors of Match Group, Inc. since October 2015, as well as on the boards of directors of LendingTree, Inc. from August 2008 through November 2014 and The Active Network beginning prior to its 2011 initial public offering through its sale in December 2013. In nominating Mr. Levin, the Board considered the unique knowledge and experience regarding the Company and its businesses that he has gained through his various roles with the Company since 2003, most recently his role as Chief Executive Officer of IAC Search   Applications since 2012, as well as his high level of financial literacy and expertise regarding mergers, acquisitions, investments and other strategic transactions. 
+     
+   Bryan Lourd  , age 55, has been a director of IAC since April 2005. Mr. Lourd has served as partner and Managing Director of Creative Artists Agency ( CAA ) since October 1995. CAA is among the world s leading entertainment agencies and is based in Los Angeles, California, with offices in Nashville, New York, London and Beijing. He is a graduate of the University of Southern California. In connection with the nomination of Mr. Lourd, the Board considered his extensive experience as a principal of CAA, which the Board believes gives him particular insight into business strategy and leadership, as well as unique and specialized experience regarding the entertainment industry and marketing. 
+     
+   David Rosenblatt  , age 48, has been a director of IAC since December 2008. Mr. Rosenblatt currently serves as the Chief Executive Officer of 1stdibs.com, Inc., an online marketplace for design, including furniture, art, jewelry and fashion. Mr. Rosenblatt previously served as President, Global Display Advertising, of Google, Inc. from October 2008 through May 2009. Mr. Rosenblatt joined Google in March 2008 in connection with Google s acquisition of DoubleClick, Inc., a provider of digital marketing technology and services. Mr. Rosenblatt joined DoubleClick in 1997 as part of its initial management team and held several executive positions during his tenure, including Chief Executive Officer of DoubleClick from July 2005 through March 2008 and President of DoubleClick from 2000 through July 2005. Mr. Rosenblatt also currently serves as a member of the boards of directors of Twitter, which position he has held since January 2011, and Narrative Science, Inc., a leading provider of natural language communications technology that helps organizations analyze and transform data into narrative reports, which position he has held since April 2010. In connection with the nomination of Mr. Rosenblatt, the Board considered his extensive and unique experience in the online advertising and digital marketing technology and services industries, as well as his management experience with DoubleClick, Google and 1stdibs.com, Inc., which the Board believes give him particular insight into business strategy and leadership, as well as a deep understanding of the internet sector. 
+     
+   Alan G. Spoon  , age 64, has been a director of IAC since February 2003. Since May 2000, Mr. Spoon has been a Partner at Polaris Partners (formerly Managing General Partner and now Partner Emeritus). Polaris is a private investment firm that provides venture capital and management assistance to development-stage information technology and life sciences companies. Mr. Spoon was Chief Operating Officer and a director of The Washington Post Company (now known as Graham Holdings Company) from March 1991 through May 2000 and served as President from September 1993 through May 2000. Prior to that, he held a wide variety of positions at The Washington Post Company, including President of Newsweek from September 1989 to May 1991. Mr. Spoon has served as a member of the board of directors of Danaher Corporation since July 1999, CableOne since July 2015 and Match Group, Inc. since November 2015. In his not-for-profit affiliations, Mr. Spoon was a member of the Board of Regents at the Smithsonian 
+     
+ 4   
+
+Table of Contents   
+     
+  Institution (formerly Vice Chairman) and is now a member of the MIT Corporation, where he also serves as a member of the board of directors of edX (an online education platform). In nominating Mr. Spoon, the Board considered his extensive private and public company board experience and public company management experience with The Washington Post Company, all of which the Board believes give him particular insight into business strategy, leadership and marketing in the media industry. The Board also considered Mr. Spoon s private equity experience, which the Board believes gives him particular insight into trends in the internet and technology industries, as well as into acquisition strategy and financing.  
+     
+   Alexander von Furstenberg  , age 46, has been a director of IAC since December 2008. Mr. von Furstenberg currently serves as Chief Investment Officer of Ranger Global Advisors, LLC, a family office focused on value-based investing ( Ranger ), which he founded in June 2011. Prior to his tenure with Ranger, Mr. von Furstenberg founded Arrow Capital Management, LLC, a private investment firm focused on global public equities, where he served as Co-Managing Member and Chief Investment Officer since 2003. Mr. von Furstenberg has served as member of the board of directors of Expedia, Inc. since December 2015 and served as a member of the board of directors of W.P. Stewart   Co. Ltd., a Bermuda based asset management firm, during the past five years. Since 2001, he has acted as Chief Investment Officer of Arrow Investments, Inc., the private investment office which serves his family. Mr. von Furstenberg also serves as a partner and director of Diane von Furstenberg Studio, LLC. In addition to the philanthropic work accomplished through his position as a director of The Diller-von Furstenberg Family Foundation, Mr. von Furstenberg also serves on the board of directors of Friends of the High Line. In nominating Mr. von Furstenberg, the Board considered his private investment and board experience, which the Board believes give him particular insight into capital markets and investment strategy, as well as a high level of financial literacy. Mr. von Furstenberg is Mr. Diller s stepson. 
+     
+   Richard F. Zannino  , age 57, has been a director of IAC since June 2009. Since July 2009, Mr. Zannino has been a Managing Director at CCMP Capital Advisors, LLC, a private equity firm, where he also serves as a member of the firm s Investment Committee and as co-head of the firm s consumer retail investment efforts. Mr. Zannino has also served as a member of the board of directors of The Est e Lauder Companies, Inc. since January 2010, Olli s Bargain Outlet since July 2015 and Francesca s Collections during the past five years. Mr. Zannino previously served as Chief Executive Officer and a member of the board of directors of Dow Jones   Company from February 2006 through December 2007, when Mr. Zannino resigned from these positions upon the acquisition of Dow Jones by News Corp. Prior to this time, Mr. Zannino served as Chief Operating Officer of Dow Jones from July 2002 through February 2006 and as Executive Vice President and Chief Financial Officer of Dow Jones from February 2001 through June 2002. Prior to his tenure at Dow Jones, Mr. Zannino served in a number of executive capacities at Liz Claiborne from 1998 through January 2001, and prior to that time served as Executive Vice President and Chief Financial Officer of General Signal and in a number of executive capacities at Saks Fifth Avenue. In his not-for-profit affiliations, Mr. Zannino serves as a member of the Board of Trustees of Pace University. In connection with the nomination of Mr. Zannino, the Board considered his extensive public company management experience, which the Board believes gives him particular insight into business strategy, leadership and marketing, as well as a high level of financial literacy. The Board also considered Mr. Zannino s private equity experience, which the Board believes gives him particular insight into acquisition and investment strategy and financing. 
+     
+   CERTAIN INFORMATION CONCERNING EXECUTIVE OFFICERS   
+     
+  Background information concerning those individuals who currently serve as executive officers of IAC (other than those who also serve as directors) and served as named executives in 2015 is set forth below.  
+     
+   Jeffrey W. Kip  , age 47, served as Chief Financial Officer of IAC from March 2012 through June 2015 and has remained an employee (in a capacity other than as an executive officer) of the Company since that time. Prior to joining IAC, Mr. Kip served as Executive Vice President, Chief Financial Officer of Panera Bread Company, a national bakery-cafe concept in the United States and Canada ( Panera ), since May 2006. From November 2003 until May 2006, Mr. Kip served as Panera s Vice President, Finance and Planning and as Vice President, Corporate Development from May 2003 until November 2003. From November 2002 until April 2003, Mr. Kip served as an Associate Director and Director at UBS, an investment banking firm, and from August 1999 until November 2002, Mr. Kip was an Associate at Goldman Sachs, an investment banking firm. 
+     
+   Glenn H. Schiffman  , age 46, has served as Chief Financial Officer of IAC since April 2016. Prior to joining IAC, Mr. Schiffman served as Senior Managing Director at Guggenheim Securities, the investment banking and capital markets business of Guggenheim Partners, since March 2013.  Prior to his tenure at Guggenheim Securities, Mr. Schiffman was a partner at The Raine Group, a merchant bank focused on advising and investing in the technology, media and telecommunications industries, from September 2011 to March 2013.  Prior to joining The Raine Group, Mr. Schiffman served as Co-Head of Global Media at Lehman Brothers from 2005 to 2007 and Head of Investment Banking Asia-Pacific at Lehman Brothers (and subsequently Nomura) from April 2007 to January 2010, as well as Head of Investment Banking, Americas for Nomura following Nomura s acquisition of Lehman s Asia business from January 2010 to April 2011. In his not-for-profit 
+     
+ 5   
+
+Table of Contents   
+     
+  affiliations, Mr. Schiffman is a member of the National Committee on United States-China Relations and serves as a Member of the Board of Visitors for the Duke University School of Medicine.  
+     
+   Mark Stein  , age 48, has served as Executive Vice President and Chief Strategy Officer of IAC since January 2016 and prior to that time, served as Senior Vice President and Chief Strategy Officer of IAC from September 2015.  Mr. Stein previously served as both Senior Vice President of Corporate Development at IAC (since January 2008) and Chief Strategy Officer of IAC Search   Applications, the desktop software, mobile applications and media properties that comprised IAC s former Search   Applications segment (since November 2012). Prior to his service in these roles, Mr. Stein served in several other capacities for IAC and its businesses, including as Chief Strategy Officer of Mindspark Interactive Network from 2009 to 2012, and prior to that time as Executive Vice President of Corporate and Business Development of IAC Search   Media. 
+     
+   Gregg Winiarski  , age 45, has served as Executive Vice President, General Counsel and Secretary of IAC since February 2014 and previously served as Senior Vice President, General Counsel and Secretary of IAC from February 2009 to February 2014. Mr. Winiarski previously served as Associate General Counsel of IAC since February 2005, during which time he had primary responsibility for all legal aspects of IAC s mergers and acquisitions and other transactional work. Prior to joining IAC in February 2005, Mr. Winiarski was an associate with Skadden, Arps, Slate, Meagher   Flom LLP, a global law firm, from 1996 to February 2005. Prior to joining Skadden, Mr. Winiarski was a certified public accountant with Ernst   Young in New York. 
+     
+   CERTAIN LEGAL PROCEEDINGS   
+     
+  In June 2010, Mr. Bronfman was part of a trial in the Trial Court in Paris involving six other individuals, including the former Chief Executive Officer, Chief Financial Officer and Chief Operating Officer of Vivendi Universal. The other individuals faced various criminal charges and civil claims relating to Vivendi, including Vivendi s financial disclosures, the appropriateness of executive compensation and trading in Vivendi stock. Mr. Bronfman previously served as the Vice Chairman of Vivendi and faced a charge and claims relating to certain trading in Vivendi stock in January 2002. At the trial, the public prosecutor and the lead civil claimant both took the position that Mr. Bronfman should be acquitted. In January 2011, the court found Mr. Bronfman guilty of the charge relating to his trading in Vivendi stock, found him not liable to the civil claimants and imposed a fine of 5 million euros and a suspended sentence of fifteen months. Mr. Bronfman appealed the Trial Court decision to the Paris Court of Appeal. In November 2013, Mr. Bronfman participated in a re-trial before a new judicial panel as part of his appeal of the Paris Trial Court s 2011 ruling. In May 2014, the new judicial panel rendered its decision, affirming the Paris Trial Court s finding that Mr. Bronfman was guilty of the charge, but stated that its finding would appear only in French judicial records (and not in Mr. Bronfman s public record), removed the suspended sentence imposed by the Paris Trial Court and suspended 2.5 million euros of the original fine of 5 million euros. The new judicial panel affirmed the Paris Trial Court s finding that Mr. Bronfman was not liable to the civil claimants. Mr. Bronfman has appealed the verdict and believes that his trading in Vivendi stock was proper. Under French law, the penalty is suspended pending the final outcome of the case.  
+     
+ 6   
+
+Table of Contents   
+     
+   BOARD COMMITTEES   
+     
+  The Board currently has four standing committees: the Audit Committee, the Compensation and Human Resources Committee, the Nominating Committee and the Executive Committee.  
+     
+   Board Committee Membership   
+     
+  The following table sets forth the members of each Board committee during 2015. Each committee member identified below served in the capacities set forth in the table for all of 2015.  
+
+Name        
+
+Audit    Committee        
+
+Compensation    and Human    Resources    Committee        
+
+Nominating    Committee        
+
+Executive    Committee            
+
+Edgar Bronfman, Jr.*       
+
+X       
+
+X           
+
+Chelsea Clinton*       
+
+Barry Diller       
+
+X           
+
+Michael D. Eisner*       
+
+X       
+
+Bonnie Hammer*       
+
+X       
+
+Victor A. Kaufman       
+
+X           
+
+Joseph Levin       
+
+Bryan Lourd*       
+
+X       
+
+David Rosenblatt*       
+
+Chair       
+
+Alan G. Spoon*       
+
+Chair       
+
+Alexander von Furstenberg       
+
+Richard F. Zannino*       
+
+X       
+
+*                                            Independent director. 
+     
+   Audit Committee   
+     
+  The Audit Committee functions pursuant to a written charter adopted by the Board of Directors, the most recent version of which was filed as Appendix A to IAC s 2014 Annual Meeting proxy statement. The Audit Committee is appointed by the Board to assist the Board with a variety of matters described in the charter, which include monitoring: (i) the integrity of IAC s financial statements, (ii) the effectiveness of IAC s internal control over financial reporting, (iii) the qualifications and independence of IAC s independent registered public accounting firm, (iv) the performance of IAC s internal audit function and independent registered public accounting firm, (v) IAC s risk assessment and risk management policies as they relate to financial and other risk exposures and (vi) the compliance by IAC with legal and regulatory requirements. In fulfilling its purpose, the Audit Committee maintains free and open communication among itself, the Company s independent registered public accounting firm, the Company s internal audit function and Company management.  
+     
+  The Board has previously concluded that Mr. Spoon is an  audit committee financial expert,  as such term is defined in applicable rules of the U.S. Securities and Exchange Commission, as well as those of The Nasdaq Stock Market LLC (the  Marketplace Rules ).  
+     
+   Compensation and Human Resources Committee   
+     
+  The Compensation and Human Resources Committee functions pursuant to a written charter adopted by the Board of Directors, the most recent version of which was filed as Appendix B to IAC s 2014 Annual Meeting proxy statement. The Compensation and Human Resources Committee is appointed by the Board to assist the Board with all matters relating to the compensation of the Company s executive officers and has overall responsibility for approving and evaluating all compensation plans, policies and programs of the Company as they affect the Company s executive officers. The Compensation and Human Resources Committee may form and delegate authority to subcommittees and may delegate authority to one or more of its members. The Compensation and Human Resources Committee may also delegate to one or more of the Company s executive officers the authority to make grants of equity-based compensation to eligible individuals (other than directors or executive officers) to the extent allowed under applicable law. For additional information on IAC s processes and procedures for the consideration and determination of executive compensation and the related roles of the Compensation and Human Resources Committee, Company management and consultants, see the discussion under Compensation Discussion and Analysis generally beginning on page 8. The formal report of the Compensation and Human Resources Committee is also set forth on page 8.  
+     
+ 7   
+
+Table of Contents   
+       
+   Nominating Committee   
+     
+  The Nominating Committee functions pursuant to a written charter adopted by the Board of Directors, the most recent version of which was filed as Appendix C to IAC s 2014 Annual Meeting proxy statement. The Nominating Committee is appointed by the Board to assist the Board by: (i) identifying, reviewing and evaluating individuals qualified to become Board members, (ii) recommending director nominees for the next annual meeting of stockholders (and nominees to fill vacancies on the Board as necessary) and (iii) making recommendations with respect to the compensation and benefits of directors.  
+     
+   Executive Committee   
+     
+  The Executive Committee has all the power and authority of the Board of Directors of IAC, except those powers specifically reserved to the Board by Delaware law or IAC s organizational documents.  
+     
+   SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE   
+     
+  Section 16(a) of the Exchange Act requires the Company s officers and directors, and persons who beneficially own more than 10% of a registered class of the Company s equity securities, to file initial statements of beneficial ownership (Form 3) and statements of changes in beneficial ownership (Forms 4 and 5) of common stock and other equity securities of the Company with the SEC. Officers, directors and greater than 10% beneficial owners are required by SEC rules to furnish the Company with copies of all such forms they file. Based solely on a review of the copies of such forms furnished to the Company and/or written representations that no additional forms were required, the Company believes that its officers, directors and greater than 10% beneficial owners complied with these filing requirements in 2015.  
+     
+   Item 11.    Executive Compensation     
+     
+   COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION   
+     
+  The membership of the Compensation and Human Resources Committee consisted of Mr. Rosenblatt and Ms. Hammer during 2015. Neither of them has been an officer or employee of IAC at any time during their respective service on the committee.  
+     
+   COMPENSATION AND HUMAN RESOURCES COMMITTEE REPORT   
+     
+  The Compensation and Human Resources Committee has reviewed the Compensation Discussion and Analysis and discussed it with Company management. In reliance on its review and the discussions referred to above, the Compensation and Human Resources Committee recommended to the Board that the Compensation Discussion and Analysis be included in IAC s 2015 Annual Report on Form 10-K.  
+     
+   Members of the Compensation and Human Resources Committee   
+     
+  David Rosenblatt (Chair)  
+  Bonnie S. Hammer  
+     
+   COMPENSATION DISCUSSION AND ANALYSIS   
+     
+   Philosophy and Objectives   
+     
+  Our executive officers whose compensation is discussed in this compensation discussion and analysis (the  CD A ) and who we refer to as our named executive officers in this CD A (the  NEOs ) are:  
+     
+                        Barry Diller, Chairman and Senior Executive; 
+                        Victor Kaufman, Vice Chairman; 
+                        Joey Levin, Chief Executive Officer commencing June 2015; 
+                        Gregg Winiarski, Executive Vice President and General Counsel; and 
+                        Jeffrey Kip, Chief Financial Officer through June 2015. 
+     
+  Our executive officer compensation program is designed to increase long-term stockholder value by attracting, retaining, motivating and rewarding leaders with the competence, character, experience and ambition necessary to enable the Company to meet its growth objectives.  
+     
+  Though IAC is a publicly traded company, we attempt to foster an entrepreneurial culture, and attract and retain senior executives with entrepreneurial backgrounds, attitudes and aspirations. Accordingly, when attempting to recruit and retain our executive officers, as well as other executives who may become executive officers at a later time, we compete not only with other public companies, but also with earlier stage companies, companies funded by private equity and venture capital firms and professional firms. We structure our compensation program so that we can compete in this varied marketplace for talent, with an emphasis on variable, contingent compensation and long-term equity ownership.  
+     
+  While we consider market data in establishing broad compensation programs and practices and may periodically benchmark the compensation associated with particular executive positions, we do not definitively rely on competitive survey data or any benchmarking information in establishing executive compensation. The Company makes decisions based on a host of factors particular to a given executive s situation, including its firsthand experience with the competition for recruiting executives and its understanding of the current environment, and believes that over-reliance on survey data, or a benchmarking approach, is too rigid and stale for the dynamic and fast changing marketplace for talent in which we compete.  
+     
+  Similarly, we believe that arithmetic approaches to measuring and rewarding short-term performance often fail to adequately take into account the multiple factors that contribute to success at the individual and business level. In any given period, the Company may have multiple objectives, and these objectives, and their relative importance, often change as the competitive and strategic landscapes shift. Accordingly, we have historically avoided the use of strict formulas in our annual bonus program, believing that they often over-compensate or under-compensate a given performance level. We instead rely  
+     
+ 8   
+
+Table of Contents   
+     
+  primarily on an approach that, while based on clear objectives, is not formulaic and allows for the exercise of discretion in setting final bonus amounts.  
+     
+  In addition, we are of the view that long-term incentive compensation in the form of equity awards aligns the interests of executives and long-term shareholders, and to further this important goal, equity awards play a prominent role in our overall compensation program. We have used non-qualified stock options as the predominant equity incentive vehicle for our executives for many years.   We use this equity incentive instrument primarily for the sake of simplicity given that the value from stock option awards is directly dependent on appreciation in the Company s stock price and therefore provides an objectively measurable goal, and a belief that it would, in general, make the Company more competitive in recruiting talented executives and employees. From time to time, however, executives have been awarded restricted stock units in addition to, or in lieu of, stock option awards, depending on the individual circumstances, and in 2015 one of our executives was awarded restricted stock units as described below.  
+     
+  We believe that the Company s executive officer compensation program puts the substantial majority of compensation at risk, rewards both individual and corporate performance in a targeted fashion, pays amounts appropriate to attract and retain those key individuals necessary to grow the Company and aligns the interests of our key executives with the interests of our stockholders. We continuously evaluate our program and make changes as we deem appropriate.  
+     
+   Roles and Responsibilities   
+     
+  The Compensation and Human Resources Committee of the Company s Board of Directors (for purposes of this CD A, the  Committee ) has primary responsibility for establishing the compensation of the Company s executive officers. All compensation decisions referred to throughout this CD A have been made by the Committee, based (in part) on recommendations from Mr. Diller and Mr. Levin (as described below). The Committee currently consists of Mr. Rosenblatt and Ms. Hammer.  
+     
+  The executive officers participate in structuring Company-wide compensation programs and in establishing appropriate bonus and equity pools. In early 2016, Messrs. Diller and Levin met with the Committee and discussed their views of corporate and individual executive officer performance for 2015 for Messrs. Kaufman and Winiarski, and their recommendations for annual bonuses for those executive officers. Mr. Diller also discussed Mr. Levin s performance, and his views on his own performance, with the Committee. Following these discussions, the Committee met in executive sessions to discuss these recommendations.  After consideration of these recommendations, the Committee ultimately determined the annual bonus amount for each executive officer.  
+     
+  In establishing a given executive officer s compensation package, each individual component is evaluated independently and in relation to the package as a whole. Prior earning histories and outstanding long-term compensation arrangements are also reviewed and taken into account. However, we do not believe in any formulaic relationship or targeted allocation between these elements. Instead, each individual s situation is evaluated on a case-by-case basis each year, considering the variety of relevant factors at that time.  
+     
+  From time to time, the Committee has solicited the advice of consulting firms and engaged legal counsel. Except as noted below, no such consulting firms or legal counsel were engaged during 2015.  
+     
+  In addition, from time to time, the Company may solicit survey or peer compensation data from various consulting firms. In 2015, the Company engaged Mercer (US) Inc. to provide comparative market data in connection with the Company s own analysis of its equity compensation practices, but neither Mercer nor any other compensation consultant engaged by the Company had any role in determining or recommending the amount or form of executive compensation for 2015.  
+     
+  In 2015, the Committee engaged Compensation Advisory Partners LLC ( CAP ) to assist the Committee in its consideration of long-term incentive awards for Mr. Diller and Mr. Levin, as discussed further below under the heading  2015 Equity Awards.   
+     
+   Compensation Elements   
+     
+  Our compensation packages for executive officers primarily consist of salary, annual bonuses, IAC equity awards and, in certain instances, perquisites and other benefits.  
+     
+ 9   
+
+Table of Contents   
+       
+   Salary     
+     
+  We typically negotiate a new executive officer s starting salary upon arrival, based on the executive s prior compensation history, prior compensation levels for the particular position within the Company, the Company s New York City location, salary levels of other executives within the Company and salary levels available to the individual in alternative opportunities. Salaries can increase based on a number of factors, including the assumption of additional responsibilities and other factors which demonstrate an executive s increased value to the Company. No executive officer s salary was adjusted during 2015.  
+       
+   Annual Bonuses   
+     
+   General.    We establish bonus levels through a two-pronged process. First, at the beginning of each year, the Committee sets performance objectives, which historically have been tied to the achievement of EBITDA (as defined below), revenue or share price performance targets during the forthcoming year, and maximum bonus amounts. In general, these performance targets are minimum acceptable performance conditions, but with respect to which there is substantial uncertainty when we establish them. The establishment of performance targets and maximum bonus amounts is undertaken primarily to satisfy the requirements of Section 162(m) of the Internal Revenue Code, as amended. Satisfaction of one or more of the performance targets established by the Committee allows for the payment of bonuses that will be deductible by the Company for federal income tax purposes, should any bonuses be awarded to the Company s named executive officers.  However, satisfaction of the applicable performance targets does not obligate the Committee to approve any specific bonus amount for any executive officer, and the Committee has historically reduced the maximum bonus amount based on a discretionary assessment of Company and, to a lesser extent, individual performance. In making its determinations regarding individual annual bonus amounts, the Committee considers a variety of factors, such as growth in profitability or achievement of strategic objectives by the Company, and an individual s performance and contribution to the Company. The Committee does not quantify the weight given to any specific element or otherwise follow a formulaic calculation. Rather, the Committee engages in an overall assessment of appropriate bonus levels based on a subjective interpretation of all relevant criteria. This process is designed to permit the Company to deduct the bonus compensation paid to executives for income tax purposes. 
+     
+  The definition of EBITDA used for establishing Section 162(m) performance objectives comes from IAC s 2013 Stock and Annual Incentive Plan, and is as follows:  EBITDA  means for any period, operating profit (loss) plus, if applicable: (i) depreciation, (ii)  amortization and impairment of intangibles, (iii) goodwill impairment, (iv) non-cash compensation expense, (v) restructuring charges, (vi) non cash write-downs of assets, (vii) charges relating to disposal of lines of business, (viii) litigation settlement amounts and (ix) costs incurred for proposed and completed acquisitions.  
+     
+   2015 Bonuses.    For 2015, the Committee predicated the payment of bonuses to executive officers on attaining: (i) EBITDA in any of the four consecutive calendar quarters beginning with the first quarter of 2015 at least equal to EBITDA in the corresponding calendar quarter twelve months before, (ii) revenue in any of the four consecutive calendar quarters beginning with the first quarter of 2015 at least equal to revenue in the corresponding calendar quarter twelve months before or (iii) share price growth of at least 5% over $63.83 (the closing price of the Company s common stock on December 31, 2014) on any 20 trading days during the period beginning on January 1, 2015 through December 31, 2015. Two of the targets were met.  After concluding that the threshold performance targets for the payment of bonuses had been achieved, the Committee then exercised its right to reduce bonus amounts for each individual executive officer from the maximum level established. In setting actual bonus levels, the Committee considered a variety of factors, including: 
+     
+                         Successful Completion of Match Group IPO.   In November 2015, Match Group successfully completed its initial public offering.  The Company believes that this transaction has positioned both IAC and Match Group to enhance the ability of shareholders of both companies to realize value over the long term.  At December 31, 2015, the Company s ownership interest and voting interest in Match Group were 84.6% and 98.2%, respectively; 
+     
+                         Successful Completion of Other Transactions.   The Company amended and extended its services agreement with Google and continued its disciplined approach to acquisitions, including the acquisition of PlentyOfFish; 
+     
+                         Capitalization and Cash Position.   The Company repatriated a significant amount of cash to stockholders during 2015 by way of share repurchases and quarterly cash dividends. In addition, during 2015: (i) the Company amended and extended its $300 million revolving credit facility, and (ii) Match Group entered into a credit agreement providing for a $500 million credit facility and an $800 million term loan and exchanged $445.3 million of IAC s 4.75% senior notes for $445.2 of Match Group 6.75% senior notes, providing for appropriate capital structures for both entities as they continue to invest in their businesses and identify new opportunities for expansion; and 
+     
+ 10   
+
+Table of Contents   
+     
+                         Revenue and Adjusted EBITDA Results.   Revenue increased modestly over the prior year, reflecting growth in The Match Group, HomeAdvisor and Video segments. Adjusted EBITDA declined 11% for the year, reflecting increased selling and marketing expenses, as well as lower revenue in certain segments. 
+     
+  While the factors noted above were the primary ones considered in setting bonus award amounts, the Committee also considered each executive s role and responsibilities, the relative contributions made by each executive officer during the year and the relative size of the bonuses paid to the other executive officers.  Notwithstanding many significant achievements during the year, Mr. Diller did not receive a bonus for 2015 due to the Company s disappointing financial performance.  With respect to bonuses for other executives, the Committee considered the following: (i)  with respect to Mr. Levin, his new role as Chief Executive Officer of the Company, including his focus on managing the day-to-day business operations of the Company, as well as his participation in the major initiatives undertaken during 2015 and his role in developing strategic initiatives for the Company, (ii) with respect to Mr. Kaufman, his participation in strategic oversight of the Company, and (iii) with respect to Mr. Winiarski, his role in managing the successful completion of the Match Group initial public offering and related debt transactions, as well as the PlentyOfFish acquisition.  
+     
+  As noted above, in setting individual bonus amounts, the Committee did not quantify the weight assigned to any specific factor, nor apply a formulaic calculation. In setting bonus amounts, the Committee generally considered the Company s overall performance, the amount of bonus for each named executive relative to other Company executives and the recommendations of the Chairman and Senior Executive and the Chief Executive Officer. In addition, the Committee considered achievements in 2015 as compared to achievements and bonus levels in prior years.  
+     
+  Executive officer bonuses tend to be highly variable from year-to-year depending on the performance of the Company and, in certain circumstances, individual performance. Accordingly, we believe our executive officer bonus program provides strong incentives to reach the Company s annual goals.  
+     
+   Long-Term Incentives   
+     
+   General.    Due to our entrepreneurial philosophy, we believe that providing a meaningful equity stake in our business is essential to create compensation opportunities that can compete, on a risk-adjusted basis, with entrepreneurial employment alternatives. In addition, we believe that ownership shapes behavior, and that by providing compensation in the form of equity awards, we align executive incentives with stockholder interests in a manner that we believe drives superior performance over time. 
+     
+  While there is currently no formal stock ownership or holding requirement for executive officers, our executive officers generally have historically held a significant portion of their stock awards (net of tax withholdings) well beyond the relevant vesting dates.  
+     
+  In establishing equity awards for an executive for any given period, the amount of outstanding unvested and/or unexercised equity awards, as well as previously earned or exercised awards, is reviewed and evaluated on an individual-by-individual basis. In setting particular award levels, the predominant considerations are providing the executive with effective retention incentives, appropriate reward for past performance, incentives for strong future performance and competitive conditions. The annual corporate performance factors relevant to setting bonus amounts, while taken into account, are generally less relevant in determining the type and level of equity awards, as the awards tend to be more forward looking, and are a longer-term retention and reward instrument relative to our annual bonuses.  
+     
+  The Company s usual practice is to schedule the Committee meetings at which awards are to be made in advance, without regard to the timing of the release of earnings or other material information.  
+     
+   2015 Equity Awards.    In February 2015, the Committee granted 100,000 stock options to each of Messrs. Kip and Winiarski. The options vest 25% a year, on the first four anniversaries of the grant date, and have an exercise price equal to the closing price of the Company s common stock on the grant date.  Also in February 2015, Mr. Kaufman received a restricted stock unit award with a dollar value of $350,000 in accordance with the terms of his employment agreement. The restricted stock units will vest in three equal installments on each of the first three anniversaries of the grant date. 
+     
+  In February and June 2015, to assist the Committee as it considered new equity awards for Mr. Diller and Mr. Levin, respectively, the Company engaged CAP to evaluate various long-term incentive alternatives for each of those executives and, in the case of Mr. Diller, make recommendations to the Committee.  
+     
+ 11   
+
+Table of Contents   
+     
+  In March 2015, the Committee awarded Mr. Diller 1,000,000 stock options which will vest 25% a year on the first four anniversaries of the grant date. One half of the options have an exercise price equal to, and the other half of the options have an exercise price equal to 125% of, the closing price of the Company s common stock on the trading day immediately preceding the grant date.  
+     
+  In making this grant to Mr. Diller, the Committee considered that the last time Mr. Diller received an equity award was in 2011, and prior to that was in 2005. The Committee also noted that the options granted in 2005 were set to expire in June 2015 and that the last tranche of the options granted in 2011 fully vested in February 2015. As a result, the Committee determined it was in the best interest of the Company to provide Mr. Diller an additional long-term incentive award.  In finalizing the structure of the award, the Committee took into account a variety of factors, including:  
+     
+                        competitive pay and performance data among comparator groups of companies; 
+     
+                        the vesting and expiration schedules of Mr. Diller s existing long-term incentive arrangements; 
+     
+                        the nature of Mr. Diller s outstanding long-term incentive arrangements; 
+     
+                        the incentive to create additional shareholder value inherent in the premium option pricing component of the new package; 
+     
+                        the Committee s substantial desire to retain Mr. Diller s services for the long-term; and 
+     
+                        the Company s history of granting Mr. Diller equity awards once every few years (and the Committee s intention to remain consistent with that approach). 
+     
+  The Committee also considered the value realized by Mr. Diller from his exercise of stock options over the years and the intrinsic value of his currently outstanding options. They took note that Mr. Diller had generally exercised options after holding them for substantial periods of time after grant, and as a result, the Committee considered the realization of value by Mr. Diller to be primarily a function of both personal investment decisions by him and the timing of the relevant option expiration dates, and not compensation for the periods in which it would be realized.  
+     
+  On June 24, 2015, Mr. Levin was appointed as the Company s Chief Executive Officer.  In his former role as Chief Executive Officer of IAC Search, a portion of his long-term incentives were tied to that business.  When the Company asked Mr. Levin to become Chief Executive Officer, the Committee desired to have a compensation structure for him that provided incentives directly aligned with the performance of the Company as a whole.  In June 2015, the Committee awarded Mr. Levin 400,000 stock options which will vest 25% a year, on the first four anniversaries of the grant date, and have an exercise price equal to the closing price of the Company s common stock on the grant date, with 50% of these options becoming exercisable only if the closing price per share of the Company s common stock during any 20 consecutive days equals or exceeds 150% of the closing price of the Company s common stock on the grant date.  In connection with this new award, Mr. Levin surrendered to the Company equity awards previously granted to him  that were tied solely to the IAC Search business.  In finalizing the structure of the award, the Committee took into account a variety of factors, including many of those considered in connection with Mr. Diller s award, as discussed above.  
+     
+  We believe these awards provide meaningful retention and performance incentives for our executive officers.  
+     
+   2016 Equity Awards.    In February 2016, the Committee granted 200,000 stock options to Mr. Levin and 100,000 stock options to Mr. Winiarski.  The options vest 25% a year, on the first four anniversaries of the grant date, and have an exercise price equal to the closing price of the Company s common stock on the grant date.  Also in February 2016, Mr. Levin received 100,000 restricted stock units, vesting in one lump sum installment on the third anniversary of the grant date, and Mr. Kaufman received a restricted stock unit award with a dollar value of $350,000 in accordance with the terms of his employment agreement, vesting in thirds on the first three anniversaries of the grant date. 
+     
+   Change of Control   
+     
+  The Company s equity awards for senior executives generally include a so-called  double-trigger  change of control provision, which provides for the acceleration of the vesting of outstanding equity awards in connection with a change of control only when an award recipient suffers an involuntary termination of employment within two years of such change of control. The Committee believes that providing for the acceleration of the vesting of equity awards after an involuntary termination will assist in the retention of our executives through a change of control transaction. For purposes of this discussion and the discussion below under the heading  Severance,  we use the term  involuntary termination  to mean both a termination by the Company without  cause  and a resignation by the executive for  good reason  or similar construct.  
+     
+ 12   
+
+Table of Contents   
+       
+   Severance   
+     
+  We generally provide executive officers with some amount of salary continuation and some amount of accelerated vesting of equity awards in the event of an involuntary termination of employment. Because we tend to promote our executive officers from within, after competence and commitment have generally been established, we believe that the likelihood of the vesting of equity awards being accelerated is typically low, and yet we believe that through providing this benefit we increase the retentive effect of our equity program, which serves as our most important retention incentive. The Company generally does not provide for the acceleration of the vesting of equity awards in the event an executive voluntarily resigns from the Company.  
+     
+   Other Compensation   
+     
+   General.    We provide Mr. Diller with various non-cash benefits as part of his overall compensation program. Under certain limited circumstances, other executive officers have also received non-cash benefits. The value of these benefits is calculated under appropriate rules and is taken into account as a component of compensation when establishing overall compensation levels. The value of all non-cash benefits is reported under the  All Other Compensation  column in the Summary Compensation Table on page 14 pursuant to applicable rules. Our executive officers do not participate in any deferred compensation or retirement programs other than the Company s 401(k) plan. During 2015, we did not (and generally do not) gross-up any benefits provided to any executive officer. Other than those described specifically below, our executive officers do not partake in any benefit programs, or receive any significant perquisites, distinct from the Company s other employees. 
+     
+   Mr. Diller.    Pursuant to Company policy, Mr. Diller is required to travel, both for business and personal purposes, on corporate aircraft. In addition to serving general security interests, this means of travel permits him to travel non-stop and without delay, to remain in contact with the Company while he is traveling, to change his plans quickly in the event Company business requires and to conduct confidential Company business while flying, be it telephonically, by e-mail or in person. These interests are similarly furthered on both business and personal flights, as Mr. Diller typically provides his services to the Company while traveling in either case. Nonetheless, the incremental cost to the Company of his travel for personal purposes is reflected as compensation to Mr. Diller from the Company, and is taken into account in establishing his overall compensation package. For certain personal use of Company-owned aircraft, Mr. Diller reimburses the Company at the maximum rate allowable under applicable rules of the Federal Aviation Administration. 
+     
+  Additionally, the Company provides Mr. Diller with a cash car allowance, as well as providing access to certain automobiles for business and personal use. We also provide certain Company-owned office space and IT equipment for use by certain individuals who work for Mr. Diller personally. These uses are valued by the Company at their incremental cost to the Company or, in the case of the use of office space (where there is no discernible incremental cost), at the cost used for internal allocations of office space for corporate purposes.  
+     
+   Mr. Kaufman.    Mr. Kaufman is entitled to use corporate aircraft for a certain amount of personal travel annually. However, Mr. Kaufman reimburses the Company for the Company s incremental cost of such travel and therefore the value of such travel is not treated as compensation to Mr. Kaufman. Typically, Mr. Kaufman s spouse accompanies him on personal and business flights at no incremental cost to the Company. 
+     
+   Mr. Levin.    Pursuant to Company policy, Mr. Levin is encouraged to travel, both for business and personal purposes, on corporate aircraft for the same reasons as set forth above for Mr. Diller. The incremental cost to the Company of his travel for personal purposes is reflected as compensation to Mr. Levin from the Company, and is taken into account in establishing his overall compensation package. 
+     
+   Tax Deductibility   
+     
+  Whenever possible, we endeavor to structure our compensation program so that the compensation we pay is deductible by the Company for federal income tax purposes. Because of the use of performance conditions in connection with our equity awards and annual bonuses, and the fact that no salaries are in excess of $1 million, these three components are generally deductible by the Company. However, under applicable IRS rules, the personal use of corporate aircraft leads to a disallowance of the deduction of certain airplane and related costs.  
+     
+ 13   
+
+Table of Contents   
+     
+   EXECUTIVE COMPENSATION   
+     
+   Overview   
+     
+  The Executive Compensation section sets forth certain information regarding total compensation earned by our named executives in 2015, as well as equity awards made to our named executives in 2015, equity awards held by our named executives on December 31, 2015 and the dollar value realized by our named executives upon the vesting and exercise of equity awards during 2015.  
+     
+   Summary Compensation Table   
+
+(1)                                      Reflects the dollar value of RSU awards, calculated by multiplying the closing market price of IAC common stock on the grant date by the number of RSUs awarded.  
+     
+  (2)                                      In 2015, Messrs. Diller, Levin, Kip and Winiarski were granted stock option awards with vesting tied to continued service and Mr. Levin was granted a performance stock option award with vesting tied to continued service and exercisability tied to the satisfaction of certain performance-based conditions related to the Company s stock price.  Accordingly, for Messrs. Diller, Kip and Winiarski, these amounts represent the grant date fair value of their stock option awards using the Black-Scholes option pricing model. And for Mr. Levin, $3,980,000 of this amount represents the grant date fair value of stock option awards using the Black-Scholes option pricing model and $4,086,000 of this amount represents the grant date fair value of the performance stock option award using a lattice model that incorporates a Monte Carlo simulation of the Company s stock price. For details regarding the assumptions used to calculate these amounts in 2015, see footnotes 4 and 7 to the Grants of Plan-Based Awards in 2015 table on page 16.  
+     
+ 14   
+
+Table of Contents   
+     
+  (3)                                      Additional information regarding all other compensation amounts for each named executive in 2015 is as follows:  
+
+(a)                                       Pursuant to the Company s Airplane Travel Policy, Mr. Diller is required to travel by Company-owned or chartered aircraft for both business and personal purposes and Mr. Levin is encouraged to use Company aircraft for business and personal travel when doing so would serve the interests of the Company.  See the discussion regarding airplane travel under Compensation Discussion and Analysis on page 13. We calculate the incremental cost to the Company for personal use of Company aircraft based on the average variable operating costs to the Company. Variable operating costs include fuel, certain maintenance costs, navigation fees, on-board catering, landing fees, crew travel expenses and other miscellaneous variable costs. The total annual variable costs are divided by the annual number of miles the Company aircraft flew to derive an average variable cost per mile. This average variable cost per mile is then multiplied by the miles flown for personal use. Incremental costs do not include fixed costs that do not change based on usage, such as pilots  salaries, the purchase costs of Company-owned aircraft, insurance, scheduled maintenance and non-trip related hangar expenses. Messrs. Diller and Levin occasionally had family members or other guests accompany them on business and personal trips. While travel by family members or other guests does not result in any incremental cost to the Company, such travel does result in the imputation of taxable income to Messrs. Diller and Levin, the amount of which is calculated in accordance with applicable IRS regulations.  
+     
+  (b)                                      Represents the total amount of other benefits provided to Mr. Diller, none of which individually exceeded 10% of the total value of all perquisites and personal benefits. The total amount of other benefits provided reflects: (i) lease payments, parking, fuel, maintenance and other costs associated with Mr. Diller s personal use of an automobile leased and maintained by IAC and a cash car allowance, (ii) an allocation (based on square footage) of costs for the use of IAC office space by certain individuals who work for Mr. Diller personally, (iii) an allocation (based on the number of personal computers and communication devices supported by IAC) of costs relating to the use by such individuals of the Company s IT technical support and certain communications equipment and (iv) costs incurred for Mr. Diller s personal use of other car services.  
+     
+  (4)                                      In connection with the grant of IAC stock options to Mr. Levin at the time he was appointed Chief Executive Officer of IAC in June 2015, Mr. Levin surrendered equity awards tied solely to the value of IAC s Search business.  
+     
+ 15   
+
+Table of Contents   
+       
+   Grants of Plan-Based Awards in 2015   
+     
+  The table below provides information regarding all stock options and RSUs granted to our named executives in 2015.  
+
+(1)                                    For information on the treatment of stock options and RSUs upon a termination of employment (including certain terminations during specified periods following a change in control of IAC), see the discussion under Estimated Potential Payments Upon Termination or Change in Control of IAC beginning on page 19. 
+     
+  (2)                                    These stock options vested/vest in four equal installments on the first four anniversaries of the applicable grant date, subject to continued employment. 
+     
+  (3)                                    The exercise price is equal to the fair market value per share (as defined in the applicable stock and annual incentive plan) of IAC common stock on the grant date. 
+     
+  (4)                                    Reflects the grant date fair value of stock option awards using the Black-Scholes option pricing model. The Black-Scholes option pricing model incorporates various assumptions, including expected volatility (based on the historical volatility of IAC common stock), risk-free interest rates (based on U.S. Treasury yields for notes with terms comparable to those of the stock options, in effect at the grant date), expected term (based on the historical exercise behavior of our employees) and dividend yield (based on IAC s historical dividend payments). The assumptions used to calculate the amounts in the table above for stock option awards granted to our named executive are as follows: 
+
+(5)                                    The exercise price is equal to 125% of the fair market value per share (as defined in the applicable stock and annual incentive plan) of IAC common stock on the grant date. 
+     
+  (6)                                    These stock options vest in four equal installments on the first four anniversaries of the grant date, subject to continued employment, and become exercisable if the closing price per share of the Company s common stock during any 20 consecutive trading day period equals or exceeds $115.89 (a 50% increase to the closing price of the Company s common stock on the grant date) at any time during the period during which the stock options are outstanding. 
+     
+  (7)                                    Reflects the grant date fair value of the performance stock option award granted to Mr. Levin using a lattice model that incorporates a Monte Carlo simulation of IAC s stock price. The assumptions used to calculate the amount in the table above for this award are as follows: weighted average expected volatility (27)%, risk-free interest rate (2.3%), and dividend yield (1.8%). The expected term of this award (4 years) is derived from the output of the valuation model. 
+     
+  (8)                                    These RSUs vested/vest in three equal installments on the first three anniversaries of the grant date, subject to continued employment. 
+     
+  (9)                                    Reflects the dollar value of RSU awards, calculated by multiplying the closing market price of IAC common stock on the grant date by the number of RSUs awarded. 
+     
+ 16   
+
+Table of Contents   
+       
+   Outstanding Equity Awards at 2015 Fiscal Year-End   
+     
+  The table below provides information regarding equity awards held by our named executives on December 31, 2015. The market value of all RSU awards is based on the closing price of IAC common stock on December 31, 2015 ($60.05).  
+
+(1)                                    The table below provides the following information regarding RSUs held by our named executives on December 31, 2015: (i) the grant date of each award, (ii) the number of RSUs outstanding on December 31, 2015, (iii) the market value of RSUs outstanding on December 31, 2015, (iv) the vesting schedule for each award and (v) the total number of RSUs that vested/are scheduled to vest in each of the fiscal years ending December 31, 2016, 2017, 2018 and 2019. 
+     
+ 17   
+
+Table of Contents   
+
+(2)                                    These stock options vested/vest in four equal installments on the first four anniversaries of the applicable grant date, subject to continued employment. 
+     
+  (3)                                    The last installment of these stock options (with each installment representing one-third of the award) vested on February 2, 2016. 
+     
+  (4)                                    The three remaining installments of these stock options (with each installment representing 25% of the award) vest on July 29, 2016, 2017 and 2018, subject to continued employment. 
+     
+  (5)                                    Consists of: (i) 200,000 stock options that vest in four equal installments on the first four anniversaries of the grant date, subject to continued employment, and (ii) 200,000 performance stock options that vest on the first four anniversaries of the grant date, subject to continued employment, and become exercisable if the closing price per share of the Company s common stock during any 20 consecutive trading day period equals or exceeds $115.89 (a 50% increase to the closing price of the Company s common stock on the grant date) at any time during the period during which the stock options are outstanding. 
+     
+  (6)                                    The last installment of these stock options (with each installment representing one-third of the award) vested on March 14, 2016. 
+     
+  (7)                                    The two remaining installments of these stock options (with each installment representing 25% of the initial award) vested/vest in equal installments on May 3, 2016 and 2017, subject to continued employment. 
+     
+  (8)                                    The three remaining installments of these stock options (with each installment representing 25% of the initial award) vested/vest in equal installments on February 11, 2016, 2017 and 2018, subject to continued employment. 
+     
+  (9)                                    The last installment of these stock options (with each installment representing 25% of the award) vested on February 2, 2016. 
+     
+ 18   
+
+Table of Contents   
+     
+   2015 Option Exercises and Stock Vested   
+     
+  The table below provides information regarding the number of shares acquired by our named executives upon the exercise of stock options and the vesting of RSU awards in 2015 and the related value realized, excluding the effect of any applicable taxes. The dollar value realized upon the exercise of stock options represents the difference between: (i)(A) in the case of simultaneous exercise and sale transactions, the sale price of the shares acquired upon exercise, or (B) in the case of Mr. Diller s exercise only, the closing price of IAC common stock on the exercise date given the fact that no simultaneous sale occurred, and (ii) the exercise price of the stock options, multiplied by the number of stock options exercised.  The dollar value realized upon the vesting of RSUs represents the closing price of IAC common stock on the vesting date, multiplied by the number of RSUs so vesting.  
+
+(1)                                    Mr. Diller also exercised HSN, Inc. and Tree.com, Inc. stock options in 2015, in connection with which he received gross proceeds of $11,996,840 and $5,132,875, respectively. In both cases, these amounts represent the difference between the exercise price of the applicable stock options and the fair market value per share (as defined in the applicable stock and annual incentive plan) of the applicable common stock underlying such stock options at the time of exercise. 
+     
+  Mr. Diller received these stock options as a result of spin-off transactions completed by the Company in August 2008. The value realized upon the exercise of these non-IAC stock options by Mr. Diller is treated for tax purposes as compensation payable to him in his capacity as Chairman and Senior Executive of the Company.  
+     
+  (2)                                    In connection with the exercise of these stock options, the Company withheld 395,654 shares of IAC common stock to cover the payment of the exercise price and 173,369 shares of IAC common stock to cover the payment of taxes due in connection with the exercise, which resulted in the issuance of 136,711 shares of IAC common stock to Mr. Diller. 
+     
+   Estimated Potential Payments Upon Termination or Change in Control of IAC   
+     
+  Certain of our employment agreements, equity award agreements and/or omnibus stock and annual incentive plans entitle our named executives to continued base salary payments, the acceleration of the vesting of equity awards and/or extended post-termination exercise periods for stock options upon certain terminations of employment (including certain terminations during specified periods following a change in control of IAC). These arrangements are described below as they would have applied to each named executive on December 31, 2015.  
+     
+  Certain amounts that would have become payable to our named executives upon the events described above (as and if applicable), assuming that the relevant event occurred on December 31, 2015, are described and quantified in the table below. These amounts, which exclude the effect of any applicable taxes, are based on the named executive s base salary and the number of stock options and/or RSUs outstanding on December 31, 2015 and the closing price of IAC common stock ($60.05) on December 31, 2015. In addition to these amounts, certain other amounts and benefits generally payable and made available to other Company employees upon a termination of employment, including payments for accrued vacation time and outplacement services, will generally be payable to named executives.  
+     
+   Messrs. Diller and Levin   
+     
+  No payments would have been made to Messrs. Diller and Levin pursuant to any agreement between the Company and these named executives upon a termination without cause or due to death or disability or a resignation for good reason on December 31, 2015.  In addition, no payments would have been made Messrs. Diller and Levin pursuant to any agreement between the Company and these named executives upon a change in control of IAC on December 31, 2015. Lastly, upon a termination without cause or resignation for good reason following a change in control of IAC on December 31, 2015, in accordance with the applicable omnibus stock and incentive plan and the related award agreements, the vesting of all then  
+     
+ 19   
+
+Table of Contents   
+     
+  outstanding and unvested stock options and/or RSUs, as applicable, held by Messrs. Diller and Levin would have been accelerated.  
+     
+  In addition, in the case of Mr. Diller only, under the Equity and Bonus Compensation Agreement, dated August 24, 1995, between IAC and Mr. Diller, we agreed that to the extent any payment or distribution by IAC to or for the benefit of Mr. Diller (whether under the terms of the related agreement or otherwise) would be subject to the excise tax imposed by  4999 of the Internal Revenue Code, or any interest or penalties are incurred by Mr. Diller with respect to such excise tax, then Mr. Diller would be entitled to a gross-up payment covering the excise taxes and related interest and penalties. Given that Mr. Diller would not have received any payment or other benefits upon an assumed change in control of IAC at the end of 2015, the Company does not believe that any excise tax would be imposed or that any gross-up would be required.  
+     
+   Mr. Kaufman   
+     
+  Upon a termination without cause or resignation for good reason on December 31, 2015, pursuant to the terms of his amended employment agreement, Mr. Kaufman would have been entitled to:  
+     
+                        the partial vesting of outstanding and unvested RSUs in amounts equal to the number that would have otherwise vested in accordance with the terms of such awards during the 12-month period following such termination of employment; and 
+     
+                        continue to have the ability to exercise his vested stock options through June 30, 2017. 
+     
+  No payments would have been made to Mr. Kaufman pursuant to any agreement between the Company and Mr. Kaufman upon a change in control of IAC on December 31, 2015. Upon a termination without cause or resignation for good reason following a change in control of IAC on December 31, 2015, in accordance with our omnibus stock and annual incentive plans and the related award agreements, the vesting of all then outstanding and unvested RSUs held by Mr. Kaufman would have been accelerated. For Mr. Kaufman,  good reason  means a material breach of his amended employment agreement by the Company that it fails to remedy.  
+     
+   Mr. Kip   
+     
+  Upon a termination without cause or voluntary resignation on December 31, 2015, pursuant to the terms of an oral agreement between Mr. Kip and the Company that was reached following his tenure as the Company s Chief Financial Officer, Mr. Kip would have been entitled to:  
+     
+                        receive 12 months of his base salary, subject to the execution and non-revocation of a release and compliance with post-termination confidentiality, non-solicitation of employees (18 months), non- solicitation of business partners (12 months) and assignment of certain employee developments covenants, and subject to offset for any amounts earned from other employment during the severance period; 
+     
+                        the partial vesting of outstanding and unvested stock options and RSUs in amounts equal to the number that would have otherwise vested in accordance with the terms of such awards during the 12-month period following such termination of employment; and 
+     
+                        continue to have the ability to exercise his vested stock options through June 30, 2017. 
+     
+  No payments would have been made to Mr. Kip pursuant to any agreement between the Company and Mr. Kip upon a change in control of IAC on December 31, 2015. Lastly, upon a termination without cause or resignation for good reason following a change in control of IAC on December 31, 2015, in accordance with the applicable omnibus stock and annual incentive plans and the related award agreements, the vesting of all then outstanding and unvested stock options and RSUs held by Mr. Kip would have been accelerated.  
+     
+   Mr. Winiarski   
+     
+  Upon a termination without cause or resignation for good reason on December 31, 2015, pursuant to the terms of his employment agreement, Mr. Winiarski would have been entitled to:  
+     
+                        receive 12 months of his base salary, subject to the execution and non-revocation of a release and compliance with post-termination confidentiality, non-solicitation of employees (18 months), non- solicitation of business partners (12 months) and assignment of certain employee developments covenants, and subject to offset for any amounts earned from other employment during the severance period; 
+     
+                        the partial vesting of outstanding and unvested stock options and RSUs in amounts equal to the number that would have otherwise vested in accordance with the terms of such awards during the 12-month period following such termination of employment; and 
+     
+                        continue to have the ability to exercise his vested stock options through June 30, 2017. 
+     
+ 20   
+
+Table of Contents   
+     
+  No payments would have been made to Mr. Winiarski pursuant to any agreement between the Company and Mr. Winiarski upon a change in control of IAC on December 31, 2015. Upon a termination without cause or resignation for good reason following a change in control of IAC on December 31, 2015, in accordance with our omnibus stock and annual incentive plans and the related award agreements, the vesting of all then outstanding and unvested stock options and RSUs held by Mr. Winiarski would have been accelerated.  
+     
+  For Mr. Winiarski,  good reason  includes: (i) a material adverse change in his title, duties or level of responsibilities, (ii) a material reduction in his base salary, (iii) a material relocation of his principal place of employment outside of the New York City metropolitan area, and (iv) a material adverse change in reporting structure such that he is no longer reporting to a Company officer with a title of Executive Vice President or above that reports to the Company s Chairman or Vice Chairman, in each case, without the written consent of Mr. Winiarski or that is not cured promptly after notice.  
+
+(1)                                    Represents the difference between the closing price of IAC common stock ($60.05) on December 31, 2015 and the exercise prices of all in-the-money stock options accelerated upon the occurrence of the relevant event specified above, multiplied by the number of stock options accelerated. 
+     
+  (2)                                    Represents the closing price of IAC common stock ($60.05) on December 31, 2015, multiplied by the number of RSUs accelerated upon the occurrence of the relevant event specified above. 
+     
+  (3)                                    Represents the value of stock options that would have vested upon a termination of employment without cause or resignation for good reason following a change in control of IAC on December 31, 2015 in accordance with the applicable omnibus stock and annual incentive plan and the related award agreements. 
+     
+  (4)                                    Represents the value of RSUs that would have vested upon a termination of employment without cause or resignation for good reason following a change in control of IAC on December 31, 2015 in accordance with the applicable omnibus stock and annual incentive plan and the related award agreements. 
+     
+ 21   
+
+Table of Contents   
+     
+  (5)                                    Represents the value of RSUs that would have otherwise vested during the 12-month period following: (i) a termination of employment without cause or resignation for good reason in the case of Messrs. Kaufman and Winiarski and (ii) a termination of employment without cause or voluntary resignation in the case of Mr. Kip, in each case, in accordance with the terms of these awards. 
+     
+  (6)                                    Represents continued salary payments that Mr. Kip would have been entitled to receive upon a termination of employment without cause or voluntary resignation on December 31, 2015. 
+     
+  (7)                                    Represents the value of stock options that would have otherwise vested during the 12-month period following (i) a termination of employment without cause or voluntary resignation in the case of Mr. Kip and (ii) a termination without cause or resignation for good reason in the case of Mr. Winiarski, in each case, in accordance with the terms of these awards. 
+     
+   DIRECTOR COMPENSATION   
+     
+   Non-Employee Director Compensation Arrangements.    The Nominating Committee has primary responsibility for establishing non-employee director compensation arrangements, which have been designed to provide competitive compensation necessary to attract and retain high quality non- employee directors and to encourage ownership of Company stock to further align the interests of our directors with those of our stockholders. Arrangements in effect during 2015 provided that: (i) each member of the Board receive an annual retainer in the amount of $50,000, (ii) each member of the Audit and Compensation and Human Resources Committees (including their respective Chairpersons) receive an additional annual retainer in the amount of $10,000 and $5,000, respectively, and (iii) the Chairpersons of each of the Audit and Compensation and Human Resources Committees receive an additional annual chairperson retainer in the amount of $20,000, with all amounts being paid quarterly, in arrears. 
+     
+  In addition, these arrangements also provide that each non-employee director receive a grant of RSUs with a dollar value of $250,000 upon his or her initial election to the Board and annually thereafter upon re-election on the date of IAC s annual meeting of stockholders, the terms of which provide for: (i) vesting in three equal annual installments commencing on the first anniversary of the grant date, (ii) cancellation and forfeiture of unvested RSUs in their entirety upon termination of service for IAC and its affiliates and (iii) full acceleration of vesting upon a change in control of IAC. The Company also reimburses non-employee directors for all reasonable expenses incurred in connection with attendance at IAC Board and Board committee meetings.  
+     
+   Deferred Compensation Plan for Non-Employee Directors.    Under IAC s Deferred Compensation Plan for Non-Employee Directors, non-employee directors may defer all or a portion of their Board and Board committee fees. Eligible directors who defer all or any portion of these fees can elect to have such deferred fees applied to the purchase of share units, representing the number of shares of IAC common stock that could have been purchased on the relevant date, or credited to a cash fund. If any dividends are paid on IAC common stock, dividend equivalents will be credited on the share units. The cash fund will be credited with deemed interest at an annual rate equal to the weighted average prime lending rate of JPMorgan Chase Bank. After a director ceases to be a member of the Board, he or she will receive: (i) with respect to share units, such number of shares of IAC common stock as the share units represent, and (ii) with respect to the cash fund, a cash payment in an amount equal to deferred amounts, plus accrued interest. These payments are generally made in a one lump sum installment after the relevant director leaves the Board and otherwise in accordance with the plan. 
+     
+   2015 Non-Employee Director Compensation.    The table below provides the amount of: (i) fees earned by non-employee directors for services performed during 2015 and (ii) the grant date fair value of RSU awards granted in 2015. 
+
+22   
+
+Table of Contents   
+
+(1)                                    Fees earned by, and the grant date fair value of RSU awards granted to, a former director (Sonali De Rycker) in 2015 were $50,000 in fees earned and deferred and an IAC RSU award with a grant date fair value of $249,936. 
+     
+  (2)                                    Represents the dollar value of fees deferred in the form of share units by the relevant director under IAC s Deferred Compensation Plan for Non-Employee Directors. Pursuant to the terms of the plan, share units are credited with the number of share units that could have been purchased with the dollar amount of ordinary cash dividends payable on the number of share units outstanding on the relevant dividend record date, with each share unit being treated as if it was one share of IAC common stock. Share units issued as credit for ordinary cash dividends paid are settled at the same time as the underlying share units (after the relevant director leaves the Board and otherwise in accordance with the plan). 
+     
+  Pursuant to the plan, share units held by each of Messrs. Bronfman, Lourd, Rosenblatt, Spoon and von Furstenberg and Mmes. Clinton and De Rycker during 2015 were credited with share units for ordinary cash dividends paid in 2015 with a value of approximately $30,482, $28,571, $7,095, $37,076, $4,756, $4,215 and $2,457, respectively.  
+     
+  (3)                                    Amounts presented represent the grant date fair value of these RSU awards, which was calculated using the closing price of IAC common stock on the grant date. 
+     
+  (4)                                    The differences in the amounts shown above among directors reflect, as applicable, committee service (or lack thereof), which varies among directors. 
+     
+   Item 12.    Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters  .   
+     
+   SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT   
+     
+  The following table presents, as of April 25, 2016, information relating to the beneficial ownership of IAC common stock and Class B common stock by: (1) each person known by IAC to own beneficially more than 5% of the outstanding shares of IAC common stock and Class B common stock, (2) each current director, (3) each named executive and (4) all current directors and named executives of IAC as a group. As of April 25, 2016, there were 73,971,410 and 5,789,499 shares of IAC common stock and Class B common stock, respectively, outstanding.  
+     
+  Unless otherwise indicated, the beneficial owners listed below may be contacted at IAC s corporate headquarters located at 555 West 18th Street, New York, New York 10011. For each listed person, the number of shares of IAC common stock and percent of such class listed assumes the conversion or exercise of any IAC equity securities owned by such person that are or will become convertible or exercisable, and the vesting of any stock options and/or RSUs that will vest, within 60 days of April 25, 2016, but does not assume the conversion, exercise or vesting of any such equity securities owned by any other person. Shares of IAC Class B common stock may at the option of the holder be converted on a one-for-one basis into shares of IAC common stock. The percentage of votes for all classes of capital stock is based on one vote for each share of IAC common stock and ten votes for each share of IAC Class B common stock.  
+     
+ 23   
+
+Table of Contents   
+
+*                                            The percentage of shares beneficially owned does not exceed 1% of the class. 
+     
+  (1)                                    Based upon information regarding IAC holdings reported by way of Amendment No. 3 to a Schedule 13G filed by The Vanguard Group ( Vanguard ) with the SEC on February 11, 2016. Vanguard beneficially owns the IAC holdings disclosed in the table above in its capacity as an investment adviser and investment manager. Vanguard has sole voting power, shared voting power, sole dispositive power and shared dispositive power over 55,931, 4,300, 5,154,907 and 55,531 shares of IAC common stock, respectively, listed in the table above. 
+     
+  (2)                                    Consists of: (i) (A) 5,248,598 shares of IAC Class B common stock (which are convertible on a one-for-one basis into shares of IAC common stock) and (B) 136,711 shares of IAC common stock, all of which are held by two grantor retained annuity trusts and over which Mr. Diller has sole investment power and Mr. Diller s spouse, Diane von Furstenberg, has sole voting power, (ii) 1,711 shares of IAC common stock held by a private foundation as to which Mr. Diller disclaims beneficial ownership and (iii) vested options to purchase 550,000 shares of IAC common stock. 
+     
+  (3)                                    The total number of shares of Class B common stock outstanding on April 26, 2015 includes : (i) 5,248,598 shares held by two grantor retained annuity trusts over which Mr. Diller has sole investment power and over which Ms. Von Furstenberg has sole voting power and (ii) 540,901 shares over which Mr. Von Furstenberg has sole voting and investment power. 
+     
+  (4)                                    Consists of: (i) 59,621 shares held directly by Mr. Bronfman, (ii) 5,375 shares of IAC common stock held for the benefit of Mr. Bronfman in an individual retirement account, (iii) 2,125 shares of IAC common stock held by Mr. Bronfman in his capacity as custodian for his minor children and (iv) 2,289 shares of IAC common stock to be received upon the vesting of RSUs in the next 60 days, subject to continued service. Mr. Bronfman disclaims beneficial ownership of the shares of IAC common stock described in (iii) above. 
+     
+  (5)                                    Consists of: (i) 16,480 shares of IAC common stock held directly by Ms. Clinton and (ii) 2,289 shares of IAC common stock to be received upon the vesting of RSUs in the next 60 days, subject to continued service. 
+     
+  (6)                                    Consists of: (i) 25,750 shares of IAC common stock held directly by Mr. Eisner and (ii) 2,289 shares of IAC common stock to be received upon the vesting of RSUs in the next 60 days, subject to continued service. 
+     
+  (7)                                    Consists of: (i) 1,182 shares of IAC common stock held directly by Ms. Hammer and (ii) 1,078 shares of IAC common stock to be received upon the vesting of RSUs in the next 60 days, subject to continued service. 
+     
+ 24   
+
+Table of Contents   
+     
+  (8)                                    Consists of: (i) 92,597 shares of IAC common stock held directly by Mr. Kaufman and (ii) vested options to purchase 390,971 shares of IAC common stock. 
+     
+  (9)                                    Consists of: (i) 30,000 shares of IAC common stock held directly by Mr. Kip, (ii) vested options to purchase 320,503 shares of IAC common stock and (iii) (A) options to purchase 16,502 shares of IAC common stock vesting, and (B) 7,968 shares of IAC common stock to be received upon the vesting of RSUs, in each case, in the next 60 days, subject to continued service. 
+     
+  (10)                             Consists of: (i) 24,489 shares of IAC common stock held directly by Mr. Levin, (ii) vested options to purchase 487,500 shares of IAC common stock and (iii) options to purchase 50,000 shares of IAC common stock vesting in the next 60 days, subject to continued service. 
+     
+  (11)                             Consists of: (i) 10,815 shares of IAC common stock held directly by Mr. Lourd and (ii) 2,289 shares of IAC common stock to be received upon the vesting of RSUs in the next 60 days, subject to continued service. 
+     
+  (12)                             Consists of: (i) 43,433 shares of IAC common stock held directly by Mr. Rosenblatt and (ii) 2,289 shares of IAC common stock to be received upon the vesting of RSUs in the next 60 days, subject to continued service. 
+     
+  (13)                             Consists of: (i) 86,267 shares of IAC common stock held directly by Mr. Spoon and (ii) 2,289 shares of IAC common stock to be received upon the vesting of IAC RSUs in the next 60 days, subject to continued service. 
+     
+  (14)                             Consists of: (i) 21,250 shares of IAC common stock held directly by Mr. Stein and (ii) vested options to purchase 276,823 shares of IAC common stock. 
+     
+  (15)                             Consists of: (i) 540,901 shares of IAC Class B common stock (which are convertible on a one-for-one basis into shares of IAC common stock) held a family trust, over which Mr. von Furstenberg has sole voting and investment power, (ii) 50,933 shares of IAC common stock held directly by Mr. von Furstenberg and (iii) 2,289 shares of IAC common stock to be received upon the vesting of RSUs in the next 60 days, subject to continued service. 
+     
+  (16)                             Consists of: (i) 5,248,598 shares of IAC Class B common stock (which are convertible on a one-for-one basis into shares of IAC common stock) and (ii) 136,711 shares of IAC common stock, all of which are held by two grantor retained annuity trusts (the same trusts referred to in footnote (2) above) and over which Ms. Von Furstenberg has sole voting power and Mr. Diller has sole investment power. 
+     
+  (17)                             Consists of: (i) 21,372 shares of IAC common stock held directly by Mr. Winiarski, (ii) vested options to purchase 584,502 shares of IAC common stock and (iii) (A) options to purchase 11,001 shares of IAC common stock vesting, and (B) 5,312 shares of IAC common stock to be received upon the vesting of RSUs, in each case, in the next 60 days, subject to continued service. 
+     
+  (18)                             Consists of: (i) 43,750 shares of IAC common stock held directly by Mr. Zannino and (ii) 2,289 shares of IAC common stock to be received upon the vesting of RSUs in the next 60 days, subject to continued service. 
+     
+ 25   
+
+Table of Contents   
+       
+   SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS   
+     
+  The following table summarizes information, as of December 31, 2015, regarding IAC equity compensation plans pursuant to which grants of IAC stock options, IAC RSUs or other rights to acquire shares of IAC common stock may be made from time to time.  
+
+Plan Category        
+
+Number of Securities    to be Issued upon    Exercise of    Outstanding Options,    Warrants and    Rights(1)    (A)        
+
+Weighted-Average    Exercise Price of    Outstanding    Options,    Warrants and    Rights    (B)        
+
+Number of Securities    Remaining Available    for Future Issuance    Under Equity    Compensation Plans    (Excluding    Securities Reflected    in Column (A))    (C)        
+
+Equity   compensation plans approved by security holders(2)       
+
+8,594,341       
+ 
+  (3)       
+ 
+  $       
+ 
+  52.13       
+
+4,684,340       
+ 
+  (4)           
+
+Equity   compensation plans not approved by security holders       
+
+Total       
+
+8,594,341       
+ 
+  (3)       
+ 
+  $       
+ 
+  52.13       
+
+4,684,340       
+ 
+  (4)              
+
+(1)                                    Information excludes 6,401,414 shares that have been reserved and may be issuable upon the settlement of subsidiary-level phantom equity awards (without giving effect to the withholding of shares to cover taxes due) that relate to subsidiaries of IAC and Match Group, Inc. ( Match Group ), based on the estimated values of such awards as of December 31, 2015. For a description of these awards, see the discussion under the caption  Equity Instruments Denominated in the Shares of Certain Subsidiaries  in Note 12 to the consolidated financial statements in our Form 10-K for the fiscal year ended December 31, 2015, which is incorporated herein by reference. 
+     
+  Following the completion of Match Group s initial public offering in November 2015, subsidiary-level phantom equity awards that relate to Match Group subsidiaries are settleable, at IAC s election, in shares of IAC common stock or Match Group common stock. To the extent that shares of IAC common stock are issued in settlement of these awards, Match Group will reimburse IAC for the cost of those shares by issuing IAC additional shares of Match Group common stock. As of December 31, 2015, 4,101,657 shares of IAC common stock (included within the 6,401,414 shares of IAC common stock disclosed above) would have been issuable upon the settlement of subsidiary-level phantom equity awards that relate to Match Group subsidiaries.  
+     
+  The number of shares ultimately needed to settle subsidiary-level phantom equity awards can vary from the estimated numbers disclosed above as a result of both movements in our stock price and determinations of the fair value of the relevant subsidiaries that differ from our estimated determinations of the fair value of such subsidiaries as of December 31, 2015.  
+     
+  (2)                                    Includes the 2013 and 2008 Stock and Annual Incentive Plans (both of which have been approved by security holders). For a description of our stock and annual incentive plans, see the first two paragraphs of Note 12 to the consolidated financial statements in our Form 10-K for the fiscal year ended December 31, 2015, which are incorporated herein by reference. 
+     
+  (3)                                    Includes an aggregate of: (i) up to 1,311,399 shares issuable upon the vesting of IAC RSUs (including performance-based RSU awards, with the total number of shares included above assuming the maximum potential payout); and (ii) 7,282,942 shares issuable upon the exercise of outstanding IAC stock options, in each case, as of December 31, 2015. 
+     
+  (4)                                    Reflects 11,085,754 shares that remain available for future issuance under the plans described in footnote 2 above  less  an aggregate of 6,401,414 shares that have been reserved and may be issuable upon the settlement of the subsidiary-level phantom equity awards discussed in footnote1 above. 
+     
+ 26   
+
+Table of Contents   
+       
+   Item 13.    Certain Relationships and Related Transactions, and Director Independence     
+     
+   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS   
+     
+   Review of Related Person Transactions   
+     
+  The Audit Committee has a formal, written policy that requires an appropriate review of all related person transactions by the Audit Committee, as required by Marketplace Rules governing conflict of interest transactions. For purposes of this policy, as amended, consistent with the Marketplace Rules, the terms  related person  and  transaction  are determined by reference to Item 404(a) of Regulation S-K under the Securities Act of 1933, as amended ( Item 404 ). During 2015, in accordance with this policy, Company management was required to determine whether any proposed transaction, arrangement or relationship with a related person fell within the definition of  transaction  set forth in Item 404, and if so, review such transaction with the Audit Committee. In connection with such determinations, Company management and the Audit Committee consider: (i) the parties to the transaction and the nature of their affiliation with IAC and the related person, (ii) the dollar amount involved in the transaction, (iii) the material terms of the transaction, including whether the terms of the transaction are ordinary course and/or otherwise negotiated at arms  length, (iv) whether the transaction is material, on a quantitative and/or qualitative basis, to IAC and/or the related person and (v) any other facts and circumstances that Company management or the Audit Committee deems appropriate.  
+     
+   Relationships Involving Significant Stockholders, Named Executives and Directors   
+     
+    Relationships Involving Mr. Diller.     Pursuant to an amended and restated governance agreement between IAC and Mr. Diller, for so long as Mr. Diller serves as IAC s Chairman and Senior Executive, he generally has the right to consent to limited matters in the event that IAC s ratio of total debt to EBITDA (as defined in the governance agreement) equals or exceeds four to one over a continuous twelve-month period. 
+     
+  In 2001, IAC and Mr. Diller entered into an agreement with respect to the construction of a screening room on Mr. Diller s property to assist Mr. Diller in connection with Company-related activities. Construction costs of approximately $1.8 million were paid by the Company and the agreement provides that under certain circumstances, including upon the termination of Mr. Diller s employment by IAC or its affiliates, Mr. Diller shall have the option to pay to IAC an amount equal to the depreciated book value of the construction costs to acquire the facilities.  
+     
+  As discussed in the Compensation Discussion and Analysis on page 13, pursuant to the Company s Airplane Travel Policy, Mr. Diller is required to travel by Company-owned or chartered aircraft for both business and personal use. Mr. Diller reimbursed IAC approximately $350,000 for personal use of Company-owned aircraft in 2015.  
+     
+    Relationships Involving Other Directors.     During 2015, an IAC business was billed for data licensing services provided by infoGroup, Inc. ( infoGroup ) in the aggregate amount of approximately $500,000. infoGroup is a portfolio company of CCMP Capital Advisors, LLC, of which Mr. Zannino is a Managing Director and member of the firm s Investment Committee. The agreement pursuant to which the IAC business made these payments was entered into by the parties before Mr. Zannino began serving on the Board and before CCMP acquired infoGroup. 
+     
+   Relationships Involving IAC and Expedia   
+     
+    Overview.     Since the completion of the spin-off of Expedia in August 2005 (the  Expedia Spin-Off ), IAC and Expedia have been related parties since they are under common control. In connection with and following the Expedia Spin-Off, IAC and Expedia entered into certain arrangements, including arrangements regarding the sharing of certain costs, the use and ownership of certain aircraft and various commercial agreements, certain of which are generally described below. 
+     
+    Cost Sharing Arrangements.     Mr. Diller currently serves as Chairman and Senior Executive of both IAC and Expedia. In connection with the Expedia Spin-Off, IAC and Expedia had agreed, in light of Mr. Diller s senior role at both companies and his anticipated use of certain resources to the benefit of both companies, to share certain expenses associated with such usage, as well as certain costs incurred by IAC in connection with the provision of certain benefits to Mr. Diller (the  Shared Costs ). Cost sharing arrangements in effect during 2015 provided that each of IAC and Expedia cover 50% of the Shared Costs, which both companies agreed best reflects the allocation of actual time spent (and time to be spent) by Mr. Diller between the two companies. Shared Costs include costs for personal use of cars and equipment dedicated to Mr. Diller s use and expenses relating to Mr. Diller s support staff.  Costs in 2015 for which IAC billed Expedia were approximately $495,000 pursuant to these arrangements. 
+     
+ 27   
+
+Table of Contents   
+         
+    Aircraft Arrangements.     Each of IAC and Expedia has a 50% ownership interest in two aircraft that are used by both companies (the  Aircraft ). IAC and Expedia entered into an amended and restated operating agreement that allocates the costs of operating and maintaining the Aircraft between the parties. Fixed costs are allocated 50% to each company and variable costs are allocated based on usage. These costs are generally paid by each company to third parties in accordance with the terms of the amended and restated operating agreement. 
+     
+  In the event Mr. Diller ceases to serve as Chairman of either IAC or Expedia, each of IAC and Expedia will have a put right (to the other party) with respect to its owned interest in the aircraft that it does not primarily use (with such determination to be based on relative usage over the twelve months preceding such event), in each case, at fair market value for the aircraft in question.  
+     
+  Members of the flight crew for the Aircraft are employed by an entity in which each of IAC and Expedia has a 50% ownership interest. IAC and Expedia have agreed to share costs relating to flight crew compensation and benefits pro rata according to each company s respective usage of the Aircraft, for which they are separately billed by the entity described above. During 2015, total payments in the amount of approximately $1.8 million were made to this entity by IAC.  
+     
+    Commercial Agreements.     In connection with and following the Expedia Spin-Off, certain IAC businesses entered into commercial agreements with certain Expedia businesses. IAC believes that these arrangements are ordinary course and have been negotiated at arm s length. In addition, IAC believes that none of these arrangements, whether taken individually or in the aggregate, constitute a material contract to IAC. None of these arrangements, whether taken individually or together with other similar agreements, involved payments to or from IAC and its businesses in excess of $120,000 in 2015. 
+     
+   DIRECTOR INDEPENDENCE   
+     
+  Under the Marketplace Rules, the Board has a responsibility to make an affirmative determination that those members of the Board who serve as independent directors do not have any relationships that would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. In connection with the independence determinations described below, the Board reviewed information regarding transactions, relationships and arrangements relevant to independence, including those required by the Marketplace Rules. This information is obtained from director responses to questionnaires circulated by Company management, as well as from Company records and publicly available information. Following this determination, Company management monitors those transactions, relationships and arrangements that were relevant to such determination, as well as periodically solicits updated information potentially relevant to independence from internal personnel and directors, to determine whether there have been any developments that could potentially have an adverse impact on the Board s prior independence determination.  
+     
+  In February 2016, the Board determined that each of Messrs. Bronfman, Eisner, Lourd, Rosenblatt, Spoon and Zannino and Mmes. Clinton and Hammer is independent. In connection with this determination, the Board considered that in the ordinary course of business, IAC and its businesses sell products and services to, purchase products and services from, co-invest with and develop and produce projects with, companies at which certain directors are employed or serve as directors, or over which certain directors otherwise exert control. Furthermore, the Board considered whether there were any payments made to (or received from) such entities by IAC and its businesses. Specific payments the Board considered are as follows:  
+     
+                        the payment of a license fee (for the online distribution of a film) by an IAC business to a portfolio company of Tornante (Mr. Eisner is Chairman of Tornante); 
+     
+                        the payment of license fees (for the distribution of programming) to an IAC business by certain businesses overseen and managed by Ms. Hammer in her role as Chairman of NBCUniversal Cable Entertainment (Ms. Hammer is not a named executive officer of the ultimate parent corporation that owns and controls NBCUniversal); 
+     
+                        payments for services made by an IAC business to CAA, where Mr. Lourd is Managing Director; 
+     
+                        a co-investment by IAC in an entity in which Polaris Partners was an existing equity investor, as well as payments for services between the Company and certain Polaris Partners portfolio companies (Mr. Spoon was a Managing General Partner (now Partner Emeritus) of Polaris Partners); and 
+     
+                        payments for data licensing services made by an IAC business to a portfolio company of CCMP Capital Advisors, LLC, where Mr. Zannino is a Managing Director and member of the firm s Investment Committee. The agreement pursuant to which the IAC business made these payments was entered into by the parties before Mr. Zannino began serving on the Board and before CCMP acquired the company. 
+     
+ 28   
+
+Table of Contents   
+     
+  In the case of Messrs. Bronfman and Rosenblatt and Ms. Clinton, there were no such payments known to Company management for the Board to consider. Of the remaining incumbent directors, Messrs. Diller, Kaufman and Levin are executive officers of the Company and Mr. von Furstenberg is Mr. Diller s stepson. Given these relationships, none of these directors is independent.  
+     
+  In addition to the satisfaction of the director independence requirements set forth in the Marketplace Rules, members of the Audit and Compensation and Human Resources Committees have also satisfied separate independence requirements under the current standards imposed by the SEC and the Marketplace Rules for audit committee members and by the SEC, the Marketplace Rules and the Internal Revenue Service for compensation committee members.  
+     
+  In February 2015, the Board determined that one former director, Sonali De Rycker, was independent. In connection with this determination, there were no such payments known to Company management for the Board to consider.  
+     
+   Item 14.    Principal Accounting Fees and Services  .   
+     
+  The following table sets forth fees for all professional services rendered by Ernst   Young to IAC for the years ended December 31, 2015 and 2014:  
+
+(1)                                    Audit Fees in 2015 include: (i) fees associated with the annual audit of financial statements and internal control over financial reporting and the review of periodic reports, (ii) fees associated with the initial public offering of Match Group, Inc. ( Match Group ) in November 2015, as well as the review of (and, in the case of consents and the comfort letter, the issuance of) the related SEC registration statements, consents and comfort letter, accounting consultations and other services related to the offering, (iii) fees for the audit performed in connection with Match Group s acquisition of Plentyoffish Media Inc. in October 2015, (iv) statutory audits (audits performed for certain IAC businesses in various jurisdictions abroad, which audits are required by local law), (v) fees for services performed in connection with the issuance of Match Group s 6.75% Senior Notes due 2022 in November 2015, as well as the review and issuance of the related comfort letter and other services related to the issuance, and (vi) accounting consultations. 
+     
+  Fees for services described in (i), (ii), (iii) and (v) above in the aggregate amount $3,980,000 were either allocated by the Company to Match Group (based on Match Group s revenue as a percentage of IAC s total revenue) or paid by IAC and reimbursed by Match Group.  
+     
+  (2)                                    Audit Fees in 2014 include: (i) fees associated with the annual audit of financial statements and internal control over financial reporting, the review of periodic reports, the review of (and, in the case of consents, the issuance of) SEC registration statements and consents and other services related to SEC matters, (ii) accounting consultations and (iii) statutory audits. 
+     
+  Fees for services described in (i) and (iii) above in the aggregate amount $2,075,000 were allocated by the Company to Match Group (based on Match Group s revenue as a percentage of IAC s total revenue).  
+     
+  (3)                                    Audit-Related Fees in 2015 and 2014 include fees for benefit plan audits. 
+     
+  (4)                                    Tax Fees in 2015 and 2014 primarily include fees paid for the preparation of federal, state and local tax returns (including amended returns) in the United States and certain jurisdictions abroad and research and development tax credit studies, as well as the tax compliance services in 2015. 
+     
+ 29   
+
+Table of Contents   
+       
+   Audit and Non-Audit Services Pre-Approval Policy   
+     
+  The Audit Committee has a policy governing the pre-approval of all audit and permitted non-audit services performed by IAC s independent registered public accounting firm in order to ensure that the provision of these services does not impair such firm s independence from IAC and its management. Unless a type of service to be provided by IAC s independent registered public accounting firm has received general pre-approval, it requires specific pre-approval by the Audit Committee. Any proposed services in excess of pre-approved cost levels also require specific pre-approval by the Audit Committee. In all pre-approval instances, the Audit Committee considers whether such services are consistent with SEC rules regarding auditor independence.  
+     
+  All Tax services require specific pre-approval by the Audit Committee. In addition, the Audit Committee has designated specific services that have the pre-approval of the Audit Committee (each of which is subject to pre-approved cost levels) and has classified these pre-approved services into one of three categories: Audit, Audit-Related and All Other (excluding Tax). The term of any pre-approval is 12 months from the date of the pre-approval, unless the Audit Committee specifically provides for a different period. The Audit Committee revises the list of pre-approved services from time to time. Pre-approved fee levels for all services to be provided by IAC s independent registered public accounting firm are established periodically from time to time by the Audit Committee.  
+     
+  Pursuant to the pre-approval policy, the Audit Committee may delegate its authority to grant pre-approvals to one or more of its members, and has currently delegated this authority to its Chairman. The decisions of the Chairman (or any other member(s) to whom such authority may be delegated) to grant pre-approvals must be presented to the full Audit Committee at its next scheduled meeting. The Audit Committee may not delegate its responsibilities to pre-approve services to management.  
+     
+   Item 15.    Exhibits and Financial Statement Schedules  .   
+     
+    (a)(3)    Exhibits    
+     
+  The documents set forth below, numbered in accordance with Item 601 of Regulation S-K, are filed or furnished herewith.  
+
+(1)            Filed herewith. 
+  (2)            Furnished herewith. 
+     
+ 30   
+
+Table of Contents   
+     
+   SIGNATURES   
+     
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+April 29, 2016       
+ 
+   IAC/INTERACTIVECORP            
+
+By:       
+ 
+  /s/ Gregg   Winiarski           
+
+Gregg Winiarski           
+
+Executive   Vice President, General Counsel   Secretary               
+     
+ 31   
+
+<EX-31.3>
+ 2
+ a16-8615_1ex31d3.htm
+ EX-31.3
+
+Exhibit 31.3   
+       
+   Certification   
+     
+  I, Barry Diller, certify that:  
+     
+  1.                                         I have reviewed this Amendment No. 1 on Form 10-K/A (the  Amendment ) to IAC s annual report on Form 10-K for the year ended December 31, 2015 (together with the Amendment, the  Report  and 
+     
+  2.                                         Based on my knowledge, this Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this Report. 
+
+Dated: April 29, 2016       
+ 
+  /s/ Barry Diller           
+
+Barry Diller            
+
+Chairman   and Senior Executive               
+
+</EX-31.3>
+
+<EX-31.4>
+ 3
+ a16-8615_1ex31d4.htm
+ EX-31.4
+
+Exhibit 31.4   
+     
+   Certification   
+     
+  I, Joseph Levin, certify that:  
+     
+  1.                                         I have reviewed this Amendment No. 1 on Form 10-K/A (the  Amendment ) to IAC s annual report on Form 10-K for the year ended December 31, 2015 (together with the Amendment, the  Report  and 
+     
+  2.                                         Based on my knowledge, this Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this Report. 
+
+Dated: April 29, 2016       
+ 
+  /s/ Joseph Levin           
+
+Joseph Levin            
+
+Chief   Executive Officer               
+
+</EX-31.4>
+
+<EX-31.5>
+ 4
+ a16-8615_1ex31d5.htm
+ EX-31.5
+
+Exhibit 31.5   
+     
+   Certification   
+     
+  I, Glenn H. Schiffman, certify that:  
+     
+  1.                                         I have reviewed this Amendment No. 1 on Form 10-K/A (the  Amendment ) to IAC s annual report on Form 10-K for the year ended December 31, 2015 (together with the Amendment, the  Report  and 
+     
+  2.                                         Based on my knowledge, this Report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this Report. 
+
+Dated: April 29, 2016       
+ 
+  /s/ Glenn H. Schiffman           
+
+Glenn H. Schiffman           
+
+Executive Vice   President   Chief  Financial   Officer               
+
+</EX-31.5>
+

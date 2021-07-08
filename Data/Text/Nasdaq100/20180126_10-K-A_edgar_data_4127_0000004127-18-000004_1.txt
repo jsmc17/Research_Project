@@ -1,0 +1,804 @@
+<Header>
+<FileStats>
+    <FileName>20180126_10-K-A_edgar_data_4127_0000004127-18-000004_1.txt</FileName>
+    <GrossFileSize>707779</GrossFileSize>
+    <NetFileSize>137276</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>507278</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>33</N_Tables>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000004127-18-000004.hdr.sgml : 20180126
+<ACCEPTANCE-DATETIME>20180126171527
+ACCESSION NUMBER:		0000004127-18-000004
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170929
+FILED AS OF DATE:		20180126
+DATE AS OF CHANGE:		20180126
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SKYWORKS SOLUTIONS, INC.
+		CENTRAL INDEX KEY:			0000004127
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				042302115
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0929
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05560
+		FILM NUMBER:		18552813
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 SYLVAN ROAD
+		CITY:			WOBURN
+		STATE:			MA
+		ZIP:			01801
+		BUSINESS PHONE:		6179355150
+
+	MAIL ADDRESS:	
+		STREET 1:		20 SYLVAN ROAD
+		STREET 2:		20 SYLVAN ROAD
+		CITY:			WOBURN
+		STATE:			MA
+		ZIP:			01801
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SKYWORKS SOLUTIONS INC
+		DATE OF NAME CHANGE:	20020627
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALPHA INDUSTRIES INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0000004127-18-000004.txt : 20180126
+
+10-K/A
+ 1
+ fy1710-kajanuary262018.htm
+ 10-K/A
+
+Document 
+
+UNITED STATES  
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-K/A 
+  Amendment No. 1 
+    
+   For the fiscal year ended September 29, 2017 
+  OR 
+    
+   For the transition period from _____________ to _____________ 
+    
+  Commission file number 001-05560 
+  SKYWORKS SOLUTIONS, INC. 
+  (Exact Name of Registrant as Specified in its Charter) 
+                 Delaware 
+    04-2302115 
+      (State or Other Jurisdiction of Incorporation or Organization) 
+    (I.R.S. Employer Identification No.) 
+
+20 Sylvan Road, Woburn, Massachusetts 
+    01801 
+      (Address of Principal Executive Offices) 
+    (Zip Code) 
+
+Registrant s telephone number, including area code: (781) 376-3000    
+  Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of Each Class 
+    Name of Each Exchange on Which Registered 
+      Common Stock, par value $0.25 per share 
+    Nasdaq Global Select Market 
+
+Securities registered pursuant to Section 12(g) of the Act: None 
+    
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.       Yes       No  
+    
+  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act.       Yes         No 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.       Yes       No 
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).       Yes       No 
+    
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.        
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company,  in Rule 12b-2 of the Exchange Act. 
+                       Large Accelerated filer     
+    Accelerated filer     
+    Non-accelerated filer     
+     Smaller reporting company     
+     Emerging growth company     
+
+(Do not check if a smaller reporting company) 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   o 
+    
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).            Yes            No 
+    
+  The aggregate market value of the registrant s common stock held by non-affiliates of the registrant (based on the closing price of the registrant s common stock as reported on the Nasdaq Global Select Market on the last business day of the registrant s most recently completed second fiscal quarter March 31, 2017) was approximately $18,022,200,659. The number of outstanding shares of the registrant s common stock, par value $0.25 per share, as of January 15, 2018, was 182,467,498. 
+  
+   1 
+
+EXPLANATORY NOTE 
+    
+  This Amendment No. 1 amends Skyworks Solutions, Inc. s ( Skyworks  or the  Company ) Annual Report on Form 10-K for the year ended September 29, 2017, which was filed with the Securities and Exchange Commission ( SEC ) on November 13, 2017 (the  Original Filing ). The Company is filing this Amendment No. 1 for the sole purpose of providing the information required in Part III of Form 10-K, as the Company s 2018 Annual Meeting of Stockholders is scheduled for May 9, 2018, and, accordingly, the Company s Proxy Statement relating to such Annual Meeting will be filed after the date hereof. Except as described above, this Amendment No. 1 does not amend any other information set forth in the Original Filing, and the Company has not updated disclosures included therein to reflect any subsequent events. 
+  
+   2 
+
+PART III 
+   
+  ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+  Directors and Executive Officers 
+  The following table sets forth for each director and executive officer of the Company his or her position with the Company as of January 15, 2018: 
+    
+                   Name 
+      
+    Title 
+      David J. Aldrich 
+      
+    Chairman of the Board and Executive Chairman 
+      David J. McLachlan 
+      
+    Lead Independent Director 
+      Liam K. Griffin 
+      
+    President, Chief Executive Officer and Director 
+      Kevin L. Beebe 
+      
+    Director 
+      Timothy R. Furey 
+      
+    Director 
+      Balakrishnan S. Iyer 
+      
+    Director 
+      Christine King 
+      
+    Director 
+      David P. McGlade 
+      
+    Director 
+      Robert A. Schriesheim 
+      
+    Director 
+      Carlos S. Bori 
+      
+    Senior Vice President, Sales and Marketing 
+      Peter L. Gammel 
+      
+    Chief Technology Officer 
+      Laura A. Gasparini 
+      
+    Vice President, Human Resources 
+      Kris Sennesael 
+      
+    Senior Vice President and Chief Financial Officer 
+      Robert J. Terry 
+      
+    Senior Vice President, General Counsel and Secretary 
+
+Directors 
+  David J. Aldrich  , age 60, has served as Chairman of the Board and Executive Chairman since May 2016. Previously, he served as Chairman of the Board and Chief Executive Officer from May 2014 to May 2016 and as President and Chief Executive Officer and as a director from April 2000 to May 2014. From September 1999 to April 2000, Mr. Aldrich served as President and Chief Operating Officer. From May 1999 to September 1999, he served as Executive Vice President, and from May 1996 to May 1999, he served as Vice President and General Manager of the semiconductor products business unit. Mr. Aldrich joined the Company in 1995 as Vice President, Chief Financial Officer and Treasurer. Prior to joining Skyworks, he held senior management positions at Adams-Russell Company and M/A-COM, Inc. Mr. Aldrich also serves as a director of Belden Inc. (a publicly traded provider of end-to-end signal transmission solutions) and Acacia Communications, Inc. (a publicly traded provider of high-speed coherent optical interconnect products).  
+  We believe that Mr. Aldrich is qualified to serve as a director because of his leadership experience, his strategic decision making ability, his knowledge of the semiconductor industry and his in-depth knowledge of Skyworks  business. Mr. Aldrich brings to the Board of Directors his thorough knowledge of Skyworks  business, strategy, people, operations, competition, financial position, and investors. Further, as a result of his service as a director for Belden Inc. and Acacia Communications, Inc., multinational public companies, Mr. Aldrich provides the Board of Directors with other organizational perspectives and cross-board experience. 
+  David J. McLachlan  , age 79, has been a director since 2000 and Lead Independent Director since May 2014. He served as Chairman of the Board from May 2008 to May 2014. Mr. McLachlan served as a senior advisor to the Chairman and Chief Executive Officer of Genzyme Corporation (a publicly traded biotechnology company) from 1999 to 2004. He also was the Executive Vice President and Chief Financial Officer of Genzyme from 1989 to 1999. Prior to joining Genzyme, Mr. McLachlan served as Vice President and Chief Financial Officer of Adams-Russell Company (an electronic component supplier and cable television franchise owner). He previously served as a director of Dyax Corp. until January 2016, when it was acquired by Shire plc. 
+  We believe that Mr. McLachlan, the current Lead Independent Director, is qualified to serve as a director because he possesses a broad range of business experience as a result of his service as both chief financial officer and director for several public companies. In particular, Mr. McLachlan has in-depth experience handling complex accounting and finance issues for a broad range of companies. He has also served on the boards and audit and governance committees of other public companies (including as chairman of the audit committee), and serves as a designated  audit committee financial expert  for Skyworks  Audit Committee. 
+  
+   3 
+
+Kevin L. Beebe  , age 58, has been a director since January 2004. Since November 2007, he has been President and Chief Executive Officer of 2BPartners, LLC (a partnership that provides strategic, financial, and operational advice to private equity investors and management). In 2014, Mr. Beebe became a founding partner of Astra Capital Management (a private equity firm based in Washington, D.C.). Previously, beginning in 1998, he was Group President of Operations at ALLTEL Corporation (a telecommunications services company). From 1996 to 1998, Mr. Beebe served as Executive Vice President of Operations for 360  Communications Co. (a wireless communication company). He has held a variety of executive and senior management positions at several divisions of Sprint, including Vice President of Operations and Vice President of Marketing and Administration for Sprint Cellular, Director of Marketing for Sprint North Central Division, Director of Engineering and Operations Staff and Director of Product Management and Business Development for Sprint Southeast Division, as well as Staff Director of Product Services at Sprint Corporation. Mr. Beebe began his career at AT T/Southwestern Bell as a Manager. Mr. Beebe also serves as chairman of the board of directors of NII Holdings, Inc. (a publicly traded provider of mobile communication services in Brazil), and as a director for SBA Communications Corporation (a publicly traded operator of wireless communications infrastructure in North, Central, and South America), Syniverse Technologies, Inc. (a privately held provider of enterprise messaging solutions), and Logix Communications (a privately held provider of facilities-based communications services). 
+  We believe that Mr. Beebe is qualified to serve as a director because of his two decades of experience as an operating executive in the wireless telecommunications industry. For example, as Group President of Operations at ALLTEL, he was instrumental in expanding ALLTEL s higher margin retail business, which significantly enhanced ALLTEL s competitive position in a dynamic, consolidating industry. In addition, as Chief Executive Officer of 2BPartners, LLC, Mr. Beebe continues to gain a broad range of business experience and to build business relationships by advising leading private equity firms that are transacting business in the global capital markets. Mr. Beebe provides cross-board experience by serving as a director for several public and private companies (including service on both audit and governance committees). Further, Mr. Beebe has served as a director of Skyworks since 2004 and has gained significant familiarity with Skyworks  business. 
+  Timothy R. Furey  , age 59, has been a director since 1998. He has been Chief Executive Officer of MarketBridge (a privately owned digital marketing software and services firm) since 1991. MarketBridge provides digital marketing, predictive analytics, and sales effectiveness solutions to Fortune 1000 companies in the software, communications, financial services, life sciences, and consumer products sectors. Mr. Furey also serves as Managing Partner of the Technology Marketing Group (which advises and invests in emerging growth companies in the social media, mobile, and marketing automation markets). Prior to 1991, Mr. Furey worked with the Boston Consulting Group, Strategic Planning Associates, Kaiser Associates, and the Marketing Science Institute. 
+  We believe that Mr. Furey is qualified to serve as a director because his experience as Chief Executive Officer of MarketBridge, as well as his engagements with MarketBridge s clients (many of which are Fortune 1000 companies), provide him with a broad range of knowledge regarding business operations and growth strategies. In addition, Mr. Furey has extensive knowledge regarding Skyworks  business, which he has acquired through over 19 years of service on the Board of Directors. 
+  Liam K. Griffin  , age 51, is President and Chief Executive Officer and a director of the Company. Prior to his appointment as Chief Executive Officer and to the Board of Directors in May 2016, he had served as President since May 2014. He served as Executive Vice President and Corporate General Manager from November 2012 to May 2014, Executive Vice President and General Manager, High Performance Analog from May 2011 to November 2012, and Senior Vice President, Sales and Marketing from August 2001 to May 2011. Previously, Mr. Griffin was employed by Vectron International, a division of Dover Corp., as Vice President of Worldwide Sales from 1997 to 2001 and as Vice President of North American Sales from 1995 to 1997. His prior experience included positions as a Marketing Manager at AT T Microelectronics, Inc. and Product and Process Engineer at AT T Network Systems. Mr. Griffin also serves as a director of Vicor Corp. (a publicly traded manufacturer and marketer of modular power components). 
+  We believe that Mr. Griffin is qualified to serve as a director because of his breadth of leadership experience and in-depth understanding of Skyworks  business gained through serving in several different executive positions at Skyworks over the past 16 years. Mr. Griffin brings to the Board of Directors strong relationships with Skyworks  key customers, investors, employees, and other stakeholders, as well as a deep understanding of the semiconductor industry and its competitive landscape. His service as a director for Vicor Corp. gives Mr. Griffin added perspective regarding the challenges confronting public technology companies. 
+  Balakrishnan S. Iyer  , age 61, has been a director since June 2002. He served as Senior Vice President and Chief Financial Officer of Conexant Systems, Inc., from October 1998 to June 2003. Prior to joining Conexant, Mr. Iyer served as Senior Vice President and Chief Financial Officer of VLSI Technology Inc. Prior to that, he was Corporate Controller for Cypress Semiconductor Corp. and Director of Finance for Advanced Micro Devices, Inc. Mr. Iyer serves on the boards of directors of Power Integrations, Inc. (a publicly traded provider of semiconductor technologies for high-voltage power conversion), and IHS Markit Ltd. (a publicly traded company that delivers information, analytics and expertise for industries and markets worldwide). He served as a director of Conexant from February 2002 until April 2011, as a director of Life Technologies Corp. from July 2001 until February 2014, when it was acquired by Thermo Fisher Scientific Inc., as a director of IHS Inc. from December 2003 until July 2016, when it  
+  
+   4 
+
+completed a merger with Markit Ltd., and as a director of QLogic Corporation from June 2003 until August 2016, when it was acquired by Cavium, Inc. 
+  We believe that Mr. Iyer is qualified to serve as a director because his experience as an executive officer of companies in the technology industry provides him with leadership, strategic, and financial experience. Through his experiences as a director at the public companies listed above (including as a member of certain audit, governance, and compensation committees) he provides the Board of Directors with significant financial expertise as a designated  audit committee financial expert  for Skyworks  Audit Committee, bringing specific application to our industry, as well as a broad understanding of corporate governance topics. 
+  Christine King  , age 68, has been a director since January 2014. Ms. King served as Executive Chairman of QLogic Corporation (a publicly traded developer of high performance server and storage networking connectivity products) from August 2015 until August 2016, when it was acquired by Cavium, Inc. Previously, she served as a director and as Chief Executive Officer of Standard Microsystems Corporation (a publicly traded developer of silicon-based integrated circuits utilizing analog and mixed-signal technologies) from 2008 until the company s acquisition in 2012 by Microchip Technology, Inc. Prior to Standard Microsystems, Ms. King was Chief Executive Officer of AMI Semiconductor, Inc., a publicly traded company, from 2001 until it was acquired by ON Semiconductor Corp. in 2008. From 1973 to 2001, Ms. King held various engineering, business, and management positions at IBM Corp., including Vice President of Semiconductor Products. Ms. King currently serves as a director of Cirrus Logic, Inc. (a publicly traded provider of integrated circuits for audio and voice signal processing applications), IDACORP, Inc. (a publicly traded holding company), and Idaho Power Company (a subsidiary of IDACORP). She previously served as a director of QLogic Corporation, Analog Devices, Inc., and Atheros Communications, Inc., prior to its acquisition by Qualcomm, Inc. 
+  We believe that Ms. King is qualified to serve as a director because of her extensive management and operational experience in the high tech and semiconductor industries. In particular, through her experience as Executive Chairman of QLogic and as Chief Executive Officer of Standard Microsystems and AMI Semiconductor, as well as her service as a director of other public companies, Ms. King provides the Board of Directors with significant strategic, operational, and financial expertise. 
+  David P. McGlade  , age 57, has been a director since February 2005. He has served as Executive Chairman of Intelsat S.A. (a publicly traded worldwide provider of satellite communication services) since April 2015, prior to which he served as Chairman and Chief Executive Officer. Mr. McGlade joined Intelsat in April 2005 and was the Deputy Chairman of Intelsat from August 2008 until April 2013. Previously, Mr. McGlade served as an Executive Director of mmO2 PLC and as the Chief Executive Officer of O2 UK (a subsidiary of mmO2), a position he held from October 2000 until March 2005. Before joining O2 UK, Mr. McGlade was President of the Western Region for Sprint PCS. 
+  We believe that Mr. McGlade is qualified to serve as a director because of his over 30 years of experience in the telecommunications business, which have allowed him to acquire significant operational, strategic, and financial business acumen. Most recently, as a result of his work as the Chief Executive Officer of Intelsat, Mr. McGlade gained significant leadership and operational experience, as well as knowledge about the global capital markets. 
+  Robert A. Schriesheim  , age 57, has been a director since May 2006. He served as Executive Vice President and Chief Financial Officer of Sears Holdings from August 2011 to October 2016. From January 2010 to October 2010, Mr. Schriesheim was Chief Financial Officer of Hewitt Associates, Inc. (a global human resources consulting and outsourcing company that was acquired by Aon Corporation). From October 2006 until December 2009, he was the Executive Vice President and Chief Financial Officer of Lawson Software, Inc. (a publicly traded ERP software provider). From August 2002 to October 2006, he was affiliated with ARCH Development Partners, LLC (a seed stage venture capital fund). Before joining ARCH, Mr. Schriesheim held executive positions at Global TeleSystems, SBC Equity Partners, Ameritech, AC Nielsen, and Brooke Group Ltd. Mr. Schriesheim currently serves as a director of Houlihan Lokey Inc. (a publicly traded financial services firm) and NII Holdings, Inc. (a publicly traded provider of mobile communication services in Brazil), and previously served as a director of Lawson Software until its sale in July 2011. In addition, from 2004 until 2007, he was also a director of Dobson Communications Corp. (a former publicly traded wireless services communications company that was acquired by AT T Inc.) and from 2007 until 2009 he served as a director of MSC Software Corp. (a former publicly traded provider of integrated simulation solutions for designing and testing manufactured products that was acquired by Symphony Technology Group). 
+  We believe that Mr. Schriesheim is qualified to serve as a director because of his extensive knowledge of the capital markets, experience with corporate financial capital structures, and long history of evaluating and structuring merger and acquisition transactions within the technology sector. Mr. Schriesheim also has significant experience, as a senior executive and director in both public and private companies in the technology sector, leading companies through major strategic and financial corporate transformations while doing business in the global marketplace. He also serves as a designated  audit committee financial expert  for Skyworks  Audit Committee. 
+  In addition to the information presented above regarding each director s specific experience, qualifications, attributes and skills that led our Board of Directors to conclude that he or she should serve as a director, we also believe that each of our directors has a reputation for integrity, honesty and adherence to high ethical standards. They have each demonstrated business acumen, an  
+  
+   5 
+
+ability to exercise sound judgment, and a commitment of service to Skyworks. Each of our directors will serve until the 2018 Annual Meeting of Stockholders and until their successors are elected and qualified or until their earlier resignation or removal. 
+  Executive Officers (other than Executive Chairman and Chief Executive Officer) 
+  Carlos S. Bori  , age 47, joined the Company in July 2013 and has served as Senior Vice President of Sales and Marketing since November 2017. He served as Vice President of Sales and Marketing from May 2016 to November 2017 and as Vice President of Marketing from July 2013 to May 2016. Previously, he spent more than 18 years with Beacon Electronic Associates (a North American independent representative of semiconductor manufacturers), serving as its President from 2004 to 2013. 
+  Peter L. Gammel  , age 57, joined the Company in June 2011 in connection with the Company s acquisition of SiGe Semiconductor Inc. and has served as Chief Technology Officer since March 2013. He served as Vice President and General Manager, Mobile Connectivity from October 2011 to March 2013, and Vice President, Engineering from June 2011 to October 2011. At SiGe, he served as Chief Technology Officer and Vice President of Engineering from June 2007 to June 2011. His prior experience included positions as Vice President of Engineering at Renaissance Wireless, Chief Technology Officer at AdvanceNanotech, Inc., and Chief Technology Officer for the Analog Products Business of Agere Systems Inc. 
+  Laura A. Gasparini  , age 67, is Vice President, Human Resources of the Company, a position she has held since July 2015. Previously, Ms. Gasparini served as a Senior Director within the Company s human resources department from October 2002 to July 2015. She first joined the Company in 1989, and rejoined in 1998 following a brief tenure with Unitrode Corporation from 1995 to 1998. 
+  Kris Sennesael  , age 49, joined the Company in August 2016 and is Senior Vice President and Chief Financial Officer. Previously, Mr. Sennesael served as Chief Financial Officer for Enphase Energy, Inc. (a semiconductor-based renewable energy solutions provider), from September 2012 to August 2016. Earlier, he served as Chief Financial Officer for Standard Microsystems Corporation (a global fabless semiconductor company) from January 2009 to August 2012, prior to which he held financial positions at ON Semiconductor Corp., AMI Semiconductor, Inc., and Alcatel Microelectronics. 
+  Robert J. Terry  , age 51, joined the Company in 2003 and has served as Senior Vice President, General Counsel and Secretary since November 2017. He previously served as Vice President, General Counsel and Secretary from November 2016 to November 2017 and as Vice President, Associate General Counsel and Assistant Secretary from June 2011 to November 2016. Before joining Skyworks, he served as General Counsel and Secretary for Day Software, Inc. (an enterprise content management software company), from July 2001 to February 2003. Prior to joining Day Software, Mr. Terry was in private practice, focusing on corporate and securities matters, mergers and acquisitions, and general business litigation. 
+  Audit Committee 
+  We have established an Audit Committee consisting of the following individuals, each of whom qualifies as independent within the meaning of the applicable Listing Rules of the Nasdaq Stock Market LLC (the  Nasdaq Rules ) and meets the criteria for independence set forth in Rule 10A-3(b)(1) under the Securities Exchange Act of 1934 ( Exchange Act ): Robert A. Schriesheim (Chairman), Kevin L. Beebe, Balakrishnan S. Iyer, and David J. McLachlan. The Board of Directors has determined that each of Messrs. Schriesheim (Chairman), Iyer, and McLachlan meets the qualifications of an  audit committee financial expert  under SEC Rules and the qualifications of  financial sophistication  under the applicable Nasdaq Rules, and qualifies as  independent  as defined under the applicable Nasdaq Rules. 
+  Code of Ethics 
+  We have adopted a written code of business conduct and ethics that applies to our directors, officers and employees, including our principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions. We make available our code of business conduct and ethics free of charge through our website at   http://www.skyworksinc.com  . We intend to disclose any amendments to, or waivers from, our code of business conduct and ethics that are required to be publicly disclosed by posting any such amendment or waivers on our website pursuant to SEC requirements and Nasdaq Rules. 
+  Section 16(a) Beneficial Ownership Reporting Compliance 
+  Section 16(a) of the Exchange Act requires our directors, executive officers and beneficial owners of more than 10% of our equity securities to file reports of holdings and transactions in securities of Skyworks with the SEC. Based solely on a review of Forms 3, 4, and 5 and any amendments thereto furnished to us, and written representations provided to us, with respect to our  
+  
+   6 
+
+fiscal year ended September 29, 2017 ( fiscal year 2017 ), we believe that all Section 16(a) filing requirements applicable to our directors, executive officers and beneficial owners of more than 10% of the Company s common stock with respect to such fiscal year were timely made. 
+  
+   7 
+
+ITEM 11. EXECUTIVE COMPENSATION. 
+  Compensation Discussion and Analysis 
+  This Compensation Discussion and Analysis section discusses the compensation policies and programs for our Chief Executive Officer, our Chief Financial Officer and our three next most highly paid executive officers during fiscal year 2017 as determined under the rules of the SEC. We refer to this group of executive officers as our  Named Executive Officers.  For fiscal year 2017, our Named Executive Officers were: 
+             
+    Liam K. Griffin, President and Chief Executive Officer; 
+                
+    Kris Sennesael, Senior Vice President and Chief Financial Officer; 
+                
+    David J. Aldrich, Executive Chairman; 
+                
+    Carlos S. Bori, Senior Vice President, Sales and Marketing; and 
+                
+    Peter L. Gammel, Chief Technology Officer.  
+     Approach for Determining Form and Amounts of Compensation 
+  The Compensation Committee, which is composed solely of independent directors within the meaning of applicable Nasdaq Rules, outside directors within the meaning of Section 162 of the Internal Revenue Code ( IRC ), and non-employee directors within the meaning of Rule 16b-3 under the Exchange Act, is responsible for determining all components and amounts of compensation to be paid to our Named Executive Officers, as well as any other executive officers or employees who report directly to the Chief Executive Officer. The Compensation Committee sets compensation for the Named Executive Officers, including base salary, short-term incentives, and long-term stock-based incentives, at levels generally intended to be competitive with the compensation of comparable executives in semiconductor companies with which the Company competes for executive talent. 
+  Compensation Program Objectives 
+  The objectives of our executive compensation program are to attract, retain and motivate highly qualified executives to operate our business, and to link the compensation of those executives to improvements in the Company s financial performance and increases in stockholder value. Accordingly, the Compensation Committee s goals in establishing our executive compensation program include: 
+             
+    ensuring that our executive compensation program is competitive with a group of companies in the semiconductor industry with which we compete for executive talent; 
+                
+    providing a base salary that serves as the foundation of a compensation package that attracts and retains the executive talent needed to achieve our business objectives; 
+                
+    providing short-term variable compensation that motivates executives and rewards them for achieving Company financial performance targets; 
+                
+    providing long-term stock-based compensation that aligns the interest of our executives with stockholders by rewarding them for long-term increases in stockholder value; and 
+                
+    ensuring that our executive compensation program is perceived as fundamentally fair to all of our employees. 
+     
+   8 
+
+Retention of Compensation Consultant 
+  The Compensation Committee has engaged Aon/Radford Consulting ( Aon/Radford ) to assist in determining the components and amount of executive compensation. Aon/Radford reports directly to the Compensation Committee, through its chairman, and the Compensation Committee retains the right to terminate or replace the consultant at any time. The consultant advises the Compensation Committee on such compensation matters as are requested by the Compensation Committee. The Compensation Committee considers the consultant s advice on such matters in addition to any other information or factors it considers relevant in making its compensation determinations. In fiscal year 2017, Aon/Radford received $134,778 for survey data and compensation consulting services to the Compensation Committee. 
+  The Compensation Committee has considered the relationships that Aon/Radford has with the Company, the members of the Compensation Committee and our executive officers, as well as the policies that Aon/Radford has in place to maintain its independence and objectivity, and has determined that Aon/Radford s work for the Compensation Committee has not raised any conflicts of interest. Company management has separately engaged Aon Risk Solutions, an affiliate of Aon/Radford, for risk management and insurance brokerage services. The Company paid $430,000 to Aon Risk Solutions in fiscal year 2017 for those services. The Company s management did not seek the Compensation Committee s approval for the engagement of Aon Risk Solutions. 
+  Role of Chief Executive Officer 
+  The Compensation Committee also considers the recommendations of the Chief Executive Officer regarding the compensation of the other Named Executive Officers and each of his other direct reports. These recommendations include an assessment of each individual s responsibilities, experience, performance and contribution to the Company s performance, and also generally take into account internal factors such as historical compensation and level in the organization, in addition to external factors such as the current environment for attracting and retaining executives. 
+  Establishment of Comparator Group Data 
+  In determining compensation for each of the Named Executive Officers, the committee utilizes  Comparator Group  data for each position. For fiscal year 2017, the Compensation Committee approved Comparator Group data consisting of a 50/50 blend of (i) Aon/Radford survey data of 20 semiconductor companies (where sufficient data was not available in the Aon/Radford semiconductor survey data for a given executive position, the Comparator Group data also included survey data regarding high-technology companies), and (ii) the  peer  group data for 12 publicly traded semiconductor companies with which the Company competes for executive talent: 
+                   *Analog Devices 
+    *Maxim Integrated Products 
+    *ON Semiconductor 
+      *Applied Materials 
+    *Microchip Technology 
+    *Qorvo 
+      *Broadcom Limited 
+    *Micron Technology 
+    *Texas Instruments 
+      *Linear Technology 
+    *NVIDIA 
+    *Xilinx 
+
+Use of Comparator Group Data 
+  The Compensation Committee annually compares the components and amounts of compensation that we provide to our Chief Executive Officer and other Named Executive Officers with the components and amounts of compensation provided to their counterparts in the Comparator Group and uses this comparison data as a guideline in its review and determination of base salaries, short-term incentives, and long-term stock-based compensation awards, as discussed in further detail below under    Components of Compensation  .  In addition, in setting fiscal year 2017 compensation, the Compensation Committee sought and received input from Aon/Radford regarding the base salaries for the Chief Executive Officer and each of the other executive officers, the incentive targets relating to the short-term incentive program for executive officers, and the individual stock-based compensation awards for executive officers, as well as the related vesting schedules. 
+  After reviewing the data and considering the input, the Compensation Committee established (and the full Board of Directors was advised of) the base salary, short-term incentive target, and long-term stock-based compensation award for each Named Executive Officer. In establishing individual compensation, the Compensation Committee also considered the input of the Chief Executive Officer, as well as the individual experience and performance of each executive. 
+  
+   9 
+
+In determining the compensation of our Chief Executive Officer for fiscal year 2017, the Compensation Committee focused on (i) competitive levels of compensation for chief executive officers who are leading a company of similar size and complexity, (ii) the importance of retaining a chief executive officer with the strategic, financial, and leadership skills necessary to ensure our continued growth and success, (iii) our Chief Executive Officer s role relative to the other Named Executive Officers, (iv) input from the full Board of Directors on our Chief Executive Officer s performance, and (v) the length of our Chief Executive Officer s service to the Company. Aon/Radford advised the Compensation Committee that the base salary, annual performance targets, short-term incentive target opportunity, and equity-based compensation established by the Compensation Committee for fiscal year 2017 were competitive for chief executive officers leading companies of similar size and complexity in the semiconductor industry. Our Chief Executive Officer was not present during the voting or deliberations of the Compensation Committee concerning his compensation. As stated above, however, the Compensation Committee did consider the recommendations of the Chief Executive Officer regarding the compensation of the other Named Executive Officers and each of his other direct reports. 
+  Response to Stockholder Vote on Executive Compensation at 2017 Annual Meeting 
+  At our 2017 Annual Meeting of Stockholders, approximately 95% of the votes cast approved the compensation of the Company s named executive officers as disclosed in the proxy statement delivered to our stockholders in connection with the 2017 Annual Meeting. We understood this to mean that stockholders generally approved of our compensation policies and determinations in 2017. However, the Compensation Committee still undertook a review of our compensation policies and determinations following the 2017 Annual Meeting with the assistance of Aon/Radford. After this review and consideration of evolving best practices in executive compensation by public companies generally, upon the recommendation of the Compensation Committee, we determined not to make any significant changes to our executive compensation decisions and policies. The Compensation Committee periodically reviews the goals we would like to achieve through our executive compensation practices and explores ways to modify those practices to either achieve new goals or to enhance our ability to achieve existing goals. 
+  Components of Compensation 
+  The key elements of compensation for our Named Executive Officers are base salary, short-term incentives, long-term stock-based incentives, 401(k) plan retirement benefits, medical, dental, vision, life and disability insurance, and financial planning benefits. Consistent with our objective of ensuring that executive compensation is perceived as fair to all employees, the Named Executive Officers do not receive any retirement benefits beyond those generally available to our full-time employees, and we do not provide medical, dental, vision, or other insurance benefits to Named Executive Officers that are different from those offered to other full-time employees. 
+  Base Salary 
+  Base salaries provide our executive officers with a degree of financial certainty and stability. The Compensation Committee determines a competitive base salary for each executive officer using the Comparator Group data and input provided by Aon/Radford. Based on these factors, base salaries of the Named Executive Officers for fiscal year 2017 were generally targeted at the Comparator Group median, with consideration given to role, responsibility, performance and length of service. After taking these factors into account, the Compensation Committee elected not to increase the base salaries for Messrs. Aldrich, Griffin, and Sennesael for fiscal year 2017, noting that the base salaries of Messrs. Aldrich and Griffin had been established in May 2016 at the time of their appointments to their current positions and that the base salary of Mr. Sennesael had been established in August 2016 upon the commencement of his employment with the Company. The base salary for fiscal year 2017 for each remaining Named Executive Officer increased on average 6.4% from the Named Executive Officer s base salary in fiscal year 2016 as a result of market-based salary adjustments recommended by Aon/Radford, with increases ranging from 2.4% to 10.4%. 
+  Short-Term Incentives 
+  Our short-term incentive compensation plan for executive officers is established annually by the Compensation Committee. For fiscal year 2017, the Compensation Committee adopted the Fiscal Year 2017 Executive Incentive Plan (the  Incentive Plan ). The Incentive Plan established short-term incentive awards for fiscal year 2017 for certain officers of the Company, including the Named Executive Officers, based on the Company s achievement of certain corporate performance goals established for fiscal year 2017. Short-term incentive compensation is intended to motivate and reward executives by tying a significant portion of their total compensation to the Company s achievement of pre-established performance goals that are generally short-term (i.e., one year or less). Pursuant to the Incentive Plan, the Compensation Committee sets a range of short-term compensation that can be earned by each executive officer based on the Comparator Group data, which is expressed as a percentage of the executive officer s base salary and which corresponds to the level of achievement of the performance goals. The low end of that range, referred to as the  threshold  percentage, is equal to the amount of compensation payable to the executive if the level of achievement of each performance goal applicable to the executive was at the minimum set by the Compensation Committee to be eligible to receive a payment for that goal under the Incentive Plan (referred to as the  threshold  level). At the threshold payout level, the short-term compensation was designed to result in a payout less than the median short-term compensation of the Comparator Group. The middle of the range, referred to as the  target  percentage, is equal to the amount of short-term compensation payable to the  
+  
+   10 
+
+executive if the level of achievement of each performance goal applicable to the executive met the expectations set by the Compensation Committee (referred to as the  target  level). Achievement of all performance goals at the  target  level would result in a short-term compensation payout equal to the  target  percentage, which is designed to be the median short-term compensation of the Comparator Group. The high end of the range, referred to as the  maximum  percentage, is equal to the amount of compensation payable to the executive if the level of achievement of each performance goal applicable to the executive reached the high-end target set by the Compensation Committee for such goal (referred to as the  maximum  level). Achievement of all performance goals at the  maximum  level would result in a short-term compensation payout at the  maximum  percentage, which is designed to be above the median short-term compensation of the Comparator Group. Absent an exercise of discretion by the Compensation Committee, the total short-term compensation paid to each executive would not exceed the  maximum  percentage and, in the event that the level of achievement of all performance goals was below the  threshold  level, no short-term compensation payment would be made to the executive. The following table shows the range of short-term compensation that each Named Executive Officer could earn in fiscal year 2017 as a percentage of such executive officer s annual base salary. 
+
+The actual total amount of short-term compensation payable to an executive depends on the level of achievement of each performance goal assigned to him. The Compensation Committee established performance goals for fiscal year 2017 based on achieving revenue and non-GAAP operating margin targets. Each of the performance goals was weighted equally (50% each) toward each Named Executive Officer s payment under the Incentive Plan. The non-GAAP operating margin performance goal is based on the Company s actual non-GAAP operating margin, which it calculates by excluding from GAAP operating income share-based compensation expense, acquisition-related expenses, amortization of intangibles, restructuring-related charges, and litigation settlement gains, losses, and expenses. 
+  The Compensation Committee determines with respect to each performance goal the  threshold,   target,  and  maximum  levels of achievement, which correspond to the matching descriptions set forth above. For Company performance goals, the levels of achievement will be consistent across the executives to which such goals apply. 
+  Following the end of the fiscal year, the Compensation Committee determines the total amount of short-term compensation payable to each executive for such period by comparing the actual level of achievement of each performance goal assigned to such executive against the  threshold,   target,  and  maximum  levels of achievement that it set for that performance goal. The Compensation Committee determines the amount of short-term compensation the executive is eligible to receive with respect to each performance goal as follows: 
+             
+    If the level of achievement for that performance goal falls below the  threshold  level, then the executive will not earn any short-term compensation with respect to that performance goal (absent an exercise of discretion by the Compensation Committee). 
+                
+    If the level of achievement for that performance goal is equal to the  threshold,   target,  or  maximum  level, then the executive earns the product obtained by   multiplying   (i) the  threshold,   target,  or  maximum  percentage, as applicable,   times   (ii) the executive s base salary during the fiscal year,   times   (iii) the weighting assigned to that performance goal. 
+                
+    If the level of achievement for the performance goal falls in between either the  threshold  and  target  levels or the  target  and  maximum  levels, the executive would earn short-term compensation equal to the short-term compensation payable at the  threshold  or  target  level, respectively,   plus   a pro rata amount of the difference between the short-term compensation payable for that performance goal at, respectively, the  threshold  and  target  levels or the  target  and  maximum  levels. 
+                
+    Absent an exercise of discretion by the Compensation Committee, if the level of achievement for the performance goal exceeds the  maximum  level, the executive will only earn the amount payable for achievement at the  maximum  level. 
+     Each executive s short-term compensation under the Incentive Plan is calculated by evaluating achievement of each performance goal individually, determining the portion of the total eligible bonus earned with respect to each such performance goal, and totaling the resulting amounts. 
+  
+   11 
+
+The target level performance goals established by the Compensation Committee under the Incentive Plan are based on the Company s historical operating results and growth rates as well as the Company s expected future results and are designed to require significant effort and operational success on the part of our executives and the Company. The maximum level performance goals established by the Compensation Committee have historically been difficult to achieve and are designed to represent outstanding performance that the Compensation Committee believes should be rewarded. Typically, financial performance goals are set with the expectation that the  target  level will be higher than the consensus analyst estimates for the Company. 
+  The Incentive Plan stipulated that all payouts to executives under the Incentive Plan were conditioned upon the Company achieving a nominal performance goal based on non-GAAP operating income (after accounting for any incentive award payments, including those to be made under the Incentive Plan). The nominal non-GAAP operating income performance goal is based on the Company s actual non-GAAP operating income, which it calculates in the manner described above with respect to non-GAAP operating margin. The Compensation Committee retains the discretion, based on the recommendation of the Chief Executive Officer, to make payments even if the threshold performance metrics are not met or to make payments in excess of the maximum level if the Company s performance exceeds the maximum metrics. The Compensation Committee believes it is appropriate to retain this discretion in order to make short-term compensation awards in extraordinary circumstances. 
+  The Company s actual revenue and non-GAAP operating margin achieved in fiscal year 2017 resulted in a short-term compensation award for each Named Executive Officer equal to 93.6% of the Named Executive Officer s target payment level. 
+  Long-Term Stock-Based Compensation 
+  The Compensation Committee generally makes long-term stock-based compensation awards to executive officers on an annual basis. Long-term stock-based compensation awards are intended to align the interests of our executive officers with those of our stockholders, and to reward our executive officers for increases in stockholder value over long periods of time (i.e., greater than one year). It is the Company s practice to make stock-based compensation awards to executive officers in November of each year at a prescheduled Compensation Committee meeting. For fiscal year 2017, the Compensation Committee made awards to each of the Named Executive Officers on November 9, 2016, at a regularly scheduled Compensation Committee meeting. Stock options awarded to the Named Executive Officers at the meeting had an exercise price equal to the closing sale price on the meeting date of the Company s common stock on the Nasdaq Global Select Market. 
+  In making annual stock-based compensation awards to executive officers for fiscal year 2017, the Compensation Committee first reviewed the Comparator Group data to determine the percentage of the total number of outstanding shares of stock that companies in the Comparator Group typically made for annual awards under employee equity compensation programs. The Compensation Committee then set the number of shares of the Company s common stock that would be made available for annual equity awards at approximately the median of the Comparator Group after its evaluation of the Company s business needs for the attraction and retention of executives and employees, internal and external circumstances impacting the Company and its employees, and proxy advisor (e.g., ISS) guidelines. The Compensation Committee then reviewed the Comparator Group competitive grant data by executive position. The Compensation Committee then used that data and the Comparator Group data to determine a dollar value equivalent for the long-term equity-based award for each executive officer. Twenty percent (20%) of that dollar equivalent value served as the basis for determining a number of stock options to award to the executive using an estimated Black-Scholes value, twenty percent (20%) of the dollar equivalent value served as the basis for determining a number of restricted stock units to award to the executive using the fair market value of the Company s common stock on the date of such award, and the remaining sixty percent (60%) of the dollar equivalent value served as the basis for determining a number of performance share awards ( PSAs ) for the executive using the fair market value of the Company s common stock on the date of such award and an assumption that the Company would achieve the  target  level of performance required to earn the PSA. The Compensation Committee s rationale for awarding PSAs is to further align the executive s interest with those of the Company s stockholders by using equity awards that will vest only if the Company achieves pre-established performance metrics. A description of the PSAs, including the method by which they vest and the related performance metrics, is set forth below in the    Grants of Plan-Based Awards Table  .  
+  Other Compensation and Benefits 
+  We provide other benefits to our executive officers that are intended to be part of a competitive overall compensation program and are not tied to any company performance criteria. Consistent with the Compensation Committee s goal of ensuring that executive compensation is perceived as fair to all stakeholders, the Company offers medical, dental, vision, life, and disability insurance plans to executive officers under the same terms as such benefits are offered to other employees. Additionally, executive officers are permitted to participate in the Company s 401(k) Savings and Investment Plan and Employee Stock Purchase Plan under the same terms as other employees. The Company does not provide executive officers with any enhanced retirement benefits (i.e., executive officers are subject to the same limits on contributions as other employees, as the Company does not offer any  
+  
+   12 
+
+supplemental executive retirement plan or other similar non-qualified deferred compensation plan), and they are eligible for 401(k) company-match contributions under the same terms as other employees. In fiscal year 2017, the Company offered executives the opportunity to participate in financial planning services through The Ayco Company, L.P. ( Ayco ), at a cost of up to approximately $18,000 per executive paid by the Company. In fiscal year 2017, Mr. Aldrich is the only Named Executive Officer who received financial planning services through Ayco, and he elected to pay personally for such services. 
+  In prior fiscal years certain executive officers were provided an opportunity to participate in the Company s Executive Compensation Plan (the  Executive Compensation Plan ), an unfunded, non-qualified deferred compensation plan, under which participants were allowed to defer a portion of their compensation. As a result of deferred compensation legislation under Section 409A of the IRC, which became effective on December 31, 2005, the Company no longer permits employees to make contributions to the plan. Upon retirement, as defined in the Executive Compensation Plan, or other separation from service, or, if so elected, upon any earlier change in control of the Company, a participant is entitled to a payment of his vested account balance, either in a single lump sum or in annual installments, as elected in advance by the participant. Although the Company had discretion to make additional contributions to the accounts of participants while the Executive Compensation Plan was active, it never did so. Mr. Aldrich is the only Named Executive Officer who participated in the Executive Compensation Plan while it was active. 
+  Severance and Change-in-Control Benefits 
+  None of our executive officers, including the Named Executive Officers, has an employment agreement that provides a specific term of employment with the Company. Accordingly, the employment of any such employee may be terminated at any time. We do provide certain benefits to our Named Executive Officers upon certain qualifying terminations of employment and in connection with terminations of employment under certain circumstances following a change in control. A description of the material terms of our severance and change-in-control arrangements with the Named Executive Officers can be found immediately below and further below under    Potential Payments Upon Termination or Change in Control.    
+  The Compensation Committee believes that severance protections can play a valuable role in recruiting and retaining superior talent. Severance and other termination benefits are an effective way to offer executives financial security to incent them to forego an opportunity with another company. These agreements also protect the Company as the Named Executive Officers are bound by restrictive non-compete and non-solicit covenants for up to two years after termination of employment. Outside of the change-in-control context, each Named Executive Officer is entitled to severance benefits if his employment is involuntarily terminated by the Company without cause and, in the case of the Executive Chairman and the Chief Executive Officer, if he terminates his own employment for good reason (as defined in each executive s respective agreement). In addition, the Executive Chairman is entitled to certain severance benefits upon the expiration of the term of his agreement. The Compensation Committee believes that this provision facilitates his retention with the Company. The level of each Named Executive Officer s cash severance or other termination benefit is generally tied to his annual base salary and short-term incentive amounts. 
+  Additionally, each Named Executive Officer would receive enhanced severance benefits and accelerated vesting of equity awards if his employment were terminated under certain circumstances in connection with a change in control of the Company. These benefits are described in detail further below under    Potential Payments Upon Termination or Change in Control.    The Compensation Committee believes these enhanced severance benefits and accelerated vesting are appropriate because the occurrence, or potential occurrence, of a change-in-control transaction would likely create uncertainty regarding the continued employment of executive officers that typically occurs in a change-in-control context, and such severance benefits and accelerated vesting encourage the Named Executive Officers to remain employed with the Company through the change-in-control process and to focus on enhancing stockholder value both before and during the process. In addition, the vesting protection helps assure the Named Executive Officers that they will not lose the expected value of their equity awards because of a change in control of the Company. 
+  Executive Officer Stock Ownership Requirements 
+  We have adopted Executive Stock Ownership guidelines with the objective of more closely aligning the interests of our executive officers with those of our stockholders. Under the Executive Officer Ownership guidelines, our Executive Chairman and our Chief Executive Officer are each required to hold the   lower   of (a) the number of shares with a fair market value equal to six (6) times such executive s current base salary, or (b) 120,000 or 127,500 shares, respectively; our Senior Vice President and Chief Financial Officer and our Senior Vice President, Sales and Marketing, are each required to hold the   lower   of (a) the number of shares with a fair market value equal to two and one-half (2   1   /   2   ) times such executive s current base salary, or (b) 26,600 or 25,200 shares, respectively; and our Chief Technology Officer is required to hold the   lower   of (a) the number of shares with a fair market value equal to two (2) times his current base salary, or (b) 19,500 shares. For purposes of the Executive Stock Ownership guidelines, the fair market value of the Company s common stock is the average closing price per share of the Company s common stock as reported on the Nasdaq Global Select Market (or if the common stock is not then traded on such market, such other market on which the common stock is traded) for the twelve (12) month period ending with the determination date. As of January 15,  
+  
+   13 
+
+2018, all of our Named Executive Officers were in compliance with the stock ownership guidelines (with the exception of Mr. Sennesael, who has until the third anniversary of the date he assumed his current position to comply with the guidelines). 
+  Compliance with Internal Revenue Code Section 162(m) 
+  For fiscal year 2017, Section 162(m) of the IRC generally disallowed a tax deduction for compensation in excess of $1 million paid to our Chief Executive Officer and any of our three other most highly compensated executive officers, other than our Chief Financial Officer. Certain compensation, including qualified performance-based compensation, was not subject to the deduction limit if applicable requirements were met. For fiscal year 2017, the Compensation Committee generally sought to structure the compensation of our executive officers in a manner that was intended to avoid disallowance of deductions under Section 162(m). However, the Compensation Committee reserved the right to use its judgment to authorize compensation payments to the Company s executives that were subject to the Section 162(m) deduction limit when the Compensation Committee believed such payments were appropriate and in the best interests of the Company and our stockholders. 
+  
+   14 
+
+Compensation Tables for Named Executive Officers 
+  Summary Compensation Table 
+  The following table summarizes compensation earned by, or awarded or paid to, our Named Executive Officers for fiscal year 2017, our fiscal year ended September 30, 2016 ( fiscal year 2016 ), and our fiscal year ended October 2, 2015 ( fiscal year 2015 ). 
+
+(2) 
+    Reflects amounts paid to the Named Executive Officers pursuant to the executive incentive plan adopted by the Compensation Committee for each year indicated. For fiscal year 2015, the portion of the respective executive incentive plan attributable to Company performance above the  target  performance metric was paid in the form of unrestricted common stock of the Company as follows: Mr. Griffin ($463,500), Mr. Aldrich ($1,162,500), Mr. Bori ($101,985), and Mr. Gammel ($203,500). The number of shares awarded in lieu of cash was based on the fair market value of the Company s common stock on November 9, 2015, which is the date that the payments under the fiscal year 2015 executive incentive plan were approved by the Compensation Committee.  
+              (3) 
+     All Other Compensation  includes the Company s contributions to the executive s 401(k) Plan account, the cost of group term life insurance premiums, relocation expenses, and dividend accruals on unvested shares of restricted stock (which became payable when the underlying shares vested). For fiscal year 2017, it specifically includes $223,290 and $58,809 in relocation expenses for Messrs. Sennesael and Gammel, respectively, and $19,250 in dividend accruals for Mr. Bori. 
+     
+   15 
+
+Grants of Plan-Based Awards Table 
+  The following table summarizes all grants of plan-based awards made to the Named Executive Officers in fiscal year 2017, including incentive awards payable under our Fiscal Year 2017 Executive Incentive Plan. 
+
+(1) 
+    The amounts shown represent the potential value of awards earned under the Incentive Plan. The amounts actually paid to the Named Executive Officers under the Incentive Plan are shown above in the    Summary Compensation Table    under    Non-Equity Incentive Plan Compensation.    For a more complete description of the Incentive Plan, please see description above under    Components of Compensation Short-Term Incentives  .  
+              (2) 
+    The amounts shown represent shares potentially issuable pursuant to PSAs granted on November 9, 2016, under the Company s Amended and Restated 2015 Long-Term Incentive Plan (the  FY17 PSAs ). The FY17 PSAs have both  performance  and  continued employment  conditions that must be met in order for the executive to receive shares underlying the award. 
+     The  performance  condition guides the initial eligibility of the grantee to receive shares under the PSA and compares the non-GAAP free cash flow growth achieved (related to fifty percent (50%) of the shares underlying the award) and the total stockholder return, or TSR, percentile ranking achieved with respect to our peer group (related to the other fifty percent (50%) of the shares underlying the award) during the performance period against a range of pre-established targets. The peer group for purposes of the TSR percentile ranking metric includes each of the companies in the Comparator Group and excludes any such company that during fiscal year 2017 is acquired by or merged with (or enters into an agreement to be acquired by or merged with) another entity. The Compensation Committee determines the  threshold  or minimum level of performance that would be acceptable to the Company to justify a payout. The  maximum  level represents a best-case performance scenario. The middle of the range is referred to by the Company as the  target  level and represents the expected performance of the Company. The number of shares issuable under the FY17 PSAs corresponds to the level of achievement of the performance goals. The  target  number of shares is determined with reference to the competitive level of long-term equity compensation determined by the Compensation Committee in the manner described above. Performance at the  threshold  level results in an issuance of a number of shares equal to one-half (   1   /   2   ) the  target  number of shares, and performance at the  maximum  level results in the issuance of a number of shares equal to two (2) times the  target  number of shares. Performance in between either the  threshold  and  target  levels or the  target  and  maximum  levels results in an issuance of a number of shares between the number of shares issuable under the  
+  
+   16 
+
+FY17 PSAs at, respectively, the  threshold  and  target  levels or the  target  and  maximum  levels. The non-GAAP free cash flow growth performance goal is based on the Company s non-GAAP free cash flow, which it calculates by deducting capital expenditures from, and making certain other adjustments to, GAAP cash from operations. 
+  The  continued employment  condition of the FY17 PSAs provides that, to the extent that the non-GAAP free cash flow growth and TSR percentile ranking performance metrics are met for the fiscal year, then twenty-five percent (25%) of the total shares for which the performance metric was met would be issuable to the executive on the first anniversary of the grant date, twenty-five percent (25%) of such shares would be issuable to the executive on the second anniversary of the grant date, and the remaining fifty percent (50%) of such shares would be issuable to the executive on the third anniversary of the grant date, provided that the executive remains employed by the Company through each such vesting date. In the event of termination by reason of death or permanent disability, the holder of an FY17 PSA (or his estate) would receive any shares that would have been issuable thereunder during the remaining term of the award (i.e., earned but unissued shares). 
+           (3) 
+    Represents shares underlying RSU awards granted under the Company s 2015 Long-Term Incentive Plan. The RSU award vests over four years at a rate of twenty-five percent (25%) per year commencing one year after the date of grant and on each subsequent anniversary of the grant date for the following three years, provided the executive remains employed by the Company through each such vesting date. 
+              (4) 
+    The options vest over four years at a rate of twenty-five percent (25%) per year commencing one year after the date of grant and on each subsequent anniversary of the grant date for the following three years, provided the executive remains employed by the Company through each such vesting date. Options may not be exercised more than three months after the executive ceases to be employed by the Company, except in the event of certain qualifying terminations of employment, including by reason of death or permanent disability, in which event the option may be exercised for specific periods following the termination of employment (but in no case shall the period of exercisability be extended beyond the expiration of the option s maximum term). 
+              (5) 
+    Stock options awarded to executive officers have an exercise price equal to the closing price of the Company s common stock on the grant date. 
+              (6) 
+    Reflects the grant date fair value of the FY17 PSAs, computed in accordance with the provisions of ASC 718, using (a) a Monte Carlo simulation (which weights the probability of multiple potential outcomes) to value the portion of the award related to TSR percentile ranking, and (b) a price of $77.66 per share, which was the closing sale price of the Company s common stock on the Nasdaq Global Select Market on November 9, 2016, to value the portion of the award related to non-GAAP free cash flow growth, assuming performance at the  target  level. For a description of the assumptions used in calculating the fair value of equity awards granted in fiscal year 2017 under ASC 718, see Note 9 of the Company s financial statements included in the Company s Annual Report on Form 10-K filed with the SEC on November 13, 2017. 
+              (7) 
+    Reflects the grant date fair value of the RSUs granted on November 9, 2016, computed in accordance with the provisions of ASC 718 using a price of $77.66 per share, which was the closing price of the Company s common stock on the Nasdaq Global Select Market on November 9, 2016. 
+              (8) 
+    Reflects the grant date fair value of the stock options granted on November 9, 2016, computed in accordance with the provisions of ASC 718 using the Black-Scholes model of option valuation. The actual value, if any, the executive may realize will depend on the excess of the stock price over the exercise price on the date the option is exercised. For a description of the assumptions used in calculating the fair value of equity awards granted in fiscal year 2017 under ASC 718, see Note 9 of the Company s financial statements included in the Company s Annual Report on Form 10-K filed with the SEC on November 13, 2017. 
+     
+   17 
+
+Outstanding Equity Awards at Fiscal Year End Table 
+  The following table summarizes the unvested stock awards and all stock options held by the Named Executive Officers as of the end of fiscal year 2017. 
+
+(1) 
+    Reflects a price of $101.90 per share, which was the closing sale price of the Company s common stock on the Nasdaq Global Select Market on September 29, 2017. 
+              (2) 
+    These options were granted on November 7, 2013, and vested at a rate of twenty-five percent (25%) per year on each anniversary of the grant date until they became fully vested on November 7, 2017. 
+               (4) 
+    These options were granted on November 9, 2015, and vest at a rate of twenty-five percent (25%) per year on each anniversary of the grant date through November 9, 2019. 
+               (6) 
+    These options were granted on November 9, 2016, and vest at a rate of twenty-five percent (25%) per year on each anniversary of the grant date through November 9, 2020. 
+     
+   18 
+
+(8) 
+    Represents shares issuable under the PSAs granted on November 9, 2015, under the Company s Amended and Restated 2015 Long-Term Incentive Plan (the  FY16 PSAs ). Twenty-five percent (25%) of the shares earned under the FY16 PSAs were issued on each of November 9, 2016, and November 9, 2017, and the remaining fifty percent (50%) of the shares earned will be issued on November 9, 2018, provided the executive meets the continued employment condition. 
+              (9) 
+    Represents shares issuable under the FY17 PSAs (awarded on November 9, 2016, as described in footnote 2 of the    Grants of Plan-Based Awards Table    above). With respect to the FY17 PSAs, the Company achieved the  maximum  level of performance and, accordingly, on November 9, 2017, the Company issued twenty-five percent (25%) of the number of shares earned by each executive under his FY17 PSA. Twenty-five percent (25%) of the shares earned under the FY17 PSAs will be issued on November 9, 2018, and the remaining fifty percent (50%) of the shares earned will be issued on November 9, 2019, provided, in each case, that the executive meets the continued employment condition. 
+              (10) 
+    Represents shares issuable under an RSU award granted on May 6, 2014, under the Company s Amended and Restated 2005 Long-Term Incentive Plan. The RSU award vests at a rate of twenty-five percent (25%) per year on each anniversary of the grant date through May 6, 2018. 
+               (12) 
+    Represents shares issuable under an RSU award granted on November 9, 2016, under the Company s 2015 Long-Term Incentive Plan. The RSU award vests at a rate of twenty-five percent (25%) per year on each anniversary of the grant date through November 9, 2020. 
+               (14) 
+    Represents shares issuable under an RSU award granted on August 29, 2016, under the Company s 2015 Long-Term Incentive Plan. The RSU award vests at a rate of twenty-five percent (25%) per year on each anniversary of the grant date through August 29, 2020. 
+     
+   19 
+
+Option Exercises and Stock Vested Table 
+  The following table summarizes the Named Executive Officers  option exercises and stock award vesting during fiscal year 2017. 
+
+(1) 
+    The value realized on exercise is based on the amount by which the market price of a share of the Company s common stock on the dates of exercise exceeded the applicable exercise price per share of the exercised option. 
+              (2) 
+    The value realized upon vesting is determined by multiplying (a) the number of shares underlying the stock awards that vested, by (b) the closing price of the Company s common stock on the Nasdaq Global Select Market on the applicable vesting date. 
+       
+  Nonqualified Deferred Compensation Table 
+  As described above under    Components of Compensation Other Compensation and Benefits  ,  Mr. Aldrich is the only Named Executive Officer who participated in the Executive Compensation Plan while it was active, and he elected to be paid his aggregate account balance under the plan in a single lump sum upon his future retirement or other separation from service. Mr. Aldrich s contributions are credited with earnings/losses based upon the performance of the investments he selects. 
+  The following table summarizes Mr. Aldrich s aggregate earnings and aggregate account balance under the Executive Compensation Plan in fiscal year 2017. In fiscal year 2017, there were no withdrawals by or distributions to Mr. Aldrich. 
+
+(1) 
+    Balance as of September 29, 2017. This amount consists of Mr. Aldrich s individual contributions and the return/(loss) generated from the investment of those contributions. The full amount of Mr. Aldrich s individual contributions was previously reported as compensation to Mr. Aldrich in the Summary Compensation Tables of the fiscal years in which such contributions were made. 
+     
+   20 
+
+Potential Payments Upon Termination or Change in Control 
+  Mr. Aldrich 
+  On May 11, 2016, in connection with the transition of Mr. Aldrich from Chief Executive Officer to Executive Chairman of the Company, the Company entered into a second amended and restated Change of Control / Severance Agreement with Mr. Aldrich (the  Aldrich Agreement ). The Aldrich Agreement sets out severance benefits that become payable if, while employed by the Company, other than following a change of control, Mr. Aldrich either (i) is terminated without cause, or (ii) terminates his employment for good reason. The severance benefits provided to Mr. Aldrich under either of these circumstances would consist of: (i) a lump-sum payment equal to two (2) times the sum of (A) his then-current annual base salary immediately prior to such termination and (B) the Bonus Amount (as defined below), and (ii) full acceleration of the vesting of all of Mr. Aldrich s outstanding stock options, which stock options would become exercisable for a period of two (2) years after the termination date (but not beyond the expiration of their respective maximum terms), full acceleration of the vesting of all outstanding restricted stock awards, and the right to receive the     number of performance shares under outstanding PSAs   that he would have earned had he remained employed through the end of the applicable performance period. The Bonus Amount is an amount equal to the greater of (x) the average of the short-term cash incentive awards received for the three (3) years prior to the year in which the termination occurs, and (y) the target annual short-term cash incentive award for the year in which the termination occurs. 
+  The Aldrich Agreement also sets out severance benefits that become payable if (i) within two (2) years after a change of control, Mr. Aldrich s employment is either (A) terminated by the Company without cause, or (B) terminated by him for good reason, or (ii) the term of the Aldrich Agreement expires within ninety (90) days following a change of control. The severance benefits provided to Mr. Aldrich in such circumstances would consist of: (i) a lump-sum payment equal to two and one-half (2 ) times the sum of (A) his annual base salary immediately prior to the change of control, and (B) the CIC Bonus Amount (as defined below); (ii) Mr. Aldrich s then-outstanding stock options would become exercisable for a period of thirty (30) months after the termination date (but not beyond the expiration of their respective maximum terms); and (iii) provided he is eligible for and timely elects to continue receiving group medical coverage, certain COBRA continuation for him and his eligible dependents ( COBRA continuation ) for a period of eighteen (18) months after the termination. Additionally, except as may otherwise be provided in an award agreement documenting an award made under the Company s 2015 Long-Term Incentive Plan with respect to a change in control (as that term is defined in the 2015 Long-Term Incentive Plan), in the event of a change of control, the Aldrich Agreement provides for full acceleration of the vesting of all of Mr. Aldrich s then-outstanding stock options and restricted stock awards and partial acceleration of any outstanding PSAs. The CIC Bonus Amount is an amount equal to the greater of (x) the average of the annual short-term cash incentive awards received for the three (3) years prior to the year in which the change of control occurs and (y) the target annual short-term cash incentive award for the year in which the change of control occurs. 
+  The Aldrich Agreement also sets out the benefits that become payable upon the earlier of the expiration of the term of the Aldrich Agreement (including an early expiration of the term by mutual agreement of the Company and Mr. Aldrich) or Mr. Aldrich s death or disability. The benefits provided to Mr. Aldrich under these circumstances would consist of: (i) a lump-sum payment equal to one (1) times the sum of (A) his then-current annual base salary and (B) the Bonus Amount; (ii) full acceleration of the vesting of all of Mr. Aldrich s outstanding stock options, which stock options would become exercisable for a period of two (2) years after the termination date (but not beyond the expiration of their respective maximum terms), full acceleration of the vesting of all outstanding restricted stock awards, and the right to receive the number of performance shares under outstanding PSAs that he would have earned had he remained employed through the end of the applicable performance period (provided that such acceleration shall only apply to a prorated portion of any awards granted to Mr. Aldrich in the final fiscal year of the term of the Aldrich Agreement, based on the number of days he performed services for the Company in such fiscal year); (iii) COBRA continuation for a period of eighteen (18) months after the termination; and (iv) a lump-sum payment of his annual short-term incentive award for the fiscal year in which termination occurs, based on the achievement of any and all applicable performance milestones determined by the Board of Directors in accordance with the terms of the applicable executive bonus plan and prorated based on the number of days he performed services for the Company in such fiscal year. 
+  The Aldrich Agreement sets Mr. Aldrich s annual base salary at $800,000. Mr. Aldrich will be eligible to participate in any fiscal year executive incentive plan adopted by the Company during the term of the agreement. His annual cash bonus opportunity (i) under the Fiscal Year 2016 Incentive Plan remained in effect for fiscal year 2016, and (ii) under any executive bonus plan adopted by the Company for any other fiscal year during the term of the Aldrich Agreement shall be the same as the annual cash bonus opportunity for the Company s then-Chief Executive Officer. The Aldrich Agreement also provides that Mr. Aldrich will be eligible to receive an annual award of stock options and PSAs in each fiscal year during the term of the Aldrich Agreement at the same time as annual equity awards are made to the Company s executives, in each case, in such amount as is equal to 90% of any such award made by the Company to the Company s then-Chief Executive Officer. 
+  
+   21 
+
+The Aldrich Agreement has an initial term that lasts until the date on which the Company s 2018 annual meeting of stockholders occurs and that automatically extends until the date on which the Company s 2019 annual meeting of stockholders occurs, unless either the Company or Mr. Aldrich timely provides a notice of non-renewal to the other. The Aldrich Agreement is intended to be compliant with Section 409A of the IRC. Additionally, the Aldrich Agreement requires Mr. Aldrich to sign a release of claims in favor of the Company before he is eligible to receive any benefits under the agreement, and contains non-compete and non-solicitation provisions applicable to him while he is employed by the Company and for a period of twenty-four (24) months following the termination of his employment. 
+  Additionally, award agreements for any equity awards granted to Mr. Aldrich under the Company s 2015 Long-Term Incentive Plan, which became effective on May 18, 2015, provide that, notwithstanding the provision in the Aldrich Agreement providing that his equity awards would vest automatically upon a change of control of the Company, such new equity awards shall instead be governed by the terms of the 2015 Long-Term Incentive Plan, which does not provide for automatic accelerated vesting of outstanding equity awards solely upon a change of control. 
+  The terms  change of control,   cause,  and  good reason  are each defined in the Aldrich Agreement. Change of control means, in summary: (i) the acquisition by a person or a group of 40% or more of the outstanding stock of the Company; (ii) a change, without approval by the Board of Directors, of a majority of the Board of Directors of the Company; (iii) the acquisition of the Company by means of a reorganization, merger, consolidation, or asset sale; or (iv) stockholder approval of a liquidation or dissolution of the Company. Cause means, in summary: (i) deliberate dishonesty that is significantly detrimental to the best interests of the Company; (ii) conduct constituting an act of moral turpitude; (iii) willful disloyalty or insubordination; or (iv) incompetent performance or substantial or continuing inattention to or neglect of duties. Good reason means, in summary: (i) a material diminution in his base salary, authority, duties, or responsibilities; (ii) a requirement that Mr. Aldrich report to a corporate officer or employee instead of reporting directly to the Board of Directors; (iii) a material change in his office location; or (iv) any action or inaction constituting a material breach by the Company of the terms of the agreement. 
+  Mr. Griffin 
+  On May 11, 2016, in connection with the appointment of Mr. Griffin as Chief Executive Officer, the Company entered into an amended and restated Change in Control / Severance Agreement with Mr. Griffin (the  Griffin Agreement ). The Griffin Agreement sets out severance benefits that become payable if, while employed by the Company, other than following a change in control, Mr. Griffin either (i) is terminated without cause, or (ii) terminates his employment for good reason. The severance benefits provided to Mr. Griffin under either of these circumstances would consist of: (i) a lump-sum payment equal to two (2) times the sum of (A) his then-current annual base salary immediately prior to such termination and (B) the Bonus Amount; (ii) full acceleration of the vesting of all of Mr. Griffin s outstanding stock options, which stock options would become exercisable for a period of two (2) years after the termination date (but not beyond the expiration of their respective maximum terms), full acceleration of the vesting of all outstanding restricted stock awards, and the right to receive the number of performance shares under outstanding PSAs that are earned but unissued and that he would have earned had he remained employed through the end of the applicable performance period; and (iii) COBRA continuation for up to fifteen (15) months after the termination date. 
+  The Griffin Agreement also sets out severance benefits that become payable if, within the period of time commencing three (3) months prior to and ending two (2) years following a change in control, Mr. Griffin s employment is either (i) terminated by the Company without cause, or (ii) terminated by him for good reason (a  Qualifying Termination ). The severance benefits provided to Mr. Griffin in such circumstances would consist of the following: (i) a lump-sum payment equal to two and one-half (2 ) times the sum of (A) his annual base salary immediately prior to the change in control, and (B) the CIC Bonus Amount; (ii) all of Mr. Griffin s then-outstanding stock options would become exercisable for a period of thirty (30) months after the termination date (but not beyond the expiration of their respective maximum terms); and (iii) COBRA continuation for up to eighteen (18) months after the termination date.  
+  The Griffin Agreement also provides that in the event of a Qualifying Termination, Mr. Griffin is entitled to full acceleration of the vesting of all of his outstanding equity awards (including stock options, restricted stock awards, RSU awards, and all earned but unissued performance-based equity awards) granted after January 22, 2015. At the time of a change in control, all such outstanding equity awards would continue to be subject to the same time-based vesting schedule to which the awards were subject prior to the change in control (including performance-based equity awards that are deemed earned at the time of the change in control as described below). For performance-based equity awards where the change in control occurs prior to the end of the performance period, such awards would be deemed earned as to the greater of (i) the target level of shares for such awards, or (ii) the number of shares that would have been earned pursuant to the terms of such awards based upon performance up through and including the day prior to the date of the change in control. In the event that the successor or surviving company does not agree to assume, or to substitute for, such outstanding equity awards on substantially similar terms with substantially equivalent  
+  
+   22 
+
+economic benefits as exist for such award immediately prior to the change in control, then such awards would accelerate in full as of the change in control. 
+  The Griffin Agreement also provides that all outstanding equity awards held by Mr. Griffin on January 22, 2015, that were granted under the Company s Amended and Restated 2005 Long-Term Incentive Plan will continue, following January 22, 2015, to be governed by the terms of the 2005 Long-Term Incentive Plan and the applicable award agreements thereunder, which terms include automatic accelerated vesting upon a change in control event; provided, however, that for purposes of these awards, a  change in control event  will be deemed to have occurred in the event of a change in control as defined in the Griffin Agreement. 
+  In the event of Mr. Griffin s death or permanent disability (within the meaning of Section 22(e)(3) of the IRC), the Griffin Agreement provides for full acceleration of the vesting of all then-outstanding equity awards subject to time-based vesting (including stock options, restricted stock awards, RSU awards, and all performance-based equity awards where the performance period has ended and the shares are earned but unissued). The Griffin Agreement also provides that if Mr. Griffin s death or permanent disability occurs prior to the end of the performance period of a performance-based equity award, each such award would be deemed earned as to the greater of (i) the target level of shares for such award, or (ii) the number of shares that would have been earned pursuant to the terms of such award had he remained employed through the end of the performance period, and such earned shares would become vested and issuable to him after the performance period ends. In addition, all outstanding stock options would be exercisable for a period of twelve (12) months following the termination of employment (but not beyond the expiration of their respective maximum terms). 
+  The Griffin Agreement is intended to be exempt from or compliant with Section 409A of the IRC and has an initial two (2) year term from May 11, 2016, and thereafter renews automatically on an annual basis for up to five (5) additional years unless either the Company or Mr. Griffin timely provides a notice of non-renewal to the other prior to the end of the then-current term. The payments due to Mr. Griffin under the Griffin Agreement are subject to potential reduction in the event that such payments would otherwise become subject to excise tax incurred under Section 4999 of the IRC, if such reduction would result in his retaining a larger amount, on an after-tax basis, than if he had received all of the payments due. 
+  Additionally, the Griffin Agreement requires that Mr. Griffin sign a release of claims in favor of the Company before he is eligible to receive any benefits under the Griffin Agreement and contains a non-solicitation provision applicable to Mr. Griffin while he is employed by the Company and for twelve (12) months following the termination of his employment. 
+  The terms  change in control,   cause,  and  good reason  are each defined in the Griffin Agreement. Change in control means, in summary: (i) the acquisition by a person or a group of 40% or more of the outstanding stock of the Company; (ii) a change, without approval by the Board of Directors, of a majority of the Board of Directors of the Company; (iii) the acquisition of the Company by means of a reorganization, merger, consolidation, or asset sale; or (iv) stockholder approval of a liquidation or dissolution of the Company. Cause means, in summary: (i) deliberate dishonesty that is significantly detrimental to the best interests of the Company; (ii) conduct constituting an act of moral turpitude; (iii) willful disloyalty or insubordination; or (iv) incompetent performance or substantial or continuing inattention to or neglect of duties. Good reason means, in summary: (i) a material diminution in his base compensation, authority, duties, responsibilities, or budget over which he retains authority; (ii) a requirement that Mr. Griffin report to a corporate officer or employee instead of reporting directly to the Board of Directors; (iii) a material change in his office location; or (iv) any action or inaction constituting a material breach by the Company of the terms of the agreement. 
+  Messrs. Sennesael, Bori, and Gammel 
+  The Company entered into Change in Control / Severance Agreements with each of Messrs. Gammel, Sennesael, and Bori on December 16, 2014, August 29, 2016, and November 9, 2016, respectively. Each such Change in Control / Severance Agreement is referred to herein as a  CIC Agreement.  
+  Each CIC Agreement sets out severance benefits that become payable if, within the period of time commencing three (3) months prior to and ending twelve (12) months following a change in control, the executive officer s employment is either (i) terminated by the Company without cause, or (ii) terminated by the executive for good reason (for each such executive, a  Qualifying Termination ). The severance benefits provided to the executive in such circumstances would consist of the following: (i) a lump sum payment equal to one and one-half (1 ) times (two (2) times, in the case of Mr. Gammel) the sum of (A) his annual base salary immediately prior to the change in control, and (B) the CIC Bonus Amount; (ii) all of the executive s then-outstanding stock options would remain exercisable for a period of eighteen (18) months after the termination date (but not beyond the expiration of their respective maximum terms); and (iii) COBRA continuation for up to eighteen (18) months after the termination date. 
+  
+   23 
+
+Each CIC Agreement also provides that in the event of a Qualifying Termination, the executive is entitled to full acceleration of the vesting of all of his outstanding equity awards (including stock options, restricted stock awards, RSU awards, and all earned but unissued performance-based equity awards) granted after January 22, 2015. At the time of a change in control, all such outstanding equity awards would continue to be subject to the same time-based vesting schedule to which the awards were subject prior to the change in control (including performance-based equity awards that are deemed earned at the time of the change in control as described below). For performance-based equity awards where the change in control occurs prior to the end of the performance period, such awards would be deemed earned as to the greater of (i) the target level of shares for such awards, or (ii) the number of shares that would have been earned pursuant to the terms of such awards based upon performance up through and including the day prior to the date of the change in control. In the event that the successor or surviving company does not agree to assume, or to substitute for, such outstanding equity awards on substantially similar terms with substantially equivalent economic benefits as exist for such award immediately prior to the change in control, then such awards would accelerate in full as of the change in control. 
+  The CIC Agreement for each of Messrs. Gammel and Bori also provides that all outstanding equity awards held by the executive on the effective date of the agreement (January 22, 2015, in the case of Mr. Gammel, and November 10, 2016, in the case of Mr. Bori) that were granted under the Company s Amended and Restated 2005 Long-Term Incentive Plan will continue, following the agreement effective date, to be governed by the terms of the 2005 Long-Term Incentive Plan and the applicable award agreements thereunder, which terms include automatic accelerated vesting upon a change in control event; provided, however, that for purposes of these awards, a  change in control event  will be deemed to have occurred in the event of a change in control as defined in the CIC Agreement. On May 18, 2015, the Company s stockholders approved the 2015 Long-Term Incentive Plan, which does not provide for automatic accelerated vesting of outstanding equity awards upon a change in control. Since May 18, 2015, no awards have been made, and in the future no awards will be made, to the Named Executive Officers or other employees under the 2005 Long-Term Incentive Plan.  
+  Each CIC Agreement also sets out severance benefits outside a change in control that become payable if the executive s employment is terminated by the Company without cause. The severance benefits provided to the executive under such circumstance would consist of the following: (i) in the case of Mr. Gammel, a lump sum payment equal to the sum of (x) his annual base salary, and (y) any short-term cash incentive award then due, and in the case of Messrs. Sennesael and Bori, biweekly compensation continuation payments for a period of twelve (12) months, with each such compensation continuation payment being equal to the aggregate payment amount divided by twenty-six (26), where the aggregate payment is equal to the sum of (x) his annual base salary, and (y) any short-term cash incentive award then due; (ii) all then-vested outstanding stock options would remain exercisable for a period of twelve (12) months after the termination date (but not beyond the expiration of their respective maximum terms); and (iii) COBRA continuation coverage for up to twelve (12) months after the termination date. 
+  In the event of the executive s death or permanent disability (within the meaning of Section 22(e)(3) of the IRC), each CIC Agreement provides for full acceleration of the vesting of all then-outstanding equity awards subject to time-based vesting (including stock options, restricted stock awards, RSU awards, and all performance-based equity awards where the performance period has ended and the shares are earned but unissued). Each CIC Agreement also provides that for a performance-based equity award where the executive s death or permanent disability occurs prior to the end of the performance period, such award would be deemed earned as to the greater of (i) the target level of shares for such award, or (ii) the number of shares that would have been earned pursuant to the terms of such award had the executive remained employed through the end of the performance period, and such earned shares would become vested and issuable to the executive after the performance period ends. In addition, all outstanding stock options would remain exercisable for a period of twelve (12) months following the termination of employment (but not beyond the expiration of their respective maximum terms). 
+  Each CIC Agreement is intended to be exempt from or compliant with Section 409A of the IRC and has an initial two (2) year term, and thereafter renews automatically on an annual basis for up to five (5) additional years unless either the Company or the executive timely provides a notice of non-renewal to the other prior to the end of the then-current term. The payments due to each executive under his CIC Agreement are subject to potential reduction in the event that such payments would otherwise become subject to excise tax incurred under Section 4999 of the IRC, if such reduction would result in the executive retaining a larger amount, on an after-tax basis, than if he had received all of the payments due. 
+  Additionally, each CIC Agreement requires that the executive sign a release of claims in favor of the Company before he is eligible to receive any benefits under the agreement. The CIC Agreement for Mr. Gammel contains non-compete and non-solicitation provisions applicable to the executive while he is employed by the Company and for a period of twenty-four (24) months following the termination of his employment. The CIC Agreement for each of Messrs. Sennesael and Bori contains non-solicitation provisions applicable to the executive while he is employed by the Company and for a period of twelve (12) months following the termination of his employment. 
+  
+   24 
+
+The terms  change in control,   cause,  and  good reason  are each defined in the CIC Agreements. Change in control means, in summary: (i) the acquisition by a person or a group of 40% or more of the outstanding stock of the Company; (ii) a change, without approval by the Board of Directors, of a majority of the Board of Directors of the Company; (iii) the acquisition of the Company by means of a reorganization, merger, consolidation, or asset sale; or (iv) stockholder approval of a liquidation or dissolution of the Company. Cause means, in summary: (i) deliberate dishonesty that is significantly detrimental to the best interests of the Company; (ii) conduct constituting an act of moral turpitude; (iii) willful disloyalty or insubordination; or (iv) incompetent performance or substantial or continuing inattention to or neglect of duties. Good reason means, in summary: (i) a material diminution in the executive s base compensation, authority, duties, or responsibilities; (ii) a material diminution in the authority, duties, or responsibilities of the executive s supervisor; (iii) a material change in the executive s office location; or (iv) any action or inaction constituting a material breach by the Company of the terms of the agreement. 
+  
+   25 
+
+The following table summarizes the payments and benefits that would be made to the Named Executive Officers as of September 29, 2017, in the following circumstances as of such date: 
+             
+    termination without cause outside of a change in control; 
+                
+    termination without cause or for good reason in connection with a change in control; 
+                
+    in the event of a termination of employment because of death or disability; and 
+                
+    upon a change in control not involving a termination of employment. 
+     The accelerated equity values in the table reflect a price of $101.90 per share, which was the closing sale price of the Company s common stock on the Nasdaq Global Select Market on September 29, 2017. The table does not reflect any equity awards made after September 29, 2017. 
+
+(1) 
+    Represents the value of unvested equity awards granted to Named Executive Officers under the 2005 Long-Term Incentive Plan, which accelerate automatically upon a change in control of the Company. Equity awards granted to Named Executive Officers under the 2015 Long-Term Incentive Plan are not subject to accelerated vesting solely upon a change in control of the Company (unless the successor or surviving company does not agree to assume, or to substitute for, outstanding  
+     
+   26 
+
+equity awards on substantially similar terms with substantially equivalent economic benefits as exist for such award immediately prior to the change in control, in which case the awards would accelerate in full as of the change in control). 
+           (2) 
+    Excludes the value of accrued vacation/paid time off required by law to be paid upon termination. For Mr. Aldrich, excludes any distributions under the Executive Compensation Plan (see the discussion above regarding this inactive plan in the    Nonqualified Deferred Compensation Table   ). 
+              (3) 
+    Represents an amount equal to two (2) times the sum of (A) Mr. Griffin s annual base salary as of September 29, 2017, and (B) an Incentive Plan payment, which is equal to Mr. Griffin s  target  short-term cash incentive award for fiscal year 2017, since such  target  payout level is greater than the three (3) year average of the actual incentive payments made to Mr. Griffin for fiscal years 2014, 2015, and 2016. 
+              (4) 
+    Represents an amount equal to two and one-half (2 ) times the sum of (A) Mr. Griffin s annual base salary as of September 29, 2017, and (B) an Incentive Plan payment, which is equal to Mr. Griffin s  target  short-term cash incentive award for fiscal year 2017, since such  target  payout level is greater than the three (3) year average of the actual incentive payments made to Mr. Griffin for fiscal years 2014, 2015, and 2016. 
+              (5) 
+    Represents an amount equal to the Named Executive Officer s annual base salary as of September 29, 2017. 
+              (6) 
+    Represents an amount equal to one and one-half (1 ) times the sum of (A) the Named Executive Officer s annual base salary as of September 29, 2017, and (B) an Incentive Plan payment, which is equal to the Named Executive Officer s  target  short-term cash incentive award for fiscal year 2017, since such  target  payout level is greater than the three (3) year average of the actual incentive payments made to the Named Executive Officer for fiscal years 2014, 2015, and 2016. 
+              (7) 
+    Represents an amount equal to two (2) times the sum of (A) Mr. Aldrich s annual base salary as of September 29, 2017, and (B) an Incentive Plan payment, which is equal to the three (3) year average of the actual incentive payments made to Mr. Aldrich for fiscal years 2014, 2015, and 2016, since such average is greater than the  target  payout level. 
+              (8) 
+    Represents an amount equal to two and one-half (2 ) times the sum of (A) Mr. Aldrich s annual base salary as of September 29, 2017, and (B) an Incentive Plan payment equal to the three (3) year average of the actual incentive payments made to Mr. Aldrich for fiscal years 2014, 2015, and 2016, since such average is greater than the  target  payout level. 
+              (9) 
+    Represents an amount equal to two (2) times the sum of (A) Mr. Gammel s annual base salary as of September 29, 2017, and (B) an Incentive Plan payment, which is equal to Mr. Gammel s  target  short-term cash incentive award for fiscal year 2017, since such  target  payout level is greater than the three (3) year average of the actual incentive payments made to Mr. Gammel for fiscal years 2014, 2015, and 2016. 
+     
+   27 
+
+Director Compensation 
+  The Board of Directors sets the compensation for the Company s non-employee directors, after receiving the recommendations of the Compensation Committee.  In formulating its recommendations, the Compensation Committee seeks and receives input from Aon/Radford related to the amounts, terms and conditions of director cash compensation and stock-based compensation awards, with the goal of establishing non-employee director compensation that is similar to, and competitive with, the compensation of non-employee directors at peer companies in the semiconductor industry. 
+  Cash Compensation 
+  Effective as of February 2016, non-employee directors of the Company are paid, in quarterly installments, an annual retainer of $70,000. Additional annual retainers for Chairman and/or committee service (paid in quarterly installments) are as follows: the Chairman of the Board ($50,000); the Chairman of the Audit Committee ($24,000); the Chairman of the Compensation Committee ($20,000); the Chairman of the Nominating and Governance Committee ($10,000); non-chair member of Audit Committee ($12,000); non-chair member of Compensation Committee ($10,000); and non-chair member of Nominating and Corporate Governance Committee ($5,000). If the Chairman of the Board is an employee of the Company, the Chairman s retainer will be paid to the Lead Independent Director, if one has been appointed. In addition, the Compensation Committee continues to retain discretion to recommend to the full Board of Directors that additional cash payments be made to a non-employee director for extraordinary service during a fiscal year. 
+  Equity Compensation 
+  Effective as of February 2016, any newly appointed non-employee director will receive an initial equity grant composed of a combination of a stock option and a restricted stock unit award having an aggregate value of approximately $260,000, with such value allocated equally (i.e., 50%/50%) between the stock option and the restricted stock unit award, and with the stock option having an exercise price equal to the fair market value of the common stock on the date of grant. Prior to the 2016 annual meeting of stockholders, at each annual meeting of stockholders each non-employee director who was reelected received a restricted stock award having a value of approximately $170,000, which vested in three (3) equal annual installments on the anniversary of the date of grant. Effective as of February 2016, following each annual meeting of stockholders, each non-employee director who is reelected will receive a restricted stock unit award having a value of approximately $200,000. The number of shares subject to a non-employee director s initial restricted stock unit award or annual award is determined by dividing the approximate value of the award, as disclosed above, by the average closing price per share of the Company s common stock as reported on the Nasdaq Global Select Market (or if the common stock is not then traded on such market, such other market on which the common stock is traded) for each trading day during the 30 consecutive trading day period ending on, and including, the grant date. Unless otherwise determined by the Board of Directors, (a) any stock options awarded as part of a non-employee director s initial equity grant will vest in four (4) equal annual installments on the anniversary of the date of grant, (b) any restricted stock units awarded as part of a non-employee director s initial equity grant will vest in three (3) equal annual installments on the anniversary of the date of grant, and (c) effective as of February 2016, any restricted stock units awarded as part of a non-employee director s annual equity grant will vest on the first anniversary of the date of grant. In the event of a change in control of the Company, the outstanding options and restricted stock under the 2008 Director Long-Term Incentive Plan will become fully exercisable and deemed fully vested, respectively. 
+  No director who is also an employee receives separate compensation for services rendered as a director. David J. Aldrich and Liam K. Griffin are currently the only directors who are also employees of the Company. 
+  
+   28 
+
+Director Compensation Table 
+  The following table summarizes the compensation paid to the Company s non-employee directors for fiscal year 2017. 
+
+(1) 
+    The non-employee members of the Board of Directors who held such positions on September 29, 2017, held the following aggregate number of unexercised options and unvested restricted stock and RSU awards as of such date: 
+
+(3) 
+    Reflects dividend accruals on unvested shares of restricted stock granted prior to April 2014, when Skyworks declared its first quarterly dividend, because these dividends were not included in the grant date fair value of such restricted stock awards. Accrued dividends become payable when the underlying shares of restricted stock vest. 
+     Director Stock Ownership Requirements 
+  We have adopted Director Stock Ownership guidelines with the objective of more closely aligning the interests of our directors with those of our stockholders. The minimum number of shares of the Company s common stock that the Director Stock Ownership guidelines require non-employee directors to hold while serving in their capacity as directors is the director base compensation (currently $70,000) multiplied by five (5), divided by the fair market value of the Company s common stock (rounded to the nearest 100 shares). For purposes of the Director Stock Ownership guidelines, the fair market value of the Company s common stock is the average closing price per share of the Company s common stock as reported on the Nasdaq Global Select Market (or if the common stock is not then traded on such market, such other market on which the common stock is traded) for the twelve (12) month period ending with the determination date. As of January 15, 2018, the Director Stock Ownership guidelines require non-employee directors to hold a minimum of 3,500 shares, and all directors were in compliance with such guidelines as of such date. 
+  
+   29 
+
+Compensation Committee Interlocks and Insider Participation 
+  The Compensation Committee of the Board of Directors currently consists of, and during fiscal year 2017 consisted of, Messrs. Beebe, Furey, and McGlade and Ms. King (Chairman). No member of this committee was at any time during fiscal year 2017 an officer or employee of the Company, was formerly an officer of the Company or any of its subsidiaries, or had any employment relationship with the Company or any of its subsidiaries. No executive officer of the Company has served as a director or member of the compensation committee (or other committee serving an equivalent function) of any other entity, one of whose executive officers served as a director of or member of the Compensation Committee. 
+  Compensation Committee Report 
+  The Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis included herein with management, and based on the review and discussions, the Compensation Committee recommended to the Board of Directors that the Compensation Discussion and Analysis be included in the annual report on this Form 10-K for the year ended September 29, 2017. 
+    
+  THE COMPENSATION COMMITTEE 
+  Kevin L. Beebe 
+  Timothy R. Furey 
+  Christine King, Chairman 
+  David P. McGlade 
+  
+   30 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+  Security Ownership of Certain Beneficial Owners and Management 
+  To the Company s knowledge, the following table sets forth the beneficial ownership of the Company s common stock as of January 15, 2018, by the following individuals or entities: (i) each person or entity who beneficially owns 5% or more of the outstanding shares of the Company s common stock as of January 15, 2018; (ii) the Named Executive Officers (as defined above in Item 11    Executive Compensation    (iii) each director and nominee for director; and (iv) all current executive officers and directors of the Company, as a group. 
+  Beneficial ownership is determined in accordance with the rules of the SEC, is not necessarily indicative of beneficial ownership for any other purpose, and does not constitute an admission that the named stockholder is a direct or indirect beneficial owner of those shares. As of January 15, 2018, there were 182,467,498 shares of the Company s common stock issued and outstanding. 
+  In computing the number of shares of Company common stock beneficially owned by a person and the percentage ownership of that person, shares of Company common stock that are subject to stock options or other rights held by that person that are currently exercisable or that will become exercisable within sixty (60) days of January 15, 2018, are deemed outstanding. These shares are not, however, deemed outstanding for the purpose of computing the percentage ownership of any other person. 
+
+(1) 
+    Unless otherwise set forth in the following notes, each person s address is the address of the Company s principal executive offices at Skyworks Solutions, Inc., 20 Sylvan Road, Woburn, MA 01801, and stockholders have sole voting and sole investment power with respect to the shares, except to the extent such power may be shared by a spouse or otherwise subject to applicable community property laws. 
+              (2) 
+    Includes the number of shares of Company common stock subject to stock options held by that person that are currently exercisable or will become exercisable within sixty (60) days of January 15, 2018 (the  Current Options ), as follows: Mr. Aldrich 237,889 shares under Current Options; Mr. Bori 2,596 shares under Current Options; Mr. Gammel 52,472 shares under Current Options; Mr. Griffin 10,750 shares under Current Options; Ms. King 2,401 shares under Current Options; Mr. Sennesael 13,193 shares under Current Options; current directors and executive officers as a group (14 persons) 316,900 shares under Current Options. 
+     
+   31 
+
+The table does not reflect the number of shares of Company common stock to be issued pursuant to unvested restricted stock units (the  Unvested RSUs ) and earned, but unissued, performance share awards subject to time-based vesting only (the  Unvested PSAs ) that are not scheduled to vest within sixty (60) days of January 15, 2018, as follows: Mr. Aldrich 32,726 shares under Unvested RSUs and 71,805 shares under Unvested PSAs; Mr. Beebe 1,992 shares under Unvested RSUs; Mr. Bori 11,337 shares under Unvested RSUs and 16,680 shares under Unvested PSAs; Mr. Furey 1,992 shares under Unvested RSUs; Mr. Gammel 6,441 shares under Unvested RSUs and 14,776 shares under Unvested PSAs; Mr. Griffin 64,613 shares under Unvested RSUs and 73,961 shares under Unvested PSAs; Mr. Iyer 1,992 shares under Unvested RSUs; Ms. King 1,992 shares under Unvested RSUs; Mr. McGlade 1,992 shares under Unvested RSUs; Mr. McLachlan 1,992 shares under Unvested RSUs; Mr. Schriesheim 1,992 shares under Unvested RSUs; Mr. Sennesael 30,184 shares under Unvested RSUs and 16,803 shares under Unvested PSAs; current directors and executive officers as a group (14 persons) 173,309 shares under Unvested RSUs and 218,123 shares under Unvested PSAs. 
+           (3) 
+    Consists of shares beneficially owned by Capital Research Global Investors ( Capital Research ), a division of Capital Research and Management Company. Capital Research has sole voting power and sole dispositive power with respect to 23,024,590 shares. With respect to the information relating to Capital Research, the Company has relied on information supplied by Capital Research on a Schedule 13G/A filed with the SEC on February 13, 2017. The address of Capital Research is 333 South Hope Street, Los Angeles, CA, 90071. 
+              (4) 
+    Consists of shares beneficially owned by The Vanguard Group, Inc. ( Vanguard ), which has sole voting power with respect to 280,839 shares, shared voting power with respect to 44,807 shares, sole dispositive power with respect to 18,102,579 shares and shared dispositive power with respect to 97,507 shares. Vanguard Fiduciary Trust Company, a wholly owned subsidiary of Vanguard, is the beneficial owner of 226,030 shares as a result of its serving as investment manager of collective trust accounts. Vanguard Investments Australia, Ltd., a wholly owned subsidiary of Vanguard, is the beneficial owner of 152,316 shares as a result of its serving as investment manager of Australian investment offerings. With respect to the information relating to Vanguard, the Company has relied on information supplied by Vanguard on a Schedule 13G/A filed with the SEC on August 10, 2017. The address of Vanguard is 100 Vanguard Blvd., Malvern, PA, 19355. 
+              (5) 
+    Consists of shares beneficially owned by BlackRock, Inc. ( BlackRock ), in its capacity as a parent holding company of various subsidiaries under Rule 13d-1(b)(1)(ii)(G). In its capacity as a parent holding company or control person, BlackRock has sole voting power with respect to 10,409,167 shares and sole dispositive power with respect to 12,036,014 shares which are held by the following of its subsidiaries: BlackRock (Luxembourg) S.A., BlackRock (Netherlands) B.V., BlackRock (Singapore) Limited, BlackRock Advisors (UK) Limited, BlackRock Advisors, LLC, BlackRock Asset Management Canada Limited, BlackRock Asset Management Deutschland AG, BlackRock Asset Management Ireland Limited, BlackRock Asset Management North Asia Limited, BlackRock Asset Management Schweiz AG, BlackRock Capital Management, BlackRock Financial Management, Inc., BlackRock Fund Advisors, BlackRock Fund Managers Ltd, BlackRock Institutional Trust Company, N.A., BlackRock International Limited, BlackRock Investment Management (Australia) Limited, BlackRock Investment Management (UK) Ltd, BlackRock Investment Management, LLC, BlackRock Japan Co Ltd, and BlackRock Life Limited. With respect to the information relating to BlackRock and its affiliated entities, the Company has relied on information supplied by BlackRock on a Schedule 13G/A filed with the SEC on January 27, 2017. The address of BlackRock is 55 East 52nd Street, New York, NY, 10055. 
+      
+   32 
+
+Equity Compensation Plan Information 
+  As of September 29, 2017, the Company has the following equity compensation plans under which its equity securities were authorized for issuance to its employees and/or directors: 
+               
+    the Non-Qualified Employee Stock Purchase Plan 
+         Except for the 1999 Employee Long-Term Incentive Plan (the  1999 Employee Plan ) and the Non-Qualified Employee Stock Purchase Plan (the  Non-Qualified ESPP ), each of the foregoing equity compensation plans was approved by the Company s stockholders. A description of the material features of each non-stockholder approved plan is provided below under the headings    1999 Employee Long-Term Incentive Plan    and    Non-Qualified Employee Stock Purchase Plan  .  
+  The following table presents information about these plans as of September 29, 2017. 
+
+(1) 
+    Excludes 1,121,638 unvested shares under restricted stock and RSU awards and 1,494,850 unvested shares under PSAs, which figure assumes achievement of performance goals under the FY17 PSAs at target levels. 
+               (3) 
+    Represents shares available under the Non-Qualified ESPP. No further grants will be made under the 1999 Employee Plan. 
+     1999 Employee Long-Term Incentive Plan 
+  The 1999 Employee Plan provided for the grant of non-qualified stock options to purchase shares of the Company s common stock to employees, other than officers and non-employee directors. The term of these options may not exceed 10 years. The 1999 Employee Plan contains provisions, which permit restrictions on vesting or transferability, as well as continued exercisability upon a participant s termination of employment with the Company, of options granted thereunder. The 1999 Employee Plan provides for full acceleration of the vesting of options granted thereunder upon a  change in control  of the Company, as defined in the 1999 Employee Plan. The Board of Directors generally may amend, suspend or terminate the 1999 Employee Plan in whole or in part at any time; provided that any amendment that affects outstanding options be consented to by the holder of the options. As of April 26, 2009, no additional grants were issuable under the 1999 Employee Long-Term Incentive Plan. 
+  
+   33 
+
+Non-Qualified Employee Stock Purchase Plan 
+  The Company also maintains the Non-Qualified ESPP to provide employees of the Company and participating subsidiaries with an opportunity to acquire a proprietary interest in the Company through the purchase, by means of payroll deductions, of shares of the Company s common stock at a discount from the market price of the common stock at the time of purchase. The Non-Qualified ESPP is intended for use primarily by employees of the Company located outside the United States. Under the plan, eligible employees may purchase common stock through payroll deductions of up to 10% of compensation. The price per share is the lower of 85% of the market price at the beginning or end of each six-month offering period. 
+  
+   34 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+  Certain Relationships and Related Transactions  : Other than compensation agreements and other arrangements which are described above in Item 11  Executive Compensation,  since September 30, 2016, there has not been a transaction or series of related transactions to which the Company was or is a party involving an amount in excess of $120,000 and in which any director, executive officer, holder of more than five percent (5%) of any class of our voting securities, or any member of the immediate family of any of the foregoing persons, had or will have a direct or indirect material interest. In January 2008, the Board of Directors adopted a written related person transaction approval policy which sets forth the Company s policies and procedures for the review, approval or ratification of any transaction required to be reported in its filings with the SEC. The Company s policy with regard to related person transactions is that all related person transactions between the Company and any related person (as defined in Item 404 of Regulation S-K) or their affiliates, in which the amount involved is equal to or greater than $120,000, be reviewed by the Company s General Counsel and approved in advance by the Audit Committee. In addition, the Company s Code of Business Conduct and Ethics requires that employees discuss with the Company s Compliance Officer any significant relationship (or transaction) that might raise doubt about such employee s ability to act in the best interest of the Company. 
+    
+  Director Independence  : Each year, the Board of Directors reviews the relationships that each director has with the Company and with other parties. Only those directors who do not have any of the categorical relationships that preclude them from being independent within the meaning of applicable Nasdaq Rules and who the Board of Directors affirmatively determines have no relationships that would interfere with the exercise of independent judgment in carrying out the responsibilities of a director are considered to be independent directors. The Board of Directors has reviewed a number of factors to evaluate the independence of each of its members. These factors include its members  current and historic relationships with the Company and its competitors, suppliers and customers; their relationships with management and other directors; the relationships their current and former employers have with the Company; and the relationships between the Company and other companies of which a member of the Company s Board of Directors is a director or executive officer. After evaluating these factors, the Board of Directors has determined that a majority of the members of the Board of Directors, namely, Kevin L. Beebe, Timothy R. Furey, Balakrishnan S. Iyer, Christine King, David J. McLachlan, David P. McGlade, and Robert A. Schriesheim, do not have any relationships that would interfere with the exercise of independent judgment in carrying out their responsibilities as directors and that each such director is an independent director of the Company within the meaning of applicable Nasdaq Rules. 
+  
+   35 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+  KPMG LLP provided audit services to the Company consisting of the annual audit of the Company s 2017 consolidated financial statements contained in the Company s Annual Report on Form 10-K and reviews of the financial statements contained in the Company s Quarterly Reports on Form 10-Q for fiscal year 2017. The following table summarizes the fees of KPMG LLP billed to the Company for the last two fiscal years. 
+
+(1) 
+    Audit fees consist of fees for the audit of our annual financial statements, review of the interim financial statements included in our quarterly reports on Form 10-Q, statutory audits and related filings in various foreign locations and audit procedures related to acquisition activity during fiscal years 2017 and 2016. Fiscal year 2017 and 2016 audit fees included fees for services incurred in connection with rendering an opinion under Section 404 of the Sarbanes-Oxley Act. 
+              (2) 
+    Tax fees consist of fees for tax compliance, tax advice and tax planning services. Tax compliance services, which primarily relate to the review of our U.S. tax returns and certain trade and customs forms, accounted for $57,000 and $72,500 of the total tax fees for fiscal years 2017 and 2016, respectively. 
+              (3) 
+    All other fees for fiscal years 2017 and 2016 relate to fees incurred for conflict mineral reporting compliance and licenses to accounting and research software. 
+     In 2003, the Audit Committee adopted a formal policy concerning approval of audit and non-audit services to be provided to the Company by its independent registered public accounting firm, KPMG LLP. The policy requires that all services provided by KPMG LLP, including audit services and permitted audit-related and non-audit services, be preapproved by the Audit Committee. The Audit Committee preapproved all audit and non-audit services provided by KPMG LLP during fiscal year 2017 and fiscal year 2016. 
+  
+   36 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+  (a)    The following are filed as part of this Annual Report on Form 10-K: 
+
+1. 
+    Index to Financial Statements 
+    Page number of the Original Filing 
+
+Report of Independent Registered Public Accounting Firm 
+    Page 35 
+        
+    Consolidated Statements of Operations for the three years ended September 29, 2017 
+    Page 36 
+        
+    Consolidated Statements of Comprehensive Income for the three years ended September 29, 2017 
+    Page 38 
+        
+    Consolidated Balance Sheets at September 29, 2017 and September 30, 2016 
+    Page 38 
+        
+    Consolidated Statements of Cash Flows for the three years ended September 29, 2017 
+    Page 39 
+        
+    Consolidated Statements of Stockholders  Equity for the three years ended September 29, 2017 
+    Page 40 
+        
+    Notes to Consolidated Financial Statements 
+    Pages 41 through 61 
+
+2. 
+    The schedule listed below is filed as part of this Annual Report on Form 10-K: 
+
+Schedule II-Valuation and Qualifying Accounts 
+    Page 68 
+        
+    All other required schedule information is included in the Notes to Consolidated Financial Statements or is omitted because it is either not required or not applicable. 
+      
+      3. 
+    The Exhibits listed in the Exhibit Index immediately following Item 16 are filed as a part of this Annual Report on Form 10-K. 
+
+(b)    Exhibits 
+    
+  The exhibits required by Item 601 of Regulation S-K are filed herewith and incorporated by reference herein. The response to this portion of Item 15 is submitted under Item 15(a)(3). 
+  ITEM 16. FORM 10-K SUMMARY. 
+  None 
+
+37 
+
+EXHIBIT INDEX 
+
+38 
+
+39 
+
+* Indicates a management contract or compensatory plan or arrangement. 
+
+40 
+
+SIGNATURES 
+    
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+SKYWORKS SOLUTIONS, INC. 
+
+Date: 
+    January 26, 2018 
+    By: 
+       /s/ Liam K. Griffin 
+
+Liam K. Griffin 
+
+President and Chief Executive Officer 
+
+41 
+
+<EX-31.3>
+ 2
+ a9-29x2017x10kaexhibit313.htm
+ EXHIBIT 31.3
+
+Exhibit 
+
+EXHIBIT 31.3 
+    
+  CERTIFICATION OF THE CEO PURSUANT TO SECURITIES EXCHANGE ACT RULES 13a-14(a) 
+  AND 15d-14(a) AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF     2002 
+    
+  I, Liam K. Griffin, certify that:  
+    
+           1. 
+    I have reviewed this annual report on Form 10-K/A of Skyworks Solutions, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+       
+           b) 
+    designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+       
+           c) 
+    evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;  
+       
+           d) 
+    disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and  
+       
+           b) 
+    any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+  Date: January 26, 2018  
+    
+       /s/ Liam K. Griffin            
+  Liam K. Griffin  
+  President and Chief Executive Officer 
+
+</EX-31.3>
+
+<EX-31.4>
+ 3
+ a9-29x2017x10kaexhibit314.htm
+ EXHIBIT 31.4
+
+Exhibit 
+
+EXHIBIT 31.4 
+    
+  CERTIFICATION OF THE CFO PURSUANT TO SECURITIES EXCHANGE ACT RULES 13a-14(a) 
+  AND 15d-14(a) AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF     2002 
+    
+  I, Kris Sennesael, certify that:  
+    
+           1. 
+    I have reviewed this annual report on Form 10-K/A of Skyworks Solutions, Inc.;  
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+       
+           b) 
+    designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+       
+           c) 
+    evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;  
+       
+           d) 
+    disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and  
+       
+           b) 
+    any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+  Date: January 26, 2018  
+    
+       /s/ Kris Sennesael              
+  Kris Sennesael 
+  Senior Vice President and Chief Financial Officer 
+
+</EX-31.4>
+

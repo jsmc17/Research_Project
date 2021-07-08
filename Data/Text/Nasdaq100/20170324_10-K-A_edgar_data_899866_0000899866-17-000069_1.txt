@@ -1,0 +1,411 @@
+<Header>
+<FileStats>
+    <FileName>20170324_10-K-A_edgar_data_899866_0000899866-17-000069_1.txt</FileName>
+    <GrossFileSize>126464</GrossFileSize>
+    <NetFileSize>15946</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>96085</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>32</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000899866-17-000069.hdr.sgml : 20170324
+<ACCEPTANCE-DATETIME>20170324162328
+ACCESSION NUMBER:		0000899866-17-000069
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20161231
+FILED AS OF DATE:		20170324
+DATE AS OF CHANGE:		20170324
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALEXION PHARMACEUTICALS INC
+		CENTRAL INDEX KEY:			0000899866
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				133648318
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27756
+		FILM NUMBER:		17713031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 COLLEGE STREET
+		CITY:			NEW HAVEN
+		STATE:			CT
+		ZIP:			06510
+		BUSINESS PHONE:		2032722596
+
+	MAIL ADDRESS:	
+		STREET 1:		100 COLLEGE STREET
+		CITY:			NEW HAVEN
+		STATE:			CT
+		ZIP:			06510
+
+</SEC-Header>
+</Header>
+
+ 0000899866-17-000069.txt : 20170324
+
+10-K/A
+ 1
+ a201610-ka.htm
+ 10-K/A
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-K/A 
+  (Amendment No. 1) 
+
+For the fiscal year ended December 31, 2016 
+  or 
+
+For the transition period from              to              
+  Commission file number: 0-27756 
+    
+  ALEXION PHARMACEUTICALS, INC. 
+  (Exact Name of Registrant as Specified in Its Charter) 
+                 Delaware 
+    13-3648318 
+      (State or Other Jurisdiction of Incorporation or Organization) 
+    (I.R.S. Employer Identification No.) 
+
+100 College Street, New Haven, Connecticut 06510 
+  (Address of Principal Executive Offices) (Zip Code) 
+  475-230-2596 
+  (Registrant s telephone number, including area code) 
+    
+                   Securities registered pursuant to Section 12(b) of the Act: 
+      
+    Common Stock, par value $0.0001 
+
+Name of each exchange on which registered:    The NASDAQ Stock Market LLC 
+      Securities registered pursuant to Section 12(g) of the Act:    None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes           No    x 
+  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes           No    x 
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes    x      No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes    x     No      
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (  229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. Check One: 
+  Large accelerated filer    x     Accelerated filer           Non-accelerated filer        (Do not check if a smaller reporting company) 
+  Smaller reporting company      
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes           No    x 
+  The aggregate market value of the Common Stock held by non-affiliates of the registrant, based upon the last sale price of the Common Stock reported on The NASDAQ Stock Market LLC on June 30, 2016, was $25,314,108,813.   (1)   
+  The number of shares of Common Stock outstanding as of February 13, 2017 was 224,613,750. 
+  DOCUMENTS INCORPORATED BY REFERENCE 
+  Portions of the registrant s Definitive Proxy Statement to be used in connection with its Annual Meeting of Stockholders to be held on May 10, 2017, are incorporated by reference into Part III of this report. 
+  (1) Excludes 7,417,897 shares of common stock held by directors and executive officers at June 30, 2016. Exclusion of shares held by any person should not be construed to indicate that such person possesses the power, directly or indirectly, to direct or cause the direction of the management or policies of the registrant, or that such person is controlled by or under common control with the registrant. 
+
+Alexion Pharmaceuticals, Inc. 
+  Table of Contents 
+
+PART IV 
+
+Item 15. 
+     Exhibits and Financial Statement Schedules  
+    5 
+
+SIGNATURES  
+    8 
+
+EXPLANATORY NOTE 
+    
+  Alexion Pharmaceuticals, Inc. (the Company) is filing this Amendment No. 1 on Form 10-K/A (this Amended Filing) to its Annual Report on Form 10-K for the fiscal year ended December 31, 2016 that was filed on February 16, 2017 (the Original Filing), solely to include Exhibit 23.1, the Consent of Independent Registered Public Accounting Firm, which was inadvertently omitted from the original filing. 
+   As required by Rule 12b-15 under the Securities Exchange Act of 1934, as amended (the Exchange Act), the Company s principal executive officer and principal financial officer are providing new currently dated certifications required pursuant to Exchange Act Rules 13a(a) and 15d-14(a), as adopted pursuant Section 302 of the Sarbanes-Oxley Act of 2002, which are attached hereto. 
+  Except as described above, this Amended Filing does not amend, update or change any other items or disclosures in the Original Filing. This Amended Filing speaks only as of the date the Original Filing was filed, and the Company has not undertaken herein to amend, supplement or update any information contained in the Original Filing to give effect to any subsequent events. Accordingly, this Amended Filing should be read in conjunction with the Company s filings made with the Securities and Exchange Commission subsequent to the filing of the Original Filing, including any amendment to those filings. 
+
+PART IV 
+   
+           Item 15. 
+    EXHIBITS AND FINANCIAL STATEMENT SCHEDULES. 
+
+(1) 
+    Financial Statements 
+     The financial statements required by this item are submitted in a separate section beginning on page F-1 as part of the Original Filing. 
+    
+           (2) 
+    Financial Statement Schedules 
+     Schedules have been omitted because of the absence of conditions under which they are required or because the required information is included in the financial statements or notes thereto beginning on page F-1 of the Original Filing. 
+    
+                    2.1 
+      
+    Agreement and Plan of Merger by and among Alexion, TPCA Corporation, Taligen Therapeutics, Inc., each stockholder of Taligen that signed the Agreement as a seller of Series Bl Call Rights, and, only for the limited purposes described therein as Stockholders  Representatives (and not in their individual capacities), Nick Galakatos, Ed Hurwitz and Timothy Mills, dated as of January 28, 2011.(1)+ 
+
+2.2 
+      
+    Agreement and Plan of Merger by and among Alexion, EMRD Corporation, Enobia Pharma Corp., and the Stockholder Representatives named therein, dated as of December 28, 2011.(2)+ 
+
+2.3 
+      
+    Amendment No. 1 to the Agreement and Plan of Merger, dated December 28, 2011, by and among Alexion, EMRD Corporation, Enobia Pharma Corp., and the Stockholder Representatives named therein, dated February 1, 2012.(3) 
+
+2.4 
+      
+    Agreement and Plan of Reorganization, dated May 5, 2015, among Alexion Pharmaceuticals, Inc., Pulsar Merger Sub Inc., Galaxy Merger Sub LLC and Synageva BioPharma Corp. (4) 
+
+3.1 
+      
+    Certificate of Incorporation, as amended.(5) 
+
+3.2 
+      
+    Certificate  of Amendment of the Certificate of Incorporation.(6) 
+
+3.3 
+      
+    Bylaws, as amended.(7) 
+
+4.1 
+      
+    Specimen Common Stock Certificate.(8) 
+
+10.1 
+      
+    Consulting Agreement, by and between Alexion Pharmaceuticals, Inc. and Dr. Leonard Bell, dated April 1, 2015.(9) 
+
+10.2 
+      
+    Amendment to the April 1, 2015,Consulting Agreement by and between Alexion Pharmaceuticals, Inc. and Dr. Leonard Bell, dated September 21, 2016.(26) 
+
+10.3 
+      
+    Letter Agreement, by and between Alexion Pharmaceuticals, Inc. and Dr. Leonard Bell, dated April 1, 2015.(9) 
+
+10.4 
+      
+    Confidential Separation Agreement and Release by and between Vikas Sinha and Alexion Pharmaceuticals, Inc. dated December 11, 2016.(a)** 
+
+10.5 
+      
+    Confidential Release and Separation Agreement by and between David Hallal and Alexion Pharmaceuticals, Inc. dated December 11, 2016.(a)** 
+
+10.6 
+      
+    Employment Agreement, dated as of December 11, 2016, by and between David Brennan and Alexion Pharmaceuticals, Inc.(a)** 
+
+10.7 
+      
+    Employment Agreement, dated as of December 12, 2016, by and between David J. Anderson and Alexion Pharmaceuticals, Inc.(a)** 
+
+10.8 
+      
+    Employment Agreement, dated February 26, 2016, by and between Alexion Pharmaceuticals, Inc. and Clare Carmichael.(27)** 
+
+10.9 
+      
+    Employment Agreement, dated February 26, 2016, by and between Alexion Pharmaceuticals, Inc. and Martin Mackay.(27)** 
+
+10.10 
+      
+    Employment Agreement, dated February 26, 2016, by and between Alexion Pharmaceuticals, Inc. and John Moriarty.(27)** 
+
+10.11 
+      
+    Form of Employment Agreement (Senior Vice Presidents).(10)** 
+
+10.12 
+      
+    Form of Amendment No. 1 to Employment Agreements (Senior Vice Presidents). (11)** 
+
+10.13 
+      
+    Form of Indemnification Agreement for Officers and Directors. (12) 
+
+10.14 
+      
+    Lease, dated November 15, 2012, between Alexion and WE Route 34, LLC.(14) 
+
+10.15 
+      
+    Alexion s 2000 Stock Option Plan, as amended.(15)** 
+
+10.16 
+      
+    Alexion s 1992 Outside Directors Stock Option Plan, as amended.(16)** 
+
+10.17 
+      
+    Alexion s Amended and Restated 2004 Incentive Plan.(17)** 
+
+10.18 
+      
+    License Agreement dated March 27, 1996 between Alexion and Medical Research Council.(18)+ 
+
+10.19 
+      
+    Master Manufacturing and Supply Agreement, dated December 16, 2014 between Alexion Pharma International Trading, Alexion Pharmaceuticals, Inc, Lonza Group AG, Lonza Biologics Tuas PTE LTD and Lonza Sales AG. (24)* 
+
+10.20 
+      
+    Form of Stock Option Agreement for Directors.(20)** 
+
+10.21 
+      
+    Form of Stock Option Agreement for Executive Officers (Form A).(21)** 
+
+10.22 
+      
+    Form of Stock Option Agreement for Executive Officers (Form B).(21)** 
+      10.23 
+      
+    Form of Restricted Stock Award Agreement for Executive Officers (Form A).(22)** 
+
+10.24 
+      
+    Form of Stock Option Agreement (Incentive Stock Options).(19) 
+
+10.25 
+      
+    Form of Stock Option Agreement (Nonqualified Stock Options).(19) 
+
+10.26 
+      
+    Form of Restricted Stock Award Agreement.(19) 
+
+10.27 
+      
+    Form of Restricted Stock Unit Award Agreement.(23) 
+
+10.28 
+      
+    Form of Stock Option Agreement for Participants in France.(19)** 
+
+10.29 
+      
+    Form of Restricted Stock Unit Agreement for Participants in France.(19)** 
+
+10.30 
+      
+    Credit Agreement, dated as of June 22, 2015, by and among Alexion Pharmaceuticals, Inc, as administrative borrower, the guarantors referred to therein, the lenders referred to therein and Bank of America, N.A., as administrative agent. (25)   
+
+21.1 
+      
+    Subsidiaries of Alexion Pharmaceuticals, Inc. (a) 
+
+23.1 
+      
+    Consent of PricewaterhouseCoopers LLP, an Independent Registered Public Accounting Firm 
+
+31.1 
+      
+    Certificate of Chief Executive Officer pursuant to Exchange Act Rules 13a-14 and 15d-14, as adopted pursuant to Section 302 Sarbanes Oxley Act of 2002. 
+
+31.2 
+      
+    Certificate of Chief Financial Officer pursuant to Exchange Act Rules 13a-14 and 15d-14, as adopted pursuant to Section 302 of Sarbanes Oxley Act of 2002. 
+
+32.1 
+      
+    Certificate of Chief Executive Officer pursuant to Section 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act. (b) 
+
+32.2 
+      
+    Certificate of Chief Financial Officer pursuant to Section 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act. (b) 
+
+101 
+      
+    The following materials from the Alexion Pharmaceuticals, Inc. Annual Report on Form 10-K for the year ended December 31, 2016 formatted in eXtensible Business Reporting Language (XBRL): (i) the Consolidated Statements of Operations, (ii) the Consolidated Statements of Comprehensive Income, (iii) the Consolidated Balance Sheets, (iv) the Consolidated Statements of Changes in Stockholders  Equity, (v) the Consolidated Statements of Cash Flows and (vi) related notes, tagged as blocks of text. (b) 
+
+_____________________ 
+
++     
+    Confidential treatment was granted for portions of such exhibit. 
+       
+           * 
+    Confidential treatment requested under 17 C.F.R.   200.80(b)(4) and 24b-2. The confidential portions of this exhibit have been omitted and are marked accordingly. The confidential portions have been filed separately with the SEC pursuant to the confidential treatment request. 
+              ** 
+    Indicates a management contract or compensatory plan or arrangement required to be filed pursuant to Item 15(b) of Form 10-K. 
+              (a)  
+    Previously filed with our Annual Report on Form 10-K filed with the Securities and Exchange Commission on February 16, 2017. 
+              (b) 
+    Previously furnished with our Annual Report on Form 10-K filed with the Securities and Exchange Commission on February 16, 2017. 
+
+Item 15(b) Exhibits 
+  See (a) (3) above. 
+   
+  Item 15(c) Financial Statement Schedules 
+  See (a) (2) above. 
+
+SIGNATURES 
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+ALEXION PHARMACEUTICALS, INC. 
+
+By: 
+    /s/ David R. Brennan 
+      Date: March 24, 2017 
+      
+    David R. Brennan 
+  Interim Chief Executive Officer                                                                                                                                       (principal executive officer) 
+
+<EX-23.1>
+ 2
+ alxnex23112312016.htm
+ CONSENT OF PRICEWATERHOUSECOOPERS LLP
+
+Exhibit 
+
+Exhibit 23.1  
+  CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+    
+  We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (No. 333-205379, 333-204426, 333-146319, 333-139600, 333-123212 and 333-153612) of Alexion Pharmaceuticals, Inc. of our report dated February 16, 2017 relating to the financial statements and the effectiveness of internal control over financial reporting, which appears in this Form 10 K.  
+    
+  /s/ PricewaterhouseCoopers LLP 
+  PricewaterhouseCoopers LLP 
+  Hartford, Connecticut  
+  March 24, 2017  
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ alxnex31112312016a.htm
+ CERTIFICATION OF CEO PURSUANT TO SECTION 302
+
+Exhibit 
+
+Exhibit 31.1  
+  I, David R. Brennan, certify that:  
+           1 
+    I have reviewed this Annual Report on Form 10-K/A for the year ended December 31, 2016 of Alexion Pharmaceuticals, Inc.; 
+              2 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ alxnex312123116a.htm
+ CERTIFICATION OF CFO PURSUANT TO SECTION 302
+
+Exhibit 
+
+Exhibit 31.2 
+  I, David J. Anderson, certify that:  
+           1 
+    I have reviewed this Annual Report on Form 10-K/A for the year ended December 31, 2016 of Alexion Pharmaceuticals, Inc.; 
+              2 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+Dated: 
+    March 24, 2017 
+      
+    /s/ DAVID J. ANDERSON 
+
+Executive Vice President and Chief Financial Officer 
+
+</EX-31.2>
+

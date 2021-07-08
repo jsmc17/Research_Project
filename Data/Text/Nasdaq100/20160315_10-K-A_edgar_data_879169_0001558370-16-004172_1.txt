@@ -1,0 +1,1331 @@
+<Header>
+<FileStats>
+    <FileName>20160315_10-K-A_edgar_data_879169_0001558370-16-004172_1.txt</FileName>
+    <GrossFileSize>3831956</GrossFileSize>
+    <NetFileSize>130064</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>2528520</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>43</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001558370-16-004172.hdr.sgml : 20160315
+<ACCEPTANCE-DATETIME>20160315170550
+ACCESSION NUMBER:		0001558370-16-004172
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20151231
+FILED AS OF DATE:		20160315
+DATE AS OF CHANGE:		20160315
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INCYTE CORP
+		CENTRAL INDEX KEY:			0000879169
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				943136539
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12400
+		FILM NUMBER:		161507699
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1801 AUGUSTINE CUT-OFF
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+		BUSINESS PHONE:		3024986700
+
+	MAIL ADDRESS:	
+		STREET 1:		1801 AUGUSTINE CUT-OFF
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE CORP
+		DATE OF NAME CHANGE:	20030318
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE GENOMICS INC
+		DATE OF NAME CHANGE:	20000710
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE PHARMACEUTICALS INC
+		DATE OF NAME CHANGE:	19930902
+
+</SEC-Header>
+</Header>
+
+ 0001558370-16-004172.txt : 20160315
+
+10-K/A
+ 1
+ incy-20151231x10ka.htm
+ 10-K/A
+
+incy_Current folio_10KA
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10   K/A 
+
+(Amendment No. 1) 
+
+For the fiscal year ended December 31, 2015 
+
+or 
+
+For the transition period from                          to                       
+
+Commission File Number: 0   27488 
+
+INCYTE CORPORATION 
+
+(Exact name of registrant as specified in its charter) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class  
+
+Name of exchange on which registered  
+
+Common Stock, $.001 par value per share  
+
+The NASDAQ Stock Market LLC  
+
+Securities registered pursuant to Section 12(g) of the Act: 
+
+None 
+
+Indicate by check mark if the registrant is a well   known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes        No     
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15 (d) of the Act. Yes         No     
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes        No     
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S   T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes        No     
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S   K (  229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10   K or any amendment to this Form 10   K.     
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non   accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer ,  accelerated filer  and  smaller reporting company  in Rule 12b   2 of the Exchange Act. (check one) 
+
+Large accelerated filer      
+
+Accelerated filer      
+
+Non   accelerated filer      
+					 
+						 (Do not check if a smaller   reporting company)  
+
+Smaller reporting company      
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b   2 of the Exchange Act). Yes        No     
+
+The aggregate market value of Common Stock held by non   affiliates (based on the closing sale price on The NASDAQ Global Select Market on June 30, 2015) was approximately $17.1 billion. 
+
+As of February 5, 2016 there were 187,199,761 shares of Common Stock, $.001 par value per share, outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Items 10 (as to directors and Section 16(a) Beneficial Ownership Reporting Compliance), 11, 12, 13 and 14 of Part III incorporate by reference information from the registrant s proxy statement to be filed with the Securities and Exchange Commission in connection with the solicitation of proxies for the registrant s 2016 Annual Meeting of Stockholders to be held on May 27, 2016  . 
+
+EXPLANATORY NOTE 
+
+This   Amendment No. 1 to Form 10-K (this  Amendment ) amends the Annual Report on Form 10-K for the fiscal year ended December 31, 2015, originally filed on February 12, 2016 (the  Original Form 10-K ) of Incyte Corporation (the  Company  or  we ).  We are filing this Amendment to amend Item 15(a) to include the separate consolidated financial statements of Agenus Inc. ( Agenus ) as of December 31, 2015 and 2014 and for each of the years in the three-year period ended December 31, 2015 (the  Agenus Financial Statements ),   pursuant to   Rule 3-09 of Regulation S-X ( Rule 3-09 ).  The Agenus Financial Statements were prepared and provided to the Company by Agenus, and were not available at the time of filing of the Original Form 10-K.  We are also amending Item 15(b) to correct the reference to Exhibit 10.14 to indicate that it was incorporated by reference. 
+
+Rule 3-09 provides that if a 50% or less-owned person accounted for by the equity method meets the first or third condition of the significant subsidiary tests set forth in Rule 1-02(w) of Regulation S-X, substituting 20% for 10%, separate financial statements for such 50% or less-owned person corresponding to the periods covered by the financial statements of the Company included in the Original Form 10-K shall be filed.  Those separate financial statements are required to be audited only for the years in which such person met at least one of such significant subsidiary tests.  Agenus met such significant subsidiary tests for the Company s fiscal year ended December 31, 2015. 
+
+This Amendment should be read in conjunction with the Original Form 10-K and the Company s other filings made with the Securities and Exchange Commission subsequent to the filing of the Original Form 10-K.  The Original Form 10-K has not been amended or updated to reflect events occurring after February 12, 2016, except as specifically set forth in this Amendment. 
+
+Item 15.    Exhibits, Financial Statement Schedule    s 
+
+(a)    Documents filed as part of this report: 
+
+(1) 
+
+Financial Statements     
+
+Reference is made to the Index to Consolidated Financial Statements of Incyte Corporation under Item 8 of Part II of the Original Form 10-K. 
+
+(2) 
+
+Financial Statement Schedules     
+
+The consolidated financial statements of Agenus required by Rule 3-09 are incorporated by reference to Item 8 of the Annual Report on Form 10-K for the fiscal year ended December 31, 2015 filed by Agenus with the Securities and Exchange Commission on March   1  5  , 2015 and are provided as Exhibit 99.1 to this Amendment. 
+
+All other financial statement schedules have been omitted because they are not applicable or not required or because the information is included elsewhere in the Consolidated Financial Statements or the Notes thereto referred to under Item 15(a)(1) above. 
+
+See Item 15(b) below. Each management contract or compensatory plan or arrangement required to be filed has been identified. 
+
+(b)    Exhibits  
+
+Exhibit   Number  
+
+Description of Document  
+
+3(i)  
+
+Integrated copy of the Restated Certificate of Incorporation, as amended, of the Company (incorporated by reference to Exhibit 3(i) to the Company s Annual Report on Form 10   K for the year ended December 31, 2009).  
+
+2         
+
+3         
+
+4         
+
+*    Filed with the Original Form 10-K. 
+
+**    Filed herewith 
+
+***    In accordance with Item 601(b)(32)(ii) of Regulation S   K and SEC Release Nos. 33   8238 and 34   47986, Final Rule: Management s Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 to the Original Form 10-K and in Exhibits 32.3 and 32.4 hereto are deemed to accompany the Form 10   K, as amended, and will not be deemed  filed  for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference. 
+
+Confidential treatment has been requested with respect to certain portions of these agreements. 
+
+#    Indicates management contract or compensatory plan or arrangement. 
+
+Copies of above exhibits not contained herein are available to any stockholder upon written request to: Investor Relations, Incyte Corporation, 1801 Augustine Cut   Off, Wilmington, DE 19803. 
+
+5         
+
+SIGNATURES   
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Amendment to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+INCYTE CORPORATION  
+
+By:  
+
+/s/   
+
+David W. Gryska  
+
+David W. Gryska  
+
+Executive Vice President and Chief Financial Officer  
+
+Date: March   1  5  , 2016 
+
+6         
+
+EXHIBIT INDEX  
+
+Exhibit   Number  
+
+Description of Document  
+
+3(i)  
+
+Integrated copy of the Restated Certificate of Incorporation, as amended, of the Company (incorporated by reference to Exhibit 3(i) to the Company s Annual Report on Form 10   K for the year ended December 31, 2009).  
+
+3(ii)  
+
+Bylaws of the Company amended and restated as of July 31, 2015 (incorporated by reference to Exhibit 3.1 to the Company s Quarterly Report on Form 10   Q for the quarter ended June 30, 2015).  
+
+4.1  
+
+Form of Common Stock Certificate (incorporated by reference to the exhibit of the same number to the Company s Annual Report on Form 10   K for the year ended December 31, 2002).  
+
+4.2  
+
+Indenture, dated as of November 14, 2013, between the Company and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.1 to the Company s Current Report on Form 8   K filed November 14, 2013).  
+
+4.3  
+
+Indenture, dated as of November 14, 2013, between the Company and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.2 to the Company s Current Report on Form 8   K filed November 14, 2013).  
+
+10.1#  
+
+1991 Stock Plan of Incyte Corporation, as amended (incorporated by reference to Exhibit 10.1 to the Company s Quarterly Report on Form 10   Q for the quarter ended June 30, 2009).  
+
+10.2#  
+
+Form of Incentive Stock Option Agreement under the 1991 Plan (incorporated by reference to the exhibit of the same number to the Company s Registration Statement on Form S   1 (File No. 33   68138)).  
+
+10.3#  
+
+Form of Nonstatutory Stock Option Agreement under the 1991 Plan (incorporated by reference to the exhibit of the same number to the Company s Registration Statement on Form S   1 (File No. 33   68138)).  
+
+10.4#  
+
+1993 Directors  Stock Option Plan of Incyte Corporation, as amended (incorporated by reference to Exhibit 10.2 to the Company s Quarterly Report on Form 10   Q for the quarter ended June 30, 2009).  
+
+10.5#  
+
+Incyte Corporation Amended and Restated 2010 Stock Incentive Plan, as amended (incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8   K filed May 29, 2014).  
+
+10.6#  
+
+Form of Nonstatutory Stock Option Agreement for Executive Officers under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.2 to the Company s Quarterly Report on Form 10   Q for the quarter ended June 30, 2014).  
+
+10.7#  
+
+Form of Incentive Stock Option Agreement for Executive Officers under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.3 to the Company s Quarterly Report on Form 10   Q for the quarter ended June 30, 2014).  
+
+10.8#  
+
+Form of Nonstatutory Stock Option Agreement under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the Company s Quarterly Report on Form 10   Q for the quarter ended June 30, 2014).  
+
+10.9#  
+
+Form of Incentive Stock Option Agreement under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.5 to the Company s Quarterly Report on Form 10   Q for the quarter ended June 30, 2014).  
+
+10.10#  
+
+Form of Nonstatutory Stock Option Agreement for Outside Directors under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.24 to the Company s Annual Report on Form 10   K for the year ended December 31, 2013).  
+
+10.11#  
+
+Form of Restricted Stock Unit Award Agreement under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.6 to the Company s Quarterly Report on Form 10   Q for the quarter ended June 30, 2014).  
+
+10.12#  
+
+Form of Performance Share Award Agreement under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the Company s Quarterly Report on Form 10   Q for the quarter ended March 31, 2014).  
+
+10.13#  
+
+Form of Indemnity Agreement between the Company and its directors and officers (incorporated by reference to Exhibit 10.5 to the Company s Registration Statement on Form S   1 (File No. 33   68138)).  
+
+10.14#  
+
+1997 Employee Stock Purchase Plan of Incyte Corporation  , as amended (incorporated by reference to Exhibit 10.6 to the Company s Annual Report on Form 10-K for the year ended December 31, 2014).  
+
+7         
+
+8         
+
+*    Filed with the Original Form 10-K. 
+
+**    Filed herewith. 
+
+***    In accordance with Item 601(b)(32)(ii) of Regulation S   K and SEC Release Nos. 33   8238 and 34   47986, Final Rule: Management s Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 to the Original Form 10-K and in Exhibits 32.3 and 32.4 hereto are deemed to accompany the Form 10   K, as amended, and will not be deemed  filed  for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference. 
+
+Confidential treatment has been requested with respect to certain portions of these agreements. 
+
+#    Indicates management contract or compensatory plan or arrangement. 
+
+Copies of above exhibits not contained herein are available to any stockholder upon written request to: Investor Relations, Incyte Corporation, 1801 Augustine Cut   Off, Wilmington, DE 19803. 
+
+9         
+
+<EX-23.2>
+ 2
+ incy-20151231ex232060c22.htm
+ EX-23.2
+
+incy_Exhibit_23_2
+
+Exhibit 23.2 
+
+Consent of Independent Registered Public Accounting Firm 
+
+The Board of Directors   Agenus Inc.: 
+
+We consent to the incorporation by reference in the registration statements (Nos. 333-93668, 333-91556, 333-125995, 333-160006, 333-47178, 333-63069, 333-67598, 333-83291, 333-91542, 333-143753, 333-151716, 333-160005, 333-108013, 333-134472, 333-151715, 333-160007, 333- 167528, 333-174919, 333-167526, 333-174918, 333-182218, 333-189424, 333-197907 and 333-193333) on Form S-8 and (No. 333-209694) on Form S-3 of Incyte Corporation of our report dated March 1  5  , 2016, with respect to the consolidated balance sheets of Agenus Inc. as of December 31, 2015 and 2014, and the related consolidated statements of operations and comprehensive loss, stockholders  equity   (deficit),   and cash flows for each of the years in the three-year period ended December 31, 2015, which report appears in Exhibit 99.1 to the December 31, 2015 Annual Report on Form 10-K, as amended by Form 10-K/A, of Incyte Corporation. 
+
+/s/ KPMG LLP 
+
+Boston, Massachusetts    March 1  5  , 2016 
+
+</EX-23.2>
+
+<EX-31.3>
+ 3
+ incy-20151231ex313aaf54d.htm
+ EX-31.3
+
+incy_Exhibit_31_3
+
+Exhibit 31.3 
+
+CERTIFICATION 
+
+I, Herv  Hoppenot, certify that: 
+
+1.    I have reviewed this Amendment No. 1 to Annual Report on Form 10   K of Incyte Corporation; 
+
+2.    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3.    Based on my knowledge, the financial statements, and other financial information in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the p  eriods presented in this report. 
+
+Date: March   1  5  , 2016 
+
+/s/   Herv  Hoppenot  
+
+Herv  Hoppenot  
+
+Chief Executive Officer  
+
+</EX-31.3>
+
+<EX-31.4>
+ 4
+ incy-20151231ex3148c82eb.htm
+ EX-31.4
+
+incy_Exhibit_31_4
+
+Exhibit 31.4 
+
+CERTIFICATION 
+
+I, David W. Gryska, certify that: 
+
+1.    I have reviewed this Amendment No. 1 to Annual Report on Form 10   K of Incyte Corporation; 
+
+2.    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3.    Based on my knowledge, the financial statements, and other financial information in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the p  eriods presented in this report. 
+
+Date: March   1  5  , 2016 
+
+/s/   David W. Gryska  
+
+David W. Gryska  
+
+Chief Financial Officer  
+
+</EX-31.4>
+
+<EX-32.3>
+ 5
+ incy-20151231ex323f2cb74.htm
+ EX-32.3
+
+incy_Exhibit_32_3
+
+Exhibit 32.3 
+
+STATEMENT PURSUANT TO 
+
+18 U.S.C. SECTION 1350 
+
+With reference to Amendment No. 1 to the Annual Report of Incyte Corporation (the  Company ) on Form 10   K for the year ended December 31, 2015 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Herv  Hoppenot, Chief Executive Officer of the Company, certify, for the purposes of 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes   Oxley Act of 2002, that, to my knowledge: 
+
+(1)    the Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)    the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+</EX-32.3>
+
+<EX-32.4>
+ 6
+ incy-20151231ex324366e9d.htm
+ EX-32.4
+
+incy_Exhibit_32_4
+
+Exhibit 32.4 
+
+STATEMENT PURSUANT TO 
+
+18 U.S.C. SECTION 1350 
+
+With reference to Amendment No. 1 to the Annual Report of Incyte Corporation (the  Company ) on Form 10   K for the year ended December 31, 2015 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, David W. Gryska, Chief Financial Officer of the Company, certify, for the purposes of 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes   Oxley Act of 2002, that, to my knowledge: 
+
+(1)    the Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)    the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+</EX-32.4>
+
+<EX-99.1>
+ 7
+ incy-20151231ex991240d9b.htm
+ EX-99.1
+
+incy_Exhibit_99_1
+
+Exhibit 99.1 
+
+Item 8.      Financial Statemen    ts and Supplementary Data 
+
+INDEX TO FINANCIAL STATEMENTS 
+
+Report of Independent Registered Public Accounting Firm      
+
+2 
+
+Consolidated Balance Sheets      
+
+3 
+
+Consolidated Statements of Operations and Comprehensive Loss      
+
+4 
+
+Consolidated Statements of Stockholders  Equity (Deficit)      
+
+5 
+
+Consolidated Statements of Cash Flows      
+
+8 
+
+Notes to Consolidated Financial Statements      
+
+10 
+
+1         
+
+Report of Independent Registered Public Accounting Firm 
+
+The Board of Directors and Stockholders 
+
+Agenus Inc.: 
+
+We have audited the accompanying consolidated balance sheets of Agenus Inc. and subsidiaries (the Company) as of December 31, 2015 and 2014, and the related consolidated statements of operations and comprehensive loss, stockholders  equity (deficit), and cash flows for each of the years in the three-year period ended December 31, 2015. These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits. 
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. 
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of Agenus Inc. and subsidiaries as of December 31, 2015 and 2014, and the results of their operations and their cash flows for each of the years in the three-year period ended December 31, 2015, in conformity with U.S. generally accepted accounting principles. 
+
+/s/ KPMG LLP 
+
+Boston, Massachusetts 
+
+March 15, 2016 
+
+2         
+
+AGENUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+See accompanying notes to consolidated financial statements. 
+
+3         
+
+AGENUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF OPER    ATIONS AND COMPREHENSIVE LOSS 
+
+For the Years Ended December 31, 2015, 2014, and 2013 
+
+See accompanying notes to consolidated financial statements. 
+
+4         
+
+AGENUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF ST    OCKHOLDERS  EQUITY (DEFICIT) 
+
+For the Years Ended December 31, 2015, 2014, and 2013 
+
+Series A  
+
+Series A-1  
+
+Series B2  
+
+Convertible  
+
+Convertible  
+
+Convertible  
+
+Preferred Stock  
+
+Preferred Stock  
+
+Preferred Stock  
+
+Common Stock  
+
+Treasury Stock  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Additional  
+					 
+						 Paid-In  
+					 
+						 Capital  
+
+Number  
+					 
+						 of  Shares  
+
+Amount  
+
+Accumulated  
+					 
+						 Other  
+					 
+						 Comprehensive  
+					 
+						 Loss  
+
+Accumulated  
+					 
+						 Deficit  
+
+Noncontrolling  
+					 
+						 Interest  
+
+Total  
+
+See accompanying notes to consolidated financial statements. 
+
+5         
+
+AGENUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS  EQUITY (DEFICIT) 
+
+(Continued) 
+
+For the Years Ended December 31, 2015, 2014, and 2013 
+
+Series A  
+
+Series A-1  
+
+Series B2  
+
+Convertible  
+
+Convertible  
+
+Convertible  
+
+Preferred Stock  
+
+Preferred Stock  
+
+Preferred Stock  
+
+Common Stock  
+
+Treasury Stock  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Additional  
+					 
+						 Paid-In  
+					 
+						 Capital  
+
+Number  
+					 
+						 of  Shares  
+
+Amount  
+
+Accumulated  
+					 
+						 Other  
+					 
+						 Comprehensive  
+					 
+						 Loss  
+
+Accumulated  
+					 
+						 Deficit  
+
+Noncontrolling  
+					 
+						 Interest  
+
+Total  
+
+See accompanying notes to consolidated financial statements. 
+
+6         
+
+AGENUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS  EQUITY (DEFICIT) 
+
+(Continued) 
+
+For the Years Ended December 31, 2015, 2014, and 2013 
+
+Series A  
+
+Series A-1  
+
+Series B2  
+
+Convertible  
+
+Convertible  
+
+Convertible  
+
+Preferred Stock  
+
+Preferred Stock  
+
+Preferred Stock  
+
+Common Stock  
+
+Treasury Stock  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Number of  
+					 
+						 Shares  
+
+Par  
+					 
+						 Value  
+
+Additional  
+					 
+						 Paid-In  
+					 
+						 Capital  
+
+Number  
+					 
+						 of  Shares  
+
+Amount  
+
+Accumulated  
+					 
+						 Other  
+					 
+						 Comprehensive  
+					 
+						 Loss  
+
+Accumulated  
+					 
+						 Deficit  
+
+Noncontrolling  
+					 
+						 Interest  
+
+Total  
+
+See accompanying notes to consolidated financial statements. 
+
+7         
+
+AGENUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEM    ENTS OF CASH FLOWS 
+
+For the Years Ended December 31, 2015, 2014, and 2013 
+
+8         
+
+See accompanying notes to consolidated financial statements. 
+
+9         
+
+AGENUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED     FINANCIAL STATEMENTS 
+
+(1) Description of Business 
+
+Agenus Inc. (including its subsidiaries, collectively referred to as  Agenus,  the  Company,   we,   us,  and  our ) is an immuno-oncology company focused on the discovery and development of revolutionary new treatments that engage the body s immune system to benefit patients suffering from cancer. We are developing a comprehensive immuno-oncology portfolio driven by the following platforms and programs, which we intend to utilize individually and in combination: 
+
+our antibody discovery platforms, including our Retrocyte Display , SECANT      yeast display, and phage display technologies designed to produce quality human antibodies;     
+
+our antibody candidate programs, including our checkpoint modulator, or CPM, programs;     
+
+our vaccine programs, including Prophage      and AutoSynVax     ; and     
+
+our saponin-based vaccine adjuvants, principally our QS-21 Stimulon      adjuvant, or QS-21 Stimulon.     
+
+We have a portfolio of programs in pre-clinical and clinical stages, including a series of CPMs in early stage development and investigational new drug (IND)-enabling studies, our Prophage vaccine, a Phase 3 ready Heat Shock Protein (HSP)-based autologous vaccine for a form of brain cancer and a number of advanced QS-21 Stimulon-containing vaccine candidates in late stage development by our licensee. 
+
+Our core technologies include our antibody discovery platforms that are designed to effectively discover and produce quality human antibodies against antigens of interest. We and our partners currently have pre-clinical and clinical programs targeting GITR, OX40, CTLA-4, LAG-3, TIM-3, PD-1, CEACAM1 and other undisclosed targets. We have completed the following Phase 2 trials for HSP-based vaccines for cancer and infectious disease: (1) Prophage autologous HSP-based vaccine in newly diagnosed glioblastoma multiforme (GBM) and (2) HerpV recombinant HSP70-synthetic peptide vaccine for the treatment of herpes simplex virus 2 (HSV2) infection. Our QS-21 Stimulon adjuvant platform is extensively partnered with GlaxoSmithKline (GSK). 
+
+Our business activities have included product research and development, intellectual property prosecution, manufacturing, regulatory and clinical affairs, corporate finance and development activities, and support of our collaborations. Our product candidates require clinical trials and approvals from regulatory agencies, as well as acceptance in the marketplace. Part of our strategy is to develop and commercialize some of our product candidates by continuing our existing arrangements with academic and corporate collaborators and licensees and by entering into new collaborations. 
+
+We have incurred significant losses since our inception. As of December 31, 2015, we had an accumulated deficit of $779.2 million. Since our inception, we have financed our operations primarily through the sale of equity and convertible and other notes, and interest income earned on cash, cash equivalents, and short-term investment balances. We believe that, based on our current plans and activities, our cash, cash equivalents and short-term investments balance of $171.7 million as of December 31, 2015 will be sufficient to satisfy our liquidity requirements through the first half of 2017. We continue to monitor the likelihood of success of our key initiatives and are prepared to discontinue funding of such activities if they do not prove to be feasible, restrict capital expenditures and/or reduce the scale of our operations. 
+
+Research and development program costs include compensation and other direct costs plus an allocation of indirect costs, based on certain assumptions, and our review of the status of each program. Our product candidates are in various stages of development and significant additional expenditures will be required if we start new trials, encounter delays in our programs, apply for regulatory approvals, continue development of our technologies, expand our operations, and/or bring our product candidates to market. The eventual total cost of each clinical trial is dependent on a number of factors such as trial design, length of the trial, number of clinical sites, and number of patients. The process of obtaining and maintaining regulatory approvals for new therapeutic products is lengthy, expensive, and uncertain. Because our CPM antibody programs are pre-clinical and because further development of our Prophage vaccines are dependent on successful partnering or funding efforts, among other factors, we are unable to reliably estimate the cost of completing research and development programs, the timing of bringing such programs to various markets, or substantial partnering or     
+
+10         
+
+out-licensing arrangements, and, therefore, are unable to determine when, if ever, material cash inflows from operating activities are likely to commence. We will continue to adjust our spending as needed in order to preserve liquidity. 
+
+(2) Summary of Significant Accounting Policies 
+
+(a) Basis of Presentation and Principles of Consolidation 
+
+The consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles and include the accounts of Agenus and our wholly-owned subsidiaries. All significant intercompany transactions and accounts have been eliminated in consolidation. Certain reclassifications have been made to previously reported amounts to conform to the current presentation. 
+
+(b) Segment Information 
+
+We are managed and operated as one business segment. The entire business is managed by a single executive operating committee that reports to the chief executive officer. We do not operate separate lines of business with respect to any of our product candidates or geographic locations. Accordingly, we do not prepare discrete financial information with respect to separate product areas or by location and do not have separately reportable segments as defined by Financial Accounting Standards Board ( FASB ) Accounting Standards Codification ( ASC ) 280,   Segment Reporting. 
+
+(c) Use of Estimates 
+
+The preparation of consolidated financial statements in conformity with U.S. generally accepted accounting principles requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. We base those estimates on historical experience and on various assumptions that are believed to be reasonable under the circumstances. Actual results could differ from those estimates. 
+
+(d) Cash and Cash Equivalents 
+
+We consider all highly liquid investments purchased with maturities at acquisition of three months or less to be cash equivalents. Cash equivalents consist primarily of money market funds and U.S. Treasury Bills. 
+
+(e) Investments 
+
+We classify investments in marketable securities at the time of purchase. At December 31, 2015, all marketable securities are classified as available for sale and as such, the investments are recorded at fair value. Gains and losses on the sale of marketable securities are recognized in operations based on the specific identification method. At December 31, 2015, our investments consisted of institutional money market funds and U.S. Treasury Bills. 
+
+(f) Concentrations of Credit Risk 
+
+Financial instruments that potentially subject us to concentrations of credit risk are primarily cash equivalents, investments, and accounts receivable. We invest our cash, cash equivalents and short-term investments in accordance with our investment policy, which specifies high credit quality standards and limits the amount of credit exposure from any single issue, issuer, or type of investment. We carry balances in excess of federally insured levels, however, we have not experienced any losses to date from this practice. 
+
+(g) Inventories 
+
+Inventories are stated at the lower of cost or market. Cost has been determined using standard costs that approximate the first-in, first-out method. Inventory as of December 31, 2015 consisted solely of finished goods. 
+
+11         
+
+(h) Accounts Receivable 
+
+Accounts receivable are primarily amounts due from our collaboration partner as a result of research and development services provided and reimbursements under co-funded research and development programs. We considered the need for an allowance for doubtful accounts and have concluded that no allowance was needed as of December 31, 2015 and 2014, as the estimated risk of loss on our accounts receivable was determined to be minimal. 
+
+(i) Property, Plant and Equipment 
+
+Property, plant and equipment, including software developed for internal use, are carried at cost. Depreciation is computed using the straight-line method over the estimated useful lives of the assets. Amortization of leasehold improvements is computed over the shorter of the lease term or estimated useful life of the asset. Additions and improvements are capitalized, while repairs and maintenance are charged to expense as incurred. Amortization and depreciation of plant and equipment was $1.4 million, $1.1 million, and $586,000, for the years ended December 31, 2015, 2014, and 2013, respectively. 
+
+(j) Fair Value of Financial Instruments 
+
+The estimated fair values of all of our financial instruments, excluding debt, approximate their carrying amounts in the consolidated balance sheets. The fair value of our outstanding debt is based on a present value methodology. The outstanding principal amount of our debt, including the current portion, was $114.1 million and $6.3 million at December 31, 2015 and 2014, respectively. 
+
+(k) Revenue Recognition 
+
+Revenue for services under research and development contracts are recognized as the services are performed, or as clinical trial materials are provided. Non-refundable milestone payments that represent the completion of a separate earnings process are recognized as revenue when earned. License fees and royalties are recognized as they are earned. Grant revenue is recognized when the related expense is recorded. Revenue recognized from collaborative agreements is based upon the provisions of ASC 605-25,   Revenue Recognition   Multiple-Element Arrangements  , as amended by Accounting Standards Update ( ASU ) 2009-13. For the year ended December 31, 2015, 95% of our revenue was earned from one collaboration partner. For the years ended December 31, 2014, and 2013, 48%, and 44%, respectively, of our revenue was earned from one research partner. In addition 47%, of our revenue for the year ended December 31, 2013, was earned from one service customer. The revenues from the service customer did not continue past 2013. 
+
+(l) Foreign Currency Transactions 
+
+Gains and losses from our foreign currency based accounts and transactions, such as those resulting from the translation and settlement of receivables and payables denominated in foreign currencies, are included in the consolidated statements of operations within other (expense) income. We do not currently use derivative financial instruments to manage the risks associated with foreign currency fluctuations. We recorded foreign currency losses of $866,000, $773,000, and $9,000, for the years ended December 31, 2015, 2014, and 2013, respectively. 
+
+(m) Research and Development 
+
+Research and development expenses include the costs associated with our internal research and development activities, including salaries and benefits, share-based compensation, occupancy costs, clinical manufacturing costs, related administrative costs, and research and development conducted for us by outside advisors, such as sponsored university-based research partners and clinical study partners. We account for our clinical study costs by estimating the total cost to treat a patient in each clinical trial and recognizing this cost based on estimates of when the patient receives treatment, beginning when the patient enrolls in the trial. Research and development expenses also include the cost of clinical trial materials shipped to our research partners. Research and development costs are expensed as incurred. 
+
+12         
+
+(n) Share-Based Compensation 
+
+We account for share-based compensation in accordance with the provisions of ASC 718,   Compensation Stock Compensation   and ASC 505-50,   Equity-Based Payments to Non-Employees.   Share-based compensation expense is recognized based on the estimated grant date fair value, and is recognized net of an estimated forfeiture rate such that we recognize compensation cost for those shares expected to vest. Compensation cost is recognized on a straight-line basis over the requisite service period of the award. The non-cash charge to operations for non-employee awards with vesting or other performance criteria is affected each reporting period by changes in the fair value of our common stock. Under the provisions of ASC 505-50, the change in fair value of vested options issued to non-employees is reflected in the statement of operations each reporting period, until the options are exercised or expire. See Note 11 for a further discussion on share-based compensation. 
+
+(o) Income Taxes 
+
+Income taxes are accounted for under the asset and liability method with deferred tax assets and liabilities recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax basis and net operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which such items are expected to be reversed or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in the consolidated statement of operations in the period that includes the enactment date. Deferred tax assets are recognized when they are more likely than not expected to be realized. 
+
+(p) Net Loss Per Share 
+
+Basic income and loss per common share is calculated by dividing the net loss attributable to common stockholders by the weighted average number of common shares outstanding (including common shares issuable under our Directors  Deferred Compensation Plan). Diluted income per common share is calculated by dividing net income attributable to common stockholders by the weighted average number of common shares outstanding (including common shares issuable under our Directors  Deferred Compensation Plan) plus the dilutive effect of outstanding instruments such as warrants, stock options, nonvested shares, convertible preferred stock, and convertible notes. Because we reported a net loss attributable to common stockholders for all periods presented, diluted loss per common share is the same as basic loss per common share, as the effect of utilizing the fully diluted share count would have reduced the net loss per common share. Therefore, the following potentially dilutive securities have been excluded from the computation of diluted weighted average shares outstanding as of December 31, 2015, 2014, and 2013, as they would be anti-dilutive: 
+
+(q) Goodwill 
+
+Goodwill represents the excess of cost over the fair value of net assets of businesses acquired. Goodwill is not amortized, but instead tested for impairment at least annually. Annually we assess whether there is an indication that goodwill is impaired, or more frequently if events and circumstances indicate that the asset might be impaired during the year. We perform our annual impairment test as of October 31 of each year. The first step of our impairment analysis compares our fair value to our net book value to determine if there is an indicator of impairment. We operate as a single operating segment and single reporting unit and our fair value is based on our quoted market price of our common stock to derive the market capitalization as of the date of the impairment test.  ASC 350,   Intangibles, Goodwill and Other   states that if the carrying value of the reporting unit is negative, the second step of the impairment test shall be performed to measure the amount of impairment loss, if any, if qualitative factors indicate that it is more likely than not that a goodwill impairment exists. No goodwill impairment has been recognized for the periods presented. 
+
+13         
+
+(r) In-process Research and Development 
+
+Acquired in-process research and development ( IPR D ) represents the fair value assigned to research and development assets that have not reached technological feasibility. The value assigned to acquired IPR D is determined by estimating the costs to develop the acquired technology into commercially viable products, estimating the resulting revenue from the projects, and discounting the net cash flows to present value. The revenue and costs projections used to value acquired IPR D are, as applicable, reduced based on the probability of success of developing a new drug. Additionally, the projections consider the relevant market sizes and growth factors, expected trends in technology, and the nature and expected timing of new product introductions by us and our competitors. The rates utilized to discount the net cash flows to their present value are commensurate with the stage of development of the projects and uncertainties in the economic estimates used in the projections. Upon the acquisition of IPR D, we complete an assessment of whether our acquisition constitutes the purchase of a single asset or a group of assets. We consider multiple factors in this assessment, including the nature of the technology acquired, the presence or absence of separate cash flows, the development process and stage of completion, quantitative significance and our rationale for entering into the transaction. 
+
+If we acquire an asset or group of assets that do not meet the definition of a business under applicable accounting standards, then the acquired IPR D is expensed on its acquisition date. Future costs to develop these assets are recorded to research and development expense as they are incurred. 
+
+We review amounts capitalized as acquired IPR D for impairment at least annually, as of October 31, and whenever events or changes in circumstances indicate that the carrying value of the assets might not be recoverable. When performing our impairment assessment, we have the option to first assess qualitative factors to determine whether it is necessary to recalculate the fair value of our acquired IPR D. If we elect this option and believe, as a result of the qualitative assessment, that it is more-likely-than-not that the fair value of our acquired IPR D is less than its carrying amount, we calculate the fair value using the same methodology as described above. If the carrying value of our acquired IPR D exceeds its fair value, then the intangible asset is written-down to its fair value. Alternatively, we may elect to not first assess qualitative factors and immediately recalculate the fair value of our acquired IPR D. No IPR D impairments were recognized for the years presented. 
+
+(s) Accounting for Asset Retirement Obligations 
+
+We record the fair value of an asset retirement obligation as a liability in the period in which we incur a legal obligation associated with the retirement of tangible long-lived assets that result from the acquisition, construction, development, and/or normal use of the assets. A legal obligation is a liability that a party is required to settle as a result of an existing or enacted law, statute, ordinance, or contract. We are also required to record a corresponding asset that is depreciated over the life of the asset. Subsequent to the initial measurement of the asset retirement obligation, the obligation will be adjusted at the end of each period to reflect the passage of time (accretion) and changes in the estimated future cash flows underlying the obligation. Changes in the liability due to accretion are charged to the consolidated statement of operations, whereas changes due to the timing or amount of cash flows are an adjustment to the carrying amount of the related asset. Our asset retirement obligations primarily relate to the expiration of our facility lease and anticipated costs to be incurred based on our lease terms. 
+
+(t) Long-lived Assets 
+
+If required based on certain events and circumstances, recoverability of assets to be held and used, other than goodwill and intangible assets not being amortized, is measured by a comparison of the carrying amount of an asset to the undiscounted future net cash flows expected to be generated by the asset or asset group. If the carrying amount of an asset exceeds its estimated future undiscounted cash flows, an impairment charge is recognized for the amount by which the carrying amount of the asset exceeds the fair value of the asset. Authoritative guidance requires companies to separately report discontinued operations and extends that reporting to a component of an entity that either has been disposed of (by sale, abandonment, or in a distribution to owners) or is classified as held for sale. Assets to be disposed of are reported at the lower of the carrying amount or fair value less costs to sell. 
+
+14         
+
+(u) Recent Accounting Pronouncements 
+
+In May 2014, the FASB ASU No. 2014-09,   Revenue from Contracts with Customers,   ("ASU 2014-09"). ASU 2014-09 amends revenue recognition principles and provides a single set of criteria for revenue recognition among all industries. This new standard provides a five step framework whereby revenue is recognized when promised goods or services are transferred to a customer at an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The standard also requires enhanced disclosures pertaining to revenue recognition in both interim and annual periods. ASU 2014-09 is effective for interim and annual periods beginning after December 15, 2017. We are currently evaluating the potential impact that ASU 2014-09 may have on our financial position and results of operations. 
+
+In August 2014, the FASB issued ASU No. 2014-15,   Disclosure of Uncertainties about an Entity's Ability to Continue as a Going Concern  , ("ASU 2014-15").  ASU 2014-15 describes how an entity should assess its ability to meet obligations and sets rules for how this information should be disclosed in the financial statements.  The standard provides accounting that will be used along with existing auditing standards.  ASU 2014-15 applies to all entities and is effective for the annual period ending after December 15, 2016, and for annual and interim periods thereafter with early adoption permitted.  We are currently evaluating the potential impact that ASU 2014-15 may have on our consolidated financial statements and related disclosures. 
+
+In April 2015, the FASB issued ASU No. 2015-03,   Interest-Imputation of Interest (Subtopic 835-30): Simplifying the Presentation of Debt Issuance Costs,   ( ASU 2015-03   ).    ASU 2015-03 simplifies the presentation of debt issuance costs, as this new standard requires that debt issuance costs related to a recognized debt liability be presented in the balance sheet as a direct deduction from the carrying amount of that debt liability, consistent with debt discounts. The recognition and measurement guidance for debt issuance costs are not affected by this update. This guidance is effective for annual reporting beginning after December 15, 2015, including interim periods within the year of adoption, and calls for retrospective application, with early application permitted. We adopted ASU 2015-03 with the interim period ended September 30, 2015. During the quarter ended September 30, 2015, in connection with the execution of the Note Purchase Agreement as described in Note 16, the Company incurred approximately $1.5 million in debt issuance costs that are classified as a reduction to long-term debt in our consolidated balance sheet. No debt issuance costs required retrospective application as the result of the adoption of ASU 2015-03. The amortization of the debt issuance costs for the three and year ended December 31, 2015 was not material. 
+
+In November 2015, the FASB issued ASU No. 2015-17,   Income Taxes (Topic 740): Balance Sheet Classification of Deferred Taxes  , ( ASU 2015-17 ). ASU 2015-17 requires entities with a classified balance sheet to present all deferred tax assets and liabilities as noncurrent. ASU 2015-17 is effective for public business entities for interim and annual periods in fiscal years beginning after December 15, 2016. Early adoption is permitted.  We early adopted ASU 2015-17 for the year ended December 31, 2015. The adoption of ASU 2015-17 did not have a material impact on our consolidated balance sheets. 
+
+In February 2016, the FASB issued ASU 2016-02,   Leases (Topic 842)   ( ASU 2016-2 ) which supersedes Topic 840, Leases. ASU2016-02   requires lessees to recognize a right-of-use asset and a lease liability on their balance sheets for all leases with terms greater than twelve months. Based on certain criteria, leases will be classified as either financing or operating, with classification affecting the pattern of expense recognition in the income statement.   For leases with a term of 12 months or less, a lessee is permitted to make an accounting policy election by class of underlying asset not to recognize lease assets and lease liabilities. If a lessee makes this election, it should recognize lease expense for such leases generally on a straight-line basis over the lease term. ASU 2016-2 is effective   for fiscal years beginning after December 15, 2018, and interim periods within those years, with early adoption permitted  . In transition, lessees and lessors are required to recognize and measure leases at the beginning of the earliest period presented using a modified retrospective approach. The modified retrospective approach includes a number of optional practical expedients primarily focused on leases that commenced before the effective date of Topic 842, including continuing to account for leases that commence before the effective date in accordance with previous guidance, unless the lease is modified. We are evaluating the impact of the adoption of the standard on our consolidated financial statements. 
+
+15         
+
+(3) Business Acquisitions 
+
+4-Antibody 
+
+On January 10, 2014, we entered into a Share Exchange Agreement (the  Share Exchange Agreement ) providing for our acquisition of all of the outstanding capital stock of 4-Antibody AG ( 4-AB ), from the shareholders of 4-AB (the  4-AB Shareholders ). The transaction closed on February 12, 2014 (the  Closing Date ). In exchange for their shares, the 4-AB Shareholders received an aggregate of 3,334,079 shares of our common stock paid upon closing and valued at $10.1 million. Contingent milestone payments of up to $40.0 million (the  contingent purchase price consideration ), payable in cash or shares of our common stock at our option, are due to the 4-AB Shareholders as follows: (i) $20.0 million upon our market capitalization exceeding $300.0 million for 10 consecutive trading days prior to the earliest of (a) the fifth anniversary of the Closing Date (b) the sale of the 4-AB or (c) the sale of Agenus; (ii) $10.0 million upon our market capitalization exceeding $750.0 million for 30 consecutive trading days prior to the earliest of (a) the tenth anniversary of the Closing Date (b) the sale of 4-AB, or (c) the sale of Agenus, and (iii) $10.0 million upon our market capitalization exceeding $1.0 billion for 30 consecutive trading days prior to the earliest of (a) the tenth anniversary of the Closing Date, (b) the sale of 4-AB, or (c) the sale of Agenus. We assigned an acquisition date fair value of $9.7 million to the contingent purchase price consideration. During January 2015, the first milestone noted above was achieved. This acquisition provided us with the Retrocyte Display technology platform for the rapid discovery and optimization of fully-human and humanized monoclonal antibodies against a wide array of molecular targets and a portfolio of CPM antibodies. 
+
+The acquisition of 4-AB was accounted for under the acquisition method of accounting. The purchase price of approximately $19.8 million has been allocated to the tangible and intangible assets acquired and liabilities assumed. 
+
+The following table summarizes the purchase price of the 4-AB acquisition, the identified assets acquired and liabilities assumed at the acquisition date (in thousands): 
+
+The fair value of the IPR D and patented technology was determined using the income approach and the relief from royalty rate method, respectively, using significant inputs, including an 18% discount rate, that are not observable. We consider the fair value of the IPR D and patented technology to be Level 3 due to the significant estimates and assumptions used by management in establishing the estimated fair values. 
+
+All of the convertible notes assumed by us in the acquisition were converted into approximately 383,000 shares of our common stock on May 8, 2014. 
+
+16         
+
+The following table summarizes the supplemental statements of operations information on an unaudited pro forma basis as if the 4-AB acquisition had occurred on January 1, 2013 (in thousands except per share data): 
+
+The pro forma results presented above are for illustrative purposes only for the periods presented and do not purport to be indicative of the actual results which would have occurred had the transaction been completed as of the beginning of the period, nor are they indicative of results of operations which may occur in the future. 
+
+PhosImmune Inc. 
+
+On December 23, 2015 (the  PhosImmune Closing Date ), we entered into a Purchase Agreement with PhosImmune Inc., a privately-held Virginia corporation ( PhosImmune ), the securityholders of PhosImmune (the  PhosImmune Securityholders ) and Fanelli Haag PLLC, as representative of the PhosImmune Securityholders providing for the acquisition of all outstanding securities of PhosImmune.  On the PhosImmune Closing Date, in exchange for their shares, the PhosImmune Securityholders received $2.5 million in cash and an aggregate of 1,631,521 of our common stock paid upon closing and valued at $7.4 million. Contingent milestone payments up to $35.0 million payable in cash and/or stock at our option are due as follows: (i) $5.0 million upon the closing trading price of our common stock equals or exceeds $8.00 for 60 consecutive trading days prior to the earlier of (a) the fifth anniversary of the PhosImmune Closing Date or (b) the sale of Agenus; (ii) $15.0 million if the closing trading price of our common stock equals or exceeds $13.00 for 60 consecutive trading days prior to the earlier of (a) the tenth anniversary of the PhosImmune Closing Date or (b) the sale of Agenus; and (iii) $15.0 million if the closing trading price of our common stock equals or exceeds $19.00 for 60 consecutive trading days prior to the earlier of (a) the tenth anniversary of the PhosImmune Closing Date or (b) the sale of Agenus. We assigned an acquisition date fair value of $2.5 million to the contingent purchase price consideration. This acquisition expands our immuno-oncology pipeline and strengthens our neoantigen capabilities to enable the development of best-in-class cancer vaccines and other novel therapies. 
+
+The acquisition of PhosImmune was accounted for under the acquisition method of accounting. The purchase price of approximately $12.4 million has been allocated to the intangible assets acquired; no liabilities were assumed in the transaction.   
+
+The following table summarizes the purchase price of the PhosImmune acquisition and the identified assets acquired at the acquisition date (in thousands): 
+
+The fair value of the non-compete agreements and patented and unpatented technology was determined using the income approach and the relief from royalty rate method, respectively, using significant inputs, including a 16.9% discount rate, that are not observable. 
+
+Antibody Manufacturing Facility 
+
+On November 5, 2015, we entered into Asset Purchase Agreement (the  Asset Purchase Agreement ) providing for our acquisition of an antibody manufacturing pilot plant and related capabilities from XOMA Corporation ( XOMA ).  The transaction closed on December 31, 2015 (the  XOMA Closing Date ).  As consideration for the purchased assets, we paid XOMA $4.7 million in cash and issued XOMA 109,211 shares of our common stock valued at $500,000. XOMA is entitled to receive an additional 109,211 shares of our common stock subject to the satisfaction of conditions set forth in the Asset Purchase Agreement.  We do not believe it is probable that XOMA will satisfy these conditions and therefore have not ascribed a value to the contingent consideration. The transaction with XOMA provides us with an antibody pilot manufacturing facility enabling the production and manufacture of CPM antibodies under our programs and those of our collaborations. 
+
+17         
+
+The acquisition of antibody manufacturing pilot plant and related capabilities was accounted for under the acquisition method of accounting as the acquired assets can be operated as set of integrated assets. The purchase price of approximately $5.2 million has been allocated to the tangible and intangible assets acquired; no liabilities were assumed in the transaction.   
+
+The following table summarizes the purchase price of the acquisition and the identified assets acquired at the acquisition date (in thousands): 
+
+The fair value of the property, plant and equipment acquired was valued using the indirect and direct cost new methodologies. 
+
+In accordance with the guidance of ASC 805   Business Combinations  , when the fair value of the assets acquired exceed the total purchase consideration, a bargain purchase has occurred and the resulting gain is to be recognized in earning as of the date of the transaction. In July 2015, XOMA experienced a set-back in a late-stage clinical trial and as a result of the setback, began the immediate divestiture of their antibody body production capabilities at values less than the prevailing market rates for the assets. For the year ended December 31, 2015, we recorded the gain of approximately $1.5 million on the acquisition of the antibody manufacturing pilot facility and related capabilities in non-operating (expense) income in our consolidated statements of operations and comprehensive loss.   
+
+(4) Asset Purchase Agreements 
+
+Celexion, LLC 
+
+On April 7, 2015 (the  Celexion Closing Date ), we entered into an Asset Purchase Agreement (the  Celexion Purchase Agreement ) with Celexion, LLC ( Celexion ) and each of the members of Celexion, pursuant to which, we acquired Celexion s SECANT yeast display antibody discovery platform, its full-length IgG antibody library, its technology for the discovery of molecules targeting cell membrane-associated antigens, and certain other related intellectual property assets (collectively, the  Purchased Assets ). As consideration for the Purchased Assets, on the Celexion Closing Date we paid Celexion $1.0 million in cash and issued Celexion 574,140 shares of our common stock valued at approximately $5.23 per share. As additional consideration for the Purchased Assets, we agreed under the Celexion Purchase Agreement to pay to Celexion (i) $1.0 million in cash payable on each of the 9-month and 18-month anniversaries of the Celexion Closing Date and (ii) $4.0 million on each of the 12-month and 24-month anniversaries of the Celexion Closing Date payable at our discretion in cash, shares of our common stock, or any combination thereof. If we elect to pay any of the additional consideration in shares of our common stock, such shares will be issued at a price per share equal to the simple average of the daily closing volume weighted average price over the 20 trading days preceding the date of issuance. We agreed to file one or more registration statements under the Securities Act to cover the resale of all shares issued as consideration under the Celexion Purchase Agreement.  In May 2015, we filed a registration statement covering the resale of the 574,140 shares issued to Celexion on the Celexion Closing Date, and the SEC declared the registration statement effective in June 2015. This transaction was accounted for as an asset acquisition in accordance with ASC 805   Business Combinations  . In accordance with ASC 730   Research and Development  , the purchase price of approximately $13.2 million was recorded as research and development expense in our consolidated statement of operations and comprehensive loss for the year December 31, 2015 as the IPR D was deemed to have no future alternative use. 
+
+18         
+
+(5) Goodwill and Acquired Intangible Assets 
+
+The following table sets forth the changes in the carrying amount of goodwill for year ended December 31, 2015 (in thousands): 
+
+Acquired intangible assets consisted of the following at December 31, 2015 and 2014 (in thousands): 
+
+The weighted average amortization period of our finite-lived intangible assets is approximately 9 years. Amortization expense for the years ended December 31, 2015 and 2014 was $525,000 and $462,000 respectively.  No amortization expense was recorded for the year ended December 31, 2013. Amortization expense related to acquired intangibles is estimated at $2.2 million for 2016 and 2017, $2.1 million for 2018, and $1.9 million for each of 2019 and 2020. 
+
+The acquired IPR D asset relates to the six pre-clinical CPM antibody programs acquired in the 4-AB transaction. IPR D acquired in a business combination is capitalized at fair value until the underlying project is completed and is subject to impairment testing. Once the project is completed, the carrying value of IPR D is amortized over the estimated useful life of the asset. Post-acquisition research and development expenses related to the acquired IPR D are expensed as incurred. 
+
+19         
+
+(6) Investments 
+
+Cash Equivalents and Short-term Investments 
+
+Cash equivalents and short-term investments consisted of the following as of December 31, 2015 and 2014 (in thousands): 
+
+We received proceeds of approximately $14.5 million and $450,000 from the sale of available-for-sale securities for the years ended December 31, 2015 and 2013, respectively. We did not receive proceeds from maturities of available-for-sale securities for the year ended December 31, 2014. No available-for-sale securities were sold before their maturity in 2015. As a result of the short-term nature of our investments, there were minimal unrealized holding gains or losses as of December 31, 2015 and 2014, and none as of December 31, 2013. 
+
+Of the investments listed above, $126.4 million and $25.1 million have been classified as cash equivalents on our consolidated balance sheet as of December 31, 2015 and 2014, respectively. Approximately $35.0 million and $14.5 million were classified as short-term investments as of December 31, 2015 and 2014, respectively. 
+
+(7) Property, Plant and Equipment 
+
+Property, plant and equipment, net as of December 31, 2015 and 2014 consist of the following (in thousands): 
+
+(8) Income Taxes 
+
+We are subject to taxation in the U.S. and various state, local, and foreign jurisdictions. We remain subject to examination by U.S. Federal, state, local, and foreign tax authorities for tax years 2012 through 2015. With a few exceptions, we are no longer subject to U.S. Federal, state, local, and foreign examinations by tax authorities for the tax year 2011 and prior. However, net operating losses from the tax year 2011 and prior would be subject to examination if and when used in a future tax return to offset taxable income. Our policy is to recognize income tax related penalties and interest, if any, in our provision for income taxes and, to the extent applicable, in the corresponding income tax assets and liabilities, including any amounts for uncertain tax positions. 
+
+20         
+
+As of December 31, 2015, we had available net operating loss carryforwards of $630.4 million and $128.7 million for Federal and state income tax purposes, respectively, which are available to offset future Federal and state taxable income, if any, and expire between 2018 and 2035. At December 31, 2015, the Company had additional federal and state net operating loss carryforwards of $0.5 million related to excess stock based compensation tax benefits for which the benefit will be recorded to additional paid-in capital when recognized.        Our ability to use these net operating losses is limited by change of control provisions under Internal Revenue Code Section 382 and may expire unused. In addition, we have $10.2 million and $14.0 million of Federal and state research and development credits, respectively, available to offset future taxable income. These Federal and state research and development credits expire between 2018 and 2035 and 2017 and 2030, respectively. We also have foreign income tax net operating loss carryforwards of approximately $41.1 million which are available to offset future foreign taxable income, if any, and expire between 2016 and 2022.  The potential impacts of such provisions are among the items considered and reflected in management s assessment of our valuation allowance requirements. 
+
+The tax effect of temporary differences and net operating loss and tax credit carryforwards that give rise to significant portions of the deferred tax assets and deferred tax liabilities as of December 31, 2015 and 2014 are presented below (in thousands). 
+
+In assessing the realizablility of deferred tax assets, we consider whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which the net operating loss and tax credit carryforwards can be utilized or the temporary differences become deductible. We consider projected future taxable income and tax planning strategies in making this assessment. In order to fully realize the deferred tax asset, we will need to generate future taxable income sufficient to utilize net operating losses prior to their expiration. Based upon our history of not generating taxable income due to our business activities focused on product development, we believe that it is more likely than not that deferred tax assets will not be realized through future earnings. Accordingly, a valuation allowance has been established for deferred tax assets which will not be offset by the reversal of deferred tax liabilities. The valuation allowance on the deferred tax assets increased by $25.9 million and $21.6 million during the years ended December 31, 2015 and 2014, respectively. The net operating loss includes amounts pertaining to tax deductions relating to stock exercises for which any subsequently recognized tax benefit will be recorded as an increase to additional paid-in capital. 
+
+Income tax benefit was $5.4 million for the year ended December 31, 2015 and nil for each of the years ended December 31, 2014 and 2013, respectively. The income tax benefit of $5.4 million for the year ended December 31, 2015 was entirely related to a deferred tax benefit recognized as a result of deferred tax liabilities recorded in connection with our acquisitions of PhosImmune and certain assets from XOMA. Income taxes recorded differed from the amounts computed by applying the U.S. Federal income tax rate of 34% to loss before income taxes as a result of the following (in thousands). 
+
+21         
+
+A reconciliation of the beginning and ending amount of gross unrecognized tax benefits is as follows (in thousands): 
+
+These unrecognized tax benefits would all impact the effective tax rate if recognized. There are no positions which we anticipate could change within the next twelve months. 
+
+(9) Accrued and Other Current Liabilities 
+
+Accrued liabilities consist of the following as of December 31, 2015 and 2014 (in thousands): 
+
+Other current liabilities consisted of the following as of December 31, 2015 and 2014 (in thousands): 
+
+(10) Equity 
+
+Effective April 24, 2014, our certificate of incorporation was amended to increase the authorized number of shares of our common stock from 70,000,000 to 140,000,000. 
+
+In a private placement in September 2003, we sold 31,620 shares of our series A convertible preferred stock, par value $0.01 per share ( Series A Preferred Stock ) for net proceeds of $31.6 million. In February 2013, we entered into a Securities Exchange Agreement (the  Exchange Agreement ) with the holder of our Series A Preferred Stock pursuant to which the holder exchanged all 31,620 of the outstanding shares of our Series A Preferred Stock for an equivalent number of shares of our Series A-1 Preferred Stock     
+
+22         
+
+to be issued by us. The terms of the Series A-1 Preferred Stock are materially identical to the Series A Preferred Stock, except that the Series A-1 Preferred Stock accrues a 0.63% annual dividend, as compared to a 2.5% annual dividend for the Series A Preferred Stock.  In exchange for this reduction in dividend obligations, we issued to the holder 666,666 shares of our common stock. After giving effect to the transactions contemplated by the Exchange Agreement, no shares of Series A Preferred Stock remain outstanding. 
+
+Under the terms and conditions of the Certificate of Designation creating the Series A-1 Preferred Stock, this stock is convertible by the holder at any time into our common stock, is non-voting, has an initial conversion price of $94.86 per common share, subject to adjustment, and is redeemable by us at its face amount ($31.6 million), plus any accrued and unpaid dividends, on or after September 24, 2013. The Certificate of Designation does not contemplate a sinking fund. The Series A-1 Preferred Stock ranks senior to our common stock. In a liquidation, dissolution, or winding up of the Company, the Series A-1 Preferred Stock s liquidation preference must be fully satisfied before any distribution could be made to the holders of the common stock. Other than in such a liquidation, no terms of the Series A-1 Preferred Stock affect our ability to declare or pay dividends on our common stock as long as the Series A-1 Preferred Stock s dividends are accruing. The liquidation value of this Series A-1 Preferred stock is equal to $1,000 per share outstanding plus any accrued unpaid dividends. Dividends in arrears with respect to the Series A-1 Preferred Stock were approximately $595,000 or $18.82 per share, at December 31, 2015, and dividends in arrears with respect to the Series A Preferred Stock were approximately $392,000, or $12.40 per share, at December 31, 2014. 
+
+In September 2007, we issued 270,562 shares of our common stock at a price of $18.48 per share to a single institutional investor. In conjunction with this transaction, we also issued to the investor 10,000 shares of our new series B1 convertible preferred stock and 5,250 shares of our new series B2 convertible preferred stock. All shares of the series B1 convertible preferred stock have been converted. Shares of the series B2 convertible preferred stock permit the investor to purchase common shares for consideration of up to 35% of the total dollar amount previously invested pursuant to the agreement with the investor, including conversions of the series B1 convertible preferred stock, at a purchase price equal to the lesser of $24.96 per common share or a price calculated based on the then-prevailing price of our common stock, with such right expiring seven years from the date of issuance. In April 2009, we issued 988,202 shares of our common stock upon conversion of 2,145 shares of our series B2 convertible preferred stock via cashless conversions. Upon completion of the conversions, 3,105 shares of our series B2 convertible preferred stock were still outstanding although no further shares could be converted into shares of common stock (other than in the event of a change of control) as the maximum number of shares (as defined in the agreement) had been issued. The total number of shares of common stock issued or issuable to the holder of the class B convertible preferred stock cannot exceed 19.9% of our outstanding common stock. No dividends are paid on the class B convertible preferred stock and there are no liquidation preferences. On September 7, 2014, all 3,105 shares of our issued and outstanding Series B2 Convertible Preferred Stock remained unconverted and were canceled and extinguished in accordance with the Certificate of Designation. 
+
+In January 2008, we entered into a private placement agreement (the  January 2008 private placement ) pursuant to which we sold 1,451,450 shares of common stock for $18.00 for each share sold. Investors also received (i) 10-year warrants to purchase, at an exercise price of $18.00 per share, up to 1,451,450 shares of common stock and (ii) unit warrants to purchase, at an exercise price of $18.00 per unit, contingent upon a triggering event as defined in the January 2008 private placement documents, (a) up to 1,451,450 shares of common stock and (b) additional 10-year warrants to purchase, at an exercise price of $18.00 per share, up to 1,451,450 additional shares of common stock. In accordance with the terms of the January 2008 private placement, the 10-year warrants became exercisable for a period of 9.5 years as of July 9, 2008. Our private placement in April 2008 qualified as a triggering event, and therefore the unit warrants became exercisable for a period of eighteen months as of July 9, 2008. The unit warrants expired unexercised in January 2010. In February 2008, we filed a registration statement covering the resale of the 1,451,450 shares of common stock issued and the 1,451,450 shares issuable upon the exercise of the 10-year warrants issued in the January 2008 private placement. The Securities and Exchange Commission (the  SEC ) declared the resale registration statement effective on February 14, 2008. In connection with the January 2008 private placement, of the 1,451,450 warrants issued, 284,785 of the warrants were issued to Garo Armen, our CEO. 
+
+23         
+
+In April 2008, we entered into a private placement agreement (the  April 2008 private placement ) under which we sold (i) 1,166,666 shares of common stock and (ii) five-year warrants to acquire up to 1,166,666 shares of common stock at an exercise price of $22.50 per share, for $18.00 for each share and warrant sold. The warrants became exercisable for a period of 4.5 years as of October 10, 2008. In April 2008, we filed a registration statement covering the resale of the 1,166,666 shares of common stock issued and the 1,166,666 shares issuable upon the exercise of the related warrants issued in the April 2008 private placement. The SEC declared the resale registration statement effective on May 7, 2008. These warrants expired unexercised in April 2013. 
+
+In July 2009, we entered into a private placement agreement under which we issued and sold (i) 833,333 shares of our common stock, (ii) six-month warrants to purchase up to 416,666 additional shares of common stock at an exercise price of $12.00 per share, and (iii) four-year warrants to purchase up to 362,316 additional shares of common stock at an exercise price of $13.80 per share, for $12.00 for each share sold generating gross proceeds of $10.0 million. Subsequently, we filed, and the SEC declared effective, a registration statement covering the resale of the 833,333 shares of common stock issued and the 778,982 shares issuable upon the exercise of the related warrants issued in this private placement. The six-month and four-year warrants expired unexercised in January 2010 and October 2013, respectively. 
+
+In August 2009, we entered into a private placement agreement under which we issued and sold (i) 730,994 shares of our common stock, (ii) six-month warrants to purchase up to 365,495 additional shares of common stock at an exercise price of $13.86 per share, and (iii) four-year warrants to purchase up to 328,946 additional shares of common stock at an exercise price of $15.00 per share, for $13.68 for each share sold generating gross proceeds of $10.0 million. The warrants were not exercisable for the first six months following the closing, which occurred on August 4, 2009. Subsequently, we filed, and the SEC declared effective, a registration statement covering the resale of the 730,994 shares of our common stock issued and the 694,441 shares issuable upon the exercise of the related warrants issued in this private placement. The six-month warrants expired unexercised in July 2010. 
+
+As part of all private placement agreements, we agreed to register the shares of common stock and the shares of common stock underlying the warrants (with the exception of the unit warrants from the January 2008 private placement) issued to the investors with the SEC within contractually specified time periods. As noted above, we filed registration statements covering all required shares. 
+
+During 2012, we terminated our then existing At Market Issuance Sales Agreement (the  Old ATM Program ) and entered into a new At Market Issuance Sales Agreement with MLV   Co. LLC, ( MLV ) as sales agent, under which we may sell from time to time up to five million shares of our common stock (the  2012 ATM Program ). In December 2012, we entered into an Amended and Restated At Market Sales Issuance Agreement with MLV to increase the number of shares of common stock available for offer and sale under the 2012 ATM Program to an aggregate of ten million shares. 
+
+During the years ended December 31, 2014 and 2013, we sold an aggregate of 215,000 and 4.8 million shares of our common stock in at the market offerings under the 2012 ATM Program and received net proceeds of $601,000 and $17.0 million, respectively, after deducting offering costs of approximately $20,000 and $499,000, respectively. These offerings were made under effective shelf registration statements and proceeds from the offerings were used for general corporate purposes. 
+
+During September 2013, we sold approximately 3,333,000 shares of our common stock and warrants to purchase 1,000,000 shares of our common stock in a registered direct public offering raising net proceeds of approximately $9.5 million, after deducting offering expenses. The common stock and warrants were sold in units, with each unit consisting of one share of common stock and a warrant to purchase 0.3 of a share of common stock. Subject to certain ownership limitations, the warrants will become exercisable beginning 6 months following issuance and will expire five years from the date they become exercisable, at an exercise price of $3.75 per share. The number of shares issuable upon exercise of the warrants and the exercise price of the warrants are adjustable in the event of stock splits, stock dividends, combinations of shares and similar recapitalization transactions. 
+
+In February 2014, we issued and sold 22,236,000 shares of our common stock in a public underwritten offering. Net proceeds after deducting offering expenses were approximately $56.0 million. This offering was made under an effective shelf registration statement and proceeds from the offering are being used for general corporate purposes. 
+
+24         
+
+In February 2014, our Board of Directors retired 43,490 shares of our treasury stock then outstanding and returned those shares to authorized and unissued shares of our common stock. 
+
+In October 2014, we filed a Registration Statement on Form S-3, declared effective by the SEC on October 23, 2014 (the  2014 Registration Statement ), covering the offering of up to $150.0 million of common stock, preferred stock, warrants, debt securities and units. The 2014 Registration Statement included a prospectus covering the offering, issuance and sale of up to 10 million shares of our common stock from time to time in  at the market offerings  pursuant to an At Market Sales Issuance Agreement entered into with MLV on October 10, 2014. On October 10, 2014, we exercised our right under 2012 ATM Program to terminate the 2012 ATM Program upon effectiveness of the 2014 Registration Statement. 
+
+On January 9, 2015, in connection with the execution of the Collaboration Agreement, we also entered into the Stock Purchase Agreement     (the  Stock Purchase Agreement )   with Incyte Corporation, pursuant to which Incyte purchased approximately 7.76 million shares of our common stock (the  Shares ) in February 2015 for an aggregate purchase price of $35.0 million, or approximately $4.51 per share. Under the Stock Purchase Agreement, Incyte has agreed not to dispose of any of the Shares for a period of 12 months and we agreed to register the Shares for resale under the Securities Act of 1933, as amended (the "Securities Act"). 
+
+In connection with the January 2015 achievement of the first contingent milestone, pursuant to the 4-AB Share Exchange Agreement, we issued a total of 80,493 shares of our common stock valued at approximately $345,000 as payment of a portion of our obligation. 
+
+In May 2015, we issued and sold 12,650,000 shares of our common stock in an underwritten public offering. Net proceeds after deducting offering expenses were approximately $75.0 million. 
+
+In September 2015, in accordance with the terms of the Assignment and Termination Agreement detailed in Note 16, we issued 300,000 shares of our common stock to Ingalls valued at $2.1 million. 
+
+(11) Share-based Compensation Plans 
+
+Our 1999 Equity Incentive Plan, as amended (the  1999 EIP ) authorized awards of incentive stock options within the meaning of Section 422 of the Internal Revenue Code (the  Code ), non-qualified stock options, nonvested (restricted) stock, and unrestricted stock for up to 2.0 million shares of common stock (subject to adjustment for stock splits and similar capital changes and exclusive of options exchanged at the consummation of mergers) to employees and, in the case of non-qualified stock options, nonvested (restricted) stock, and unrestricted stock, to consultants and directors as defined in the 1999 EIP. The plan terminated on November 15, 2009. On March 12, 2009, our Board of Directors adopted, and on June 10, 2009, our stockholders approved, our 2009 Equity Incentive Plan (the  2009 EIP ). The 2009 EIP, as amended, provides for the grant of incentive stock options intended to qualify under Section 422 of the Code, nonstatutory stock options, restricted stock, unrestricted stock and other equity-based awards, such as stock appreciation rights, phantom stock awards, and restricted stock units, which we refer to collectively as Awards, for up to 14.2 million shares of our common stock (subject to adjustment in the event of stock splits and other similar events). The Board of Directors appointed the Compensation Committee to administer the 1999 EIP and the 2009 EIP. No awards will be granted under the 2009 EIP after June 10, 2019. 
+
+On March 12, 2009, our Board of Directors adopted, and on June 10, 2009, our stockholders approved, the 2009 Employee Stock Purchase Plan (the  2009 ESPP ) to provide eligible employees the opportunity to acquire our common stock in a program designed to comply with Section 423 of the Code. There are currently 166,666 shares of common stock reserved for issuance under the 2009 ESPP. Rights to purchase common stock under the 2009 ESPP are granted at the discretion of the Compensation Committee, which determines the frequency and duration of individual offerings under the plan and the dates when stock may be purchased. Eligible employees participate voluntarily and may withdraw from any offering at any time before the stock is purchased. Participation terminates automatically upon termination of employment. The purchase price per share of common stock in an offering is 85% of the lesser of its fair value at the beginning of the offering period or on the applicable exercise date and may be paid through payroll deductions, periodic lump sum payments, the delivery of our common stock, or a combination thereof. Unless otherwise permitted by the Board of Directors, no participant may acquire more than 3,333 shares of stock in any offering period. No participant     
+
+25         
+
+is allowed to purchase shares under the 2009 ESPP if such employee would own or would be deemed to own stock possessing 5% or more of the total combined voting power or value of the Company. No offerings will be made under the 2009 ESPP after June 10, 2019. 
+
+Our Director s Deferred Compensation Plan, as amended, permits each outside director to defer all, or a portion of, their cash compensation until their service as a director ends or until a specified date into a cash account or a stock account. There are 325,000 shares of our common stock reserved for issuance under this plan. As of December 31, 2015, 48,971 shares had been issued. Amounts deferred to a cash account will earn interest at the rate paid on one-year Treasury bills with interest added to the account annually. Amounts deferred to a stock account will be converted on a quarterly basis into a number of units representing shares of our common stock equal to the amount of compensation which the participant has elected to defer to the stock account divided by the applicable price for our common stock. The applicable price for our common stock has been defined as the average of the closing price of our common stock for all trading days during the calendar quarter preceding the conversion date as reported by The Nasdaq Capital Market. Pursuant to this plan, a total of 227,063 units, each representing a share of our common stock at a weighted average common stock price of $5.68, had been credited to participants  stock accounts as of December 31, 2015. The compensation charges for this plan were immaterial for all periods presented. 
+
+On November 4, 2015, our Board of Directors adopted and approved our 2015 Inducement Equity Plan (the  2015 IEP ) in compliance with and in reliance on NASDAQ Listing Rule 5635(c)(4), which exempts inducement grants from the general requirement of the NASDAQ Listing Rules that equity-based compensation plans and arrangements be approved by stockholders. There are 1,500,000 shares of our common stock reserved for issuance under the 2015 IEP.   
+
+We use the Black-Scholes option pricing model to value options granted to employees and non-employees, as well as options granted to members of our Board of Directors. All stock option grants have 10-year terms and generally vest ratably over a 3 or 4-year period. The non-cash charge to operations for the non-employee options with vesting or other performance criteria is affected each reporting period, until the non-employee options vest, by changes in the fair value of our common stock. 
+
+The fair value of each option granted during the periods was estimated on the date of grant using the following weighted average assumptions: 
+
+Expected volatility is based exclusively on historical volatility data of our common stock. The expected term of stock options granted is based on historical data and other factors and represents the period of time that stock options are expected to be outstanding prior to exercise. The risk-free interest rate is based on U.S. Treasury strips with maturities that match the expected term on the date of grant. 
+
+26         
+
+A summary of option activity for 2015 is presented below: 
+
+The weighted average grant-date fair values of options granted during the years ended December 31, 2015, 2014, and 2013, was $3.55, $1.87, and $2.42, respectively. 
+
+The aggregate intrinsic value in the table above represents the difference between our closing stock price on the last trading day of fiscal 2015 and the exercise price, multiplied by the number of in-the-money options that would have been received by the option holders had all option holders exercised their options on December 31, 2015 (the intrinsic value is considered to be zero if the exercise price is greater than the closing stock price). This amount changes based on the fair market value of our stock. The total intrinsic value of options exercised during the years ended December 31, 2015, 2014, and 2013, determined on the dates of exercise, was $1.2 million, $45,000, and $5,000, respectively. 
+
+During 2015, 2014, and 2013, all options were granted with exercise prices equal to the market value of the underlying shares of common stock on the grant date other than awards dated February 14, 2014.  In February 2014, our Board of Directors approved awards subject to forfeiture in the event shareholder approval was not obtained to increase the shares available under our 2009 EIP.  This approval was obtained in April 2014. Accordingly, these awards have a grant date of April 2014 with an exercise price as of the date the Board of Director's approved the awards in February 2014. 
+
+As of December 31, 2015, there was $7.2 million of total unrecognized compensation cost related to stock options granted to employees and directors expected to be recognized over a weighted average period of 1.8 years. 
+
+As of December 31, 2015, unrecognized expense for options granted to outside advisors for which performance (vesting) has not yet been completed but the exercise price of the option was known was $619,000. Such amount is subject to change each reporting period based upon changes in the fair value of our common stock, expected volatility, and the risk-free interest rate, until the outside advisor completes his or her performance under the option agreement. 
+
+Certain employees and consultants have been granted nonvested stock. The fair value of nonvested stock is calculated based on the closing sale price of our common stock on the date of issuance. 
+
+27         
+
+A summary of nonvested stock activity for 2015 is presented below: 
+
+As of December 31, 2015, there was $14.1 million of unrecognized share-based compensation expense related to these nonvested shares which pertained primarily to performance based awards for which, if all milestones are achieved, will be recognized over a period of 3 years. The total intrinsic value of shares vested during the years ended December 31, 2015, 2014, and 2013, was $140,000, $205,000, and $1.6 million, respectively. 
+
+Cash received from option exercises and purchases under our 2009 ESPP for the years ended December 31, 2015, 2014, and 2013, was $2.0 million, $252,000, and $104,000, respectively. We issue new shares upon option exercises, purchases under our 2009 ESPP, vesting of nonvested stock, and under the Director s Deferred Compensation Plan. During the years ended December 31, 2015, 2014, and 2013, 63,539 shares, 46,025 shares, and 26,738 shares, were issued under the 2009 ESPP, respectively. During the years ended December 31, 2015, 2014, and 2013, 35,332 shares, 48,239 shares and 339,800 shares, respectively, were issued as a result of the vesting of nonvested stock. 
+
+The impact on our results of operations from share-based compensation for the years ended December 31, 2015, 2014, and 2013, was as follows (in thousands). 
+
+(12) License, Research, and Other Agreements 
+
+In May 2001, we entered into a license agreement with the University of Connecticut Health Center ( UConn ) which was amended in March 2003 and June 2009.  Through the license agreement, we obtained an exclusive license to patent rights resulting from inventions discovered under a research agreement that was effective from February 1998 until December 2006. The term of the license agreement ends when the last of the licensed patents expires (2024) or becomes no longer valid. UConn may terminate the agreement: (1) if, after 30 days written notice for breach, we continue to fail to make any payments due under the license agreement, or (2) we cease to carry on our business related to the patent rights or if we initiate or conduct actions in order to declare bankruptcy. We may terminate the agreement upon 90 days written notice. We are still required to make royalty payments on any obligations created prior to the effective date of termination of the license agreement. Upon expiration or termination of the license agreement due to breach, we have the right to continue to manufacture and sell products covered under the license agreement which are considered to be works in progress for a period of 6 months.  The license agreement contains aggregate milestone payments of $1.2 million for each product we develop covered by the licensed patent rights. These milestone payments are contingent upon regulatory filings, regulatory approvals and commercial sales of products. We have also agreed to pay UConn a royalty on the net sales of products covered by the license agreement as well as annual license maintenance fees beginning in May 2006. Royalties otherwise due on the net sales of products covered by the license agreement may be credited against the annual license maintenance fee obligations. As of December 31, 2015, we had paid $745,000   to UConn under the license agreement. The license agreement gives us complete discretion over the commercialization of products covered by the licensed patent rights, but also requires us to use commercially reasonable diligent efforts to introduce commercial products within and outside the United States. If we fail to meet these diligence requirements, UConn may be able to terminate the license agreement. 
+
+28         
+
+In March 2003, we entered into an amendment agreement that amended certain provisions of the license agreement with UConn. The amendment agreement granted us a license to additional patent rights. In consideration for execution of the amendment agreement, we agreed to pay UConn an upfront payment and to make future payments for licensed patents or patent applications. Through December 31, 2015, we have paid approximately $100,000 to UConn under the license agreement, as amended. 
+
+On December 5, 2014, 4-AB, entered into a license agreement with the Ludwig Institute for Cancer Research Ltd., or Ludwig, which replaced and superseded a prior agreement entered into between the parties in May 2011. Pursuant to the terms of the license agreement, Ludwig granted 4-AB an exclusive, worldwide license under certain intellectual property rights of Ludwig and Memorial Sloan Kettering Cancer Center arising from the prior agreement to further develop and commercialize GITR, OX40 and TIM-3 antibodies. On January 25, 2016, we and 4-AB entered into a second license agreement with Ludwig, on substantially similar terms, to develop CTLA-4 and PD-1 antibodies. Pursuant to the December 2014 license agreement, 4-AB made an upfront payment of $1.0 million to Ludwig. The December 2014 license agreement also obligates 4-AB to make potential milestone payments of up to $20.0 million for events prior to regulatory approval of licensed GITR, OX40 and TIM-3 products, and potential milestone payments in excess of $80.0 million if such licensed products are approved in multiple jurisdictions, in more than one indication, and certain sales milestones are achieved. Under the January 2016 license agreement, we are obligated to make potential milestone payments of up to $12.0 million for events prior to regulatory approval of CTLA-4 and PD-1 licensed products, and potential milestone payments of up to $32.0 million if certain sales milestones are achieved.  Under each of these license agreements, we and/or 4-AB will also be obligated to pay low to mid-single digit royalties on all net sales of licensed products during the royalty period, and to pay Ludwig a percentage of any sublicensing income, ranging from a low to mid-double digit percentage depending on various factors. The license agreements may each be terminated as follows: (i) by either party if the other party commits a material, uncured breach; (ii) by either party if the other party initiates bankruptcy, liquidation or similar proceedings; or (iii) by 4-AB or us (as applicable) for convenience upon 90 days  prior written notice. The license agreements also contain customary representations and warranties, mutual indemnification, confidentiality and arbitration provisions. 
+
+In connection with the December 2015 acquisition of PhosImmune, we obtained exclusive rights to a portfolio of patent applications and one issued patent relating to phosphopeptide tumor targets (PTTs) under a patent license agreement with the University of Virginia (UVA). The UVA license gives us exclusive rights to develop and commercialize the PTT technology and an exclusive option to license any further PTT technology arising from ongoing research at UVA until December 2018. Under the license agreement, we will pay low to mid-single digit running royalties on net sales of PTT products, and a modest flat percentage of sublicensing income. In addition, we may be obligated to make milestone payments of up to $2.7 million for each indication of a licensed PTT product to complete clinical trials and achieve certain sales thresholds. If we fail to meet certain diligence milestones, we may also be required to pay penalties in excess of $150,000. The term of the UVA license agreement ends when the last of the licensed patents expires or becomes no longer valid. The term of the UVA license agreement ends when the last of the licensed patents expires or becomes no longer valid. The UVA license agreement may be terminated as follows: (i) by UVA in connection with our bankruptcy or cessation of business relating to the licensed technology, (ii) by UVA if we commit a material, uncured breach or (iii) by us for our convenience on 180 days written notice. 
+
+We have entered into various agreements with contract manufacturers, institutions, and clinical research organizations (collectively "third party providers") to perform pre-clinical activities and to conduct and monitor our clinical studies. Under these agreements, subject to the enrollment of patients and performance by the applicable third party provider, we have estimated our total payments to be $78.0 million over the term of the studies. For the years ended December 31, 2015, 2014, and 2013, $19.9 million, $895,000, and $2.7 million, respectively, have been expensed in the accompanying consolidated statements of operations related to these third party providers. Through December 31, 2015, we have expensed $71.3 million as research and development expenses and $65.0 million of this estimate has been paid. The timing of expense recognition and future payments related to these agreements is subject to the enrollment of patients and performance by the applicable third party provider.  
+
+We have various comprehensive agreements with collaborative partners that allow for the use of QS-21 Stimulon, an investigational adjuvant used in numerous vaccines under development for a variety of diseases including, but not limited to, hepatitis, HIV, influenza, cancer, Alzheimer s disease, malaria, and tuberculosis. These agreements grant exclusive worldwide rights in some fields of use, and co-exclusive or non-exclusive rights in others. The agreements call for royalties to be paid to us by the collaborative partner on the future sales of licensed vaccines that include QS-21 Stimulon. 
+
+In July 2006, we entered into a license agreement and a supply agreement with GlaxoSmithKline ( GSK ) for the use of QS-21 Stimulon (the  GSK License Agreement  and the  GSK Supply Agreement , respectively). In January 2009, we entered into an Amended and Restated Manufacturing Technology Transfer and Supply Agreement (the  Amended GSK Supply Agreement ) under which GSK has the right to manufacture all of its requirements of commercial grade QS-21 Stimulon. GSK is obligated to supply us (or our affiliates, licensees, or customers) certain quantities of commercial grade QS-21 Stimulon for a stated period of time. In March 2012 we entered into a First Right to Negotiate and Amendment Agreement amending the GSK License Agreement and the Amended     
+
+29         
+
+GSK Supply Agreement to clarify and include additional rights for the use of QS-21 Stimulon (the  GSK First Right to Negotiate Agreement ).  In addition, we granted GSK the first right to negotiate for the purchase of the Company or certain of our assets. The first right to negotiate will expire after five years. As consideration for entering into the GSK First Right to Negotiate Agreement, GSK paid us an upfront, non-refundable payment of $9.0 million, $2.5 million of which is creditable toward future royalty payments. We sometimes refer to the GSK License Agreement, the Amended GSK Supply Agreement and the GSK First Right to Negotiate Agreement, the  GSK Agreements . As of December 31, 2015, we had received $23.3 million of a potential $24.3 million in upfront and milestone payments related to the GSK Agreements. We are generally entitled to receive 2% royalties on net sales of prophylactic vaccines for a period of 10 years after the first commercial sale of a resulting GSK product, with some exceptions. The GSK License and Amended GSK Supply Agreements may be terminated by either party upon a material breach if the breach is not cured within the time specified in the respective agreement. The termination or expiration of the GSK License Agreement does not relieve either party from any obligation which accrued prior to the termination or expiration. Among other provisions, the milestone payment obligations survive termination or expiration of the GSK Agreements for any reason, and the license rights granted to GSK survive expiration of the GSK License Agreement. The license rights and payment obligations of GSK under the Amended GSK Supply Agreement survive termination or expiration, except that GSK's license rights and future royalty obligations do not survive if we terminate due to GSK's material breach unless we elect otherwise. 
+
+For the years ended December 31, 2014, and 2013, we recognized revenue of $3.3 million, and $1.3 million, respectively, related to payments received under our GSK License and Amended GSK Supply Agreements.  For the year ended December 31, 2015, no revenue was recognized under our GSK License and Amended GSK Supply Agreements. Deferred revenue of $2.5 million related to the GSK Agreements is included in deferred revenue on our consolidated balance sheet as of December 31, 2015. 
+
+(13) Collaboration Agreement 
+
+Incyte Corporation- 
+
+On January 9, 2015 and effective February 19, 2015, we entered into a global license, development and commercialization agreement (the  Collaboration Agreement ) with Incyte Corporation pursuant to which the parties plan to develop and commercialize novel immuno-therapeutics using our antibody discovery platforms. The Collaboration Agreement was initially focused on four checkpoint modulator programs directed at GITR, OX40, LAG-3 and TIM-3. In addition to the four identified antibody programs, the parties have an option to jointly nominate and pursue the development and commercialization of antibodies against additional targets during a five year discovery period which, upon mutual agreement of the parties for no additional consideration, can be extended for an additional three years. In November 2015, we and Incyte jointly nominated and agreed to pursue the development and commercialization of three additional undisclosed CPM targets. 
+
+On January 9, 2015 we also entered into the Stock Purchase Agreement with Incyte Corporation whereby, for an aggregate purchase price of $35.0 million, Incyte purchased approximately 7.76 million shares of our common stock; see Note 10 for more details. 
+
+Agreement Structure 
+
+Under the terms of the Collaboration Agreement, we received non-creditable, nonrefundable upfront payments totaling $25.0 million.  In addition, the parties will share all costs and profits for the GITR, OX40 and two of the additional antibody programs on a 50:50 basis (profit-share products), and we are eligible to receive up to $20.0 million in future contingent development milestones under these programs.  Incyte is obligated to reimburse us for all development costs that we incur in connection with the TIM-3, LAG-3 and one of the additional antibody programs (royalty-bearing products) and we are eligible to receive (i) up to $155.0 million in future contingent development, regulatory, and commercialization milestone payments and (ii) tiered royalties on global net sales at rates generally ranging from 6% to 12%. For each royalty-bearing product, we will also have the right to elect to co-fund 30% of development costs incurred following initiation of pivotal clinical trials in return for an increase in royalty rates. Additionally, we retain co-promotion participation rights in the United States on any profit-share product. Through the direction of a joint steering committee, the parties anticipate that, for each program, we will serve as the lead for pre-clinical development activities through investigational new drug application filing, and Incyte will serve as the lead for clinical development activities. The parties expect to initiate the first clinical trials of antibodies arising from these programs in 2016.  For each additional program beyond GITR, OX40, TIM-3 and LAG-3 that the parties elect to bring into the collaboration, we will have the option to designate it as a profit-share product or a royalty-bearing product.  
+
+30         
+
+The Collaboration Agreement will continue as long as (i) any product is being developed or commercialized or (ii) the discovery period remains in effect. After the first anniversary of the effective date of the Collaboration Agreement, Incyte may terminate the Collaboration Agreement or any individual program for convenience upon 12 months  notice. The Collaboration Agreement may also be terminated by either party upon the occurrence of an uncured material breach of the other party or by us if Incyte challenges patent rights controlled by us. In addition, either party may terminate the Collaboration Agreement as to any program if the other party is acquired and the acquiring party controls a competing program. 
+
+Collaboration Revenue 
+
+For the year ended December 31, 2015 we recognized revenue of approximately $23.5 million under the Collaboration Agreement, of which, $9.1 million is related to the amortization of the $25.0 million non-creditable, nonrefundable upfront payment.  No revenue was recognized under the Collaboration Agreement for the years ended December 31, 2014 and 2013. As of December 31, 2015, we had deferred revenue remaining under the Collaboration Agreement of approximately $15.8 million, of which approximately $3.6 million and $12.2 million are classified as current and long-term, respectively, on our consolidated balance sheet. 
+
+(14) Certain Related Party Transactions 
+
+Effective February 12, 2014, in connection with our acquisition of the capital stock of 4-Antibody and pursuant to the Share Exchange Agreement, our Board of Directors elected Shahzad Malik, M.D. as a director. Dr. Malik is a General Partner of Advent Venture Partners LLP ( Advent ). Advent, through its affiliated entities, was 4-AB largest shareholder prior to the completion of the acquisition. Upon completion of the acquisition, Advent and its affiliates received 996,088 shares of our common stock, having a value of approximately $3.0 million.  In connection with the achievement of the first milestone in January 2015 under the Share Exchange Agreement, Advent and its affiliates received consideration of approximately $6.2 million. The above listed consideration was received by Advent and its affiliated entities, not Dr. Malik in his individual capacity. 
+
+In May 2015, we issued and sold 12,650,000 shares of our common stock in an underwritten public offering for net proceeds of approximately $75.0 million. Of the 12,650,000 shares of our common stock issued and sold, 1,587,302 of these shares of common stock were issued and sold to Advent. 
+
+(15) Leases 
+
+We lease manufacturing, research and development, and office facilities under various lease arrangements. Rent expense (before sublease income) was $2.3 million, $2.1 million, and $1.6 million, for the years ended December 31, 2015, 2014, and 2013, respectively. 
+
+We lease a facility in Lexington, Massachusetts for our manufacturing, research and development, and corporate offices.  During December 2012 we entered into a commercial lease for approximately 5,600 square feet of office space in New York, New York for use as corporate offices. Through our acquisition of 4-AB, we lease facilities in Jena, Germany and Basel, Switzerland for 4-AB's manufacturing, research and development and corporate offices. 
+
+In December 2015, in connection with the XOMA antibody manufacturing facility asset acquisition, we executed lease agreements in Berkeley, California for manufacturing and corporate offices. In December 2015, we additionally executed a lease for research and development, and corporate offices in Cambridge, United Kingdom. 
+
+31         
+
+The future minimum rental payments under our lease agreements, which expire at various times between 2016 and 2023, are as follows (in thousands). 
+
+In connection with the Lexington facility, we maintain a fully collateralized letter of credit of $1.0 million. No amounts had been drawn on the letter of credit as of December 31, 2015. In addition, for our properties, we are required to have an aggregate deposit of $270,000 with the landlords as interest-bearing security deposits pursuant to our obligation under the leases. 
+
+We sublet a portion of our facilities and received rental payments of $780,000, $365,000, and $481,000 for the years ended December 31, 2015, 2014, and 2013, respectively. We are contractually entitled to receive rental payments of $644,000 in 2016. 
+
+(16) Debt 
+
+Debt obligations consisted of the following as of December 31, 2015 and 2014 (in thousands): 
+
+Subordinated Notes 
+
+On February 20, 2015, we, certain existing investors and certain additional investors entered into an Amended and Restated Note Purchase Agreement, pursuant to which we (i) canceled our senior subordinated promissory notes issued in April 2013 (the  2013 Notes ) in exchange for new senior subordinated promissory notes (the  2015 Subordinated Notes ) in the aggregate principal     
+
+32         
+
+amount of $5.0 million, (ii) issued additional 2015 Subordinated Notes in the aggregate principal amount of $9.0 million and (iii) issued five year warrants to purchase 1,400,000 shares of our common stock at an exercise price of $5.10 per share. 
+
+The 2015 Subordinated Notes bear interest at a rate of 8% per annum, payable in cash on the first day of each month in arrears. Among other default and acceleration terms customary for indebtedness of this type, the 2015 Subordinated Notes include default provisions which allow for the noteholders to accelerate the principal payment of the 2015 Subordinated Notes in the event we become involved in certain bankruptcy proceedings, become insolvent, fail to make a payment of principal or (after a grace period) interest on the 2015 Subordinated Notes, default on other indebtedness with an aggregate principal balance of $13.5 million or more if such default has the effect of accelerating the maturity of such indebtedness, or become subject to a legal judgment or similar order for the payment of money in an amount greater than $13.5 million if such amount will not be covered by third-party insurance. The 2015 Subordinated Notes are not convertible into shares of our common stock and will mature on February 20, 2018, at which point we must repay the outstanding balance in cash. The Company may prepay the 2015 Subordinated Notes at any time, in part or in full, without premium or penalty. 
+
+The exchange of the 2013 Notes for the 2015 Subordinated Notes was accounted for as a debt extinguishment under the guidance of ASC 470   Debt  . For the year ended December 31, 2015 we recorded a loss on debt extinguishment of approximately $154,000 in non-operating (expense) income in our consolidated statements of operations and comprehensive loss. The debt discount of approximately $3.0 million, which relates to the warrants issued in connection with the 2015 Subordinated Notes, is being amortized using the effective interest method over three years, the expected life of the 2015 Subordinated Notes. 
+
+Note Purchase Agreement Related to Future Royalties 
+
+On September 4, 2015, we and our wholly-owned subsidiaries, Antigenics LLC ( Antigenics ) and Aronex Pharmaceuticals, Inc. ( Aronex ), entered into a Note Purchase Agreement (the  NPA ) with Oberland Capital SA Zermatt LLC, as collateral agent ( Oberland ), an affiliate of Oberland as the lead purchaser and other purchasers. Pursuant to the terms of the NPA, on September 8, 2015 (the  Closing Date ), Antigenics issued $100.0 million aggregate principal amount of limited recourse notes (the  Notes ) to the purchasers. Antigenics has the option to issue an additional $15.0 million aggregate principal amount of Notes (the  Additional Notes ) to the purchasers within 15 days after approval of GSK s shingles vaccine, HZ/su, by the Food and Drug Administration, provided such approval occurs on or before June 30, 2018. 
+
+The Notes accrue interest at a rate of 13.5% per annum, compounded quarterly, from and after the Closing Date computed on the basis of a 360-day year and the actual number of days elapsed. Principal and interest payments are due on each of March 15, June 15, September 15 and December 15, and shall be made solely from the royalties paid from GSK to Antigenics on sales of GSK s shingles and malaria vaccines. The Notes are limited recourse and secured solely by a first priority security interest in the royalties and accounts and payment intangibles relating thereto plus various rights of Antigenics related to the royalties under its contracts with GSK (the  Collateral ). GSK will send all royalty payments to a segregated bank account, and to the extent there are insufficient royalties deposited into the account to fund a quarterly interest payment, the interest will be capitalized and added to the aggregate principal balance of the loan. As of December 31, 2015 we have capitalized $4.3 million. The final legal maturity date of the Notes is the earlier of (i) the 10th anniversary of the first commercial sale of GSK s shingles or malaria vaccines and (ii) September 8, 2030 (the  Maturity Date ). Antigenics  obligation to repay all principal and accrued and unpaid interest by the Maturity Date is secured only by the Collateral. 
+
+At our option, we may redeem all, but not less than all, of the Notes at any time prior to the Maturity Date. The redemption price is equal to the outstanding principal amount of the Notes, plus all accrued and unpaid interest thereon, plus a premium payment that would yield an aggregate internal rate of return ( IRR ) for the purchasers as follows: (i) an IRR of 20% if the redemption occurs within 24 months of the Closing Date, (ii) an IRR of 17.5% if the redemption occurs after 24 months but within 48 months of the Closing Date, and (iii) an IRR of 15% if the redemption occurs more than 48 months after the Closing Date (the  Redemption Payment ). 
+
+33         
+
+On September 8, 2018, each purchaser has the option to require Antigenics to repurchase up to 15% of the Notes issued to such purchaser on the Closing Date (the  Put Notes ) at a purchase price equal to the principal amount thereof plus accrued and unpaid interest thereon (the  Put Payment ). Antigenics is required to complete any such repurchase within 90 days after September 8, 2018. 
+
+On the earlier of (i) September 8, 2027 and (ii) the Maturity Date, Antigenics is required to pay the purchasers an amount equal to the following (the  Make-Whole Payment ): $100.0 million (or $115.0 million if the Additional Notes are sold) minus the aggregate amount of all payments made in respect of the Notes (regardless of whether characterized as principal or interest at the time of payment), including the original principal amount of any repaid Put Notes. 
+
+The NPA specifies a number of events of default (some of which are subject to applicable cure periods), including (i) failure to cause royalty payments to be deposited into the segregated bank account, (ii) payment defaults, (iii) breaches of representations and warranties made at the time the Notes were issued, (iv) covenant defaults, (v) a final and unappealable judgment against Antigenics for the payment of money in excess of $1.0 million, (vi) bankruptcy or insolvency defaults, (vii) the failure to maintain a first-priority perfected security interest in the Collateral in favor of the collateral agent and (viii) the occurrence of a change of control of Agenus. Upon the occurrence of an event of default, subject to cure periods in certain circumstance and some limited exceptions, Oberland may declare the Notes immediately due and payable, in which case Antigenics would owe a payment equal to the Redemption Payment (the  Accelerated Default Payment ). Upon the occurrence and during the continuance of any event of default, interest on the Notes also increases by 2.5% per annum. 
+
+Agenus and Aronex (together, the  Guarantors ), are parties to the NPA as guarantors of certain of Antigenics  obligations under the NPA. The Guarantors generally guarantee the Put Payment, the Make-Whole Payment, the Redemption Payment and the Accelerated Default Payment. 
+
+In accordance with the guidance of ASC 470   Debt  , we determined the NPA represents a debt transaction and does not purport to be a sale; the balance of the outstanding notes and interest will be repaid over the estimated term of the NPA. 
+
+We will periodically assess the expected royalties using a combination of historical results, internal projections and forecasts from external sources. To the extent such payments are greater or less than our initial estimates or the timing of such payments is materially different than our original estimates, we will prospectively adjust the estimated time period over which the debt and interest will be repaid. There are a number of factors that could materially affect the amount and timing of royalty payments from GSK, all of which are not within our control. Such factors include, but are not limited to, changing standards of care, the introduction of competing products, manufacturing or other delays, biosimilar competition, patent protection, adverse events that result in governmental health authority imposed restrictions on the use of the drug products, significant changes in foreign exchange rates, and other events or circumstances that could result in reduced royalty payments from GSK, all of which would result in a reduction of royalty revenues and the interest expense over the life of the NPA. 
+
+As royalties are remitted to the purchasers, we will record non-cash royalty revenues and non-cash interest expense within our consolidated statements of operations and comprehensive loss over the term of the NPA as interest accrues and royalties are generated. We did not recognize any royalty revenue and recorded $4.3 million in non-cash interest expense for the year ended December 31, 2015 within our consolidated statement of operations and comprehensive loss. 
+
+In connection with the execution of the NPA, we reimbursed the purchasers for legal fees of $250,000 and incurred debt issuance costs of approximately $1.5 million. Under the relevant accounting guidance, legal fees and debt issuance costs have been recorded as a reduction to the gross proceeds. These amounts are being amortized over 12 years, the expected term of the Notes, using the effective interest rate method. 
+
+Other 
+
+In April 2015, we made our final payment under our $5.0 million Loan and Security Agreement with Silicon Valley Bank (the  SVB Loan ) in accordance with the terms of the SVB Loan. We have no further outstanding indebtedness or obligations under the SVB Loan. 
+
+34         
+
+At December 31, 2015, approximately $146,000 of debentures we assumed in our merger with Aquila Biopharmaceuticals are outstanding. These debentures carry interest at 7% and are callable by the holders. Accordingly they are classified as part of our long-term debt. 
+
+Revenue Interest Assignment Termination 
+
+On April 15, 2013, we and Antigenics entered into a Revenue Interests Assignment Agreement (the  Original Agreement ) with Ingalls   Snyder Value Partners, L.P. and Arthur Koenig (together,  Ingalls ), pursuant to which we and Antigenics sold to Ingalls 20% of all the royalties Antigenics was entitled to receive from GSK and Janssen Sciences Ireland Uc on products associated with Agenus s QS-21 Stimulon (collectively, the  Assigned Interests ). 
+
+On September 4, 2015, we and Antigenics entered into a Revenue Interest Assignment and Termination Agreement (the  Assignment and Termination Agreement ) with Ingalls, pursuant to which we terminated the Original Agreement and repurchased the Assigned Interests in exchange for (i) $20.0 million in cash and (ii) 300,000 shares of Agenus common stock for total consideration of approximately $22.1 million. The closing under the Assignment and Termination Agreement took place on September 8, 2015 immediately prior to the closing under the NPA.  Effective September 8, 2015, we have no further obligations under the Original Agreement. 
+
+For the year ended December 31, 2015 we recorded a fair value adjustment of approximately $6.9 million recorded within non-operating (expense) income in our consolidated statement of operations and comprehensive loss. 
+
+(17) Fair Value Measurements 
+
+We measure our cash equivalents and short-term investments, contingent purchase price considerations and in the past, our contingent royalty obligation, at fair value.  Our cash equivalents and short-term investments are comprised solely of U.S. Treasury Bills that are valued using quoted market prices with no valuation adjustments applied.  Accordingly, these securities are categorized as Level 1 assets. 
+
+We measure our contingent purchase price consideration at fair value. The fair values of our 4-AB and PhosImmune contingent purchase price consideration, $3.1 million and $2.5 million, respectively, are based on significant inputs not observable in the market, which require them to be reported as Level 3 liabilities within the fair value hierarchy. The valuation of the liabilities uses assumptions we believe would be made by a market participant. The fair value of our 4-AB and PhosImmune contingent purchase price consideration is based on estimates from a Monte Carlo simulation of our market capitalization and share price, respectively, and other factors impacting the probability of triggering the milestone payments. Market capitalization and share price were evolved using a geometric brownian motion, calculated daily for the life of the contingent purchase price consideration.  
+
+We completed the valuation analysis for the contingent royalty obligation using discounted cash flow based on the sum of the economic income that an asset is anticipated to produce in the future. In this case, that asset was the potential royalty income to be paid to us as a result of certain license agreements for QS-21 Stimulon. The fair value of the contingent royalty obligation was estimated by applying a risk adjusted discount rate (10.2%) to the probability adjusted royalty revenue stream based on expected approval dates. These fair value estimates were most sensitive to changes in the probability of regulatory approvals. 
+
+35         
+
+Assets and liabilities measured at fair value are summarized below (in thousands): 
+
+The following table presents our liabilities measured at fair value using significant unobservable inputs (Level 3), as of December 3  1, 2015 (amounts in thousands): 
+
+The change in fair value of the contingent royalty obligation liability is included in non-operating (expense) income in our consolidated statement of operations and comprehensive loss for the year ended December 31, 2015. There were no changes in the valuation techniques during the period and there were no transfers into or out of Levels 1 and 2. 
+
+On January 23, 2015, we achieved the first contingent milestone pursuant to the terms of our Share Exchange Agreement dated January 10, 2014, by and among us, 4-AB, the former shareholders of 4-AB and Vischer AG, as Representative (the  Share Exchange Agreement ), and accordingly we paid $20.0 million. 
+
+As outlined in Note 16, we settled our contingent royalty obligation owed to Ingalls for consideration of $22.1 million as of the transaction date, which we concluded approximated its fair value. 
+
+36         
+
+The fair value of our outstanding debt balance at December 31, 2015 and 2014 was $115.9 million and $6.1 million, respectively, based on the Level 2 valuation hierarchy of the fair value measurements standard using a present value methodology which was derived by evaluating the nature and terms of each note and considering the prevailing economic and market conditions at the balance sheet date. The principal amount of our outstanding debt balance at December 31, 2015 and 2014 was $114.1 million and $6.3 million, respectively. 
+
+In connection with the acquisition of 4-AB, we assumed convertible notes which upon a change of control of 4-AB had the ability to convert into shares of our common stock. All of the convertible notes assumed in connection with the acquisition of 4-AB were converted into approximately 383,000 shares of our common stock on May 8, 2014. We elected to account for these convertible notes using fair value as a Level 1 liability. The fair value of our convertible notes on the date of settlement was approximately $954,000. 
+
+(18) Contingencies 
+
+We may currently be, or may become, a party to legal proceedings. While we currently believe that the ultimate outcome of any of these proceedings will not have a material adverse effect on our financial position, results of operations, or liquidity, litigation is subject to inherent uncertainty. Furthermore, litigation consumes both cash and management attention. 
+
+(19) Benefit Plans 
+
+We sponsor a defined contribution 401(k) savings plan for all eligible employees, as defined in the savings plan. Participants may contribute up to 60% of their compensation, as defined in the savings plan, with a maximum annual contribution of $18,000 for individuals under 50 years old and $24,000 for individuals 50 years old and older in 2015. Each participant is fully vested in his or her contributions and related earnings and losses. In 2015, we made discretionary contributions of $307,000; no discretionary contributions or expense was recorded for the years ended December 31, 2014 and 2013. For the year ended December 31, 2015, we expensed $307,000 related to the discretionary contribution.  No expense was recorded for the years ended December 31, 2014 and 2013. 
+
+We also have a multiple employer benefit plan that covers all of our international employees. The annual measurement date for this plan is December 31. Benefits are based upon years of service and compensation. We are required to recognize the funded status (the difference between the fair value of plan assets and the projected benefit obligations) of our multiple employer plan in our consolidated balance sheets which amounted to a liability of approximately $944,000 with a corresponding adjustment to accumulated other comprehensive loss, of $245,000 for the year ended December 31, 2015. During the year ended December 31, 2015 we contributed approximately $119,000 to our international benefit plan and we expect to contribute approximately $147,000 to that plan during 2016.  As of December 31, 2015, the benefits expected to be paid under this plan in the next five years and in the aggregate for the five years thereafter are as follows, $110,000 in 2016, $103,000 in 2017, $98,000 in 2018, $93,000 in 2019, $89,000 in 2020 and $407,000 for the years 2021-2025. 
+
+(20) Geographic Information 
+
+The following is geographical information regarding our revenues for the years ended December 31, 2015, 2014 and 2013 and our long-lived assets as of December 31, 2015 and 2014 (in thousands): 
+
+37         
+
+Revenue by geographic region is allocated based on the domicile of our respective business operations. 
+
+Long-lived assets include  Property, plant and equipment, net  and  Other long-term assets  from the consolidated balance sheets, by the geographic location where the asset resides. 
+
+(21) Quarterly Financial Data (Unaudited) 
+
+Net loss attributable to common stockholders per share is calculated independently for each of the quarters presented. Therefore, the sum of the quarterly net loss per share amounts will not necessarily equal the total for the full fiscal year. 
+
+38         
+
+</EX-99.1>
+

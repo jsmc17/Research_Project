@@ -1,0 +1,890 @@
+<Header>
+<FileStats>
+    <FileName>20160427_10-K-A_edgar_data_1326801_0001326801-16-000063_1.txt</FileName>
+    <GrossFileSize>852374</GrossFileSize>
+    <NetFileSize>125110</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>651498</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>35</N_Tables>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001326801-16-000063.hdr.sgml : 20160427
+<ACCEPTANCE-DATETIME>20160427164102
+ACCESSION NUMBER:		0001326801-16-000063
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20151231
+FILED AS OF DATE:		20160427
+DATE AS OF CHANGE:		20160427
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Facebook Inc
+		CENTRAL INDEX KEY:			0001326801
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				201665019
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35551
+		FILM NUMBER:		161595915
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1601 WILLOW ROAD
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+		BUSINESS PHONE:		650-618-7714
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 WILLOW ROAD
+		CITY:			MENLO PARK
+		STATE:			CA
+		ZIP:			94025
+
+</SEC-Header>
+</Header>
+
+ 0001326801-16-000063.txt : 20160427
+
+10-K/A
+ 1
+ a1231201510-ka.htm
+ 10-K/A
+
+10-K 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  __________________________ 
+  FORM 10-K/A 
+  Amendment No. 1 
+  __________________________ 
+  (Mark One) 
+   For the fiscal year ended December 31, 2015  
+  or 
+   For the transition period from            to 
+  Commission File Number: 001-35551 
+  __________________________ 
+  FACEBOOK, INC. 
+  (Exact name of registrant as specified in its charter) 
+  __________________________ 
+                 Delaware 
+    20-1665019 
+      (State or other jurisdiction of incorporation or organization) 
+    (I.R.S. Employer Identification Number) 
+
+1601 Willow Road, Menlo Park, California 94025 
+  (Address of principal executive offices and Zip Code) 
+  (650) 543-4800 
+  (Registrant's telephone number, including area code) 
+  __________________________ 
+  Securities registered pursuant to Section 12(b) of the Act: 
+                 Class A Common Stock, $0.000006 par value 
+    The NASDAQ Stock Market LLC 
+      (Title of each class) 
+    (Name of each exchange on which registered) 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+  None 
+  (Title of class) 
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes    x    No       
+  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes       No    x 
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (Exchange Act) during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes    x      No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes    x      No      
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (  229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.        
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+                     Large accelerated filer 
+    x 
+    Accelerated filer 
+      
+      Non-accelerated filer 
+           (Do not check if a smaller reporting company) 
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes           No     x 
+    
+  The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant as of   June 30, 2015  , the last business day of the registrant's most recently completed second fiscal quarter, was   $198 billion   based upon the closing price reported for such date on the NASDAQ Global Select Market.  
+    
+  On   January 25, 2016  , the registrant had   2,294,939,865   shares of Class A common stock and   551,340,611   shares of Class B common stock outstanding. 
+    
+  DOCUMENTS INCORPORATED BY REFERENCE 
+  None. 
+
+EXPLANATORY NOTE 
+    
+  This Amendment No. 1 on Form 10-K/A (Amendment No. 1) amends our Annual Report on Form 10-K for the fiscal year ended December 31, 2015 (Original Filing), filed with the U.S. Securities and Exchange Commission (SEC) on January 28, 2016 (Original Filing Date). The sole purpose of this Amendment No. 1 is to include the information required by Items 10 through 14 of Part III of Form 10-K. This information was previously omitted from the Original Filing in reliance on General Instruction G(3) to Form 10-K, which permits the information in the above referenced items to be incorporated in the Form 10-K by reference from our definitive proxy statement if such statement is filed no later than 120 days after our fiscal year-end. We are filing this Amendment to include Part III information in our Form 10-K because we may not file a definitive proxy statement containing such information within 120 days after the end of the fiscal year covered by the Original Filing. The reference on the cover of the Original Filing to the incorporation by reference to portions of our definitive proxy statement into Part III of the Original Filing is hereby deleted. 
+  In accordance with Rule 12b-15 under the Securities Exchange Act of 1934, as amended (Exchange Act), Part III, Items 10 through 14 and Part IV, Item 15 of the Original Filing are hereby amended and restated in their entirety. This Amendment No. 1 does not amend, modify, or otherwise update any other information in the Original Filing. Accordingly, this Amendment should be read in conjunction with the Original Filing. In addition, this Amendment No. 1 does not reflect events that may have occurred subsequent to the Original Filing Date. 
+  Pursuant to Rule 12b-15 under the Exchange Act, this Amendment No. 1 also contains new certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, which are attached hereto. Because no financial statements are included in this Amendment No. 1 and this Amendment No. 1 does not contain or amend any disclosure with respect to Items 307 and 308 of Regulation S-K, paragraphs 3, 4, and 5 of the certifications have been omitted. 
+  Unless expressly indicated or the context requires otherwise, the terms  Facebook,   company,   we,   us,  and  our  in this document refer to Facebook, Inc., a Delaware corporation, and, where appropriate, its wholly owned subsidiaries. The term  Facebook  may also refer to our products, regardless of the manner in which they are accessed.  
+
+FACEBOOK, INC. 
+  FORM 10-K/A 
+  TABLE OF CONTENTS 
+
+PART III  
+      
+       Item 10.  
+     Directors, Executive Officers, and Corporate Governance  
+    4 
+       Item 11.  
+     Executive Compensation  
+    12 
+       Item 12.  
+     Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters  
+    33 
+       Item 13.  
+     Certain Relationships and Related Transactions, and Director Independence  
+    38 
+       Item 14.  
+     Principal Accounting Fees and Services  
+    39 
+
+PART IV  
+      
+       Item 15.  
+     Exhibits, Financial Statement Schedules  
+    40 
+       Signatures  
+
+PART III 
+   
+  Item 10.        Directors, Executive Officers, and Corporate Governance 
+  Directors and Executive Officers 
+  The following table provides information regarding our executive officers and directors as of March 31, 2016:                       Name 
+      
+    Age 
+      
+    Position(s) 
+      Mark Zuckerberg 
+      
+    31 
+      
+    Chairman and Chief Executive Officer 
+      Sheryl K. Sandberg 
+      
+    46 
+      
+    Chief Operating Officer and Director 
+      David M. Wehner 
+      
+    47 
+      
+    Chief Financial Officer 
+      Christopher K. Cox 
+      
+    33 
+      
+    Chief Product Officer 
+      David B. Fischer 
+      
+    43 
+      
+    Vice President, Business and Marketing Partnerships 
+      Mike Schroepfer 
+      
+    41 
+      
+    Chief Technology Officer 
+      Colin S. Stretch 
+      
+    46 
+      
+    Vice President and General Counsel 
+      Marc L. Andreessen   (1)(2)  
+      
+    44 
+      
+    Director 
+      Erskine B. Bowles   (1)  
+      
+    70 
+      
+    Director 
+      Susan D. Desmond-Hellmann   *(1)  
+      
+    58 
+      
+    Director 
+      Reed Hastings   (2)  
+      
+    55 
+      
+    Director 
+      Jan Koum 
+      
+    40 
+      
+    Director 
+      Peter A. Thiel   (2)  
+      
+    48 
+      
+    Director 
+   
+ _________________________________________ 
+           * 
+    Lead Independent Director 
+     (1)    Member of the audit committee 
+  (2)    Member of the compensation   governance committee 
+    
+  Mark Zuckerberg   is our founder and has served as our Chief Executive Officer (CEO) and as a member of our board of directors since July 2004. Mr. Zuckerberg has served as Chairman of our board of directors since January 2012. Mr. Zuckerberg attended Harvard University where he studied computer science. We believe that Mr. Zuckerberg should serve as a member of our board of directors due to the perspective and experience he brings as our founder, Chairman, and CEO, and as our largest and controlling stockholder. 
+  Sheryl K. Sandberg   has served as our Chief Operating Officer (COO) since March 2008 and as a member of our board of directors since June 2012. From November 2001 to March 2008, Ms. Sandberg served in various positions at Google, Inc., most recently as Vice President, Global Online Sales   Operations. Ms. Sandberg also is a former Chief of Staff of the U.S. Treasury Department and previously served as a consultant with McKinsey   Company, a management consulting company, and as an economist with The World Bank. In addition to serving as our COO, Ms. Sandberg has been a member of the board of directors of the Walt Disney Company since December 2009 and a director of SurveyMonkey since July 2015. Ms. Sandberg previously served as a member of the board of directors of Starbucks Corporation from March 2009 to March 2012. Ms. Sandberg holds an A.B. in economics from Harvard University and an M.B.A. from Harvard Business School. We believe that Ms. Sandberg should serve as a member of our board of directors due to the perspective and experience she brings as our COO. 
+  David M. Wehner   has served as our Chief Financial Officer (CFO) since June 2014. Mr. Wehner joined us in November 2012 as our Vice President, Corporate Finance and Business Planning. From August 2010 until November 2012, Mr. Wehner served as Chief Financial Officer at Zynga Inc., a provider of social game services. From February 2001 to July 2010, Mr. Wehner served  
+
+in various positions at Allen   Company, an investment bank, including as a Managing Director from November 2006 to July 2010 and as a director from December 2005 to November 2006. Mr. Wehner holds a B.S. in Chemistry from Georgetown University and an M.S. in Applied Physics from Stanford University. 
+  Christopher K. Cox   has served in various positions with us since October 2005, most recently as our Chief Product Officer (CPO). Mr. Cox joined us as a software engineer and helped build the first versions of key Facebook features, including News Feed. Mr. Cox holds a B.S. in symbolic systems with a concentration in artificial intelligence from Stanford University. 
+    
+  David B. Fischer   has served in various positions with us since April 2010, most recently as our Vice President, Business and Marketing Partnerships. From July 2002 to March 2010, Mr. Fischer served in various positions at Google, including most recently as its Vice President, Global Online Sales   Operations. Prior to joining Google, Mr. Fischer served as Deputy Chief of Staff of the U.S. Treasury Department and was an associate editor at the U.S. News   World Report, L.P., a news magazine company. Mr. Fischer holds a B.A. in government from Cornell University and an M.B.A. from the Stanford University Graduate School of Business. 
+  Mike Schroepfer   has served in various positions with us since September 2008, most recently as our Chief Technology Officer (CTO). From December 2005 to August 2008, Mr. Schroepfer served as Vice President of Engineering at Mozilla Corporation, an Internet company. Prior to Mozilla, Mr. Schroepfer served in various positions at Sun Microsystems, Inc., an information technology company, including as Chief Technology Officer of its data center automation division. He also co-founded CenterRun, Inc., a developer of application provisioning software, which was acquired by Sun Microsystems. In addition to serving as our CTO, Mr. Schroepfer previously served as a member of the board of directors of Ancestry.com Inc. from January 2011 to December 2012. Mr. Schroepfer holds a B.S. and an M.S. in computer science from Stanford University. 
+  Colin S. Stretch   has served as our Vice President and General Counsel since July 2013 and was our Secretary from July 2013 to February 2016. Mr. Stretch first joined us in February 2010 as Deputy General Counsel. From 2002 to 2010, Mr. Stretch was a partner at Kellogg Huber Hansen Todd Evans   Figel, PLCC, a law firm. Earlier in his career, Mr. Stretch served as a law clerk for U.S. Supreme Court Justice Stephen Breyer and for Judge Laurence Silberman of the U.S. Court of Appeals for the D.C. Circuit. Mr. Stretch holds an A.B. in Government from Dartmouth College and a J.D. from Harvard Law School. 
+  Marc L. Andreessen   has served as a member of our board of directors since June 2008. Mr. Andreessen is a co-founder and has been a General Partner of Andreessen Horowitz, a venture capital firm, since July 2009. Previously, Mr. Andreessen co-founded and served as the Chairman of the board of directors of Opsware, Inc. (formerly known as Loudcloud Inc.), a software company. He also served as Chief Technology Officer of America Online, Inc., an Internet services company. Mr. Andreessen was a co-founder of Netscape Communications Corporation, a software company, serving in various positions, including Chief Technology Officer and Executive Vice President of Products. In addition to serving on our board of directors, Mr. Andreessen currently serves as a member of the boards of directors of the Hewlett-Packard Enterprise Company and several private companies. Mr. Andreessen previously served as a member of the boards of directors of eBay Inc. from September 2008 to October 2014 and Hewlett-Packard Company from September 2009 to October 2015. Mr. Andreessen holds a B.S. in computer science from the University of Illinois at Urbana-Champaign. We believe that Mr. Andreessen should serve as a member of our board of directors due to his extensive experience as an Internet entrepreneur, venture capitalist, and technologist. 
+  Erskine B. Bowles   has served as a member of our board of directors since September 2011. Mr. Bowles is President Emeritus of the University of North Carolina and served as President from January 2006 through December 2010. Mr. Bowles has also been a Senior Advisor and non-executive vice chairman of BDT Capital Partners, LLC, a private investment firm, since January 2012. From February 2010 until December 2010, he served as Co-Chair of the National Commission on Fiscal Responsibility and Reform. Mr. Bowles was Managing Director of Carousel Capital LLC, a private investment firm, from 1999 to 2001, and was a Senior Advisor for the firm from 2001 to 2015. He was also a partner of Forstmann Little   Co., an investment firm, from 1999 to 2001. Mr. Bowles began his career in corporate finance at Morgan Stanley   Co. LLC and subsequently helped found and ultimately served as Chairman and Chief Executive Officer of Bowles Hollowell Connor   Co., an investment banking firm. He also was a founder of Kitty Hawk Capital, a venture capital firm. Mr. Bowles served as White House Chief of Staff from 1996 to 1998 and Deputy White House Chief  
+
+of Staff from 1994 to 1995. In addition to serving on our board of directors, Mr. Bowles currently serves as a member of the boards of directors of Morgan Stanley and Norfolk Southern Corporation. Mr. Bowles also served as a member of the board of directors of General Motors Company from June 2005 to April 2009, Cousins Properties Incorporated from August 2003 to May 2012, and Belk, Inc. from May 2011 to November 2015. Mr. Bowles holds a B.S. in business from the University of North Carolina at Chapel Hill and an M.B.A. from Columbia University Graduate School of Business. We believe that Mr. Bowles should serve as a member of our board of directors due to his extensive experience in the financial services industry and academia as well as his distinguished public service. 
+  Susan D. Desmond-Hellmann   has served as a member of our board of directors since March 2013. Dr. Desmond-Hellmann has served as the Chief Executive Officer of the Bill   Melinda Gates Foundation since May 2014. Prior to the Bill   Melinda Gates Foundation, Dr. Desmond-Hellmann was the Chancellor and Arthur and Toni Rembe Rock Distinguished Professor, University of California, San Francisco (UCSF), where she served since August 2009. From 2004 through 2009, Dr. Desmond-Hellmann served as President of Product Development at Genentech, where she was responsible for pre-clinical and clinical development, business development, and product portfolio management. She joined Genentech in 1995. Prior to joining Genentech, Dr. Desmond-Hellmann was associate director of clinical cancer research at Bristol-Myers Squibb Pharmaceutical Research Institute. In addition to serving on our board of directors, Dr. Desmond-Hellmann currently serves as a member of the board of directors of The Procter   Gamble Company. Dr. Desmond-Hellmann holds a B.S. in Pre-Med and an M.D. from the University of Nevada, Reno, and an M.P.H. from the University of California, Berkeley. We believe Dr. Desmond-Hellmann should serve as a member of our board of directors due to her extensive leadership and technology experience. 
+    
+  Reed Hastings   has served as a member of our board of directors since June 2011. Mr. Hastings has served as the Chief Executive Officer and Chairman of the board of directors of Netflix, Inc., a provider of an Internet subscription service for movies and television shows, since 1999. Prior to Netflix, Mr. Hastings served as Chief Executive Officer of Technology Network, a political service organization for the technology industry. Mr. Hastings served as Chief Executive Officer of Pure Atria Software, a maker of software development tools, from 1991 until it was acquired by Rational Software Corporation in 1997. Mr. Hastings previously served as a member of the board of directors of Microsoft Corporation from March 2007 to November 2012. Mr. Hastings holds a B.A. in mathematics from Bowdoin College and an M.S.C.S. in computer science from Stanford University. We believe that Mr. Hastings should serve as a member of our board of directors due to his extensive experience with technology companies. 
+  Jan Koum   has served as a member of our board of directors since October 2014. Since February 2009, Mr. Koum has served and continues to serve as co-founder and Chief Executive Officer of WhatsApp Inc. (WhatsApp), a cross-platform mobile messaging application company and our wholly-owned subsidiary. Mr. Koum attended San Jose State University where he studied math and computer science. Mr. Koum left San Jose State University before achieving a degree. We believe that Mr. Koum should serve as a member of our board of directors due to the perspective and experience he brings as the co-founder and Chief Executive Officer of WhatsApp. 
+    
+  Peter A. Thiel   has served as a member of our board of directors since April 2005. Mr. Thiel has served as President of Thiel Capital, an investment firm, since 2011, a Partner of Founders Fund, a venture capital firm, since 2005, and President of Clarium Capital Management, a global macro investment manager, since 2002. In 1998, Mr. Thiel co-founded PayPal, Inc., an online payment company, where he served as Chief Executive Officer, President, and Chairman of its board of directors from 2000 until its acquisition by eBay in 2002. Mr. Thiel holds a B.A. in Philosophy from Stanford University and a J.D. from Stanford Law School. We believe that Mr. Thiel should serve as a member of our board of directors due to his extensive experience as an entrepreneur and venture capitalist, and as one of our early investors. 
+  Executive Officers 
+  Our executive officers are designated by, and serve at the discretion of, our board of directors. There are no family relationships among any of our directors or executive officers. 
+  Board of Directors 
+
+Our board of directors may establish the authorized number of directors from time to time by resolution. The current authorized number of directors is nine. Our current directors, if elected, will continue to serve as directors until the next annual meeting of stockholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal. 
+    
+  Our board of directors held four meetings during 2015. No member of our board of directors attended fewer than 75% of the aggregate of the total number of meetings of the board of directors (held during the period for which he or she was a director) and the total number of meetings held by all committees of the board of directors on which such director served (held during the period that such director served). Members of our board of directors are invited and encouraged to attend each annual meeting of stockholders. 
+  Board Leadership Structure 
+  Mark Zuckerberg, our founder and CEO, serves as Chairman of our board of directors and presides over meetings of the board of directors, and holds such other powers and carries out such other duties as are customarily carried out by the Chairman of our board of directors. Mr. Zuckerberg brings valuable insight to our board of directors due to the perspective and experience he brings as our founder and CEO, and as our largest and controlling stockholder. Dr. Desmond-Hellman currently serves as our Lead Independent Director and presides over portions of regularly scheduled meetings at which only our independent directors are present, serves as a liaison between the Chairman and the independent directors, and performs such additional duties as the board of directors may otherwise determine and delegate. Generally, each regular meeting of our board of directors includes a meeting of our independent directors without management present. 
+  Controlled Company Status 
+  Because Mr. Zuckerberg controls a majority of our outstanding voting power, we are a  controlled company  under the corporate governance rules of the NASDAQ Stock Market LLC (NASDAQ). Therefore, we are not required to have a majority of our board of directors be independent, nor are we required to have a compensation committee or an independent nominating function. In light of our status as a controlled company, our board of directors has determined not to have an independent nominating function and to have the full board of directors be directly responsible for nominating members of our board. Notwithstanding our status as a  controlled company,  we intend to continue to have a compensation   governance committee that is composed entirely of independent directors.   
+    
+  Director Independence 
+  The rules of NASDAQ generally require that a majority of the members of a listed company s board of directors be independent. In addition, the listing rules generally require that, subject to specified exceptions, each member of a listed company s audit, compensation, and governance committees be independent. Although we are a  controlled company  under the corporate governance rules of NASDAQ and, therefore, are not required to comply with certain rules requiring director independence, we have nevertheless opted, under our corporate governance guidelines, to have a majority of the members of our board of directors be independent and to have a compensation   governance committee comprised solely of independent directors. 
+  Audit committee members must also satisfy the independence criteria set forth in Rule 10A-3 under the Securities Exchange Act of 1934, as amended (Exchange Act). In order to be considered independent for purposes of Rule 10A-3, a member of an audit committee of a listed company may not, other than in his or her capacity as a member of the audit committee, the board of directors, or any other board committee: accept, directly or indirectly, any consulting, advisory, or other compensatory fee from the listed company or any of its subsidiaries; or be an affiliated person of the listed company or any of its subsidiaries. 
+  Our board of directors has determined that none of our non-employee directors has a relationship that would interfere with the exercise of independent judgment in carrying out the responsibilities of a director and that each of these directors is  independent  as that term is defined under the rules of NASDAQ. Our board of directors has also determined that Messrs. Andreessen and Bowles,  
+
+and Dr. Desmond-Hellmann, who comprise our audit committee, and Messrs. Andreessen, Hastings, and Thiel, who comprise our compensation   governance committee, satisfy the independence standards for those committees established by applicable SEC rules, NASDAQ rules and applicable rules of the Internal Revenue Code of 1986, as amended (Code).  
+  Classified Board 
+  So long as the outstanding shares of our Class B common stock represent a majority of the combined voting power of common stock, we will not have a classified board of directors, and all directors will be elected for annual terms. As of the close of business on April 29, 2016, the outstanding shares of Class B common stock represented a majority of the combined voting power of our common stock. 
+  However, our restated certificate of incorporation and our amended and restated bylaws provide that when the outstanding shares of our Class B common stock represent less than a majority of the combined voting power of common stock, we will have a classified board of directors consisting of three classes of approximately equal size, each serving staggered three-year terms. At such time, our directors will be assigned by the then-current board of directors to a class. Upon expiration of the term of a class of directors, directors for that class will be elected for three-year terms at the annual meeting of stockholders in the year in which that term expires. As a result, only one class of directors will be elected at each annual meeting of our stockholders, with the other classes continuing for the remainder of their respective three-year terms. Each director s term continues until the next annual meeting of stockholders and until his or her successor has been elected and qualified, or until his or her earlier death, resignation, or removal. 
+  In addition, when the outstanding shares of our Class B common stock represent less than a majority of the combined voting power of our common stock and we have a classified board, only our board of directors may fill vacancies on our board. Any additional directorships resulting from an increase in the number of directors will be distributed among the three classes so that, as nearly as possible, each class will consist of one-third of the total number of directors. 
+  The classification of our board of directors, if implemented, may have the effect of delaying or preventing changes in our control or management. 
+  Board Committees 
+  Our board of directors has established an audit committee and a compensation   governance committee, each of which have the composition and responsibilities described below. Members serve on these committees until their resignations or until otherwise determined by our board of directors. Each of these committees has a written charter. Current copies of the charters of the audit committee and compensation   governance committee are available on our website at http://investor.fb.com/governance.cfm. 
+  From time to time, the board of directors may also establish ad hoc committees to address particular matters. In August 2015, our board of directors (with the employee directors abstaining) established a special committee to review a proposal to amend our current restated certificate of incorporation. The Special Committee consists of independent directors Dr. Desmond-Hellman (Chairperson) and Messrs. Andreessen and Bowles.  
+  Audit Committee 
+  Our audit committee is comprised of Messrs. Andreessen and Bowles, and Dr. Desmond-Hellmann. Mr. Bowles is the chairman of our audit committee, is our audit committee financial expert, as that term is defined under SEC rules, and possesses financial sophistication as defined under the rules of NASDAQ. The designation does not impose on Mr. Bowles any duties, obligations or liabilities that are greater than are generally imposed on members of our audit committee and our board of directors. Our board of directors has adopted a charter for our audit committee. As more fully described in its charter, our audit committee is directly responsible for, among other things: 
+             
+    selecting the independent registered public accounting firm to audit our financial statements; 
+
+ensuring the independence of the independent registered public accounting firm; 
+                
+    discussing the scope and results of the audit with the independent registered public accounting firm, and reviewing, with management and that firm, our interim and year-end operating results; 
+                
+    developing procedures to enable submission of anonymous concerns about accounting or auditing matters; 
+                
+    considering the adequacy of our internal accounting controls and audit procedures; 
+                
+    reviewing related party transactions; 
+                
+    reviewing our legal compliance risk exposures and program for promoting and monitoring compliance with applicable legal and regulatory requirements;  
+                
+    pre-approving all audit and non-audit services to be performed by the independent registered public accounting firm; and  
+                
+    overseeing our internal audit function. 
+     During 2015, the audit committee met in person or by telephone, or acted by unanimous written consent, eight times. 
+  Compensation   Governance Committee 
+  Our compensation   governance committee is comprised of Messrs. Andreessen, Hastings, and Thiel. Mr. Hastings is the chairman of our compensation   governance committee. Each member of this committee is a non-employee director, as defined pursuant to Rule 16b-3 promulgated under the Exchange Act, and an outside director, as defined under Section 162(m) of the Code. Our board of directors has adopted a charter for our compensation   governance committee. As more fully described in its charter, our compensation   governance committee is responsible for, among other things: 
+             
+    evaluating the performance of our executive officers; 
+                
+    evaluating, recommending, approving and reviewing executive officer compensation arrangements, plans, policies and programs maintained by us; 
+                
+    administering our equity-based compensation plans and our annual bonus plan; 
+                
+    considering and making recommendations regarding non-employee director compensation; 
+                
+    considering and making recommendations to our board of directors regarding its remaining responsibilities relating to executive compensation; 
+                
+    developing and recommending corporate governance guidelines and policies; 
+                
+    overseeing the evaluation process for our board of directors and committees thereof; 
+                
+    reviewing and granting proposed waivers of the code of conduct for executive officers; and 
+                
+    advising our board of directors on corporate governance matters and board of director performance matters, including recommendations regarding the structure and composition of our board of directors and committees thereof. 
+     The charter for our compensation   governance committee allows the committee from time to time to delegate its authority to subcommittees and to our officers, as it may be deemed necessary or appropriate. In December 2013, our compensation committee (which was the predecessor to our compensation   governance committee) authorized the formation and delegation of certain authority to an equity subcommittee, which is now a subcommittee of the compensation   governance committee. The current members of the equity subcommittee are Ms. Sandberg and Mr. Wehner, and the members, acting either individually or jointly, have the authority to review and approve restricted stock units (RSUs) to employees and consultants, other than to directors and our executive officers. The compensation   governance committee has not adopted a written charter for the equity subcommittee. 
+  Notwithstanding our status as a  controlled company,  we intend to continue to have a compensation   governance committee that is composed entirely of independent directors.   
+
+During 2015, the compensation   governance committee met in person or by telephone, or acted by unanimous written consent, ten times, which includes the separate meetings of the compensation and governance committees before the committees were combined in June 2015.  
+  During 2015, the equity subcommittee of compensation   governance committee met in person or by telephone, or acted by unanimous written consent, fourteen times. 
+  Policy Regarding Nominations 
+  The policy of our board of directors is to encourage the selection of directors who will contribute to our mission to make the world more open and connected. Our board of directors is responsible for identifying and nominating members for election to our board of directors. The board of directors considers recommendations from directors, stockholders, and others as it deems appropriate, including our founder, Chairman, CEO, and controlling stockholder, Mr. Zuckerberg. Our board of directors may review from time to time the appropriate skills and characteristics desired of members of the board of directors, including the appropriate role of diversity. In evaluating potential candidates for nomination, our board of directors considers these factors in the light of the specific needs of the board of directors at that time and shall also consider advice and recommendations from our compensation   governance committee and from Mr. Zuckerberg. 
+  The board of directors does not distinguish between nominees recommended by stockholders and other nominees. However, stockholders desiring to nominate a director candidate at the annual meeting must comply with certain procedures and requirements established by the SEC and our amended and restated bylaws and the stockholder must give timely notice to our Secretary in accordance with our amended and restated bylaws. Our amended and restated bylaws are available on our website at http://investor.fb.com/governance.cfm. Such nominations and notice should be submitted to Facebook, Inc., 1601 Willow Road, Menlo Park, California 94025, Attention: Secretary. 
+  Board Role in Risk Oversight 
+  Our board of directors as a whole has responsibility for overseeing our risk management. The board of directors exercises this oversight responsibility directly and through its committees. The oversight responsibility of the board of directors and its committees is informed by reports from our management team and from our internal audit department that are designed to provide visibility to the board of directors about the identification and assessment of key risks and our risk mitigation strategies. The full board of directors has primary responsibility for evaluating strategic and operational risk management, and for CEO succession planning. Our audit committee has the responsibility for overseeing our major financial and accounting risk exposures as well as legal and regulatory risk exposures. Our audit committee also oversees the steps our management has taken to monitor and control these exposures, including policies and procedures for assessing and managing risk and related compliance efforts. Finally, our audit committee oversees our internal audit function. Our compensation   governance committee evaluates risks arising from our compensation policies and practices, as more fully described in Part III, Item 11,  Executive Compensation Compensation Discussion and Analysis Compensation Risk Assessment.  The audit committee and the compensation   governance committee provide reports to the full board of directors regarding these and other matters. 
+  Section 16(a) Beneficial Ownership Reporting Compliance 
+  Section 16(a) of the Exchange Act and the rules of the SEC require our directors, executive officers and persons who own more than 10% of our Class A common stock to file reports of their ownership and changes in ownership of our Class A common stock with the SEC. Based solely on our review of the reports filed during 2015 and questionnaires from our directors and executive officers, we determined that no director, executive officer, or beneficial owner of more than 10% of our Class A common stock failed to file a report on a timely basis during 2015, except for: (i) a late Form 4 filed by Reed Hastings to report vesting of his RSUs and acquisition of shares of Class A common stock dated June 10, 2015 and (ii) a late Form 4 filed by Colin S. Stretch to report the sale of our Class A common stock pursuant to a Rule 10b5-1 trading plan dated November 30, 2015.  
+
+Stockholder Communications 
+  Stockholders may contact our board of directors about bona fide issues or questions about Facebook by sending a letter to the following address: c/o Facebook, Inc., 1601 Willow Road, Menlo Park, California, 94025, Attention: Board of Directors. Each communication should specify the applicable addressee or addressees to be contacted, the general topic of the communication, and the class and number of shares of our stock that are owned of record (if a record holder) or beneficially. If a stockholder wishes to contact the independent members of our board of directors, the stockholder should address such communication to the attention of the Lead Independent Director at the address above. Our legal department will initially receive and process communications before forwarding them to the addressee, and generally will not forward a communication that is unrelated to the duties and responsibilities of the board of directors, including communications the legal department determines to be primarily commercial in nature, is related to an improper or irrelevant topic, or is a request for general information about the company, its products, or services. In addition, material that is unduly hostile, threatening, illegal, or similarly unsuitable will be excluded, with the provision that any communication that is filtered out must be made available to any non-management director upon request. 
+  Code of Conduct 
+  We have adopted a Code of Conduct that applies to members of our board of directors, our executive officers, employees, contractors, consultants, and others working on our behalf. The Code of Conduct is available on our website at http://investor.fb.com/governance.cfm. We intend to satisfy the disclosure requirement under Item 5.05 of Form 8-K regarding amendment to, or waiver from, a provision of our Code of Conduct by posting such information on our website at the address specified above. 
+
+Item 11. 
+    Executive Compensation 
+     Compensation Discussion and Analysis 
+  Overview 
+  This section explains our executive compensation philosophy, objectives, and design; our compensation-setting process; our executive compensation program components; and the decisions made in 2015 with respect to the compensation of each of our named executive officers. Our named executive officers for 2015, which consist of the executive officers who appear in   2015 Summary Compensation Table  below, are: 
+             
+    Mark Zuckerberg, our founder, Chairman, and Chief Executive Officer (CEO); 
+                
+    Sheryl K. Sandberg, our Chief Operating Officer (COO); 
+                
+    David M. Wehner, our Chief Financial Officer (CFO) 
+                
+    Christopher K. Cox, our Chief Product Officer (CPO); and 
+                
+    Mike Schroepfer, our Chief Technology Officer (CTO). 
+     Executive Compensation Philosophy, Objectives and Design 
+  Philosophy.   We are focused on our mission to make the world more open and connected. We believe that Facebook is still in the early stages of this journey and that for us to be successful we must hire and retain people who can continue to develop our strategy, quickly innovate and build new products, bolster the growth of our user base and user engagement, and constantly enhance our business model. 
+  To achieve these objectives, we need a highly talented team comprised of engineering, product, sales, and general and administrative professionals. We also expect our executive team to possess and demonstrate strong leadership and management capabilities. 
+  Objectives.   Our compensation programs for our named executive officers are built to support the following objectives: 
+             
+    attract the top talent in our leadership positions and motivate our executives to deliver the highest level of individual and team impact and results; 
+                
+    encourage our executives to model the important aspects of our culture, which include moving fast, being bold, communicating openly, focusing on impact, and building social value in the world; 
+                
+    ensure each one of our named executive officers receives a total compensation package that encourages his or her long-term retention; 
+                
+    reward high levels of performance with commensurate levels of compensation; and 
+                
+    align the interests of our executives with those of our stockholders in the overall success of Facebook by emphasizing long-term incentives. 
+     Design.   Our executive compensation program continues to be heavily weighted towards equity, in particular restricted stock units (RSUs), with cash compensation that is generally below market relative to executive compensation at our peer companies. We believe that equity compensation offers the best vehicle to focus our executive officers on our mission and the achievement of our long-term strategic and financial objectives, and to align our executive officers with the long-term interests of our stockholders. 
+  We typically grant our executive officers an annual equity award with service-based vesting conditions where the commencement of vesting is deferred until a date some years in the future, as discussed further in   Elements of Executive Compensation Equity Compensation  below. When combined with the executives' prior equity awards, we believe that these additional grants represent a strong long-term retention tool and provide the executive officers with long-term equity incentives. 
+  We evaluate our executive compensation programs, including our mix of cash and equity compensation, on an annual basis or as circumstances require based on our business objectives and the competitive environment for talent. For the near future, we  
+
+anticipate continuing our emphasis on pay-for-performance and long-term incentive compensation for our executive officers while increasing cash compensation in order to move closer to market relative to our peer companies. 
+  Compensation-Setting Process 
+  Role of Our Compensation   Governance Committee  . The compensation   governance committee is responsible for overseeing all aspects of our executive compensation programs, including executive salaries, payouts under our bonus plan, the size and structure of equity awards, and any executive perquisites. The compensation   governance committee is solely responsible for determining the compensation of our CEO and reviews and approves compensation of other executive officers. The compensation   governance committee was formed in June 2015 by merging two separate committees of our board of directors, the compensation committee and the governance committee. The compensation   governance committee is the successor to the compensation committee in all respects. We will not distinguish between the compensation committee and the compensation   governance committee and will refer to the compensation   governance committee throughout this document. 
+  Role of Management.   In setting compensation for 2015, our CEO, our COO, and our Head of People worked closely with the compensation   governance committee in managing our executive compensation program and attended meetings of the compensation   governance committee. Our CEO and COO made recommendations to the compensation   governance committee regarding compensation for our executive officers other than for themselves because of their daily involvement with our executive team. No executive officer participated directly in the final deliberations or determinations regarding his or her own compensation package, except for our CEO who has requested that his base salary continue to be fixed at $1 per year. 
+  Our management team and the compensation   governance committee each play a role in evaluating and mitigating any risk that may exist relating to our compensation plans, practices and policies for all employees, including our named executive officers, as further described in   Compensation Risk Assessment  below. 
+  Role of Compensation Consultant  . The compensation   governance committee has the authority to engage its own advisors to assist in carrying out its responsibilities. In 2015, the compensation   governance committee engaged the services of Compensia, Inc. (Compensia), a national compensation consulting firm, to advise the compensation   governance committee regarding the amount and types of compensation that we provide to our executives and how our compensation practices compared to the compensation practices of other companies. Compensia reports directly to the compensation   governance committee. Compensia does not provide any services to us other than the services provided to the compensation   governance committee. The compensation   governance committee believes that Compensia does not have any conflicts of interest in advising the compensation   governance committee under applicable SEC or NASDAQ rules. 
+  Use of Comparative Market Data.   We aim to compensate our executive officers at levels that are commensurate with the most competitive levels of compensation for executives in similar positions at a group of publicly-traded peer companies set forth below, with whom we compete for hiring and retaining executive talent (our Peer Group). The compensation   governance committee also considered the scope of responsibility of each executive officer, our current practice of maintaining minimal differentiation between the cash packages of our executive officers, the unvested balances of equity awards for each executive officer, as well as the compensation   governance committee's assessment of each executive officer's performance and impact on the organization. In determining 2015 compensation, we did not use a formula for taking into account these different factors. 
+  We analyze market data for executive compensation at least annually using the most relevant published survey sources, public filings and input from Compensia. Management and Compensia provided the compensation   governance committee with both cash and equity compensation data for our Peer Group, which was selected from companies that meet some or all of the criteria listed below: 
+
+high technology or media company; 
+                
+    key talent competitor; 
+                
+    minimum revenue of $4 billion; and/or 
+                
+    minimum market capitalization of $50 billion.  
+     Using this criteria as a baseline, the compensation   governance committee approved the following companies for inclusion in our compensation Peer Group for 2015: 
+    
+                 Adobe 
+    Microsoft 
+      Alphabet 
+    Netflix 
+      Amazon.com 
+    Qualcomm 
+      Apple 
+    salesforce.com 
+      Cisco Systems 
+    SAP 
+      eBay 
+    The Walt Disney Company 
+      EMC 
+    Twitter 
+      LinkedIn 
+    VMware 
+        
+    Yahoo! 
+
+In the fourth quarter of 2014, our compensation   governance committee reviewed our executive compensation against this Peer Group to ensure that our executive officer compensation was competitive and sufficient to recruit and retain our executive officers. Compensia provided the compensation   governance committee with total cash compensation data (base salaries and cash bonus awards at target) and total compensation data (total cash compensation and equity compensation) at various percentiles. While the compensation   governance committee considered this data in determining executive officer compensation, we did not seek to benchmark our executive compensation to any particular level. The total compensation for our named executive officers was not determined based on any pre-set  target  percentile of market. Rather, we sought to compensate our executive officers at a level that would allow us to successfully recruit and retain the best possible talent for our executive team. We relied heavily on the knowledge and experience of the compensation   governance committee and our management in determining the appropriate compensation levels for our executive officers. Overall, based on Compensia's analysis of our Peer Group, target total cash compensation for our executive officers was below the 25th percentile of our peers. When equity compensation was factored in, without taking into account the effect of the deferred vesting start dates that are applicable to the equity compensation of our executive officers, total compensation for our named executive officers, other than our CEO, fell between the 50th and 90th percentile relative to the companies in the Peer Group. In the second quarter of 2015, the compensation   governance committee reviewed the selection criteria and the companies in the Peer Group. Following that review, the compensation   governance committee decided not to make any changes to the composition of the Peer Group. Accordingly, we plan to use the following list of companies in our Peer Group for the 2016 executive compensation process: 
+                 Adobe 
+    Microsoft 
+      Alphabet 
+    Netflix 
+      Amazon.com 
+    Qualcomm 
+      Apple 
+    salesforce.com 
+      Cisco Systems 
+    SAP 
+      eBay 
+    The Walt Disney Company 
+      EMC 
+    Twitter 
+      LinkedIn 
+    VMware 
+        
+    Yahoo! 
+
+The compensation   governance committee expects to periodically review and update this Peer Group and the underlying criteria as our business and market environment continue to evolve. 
+  Elements of Executive Compensation 
+  Our executive officer compensation packages generally include: 
+             
+    base salary; 
+                
+    performance-based cash incentives; and 
+                
+    equity-based compensation in the form of RSUs. 
+     We believe that our compensation mix supports our objective of focusing on at-risk compensation having significant financial upside based on company and individual performance. We expect to continue to emphasize equity awards because of the direct link that equity compensation provides between stockholder interests and the interests of our executive officers, thereby motivating our executive officers to focus on increasing our value over the long term. 
+  Base Salary.   The compensation   governance committee believes base salaries are a necessary element of compensation in order to attract and retain highly qualified executive officers. The compensation   governance committee reviews base salaries for our executive officers at least annually and may adjust them from time to time, if needed, to reflect changes in market conditions or other factors. Historically, our executive officers have received base salaries within a very narrow range that was established when we were a smaller company with cash constraints, and based on our desire to maintain internal pay equity between executive officers and also relative to other key employees. As we have grown, we have increased base salaries for our executive officers (other than our CEO) with the goal of bringing salaries closer to market over time. 
+  In the first quarter of 2015, the compensation   governance committee decided to increase the base salaries of our executive officers, other than our CEO, in order to continue to bring their salaries closer to those paid by our Peer Group companies for similar positions. Accordingly, our compensation   governance committee increased the base salary of Ms. Sandberg by $60,000 and Messrs. Wehner, Cox, and Schroepfer by $50,000. Following these 2015 salary increases, as noted above, these executive officer salaries fell between the 25th and 50th percentile of the salaries provided by our Peer Group companies for executives in similar positions. Mr. Zuckerberg has previously requested to receive a base salary of $1 per year. 
+
+Cash Bonuses.   Our 2015 Bonus Plan (Bonus Plan) provides variable cash incentives, payable semi-annually, that are designed to motivate our executive officers to focus on company-wide priorities and to reward them for individual results and achievements. In 2015, the individual target bonus percentage for each named executive officer was unchanged from 2014 at 75% of such executive s base salary. After the 2015 base salary increases noted above, target total cash compensation (base salary plus target bonus) for executive officers other than our CEO, was at approximately the 25th percentile of our Peer Group companies for executives in similar positions. All of our executive officers, except our CEO, participated in the Bonus Plan in 2015. 
+  For 2015, there were two six-month performance periods under our Bonus Plan, which we refer to as First Half 2015 and Second Half 2015. For each performance period in 2015, the compensation   governance committee approved a set of company-wide priorities in order to focus our executive officers on key areas of performance for the period in question. The First Half 2015 and Second Half 2015 company priorities reflect operational and non-operational objectives established by our compensation   governance committee, in consultation with our CEO and CFO. The company-wide priorities do not have specific targets associated  
+
+with them for purposes of determining performance under the Bonus Plan, and our compensation   governance committee has complete discretion to determine the level of bonus payout for each performance period. 
+  2015 Priorities and Company Performance Percentage.   Our First Half 2015 company-wide priorities were as follows: grow our user base across all our products, increase sharing and engagement, continue to achieve revenue growth and significant savings from efficiency, improve product quality, improve our brand, and make progress toward our long-term investments. None of these priorities were assigned any specific weighting or dollar amount of the total bonus. The compensation   governance committee applied discretion in determining the company performance percentage on a qualitative basis, taking into account our delivery of results in the areas identified by the company-wide priorities approved by the compensation   governance committee, as well as our overall business, engineering, and product development achievements. The compensation   governance committee also did not determine any pre-set ranges for the company performance percentage. The First Half 2015 company performance percentage approved by the compensation   governance committee was 110%. The compensation   governance committee focused on our performance across all of the areas identified by the company-wide priorities. 
+  Our Second Half 2015 company-wide priorities were as follows: grow our user base across all of our products, increase sharing, engagement, and utility, continue to achieve revenue growth and significant savings from efficiency, improve product quality, improve our brand and make progress toward our long-term investments. None of these priorities were assigned any specific weighting or dollar amount of the total bonus. The compensation   governance committee applied discretion in determining the company performance percentage on a qualitative basis, taking into account our delivery of results in the areas identified by the company-wide priorities approved by the compensation   governance committee, as well as our overall business, engineering, and product development achievements. The compensation   governance committee also did not determine any pre-set ranges for the company performance percentage. The Second Half 2015 company performance percentage approved by the compensation   governance committee was 125%. The compensation   governance committee focused on our performance across all of the areas identified by the company-wide priorities, particularly the strength of our user growth and engagement and our continued strong revenue growth. 
+  Bonus Plan Payouts.   We calculate Bonus Plan payouts to each participant using the following formula: 
+                               Base Eligible Earnings ($) 
+    x 
+    Individual Bonus Target Percentage (%) 
+    x 
+    Individual Performance Percentage (%) 
+    x 
+    Company Performance Percentage (%) 
+    = 
+    Individual Bonus Payout ($) 
+
+Individual Performance Percentage.   The individual performance percentage is based upon each executive's individual performance assessment for the performance period under consideration. In line with our pay-for-performance philosophy, a higher performance assessment drives a higher individual percentage (and vice-versa) such that it is possible for an executive with a low assessment to get less than their target bonus payout, or no bonus payout whatsoever. In 2015, potential individual performance percentages under our Bonus Plan were 0%, 85%, 100%, 125%, 200%, or 300%. An executive meeting our expected high level of performance expectations would receive an individual performance percentage of 100%. 
+  Individual performance assessments for each executive officer were determined at the discretion of the compensation   governance committee in close consultation with our CEO and our COO (except in each case when their own performance assessment was being determined). The performance assessment determinations were based on an overall subjective assessment of each officer's performance and no single factor was determinative in setting bonus levels, nor was the impact of any individual factor on the bonus quantifiable. We operate in a rapidly evolving and highly competitive industry and we set a high bar for performance expectations for each one of our executive officers. The compensation   governance committee evaluates our executive officers based on their overall performance, impact, and results, as well as their demonstration of strong leadership, long-term vision, effective execution, and management capabilities. First Half 2015 and Second Half 2015 payout levels and achievements and considerations for each executive were as follows: 
+  Mark Zuckerberg  . Mr. Zuckerberg did not participate in the Bonus Plan in 2015. Although Mr. Zuckerberg did not participate in the Bonus Plan, the compensation   governance committee separately assessed his performance as our CEO. 
+
+Sheryl K. Sandberg  . Ms. Sandberg received $558,462 for the First Half 2015 bonus, which reflected her overall leadership and execution on business priorities, her contribution to growing revenue, including the continued growth in mobile ad revenue, and her leadership in key policy matters. Ms. Sandberg received $706,731 for the Second Half 2015 bonus, which reflected her role in growing our revenue year over year, her strategic guidance in various business matters, and the strong growth in the number of advertisers on our platform. 
+  David M. Wehner  . Mr. Wehner received $325,240 for the First Half 2015 bonus, which reflected his overall leadership of our finance organization and, in particular, driving long range planning for the company. Mr. Wehner received $328,125 for the Second Half 2015 bonus, which reflected his effective communication with our investors, strategic facilities planning for our growing workforce and his contributions to the strong financial performance of the company, as well as the overall performance of the finance function. 
+  Christopher K. Cox.   Mr. Cox received $499,760 for the First Half 2015 bonus, which reflected his overall leadership of the product organization, improvements in the quality of News Feed and his contributions to increases in user growth and engagement. Mr. Cox received $394,381 for the Second Half 2015 bonus, which reflected his leadership and innovations in the areas of product design and engagement such as Reactions, progress in our brand efforts, and continued growth in time spent with our products. 
+  Mike Schroepfer  . Mr. Schroepfer received $312,350 for the First Half 2015 bonus, which reflected his leadership and execution on our engineering priorities, recruitment of engineering leadership talent and the continued development of a sustainable and cost-effective engineering infrastructure. Mr. Schroepfer received $631,010 for the Second Half 2015 bonus, which reflected his strong leadership of the engineering team, successful launch of Gear VR, and continued progress on other long-term investments. 
+  The following table summarizes the calculations that were used in determining the cash bonus paid to each of our named executive officers: 
+
+(1) 
+    Reflects actual earnings for 2015, which may differ from approved 2015 base salaries due to the effective dates of salary increases and the number of pay dates in the calendar year. 
+     Equity Compensation.   Most of our executive officers' compensation is delivered through equity awards. We use equity compensation to align our executive officers' financial interests with those of our stockholders, to attract industry leaders of the highest caliber, and to retain them for the long term. In addition to the initial equity grant that each executive receives as part of his or her new hire package, the compensation   governance committee typically grants our executives additional equity awards each year as part of our company-wide equity refresher program. Additional equity grants for each of our executive officers are determined on a discretionary basis taking into account the following factors: 
+
+delivering equity values that are highly competitive when compared against those our Peer Group would grant to executives with similar responsibility; 
+                
+    each executive officer's individual performance assessment, the results and contributions delivered during the year, as well as the anticipated potential future impact of each individual executive; 
+                
+    the size and vesting schedule of existing equity grants in order to maximize the long-term retentive power of all additional grants; and 
+                
+    the size of each executive officer's total cash compensation (base salary plus cash bonus awards at target), which is generally lower than the cash compensation for executives with similar responsibilities at our Peer Group. 
+     Based on the foregoing factors, in 2015, our compensation   governance committee awarded each of our executive officers, other than our CEO, a grant of RSUs with a specific  initial equity value  based on an estimated total value for each grant before taking into account the deferred vesting considerations described below. The compensation   governance committee applied discretion in determining the specific individual equity values, vesting schedules and vesting start dates. Based on these qualitative decisions, the compensation   governance committee then calculated the number of RSUs to be granted by dividing this initial equity value by $75.72 per share, which was the average closing price for the seven trading days following the announcement of our earnings for the fourth quarter of 2014 and the same price that was used for 2015 refresher grants to all other employees. 
+  Vesting of 2015 RSU Grants.   Due to our desire to provide incentives for our executive officers to focus on long-term strategic and financial objectives, the compensation   governance committee deferred the vesting start dates of all 2015 RSU grants made to our executive officers, other than our CFO, to a future date determined individually for each executive. As a result, the 2015 RSU grants generally will not begin to vest unless the recipient remains continuously employed by us through future dates as described in the following paragraphs and in   2015 Grants of Plan-Based Awards Table  below. The compensation   governance committee reviewed the size and vesting schedule for the remaining unvested portion of the outstanding equity award holdings of each of our executive officers and agreed with the recommendation of our CEO and COO (except that our COO did not participate in discussions regarding her own equity compensation) that the existing equity awards appropriately satisfied our retention and incentive goals for the immediate future for each of our executive officers. Accordingly, the additional equity awards granted to our executive officers in 2015, other than our CFO, start vesting only after a significant portion of each executive's outstanding equity awards have vested. The compensation   governance committee believes that these deferred vesting schedules make the equity awards more valuable to us in retaining our executive officers and reflect our emphasis on our long-term success. In the case of our CFO, the compensation   governance committee determined that it was appropriate not to defer the vesting start date for Mr. Wehner s 2015 RSU grant in order to increase his total compensation to a level appropriate for his new role as CFO. Typically the RSU grants for our executive officers vest over four years following the vesting start date. The compensation and governance committee determined that it was appropriate to shorten the vesting schedule for Ms. Sandberg and lengthen the vesting for Mr. Wehner based on individual circumstances described below. For more information relating to the vesting schedules of these RSU grants, see   2015 Grants of Plan-Based Awards Table  below. 
+  2015 Equity Grants.   Mr. Zuckerberg did not receive any additional equity grants in 2015 because our compensation   governance committee believed that his existing equity ownership position sufficiently aligns his interests with those of our stockholders. 
+  Our other named executive officers received the following RSU grants in 2015: 
+  Sheryl K. Sandberg  . Ms. Sandberg received an equity grant in the amount of 198,100 RSUs. This grant had an initial equity value of $15.0 million. These RSUs are subject to three-year quarterly vesting based on continued employment from and after a deferred vesting start date of November 15, 2017. The compensation   governance committee determined that it was appropriate for this RSU grant to vest over three years in order to deliver competitive compensation in future years. 
+  David M. Wehner.   Mr. Wehner received an equity grant in the amount of 198,100 RSUs. This grant had an initial equity value of $15.0 million. These RSUs are subject to five-year vesting with a one-year cliff based on continued employment from and after a vesting start date of February 15, 2015, such that one-fifth of the shares shall vest on February 15, 2016 and the remainder  
+
+of the shares shall vest quarterly thereafter. The compensation   governance committee determined that it was appropriate for this RSU grant to vest over five years to increase the retentive power of this grant. 
+  Christopher K. Cox  . Mr. Cox received an equity grant in the amount of 132,070 RSUs. This grant had an initial equity value of $10.0 million. These RSUs are subject to four-year quarterly vesting based on continued employment from and after a deferred vesting start date of February 15, 2017. 
+  Mike Schroepfer  . Mr. Schroepfer received an equity grant in the amount of 132,070 RSUs. This grant had an initial equity value of $10.0 million. These RSUs are subject to four-year quarterly vesting based on continued employment from and after a deferred vesting start date of February 15, 2017. 
+  Following the grants of these equity awards, the total compensation for our named executive officers, other than our CEO, was between the 50th and 90th percentiles relative to the companies in our Peer Group. 
+  Compensation Governance 
+  The compensation   governance committee seeks to ensure sound executive compensation practices to adhere to our pay-for-performance philosophy while appropriately managing risk and aligning our compensation programs with long-term stockholder interests. The following practices were in effect during 2015: 
+             
+    the compensation   governance committee is comprised solely of independent directors; 
+                
+    the compensation   governance committee conducts an annual review and approval of our compensation strategy with assistance from its independent compensation consultant, Compensia, including a review of our compensation-related risk profile to ensure that our compensation-related risks are not reasonably likely to have a material adverse effect on our company; 
+                
+    the compensation   governance committee retains discretion on bonus payouts to enable it to respond to unforeseen events and adjust bonus payouts as appropriate; 
+                
+    we do not offer post-employment benefits; and 
+                
+    our compensation philosophy and related governance features are complemented by several specific practices that are designed to align our executive compensation with long-term stockholder interests, including the following: 
+                
+    our executives are subject to company-wide policies that prohibit hedging activities, the pledging of our securities as collateral for loans, and the shorting of our securities; 
+                
+    we offer limited perquisites that are for business-related purposes or necessary for the security of our CEO and COO; and 
+                
+    our executives participate in broad-based company-sponsored health and welfare benefits programs on the same basis as our other full-time, salaried employees. 
+     Perquisites and Other Benefits 
+  Consistent with the practices of many companies in our Peer Group, we provide certain perquisites to our named executive officers for the reasons described below. 
+  Because of the high visibility of our company, our compensation   governance committee has authorized an  overall security program  for Mr. Zuckerberg to address safety concerns due to specific threats to his safety arising directly as a result of his position as our founder, Chairman, and CEO. We require these security measures for the company's benefit because of the importance of Mr. Zuckerberg to Facebook, and we believe that the costs of this overall security program are appropriate and necessary. We paid for the initial procurement, installation, and maintenance of security measures for Mr. Zuckerberg's personal residences, and we pay for the annual costs of security personnel. In addition, Mr. Zuckerberg uses private aircraft for personal travel in connection with his overall security program. On certain occasions, Mr. Zuckerberg may be accompanied by guests when using private aircraft. Although we do not consider Mr. Zuckerberg s overall security program to be a perquisite for his benefit for the  
+
+reasons described above, the costs related to personal security for Mr. Zuckerberg at his residence and during personal travel, as well as the costs of private aircraft for personal travel, pursuant to Mr. Zuckerberg s overall security program are reported as other compensation to Mr. Zuckerberg in the  All Other Compensation  column in   2015 Summary Compensation Table  below. 
+  Our compensation   governance committee has also authorized a security program for Ms. Sandberg, including certain personal security measures, to address safety concerns resulting from her position as our COO. We require these security measures for the company's benefit because of the importance of Ms. Sandberg to Facebook, and we believe the costs are appropriate and necessary. The costs related to personal security for Ms. Sandberg are reported as other compensation to Ms. Sandberg in the  All Other Compensation  column in   2015 Summary Compensation Table  below. 
+  2013 Say on Pay Vote 
+  We held a non-binding advisory stockholder vote on the compensation program for our named executive officers, commonly referred to as a  say on pay  vote, at our 2013 Annual Meeting of Stockholders. Over 90% of the voting power of shares voted at the 2013 Annual Meeting of Stockholders were cast in favor of our say on pay proposal. Our then compensation committee considered the result of this advisory vote to be an endorsement of our compensation program, policies, practices and philosophy for our named executive officers. Our compensation   governance committee has considered and will continue to consider the outcome of our say on pay votes and our stockholder views when making compensation decisions for our named executive officers. 
+  Based on the results of a separate non-binding advisory stockholder vote on the frequency of future stockholder advisory votes regarding the compensation program of our named executive officers, commonly referred to as a  say on frequency  vote, held at our 2013 Annual Meeting of Stockholders, our board of directors determined that we will hold our say on pay vote every three years until the next required say on frequency vote, which will occur no later than 2019. 
+  We value the opinions of our stockholders and will continue to consider the outcome of future say on pay votes when we make compensation decisions for the members of our executive team, including the named executive officers. The next say on pay vote will take place at our 2016 Annual Meeting of Stockholders. 
+    
+  162(m) Tax Deductibility 
+  Section 162(m) of the Internal Revenue Code of 1986, as amended (Code), limits the amount that we may deduct from our federal income taxes for remuneration paid to our named executive officers (other than our CFO) to $1 million dollars per executive officer per year, unless certain requirements are met. Section 162(m) provides an exception from this deduction limitation for certain forms of  performance-based compensation,  as well as for the gain recognized by covered executive officers upon the exercise of qualifying compensatory stock options. In addition,  grandfather  provisions may apply to certain compensation arrangements that were entered into by a corporation before it was publicly held and through April 1, 2015. While our compensation   governance committee is mindful of the benefit to us of the full deductibility of compensation, our compensation   governance committee believes that it should not be constrained by the requirements of Section 162(m) where those requirements would impair flexibility in compensating our executive officers in a manner that can best promote our corporate objectives. Therefore, our compensation   governance committee has not adopted a policy that requires that all compensation be deductible and, accordingly, gain recognized from RSUs granted after April 1, 2015 may be non-deductible. Our compensation   governance committee intends to continue to compensate our executive officers in a manner consistent with the best interests of our company and our stockholders. In addition, because of the fact-based nature of the performance-based compensation exception under Section 162(m) and the limited availability of formal guidance thereunder, we cannot guarantee that any compensation arrangements intended to qualify for exemption under Section 162(m) will actually receive this treatment. 
+  Compensation Risk Assessment 
+  Our management team and the compensation   governance committee each play a role in evaluating and mitigating any risk that may exist relating to our compensation plans, practices, and policies for all employees, including our named executive  
+
+officers. In early 2016, Compensia, the compensation   governance committee's independent compensation consultant, performed an assessment, in conjunction with management, of our compensation plans and practices and concluded that our compensation program does not create risks that are reasonably likely to have a material adverse effect on the company. The compensation   governance committee has reviewed this report and agreed with the conclusion. The objective of the assessment was to identify any compensation plans or practices that may encourage employees to take unnecessary risk that could threaten the company. No such plans or practices were identified. The risk assessment process included, among other things, a review of our cash and equity incentive-based compensation plans to ensure that they are aligned with our company performance goals and the overall compensation to ensure an appropriate balance between fixed and variable pay components and between short and long-term incentives. 
+
+Report of the Compensation   Governance Committee 
+  This report of the compensation   governance committee is required by the Securities and Exchange Commission (SEC) and, in accordance with the SEC s rules, will not be deemed to be part of or incorporated by reference by any general statement incorporating by reference our annual report on Form 10-K for the fiscal year ended December 31, 2015 into any filing under the Securities Act of 1933, as amended (Securities Act), or under the Securities Exchange Act of 1934, as amended (Exchange Act), except to the extent that we specifically incorporate this information by reference, and will not otherwise be deemed  soliciting material  or  filed  under either the Securities Act or the Exchange Act. 
+  Our compensation   governance committee has reviewed and discussed the Compensation Discussion and Analysis required by Item 402(b) of Regulation S-K with management and based on such review and discussions, the compensation   governance committee recommended to our board of directors that the Compensation Discussion and Analysis be included in our annual report on Form 10-K for the fiscal year ended December 31, 2015. 
+  THE COMPENSATION   GOVERNANCE COMMITTEE 
+  Reed Hastings (Chair) 
+  Marc L. Andreessen 
+  Peter A. Thiel 
+
+2015 Summary Compensation Table  
+  The following table presents summary information regarding the total compensation awarded to, earned by, or paid to each of the named executive officers for services rendered to us for the years ended December 31, 2015, 2014, and 2013.  
+
+_______________________________________ 
+            (2) 
+    The amounts reported in the bonus column represent discretionary bonuses earned pursuant to our Bonus Plan. For more information about our executive officers  discretionary bonuses, see   Compensation Discussion and Analysis Elements of Executive Compensation Cash Bonuses  above. 
+              (3) 
+    Amounts reflect the aggregate grant date fair value of the RSUs of $78.07, $68.75, and $27.57 per share for 2015, 2014, and 2013, respectively, without regard to forfeitures, computed in accordance with ASC 718. This amount does not reflect the actual economic value realized by the named executive officer. The RSUs granted to Ms. Sandberg during 2015 provide for quarterly vesting based on continued employment over three years with a deferred vesting start date of November 15, 2017. The RSUs granted to Messrs. Cox and Schroepfer during 2015 provide for quarterly vesting based on continued employment over four years with deferred vesting start dates of February 15, 2017. One-fifth of the RSUs granted to Mr. Wehner during 2015 vested on February 15, 2016 and the remaining shares vest quarterly based on continued employment over four years.  
+              (4) 
+    The amounts reported include approximately $4,256,004, $5,602,652, and $2,647,288 in 2015, 2014, and 2013, respectively, for costs related to personal security for Mr. Zuckerberg at his residences and during personal travel pursuant to Mr. Zuckerberg s overall security program. The amounts reported also include approximately $775,011, $610,454 and $650,164 in 2015, 2014, and 2013, respectively, for costs related to personal usage of private aircraft. For purposes of reporting the value of personal usage of private aircraft in this table, we use costs provided by the applicable charter company, which include passenger fees, fuel, crew and catering costs. For more information regarding Mr. Zuckerberg s overall security program, as well as his personal usage of private aircraft, see   Executive Compensation Compensation Discussion and Analysis Perquisites and Other Benefits.  
+              (5)  
+    The amounts reported in 2015 reflect costs related to personal security measures for Ms. Sandberg described in   Executive Compensation Compensation Discussion and Analysis Perquisites and Other Benefits.  
+
+2015 Grants of Plan-Based Awards Table 
+  The following table presents, for each of the named executive officers, information concerning each grant of an equity award made during the year ended December 31, 2015. This information supplements the information about these awards set forth in the 2015 Summary Compensation Table. 
+
+_______________________________________ 
+           (1) 
+    Amounts reflect the grant date fair value of the RSUs of $78.07 per share without regard to forfeitures, computed in accordance with ASC 718. This amount does not reflect the actual economic value realized by the named executive officer. 
+              (2) 
+    The vesting condition will be satisfied as to 1/12th of the total shares underlying the RSUs on February 15, 2018. The remaining shares underlying the RSUs vest at a rate of 1/12th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (3) 
+    The vesting condition was satisfied as to 1/5th of the total shares underlying the RSUs on February 15, 2016. The remaining shares underlying the RSUs vest at a rate of 1/20th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (4)  
+    The vesting condition will be satisfied as to 1/16th of the total shares underlying the RSUs on May 15, 2017. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+
+2015 Outstanding Equity Awards at Year-End Table 
+  The following table presents, for each of the named executive officers, information regarding outstanding stock options and RSUs held as of December 31, 2015. 
+
+_____________________________________ 
+           (1) 
+    All of the outstanding equity awards described in the footnotes below were granted under our 2005 Stock Plan or 2012 Equity Incentive Plan. 
+              (2) 
+    With the exception of the stock option granted to Ms. Sandberg described in footnote (6) below, this column represents the fair value of a share of Class B common stock on the date of grant. 
+
+(3) 
+    Represents the market value of the shares underlying the RSUs as of December 31, 2015, based on the official closing price of our Class A common stock, as reported on the NASDAQ Global Select Market, of $104.66 per share on December 31, 2015. This value assumes that the fair market value of the Class B common stock underlying the RSUs, which is not listed or approved for trading on or with any securities exchange or association, is equal to the fair market value of our Class A common stock. Each share of Class B common stock is convertible into one share of Class A common stock at any time at the option of the holder or upon certain transfers of such shares. 
+              (4) 
+    1/48th of the total number of shares subject to the original option grant vested on May 1, 2013. The remaining shares subject to the option vest at a rate of 1/48th of the total number of shares subject to the option each month thereafter, subject to continued service to us through each vesting date. 
+              (5) 
+    260,000 of the total number of shares subject to the original option grant vest in equal monthly installments for a period of 48 months beginning on May 1, 2013, and, thereafter, the remaining shares subject to the option vest in equal monthly installments for a period of 12 months, subject to continued service to us through each vesting date. 
+              (6) 
+    The compensation committee set the option exercise price for this grant at $15.00 per share, a premium to the fair market value of a share of Class B common stock on the date of grant which was determined by our compensation committee to be $12.56 per share. 
+              (7) 
+    1/16th of the total shares underlying the original RSU grant vested on January 15, 2014. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (8) 
+    1/16th of the total shares underlying the original RSU grant vested on February 15, 2014. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (9) 
+    1/16th of the total shares underlying the RSUs will vest on February 15, 2018. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (10) 
+    1/16th of the total shares underlying the RSUs will vest on May 15, 2016. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (11) 
+    1/12th of the total shares underlying the RSUs will vest on February 15, 2018. The remaining shares underlying the RSUs vest at a rate of 1/12th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date.  
+              (12) 
+    1/4th of the total shares underlying the original RSU grant vested on November 15, 2013. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares subject to the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (13) 
+    1/16th of the total shares underlying the original RSU grant vested on February 15, 2014. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares subject to the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (14) 
+    1/16th of the total shares underlying the RSUs will vest on May 15, 2016. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (15) 
+    1/5th of the total shares underlying the original RSU grant vested on February 15, 2016. The remaining shares underlying the RSUs vest at a rate of 1/20th of the total number of shares subject to the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (16) 
+    1/48th of the total number of shares subject to the original option grant vested on September 1, 2013. The remaining shares subject to the option vest at a rate of 1/48th of the total number of shares subject to the option each month thereafter, subject to continued service to us through each vesting date. 
+              (17) 
+    1/16th of the total shares underlying the original RSU grant vested on August 15, 2013. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+
+(18) 
+    1/16th of the total shares underlying the original RSU grant vested on July 15, 2014. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (19) 
+    1/16th of the total shares underlying the RSUs will vest on February 15, 2017. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (20) 
+    1/16th of the total shares underlying the RSUs will vest on August 15, 2017. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (21) 
+    1/16th of the total shares underlying the RSUs will vest on May 15, 2016. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (22)  
+    1/16th of the total shares underlying the RSUs will vest on May 15, 2017. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+     (23)   In connection with certain estate planning transfers, options to purchase an aggregate of 763,000 shares of Class B common stock were held by Michael Schroepfer and Erin Hoffman, Co-Trustees of the HS Trust u/a/d 9/28/11 and Michael T. Schroepfer and Erin Hoffman, Co-Trustees of the Clover Irrevocable, Non-Exempt Trust u/a/d 6/27/11 as of December 31, 2015. 
+           (24) 
+    1/16th of the total shares underlying the original RSU grant vested on August 15, 2014. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (25) 
+    1/16th of the total shares underlying the original RSU grant vested on January 15, 2014. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (26) 
+    1/16th of the total shares underlying the original RSU grant vested on November 15, 2014. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (27) 
+    1/16th of the total shares underlying the RSUs will vest on February 15, 2018. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (28) 
+    1/16th of the total shares underlying the RSUs will vest on May 15, 2016. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date. 
+              (29) 
+    1/16th of the total shares underlying the RSUs will vest on May 15, 2017. The remaining shares underlying the RSUs vest at a rate of 1/16th of the total number of shares underlying the RSUs each quarter thereafter, subject to continued service to us through each vesting date.  
+       
+  On March 6, 2016, our compensation   governance committee approved RSU grants to our named executive officers. These RSUs were granted on March 15, 2016 as follows: Sheryl K. Sandberg 179,890; David M. Wehner 134,920; Christopher K. Cox 134,920; and Mike Schroepfer 134,920. These RSUs will vest quarterly based on continued employment over four years with deferred vesting start dates of February 15, 2020 for Mr. Cox, November 15, 2019 for Mr. Schroepfer, May 15, 2019 for Ms. Sandberg, and November 15, 2016 for Mr. Wehner. 
+
+2015 Option Exercises and Stock Vested 
+  The following table presents, for each of the named executive officers, the number of shares of our common stock acquired upon the exercise of stock options and the vesting and settlement of RSUs during 2015 and the aggregate value realized upon the exercise of stock options and the vesting and settlement of RSUs. 
+
+________________________________________ 
+           (1)  
+    These values assume that the fair market value of the Class B common stock underlying certain of the RSUs and options, which is not listed or approved for trading on or with any securities exchange or association, is equal to the fair market value of our Class A common stock. Each share of Class B common stock is convertible into one share of Class A common stock at any time at the option of the holder or upon certain transfers of such shares. 
+              (2)  
+    The aggregate value realized upon the exercise of an option represents the difference between the aggregate market price of the shares of our Class B common stock, assumed to be equal to our Class A common stock as described in footnote (1) above, on the date of exercise and the aggregate exercise price of the option. 
+              (3) 
+    The aggregate value realized upon the vesting and settlement of an RSU represents the aggregate market price of the shares of our Class A common stock or Class B common stock (which is assumed to be equal to our Class A common stock as described in footnote (1) above) on the date of settlement. 
+              (4) 
+    Consists of 600,000 shares of Class B common stock issued upon exercise of stock options held by Mr. Schroepfer and 37,000 shares of Class B common stock issued upon exercise of stock options held by Mr. Schroepfer and Erin Hoffman, Co-Trustees of the Clover Irrevocable, Non-Exempt Trust u/a/d 6/27/11 as of December 31, 2015. 
+
+Employment Agreements and Offer Letters 
+  We have entered into employment agreements or offer letters with each of the named executive officers. These agreements provide for at-will employment and generally include the named executive officer s initial base salary, and an indication of eligibility for an annual cash incentive award opportunity. In addition, each of our named executive officers has executed a form of our standard confidential information and invention assignment agreement. 
+  Mark Zuckerberg 
+  We entered into an amended and restated offer letter with Mr. Zuckerberg, our founder, Chairman, and CEO, in January 2012. This offer letter agreement has no specific term and constitutes at-will employment. Mr. Zuckerberg s annual base salary as of December 31, 2015 was $1, and he is not eligible to receive bonus compensation under our Bonus Plan. 
+  Sheryl K. Sandberg 
+  We entered into an amended and restated employment agreement with Ms. Sandberg, our COO and a member of our board of directors, in January 2012. The employment agreement has no specific term and constitutes at-will employment. Ms. Sandberg s annual base salary as of December 31, 2015 was $700,000, and she is eligible to receive semi-annual bonus compensation under our Bonus Plan.  
+  David M. Wehner 
+  We entered into an amended and restated offer letter with Mr. Wehner, our CFO, in August 2014. The offer letter agreement has no specific term and constitutes at-will employment. Mr. Wehner s annual base salary as of December 31, 2015 was $650,000, and he is eligible to receive semi-annual bonus compensation under our Bonus Plan. 
+  Christopher K. Cox 
+  We entered into an amended and restated offer letter with Mr. Cox, our CPO, in May 2014. The offer letter agreement has no specific term and constitutes at-will employment. Mr. Cox s annual base salary as of December 31, 2015 was $625,000, and he is eligible to receive semi-annual bonus compensation under our Bonus Plan. 
+  Mike Schroepfer 
+  We entered into an amended and restated offer letter with Mr. Schroepfer, our CTO, in January 2012. The offer letter agreement has no specific term and constitutes at-will employment. Mr. Schroepfer s annual base salary as of December 31, 2015 was $625,000, and he is eligible to receive semi-annual bonus compensation under our Bonus Plan. 
+  Potential Payments upon Termination or Change in Control 
+  None of our named executive officers are entitled to payments or acceleration of vesting with respect to equity awards held by such named executive officers in connection with a termination or a change in control. 
+  Limitations on Liability and Indemnification Matters 
+  Our restated certificate of incorporation contains provisions that limit the liability of our directors for monetary damages to the fullest extent permitted by the Delaware General Corporation Law. Consequently, our directors will not be personally liable to us or our stockholders for monetary damages for any breach of fiduciary duties as directors, except liability for: 
+             
+    any breach of the director s duty of loyalty to us or our stockholders; 
+                
+    any act or omission not in good faith or that involves intentional misconduct or a knowing violation of law; 
+
+unlawful payments of dividends or unlawful stock repurchases or redemptions as provided in Section 174 of the Delaware General Corporation Law; or 
+                
+    any transaction from which the director derived an improper personal benefit. 
+     Our restated certificate of incorporation and amended and restated bylaws require us to indemnify our directors, executive officers, and other key employees made or threatened to be made a party to an action or proceeding, by reason of the fact that he or she serves or served in such capacity at our request to the maximum extent not prohibited by the Delaware General Corporation Law or any other applicable law and allow us to indemnify other officers, employees, and other agents as set forth in the Delaware General Corporation Law or any other applicable law. 
+  We have entered, and intend to continue to enter, into separate indemnification agreements with our directors, executive officers, and other key employees, in addition to the indemnification provided for in our amended and restated bylaws. These agreements, among other things, require us to indemnify our directors, executive officers, and other key employees for certain expenses, including attorneys  fees, judgments, penalties fines, and settlement amounts actually and reasonably incurred by a director or executive officer in any action or proceeding arising out of their services as one of our directors or executive officers, or any of our subsidiaries or any other company or enterprise to which the person provides services at our request, including liability arising out of negligence or active or passive wrongdoing by the officer or director. We believe that these charter provisions and indemnification agreements are necessary to attract and retain qualified persons such as directors, officers and key employees. We also maintain directors  and officers  liability insurance. 
+  The limitation of liability and indemnification provisions in our restated certificate of incorporation and amended and restated bylaws may discourage stockholders from bringing a lawsuit against our directors and officers for breach of their fiduciary duty. They may also reduce the likelihood of derivative litigation against our directors and officers, even though an action, if successful, might benefit us and other stockholders. Further, a stockholder s investment may be adversely affected to the extent that we pay the costs of settlement and damage awards against directors and officers as required by these indemnification provisions. 
+  Insofar as indemnification for liabilities arising under the Securities Act of 1933, as amended (Securities Act), may be permitted to directors, executive officers or persons controlling us, we have been informed that in the opinion of the SEC such indemnification is against public policy as expressed in the Securities Act and is therefore unenforceable. 
+  Rule 10b5-1 Sales Plans 
+  Certain of our directors and executive officers have adopted written plans, known as Rule 10b5-1 plans, in which they will contract with a broker to buy or sell shares of our common stock on a periodic basis. Under a Rule 10b5-1 plan, a broker executes trades pursuant to parameters established by the director or executive officer when entering into the plan, without further direction from them. The director or executive officer may amend or terminate the plan in specified circumstances. Our executive officers and directors are required to conduct all purchase or sale transactions under a Rule 10b5-1 plan. 
+
+Director Compensation 
+  Non-Employee Director Compensation Arrangements 
+  Each non-employee member of our board of directors receives an annual retainer fee of $50,000. Members of our audit committee (other than the chair) receive an annual retainer fee of $20,000, and the chair of our audit committee receives an annual retainer fee of $50,000. 
+   Each of our non-employee directors who is an existing member of our board of directors as of the date of our annual stockholder meeting for each such year also will be eligible to receive an annual grant of RSUs equal to $300,000 divided by the average daily closing price of our Class A common stock in May of such year. These awards will be approved each year automatically on the later of June 1 or the date of our annual meeting of stockholders for the particular year. These awards will vest fully on the earlier of (i) May 15 of the following year or (ii) the date of our annual meeting of stockholders of the following year if the director does not stand for re-election or is not re-elected at such annual meeting, so long as the recipient is a director on such date. 
+  In 2015, annual grants of 3,778 RSUs were made to each non-employee director, which is equal to $300,000 divided by the average daily closing price of our Class A common stock in May 2015. These RSUs vest on May 15, 2016, so long as the non-employee director is a member of our board of directors on such date. 
+  New non-employee directors also will be eligible to receive a grant of RSUs in an amount and on terms to be approved by our board of directors at the time of appointment. 
+  2015 Director Compensation 
+  The following table presents the total compensation for each person who served as a member of our board of directors during 2015. Other than as set forth in the table and described more fully below, in 2015 we did not pay any fees to, make any equity awards to, or pay any other compensation to the members of our board of directors who served as members during 2015. Mr. Zuckerberg, Ms. Sandberg, and Mr. Koum do not receive compensation for their service as directors. Total compensation for Mr. Zuckerberg and Ms. Sandberg for services as employees is presented in   2015 Summary Compensation Table  above. 
+
+__________________________________________ 
+           (1) 
+    Amounts reflect the aggregate grant date fair value of the RSUs without regard to forfeitures, computed in accordance with ASC 718. This amount does not reflect the actual economic value realized by the director. 
+       (4)  Mr. Graham ceased service as a member of our board of directors on June 11, 2015. 
+
+Compensation   Governance Committee Interlocks and Insider Participation  
+  During 2015, our compensation   governance committee consisted of Messrs. Andreessen, Hastings, and Thiel. None of them has at any time in the last fiscal year been one of our officers or employees. Moreover, none of our executive officers has served as a member of the board of directors, or as a member of the compensation or similar committee, of any entity that has one or more executive officers who served on our board of directors or compensation   governance committee during 2015. 
+
+Item 12.        Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+  The following table sets forth certain information with respect to the beneficial ownership of our common stock as of March 31, 2016, for: 
+             
+    each stockholder known by us to be the beneficial owner of more than 5% of our outstanding shares of Class A common stock or Class B common stock; 
+                
+    each of our directors; 
+                
+    each of our named executive officers; and 
+                
+    all of our directors and executive officers as a group. 
+     We have determined beneficial ownership in accordance with the rules of the Securities and Exchange Commission (SEC). Except as indicated by the footnotes below, we believe, based on the information furnished to us, that the persons and entities named in the following table have sole voting and investment power with respect to all shares of Class A common stock or Class B common stock that they beneficially own, subject to applicable community property laws. 
+  Applicable percentage ownership is based on 2,311,052,873 shares of Class A common stock and 548,638,840 shares of Class B common stock outstanding at March 31, 2016. In computing the number of shares of common stock beneficially owned by a person and the percentage ownership of that person, we deemed to be outstanding all shares of common stock subject to options, restricted stock units (RSUs) or other convertible securities held by that person or entity that are currently exercisable or releasable or that will become exercisable or releasable within 60 days of March 31, 2016. We did not deem these shares outstanding, however, for the purpose of computing the percentage ownership of any other person. Unless otherwise indicated, the address of each beneficial owner listed in the following table is c/o Facebook, Inc., 1601 Willow Road, Menlo Park, California 94025. 
+
+___________________________________ 
+            (1) 
+    Percentage of total voting power represents voting power with respect to all shares of our Class A common stock and Class B common stock, as a single class. The holders of our Class B common stock are entitled to ten votes per share, and holders of our Class A common stock are entitled to one vote per share. 
+               (3) 
+    Consists of shares of our Class B common stock beneficially owned by Mr. Moskovitz over which, except under limited circumstances, Mr. Zuckerberg holds an irrevocable proxy, pursuant to a voting agreement between Mr. Zuckerberg, us, and Mr. Moskovitz with respect to certain matters, as indicated in footnote (15) below. We do not believe that the parties to the voting agreement constitute a  group  under Section 13 of the Securities Exchange Act of 1934, as amended, as Mr. Zuckerberg exercises voting control over these shares. 
+
+and (iv) 13,029 shares of Class A common stock and 118,133 shares of Class B common stock issuable upon the settlement of RSUs releasable within 60 days of March 31, 2016. 
+               (8) 
+    Consists of (i) 167,868 shares of Class A common stock held of record by The Andreessen 1996 Living Trust (Andreessen Living Trust); (ii) 3,778 shares of Class A common stock issuable upon the settlement of RSUs releasable within 60 days of March 31, 2016; (iii) 224,239 shares of Class B common stock to be received by Andreessen Horowitz Fund III, L.P., as nominee (AH Fund), in connection with our acquisition of Oculus VR, Inc. (Oculus); and (iv) 155,190 shares of Class B common stock to be received by AH Parallel Fund III, L.P., as nominee (AHPF), in connection with our acquisition of Oculus. The shares to be received by AH Fund and AHPF are currently being held in escrow and are subject to forfeiture during the escrow period stated to satisfy claims arising as a result of, among other things, Oculus  breach of any of its representations and warranties or covenants and agreements set forth in the amended and restated agreement and plan of merger dated April 21, 2014. Mr. Andreessen has irrevocably committed to cause all shares of Class B common stock that may be received by AH Fund and AHPF upon release of such escrow into Class A common stock. Mr. Andreessen and JPMorgan Chase Bank, N.A. (successor-in-interest to J.P. Morgan Trust Company, N.A.) are the trustees of the Andreessen Living Trust, and may be deemed to share voting and investment power over the securities held by the Andreessen Living Trust. AH Equity Partners III, L.L.C. (AHEP) is the general partner of AH Fund. Mr. Andreessen is one of the managing members of AHEP and, therefore, may be deemed to share voting and investment power over the securities held by AH Fund. AH Equity Partners III (Parallel), L.L.C. (AHEP Parallel) is the general partner of AHPF. Mr. Andreessen is one of the managing members of AHEP Parallel and, therefore, may be deemed to share voting and investment power over the securities held by AHPF. The address of Andreessen Living Trust, AH Fund, and AHPF is 2865 Sand Hill Road, Suite 101, Menlo Park, California 94025. 
+               (10) 
+    Consists of (i) 20,652 shares of Class A common stock held of record by Nicholas S. Hellmann and Susan D. Desmond-Hellmann as the co-trustees of the Hellmann Family Trust and (ii) 5,028 shares of Class A common stock issuable upon the settlement of RSUs releasable within 60 days of March 31, 2016. 
+
+Jan Koum Trust VI U/A/D 8/5/2015; (viii) 3,500,000 shares of Class A common stock held of record by Jan Koum, Trustee of the Jan Koum Trust VII U/A/D 10/20/2015; (ix) 3,500,000 shares of Class A common stock held of record by Jan Koum, Trustee of the Jan Koum Trust VIII U/A/D 1/29/2016; and (x) 1,242,673 shares of Class A common stock issuable upon the settlement of RSUs releasable within 60 days of March 31, 2016. 
+           (13) 
+    Consists of (i) 1,072,033 shares of Class A common stock held of record by Rivendell One LLC (Rivendell); (ii) 3,778 shares of Class A common stock issuable upon the settlement of RSUs releasable within 60 days of March 31, 2016; (iii) 41,631 shares of Class B common stock to be received by The Founders Fund IV, LP (FF) in connection with our acquisition of Oculus; and (iv) 13,364 shares of Class B common stock to be received by The Founders Fund IV Principals Fund, LP (FFPF) in connection with our acquisition of Oculus. The shares to be received by FF and FFPF are currently being held in escrow and are subject to forfeiture during the escrow period stated to satisfy claims arising as a result of, among other things, Oculus  breach of any of its representations and warranties or covenants and agreements set forth in the amended and restated agreement and plan of merger dated April 21, 2014. Mr. Thiel is the beneficial owner of Rivendell and has voting and investment power over the securities held by Rivendell. Mr. Thiel is one of the managers of the general partner of each of FF and FFPF, and, therefore, may be deemed to have voting and investment power over the securities held by these entities. 
+               (15) 
+    Consists of 42,062,058 shares of Class B common stock held of record by Dustin A. Moskovitz, Trustee of The Dustin A. Moskovitz Trust dated December 27, 2005 (Moskovitz 2005 Trust) and 6,830,855 shares of Class B common stock held of record by Dustin Moskovitz, Trustee of The Dustin Moskovitz 2008 Annuity Trust dated March 10, 2008 (Moskovitz 2008 Trust). Mr. Moskovitz is trustee, co-trustee or beneficiary of the Moskovitz 2005 Trust and the Moskovitz 2008 Trust. The address of Mr. Moskovitz is 224 Jackson Street, Suite 300, San Francisco, California 94111. All of the shares held by the Moskovitz 2005 Trust and the Moskovitz 2008 Trust are subject to a voting agreement in favor of Mr. Zuckerberg referred to in footnote (3) above. Mr. Moskovitz did not respond to our request for ownership information with respect to our Class A common stock in connection with the preparation of this disclosure and we are not affiliated with Mr. Moskovitz or any other person that has access to such ownership information, so this disclosure is based on information obtained from our transfer agent and other information available to us as of March 31, 2016.  
+                (18) 
+    Based on information reported by FMR LLC on Schedule 13G/A filed with the SEC on February 12, 2016. Of the shares of Class A common stock beneficially owned, FMR LLC reported that is has sole dispositive power with respect to all of the shares and sole voting power with respect to 13,411,812 shares. FMR LLC listed its address as 245 Summer Street, Boston, Massachusetts 02210. 
+
+Securities Authorized for Issuance Under Equity Compensation Plans 
+  The following table summarizes compensation plans under which our equity securities are authorized for issuance as of December 31, 2015. 
+                             Plan Category 
+      
+    (a) Total Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants  and Rights 
+      
+    (b)  Weighted-average Exercise Price Of Outstanding Options, Warrants and Rights($)   (1)  
+      
+    (c)  Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column (a)) 
+      Equity compensation plans approved by security holders   (2)  
+      
+    95,497,130 
+
+7.10 
+      
+    98,465,884 
+      Equity compensation plans not approved by security holders   (3)  
+      
+    29,355,630 
+
+N/A 
+      
+    N/A 
+
+____________________________________ 
+            (1) 
+    The weighted-average exercise price does not reflect the shares that will be issued in connection with the settlement of RSUs, since RSUs have no exercise price. 
+              (2) 
+    Prior to our initial public offering, we granted awards under our 2005 Stock Plan. Following our initial public offering, we granted awards under our 2012 Equity Incentive Plan. 
+              (3) 
+    Consists of shares of Class A common stock issuable upon the settlement of non-plan RSU awards made pursuant to Section 5635(c)(4) of the NASDAQ rules to two employees in connection with the commencement of their service to us following our acquisition of WhatsApp.  
+
+Item 13. 
+    Certain Relationship and Related Transactions, and Director Independence 
+     Since January 1, 2015, aside from the executive officer and director compensation arrangements discussed in Part III, Item 11,  Executive Compensation  above, we did not have any transactions to which we have been a participant, in which the amount involved in the transaction exceeds or will exceed $120,000 and in which any of our directors, executive officers or holders of more than 5% of our capital stock, or any immediate family member of, or person sharing the household with, any of these individuals, had or will have a direct or indirect material interest. Notwithstanding the foregoing, in 2015, related entities of certain of our directors and executive officers, or their immediate family members, purchased and received credits to purchase advertising from us in the ordinary course of business pursuant to our standard terms and conditions. 
+  Review, Approval or Ratification of Transactions with Related Parties 
+    
+  We have adopted a related-party transactions policy to comply with Section 404 of the Securities Exchange Act of 1934, as amended, under which our executive officers, directors, nominees for election as a director, beneficial owners of more than 5% of any class of our common stock, and any members of the immediate family of any of the foregoing persons are not permitted to enter into a related-party transaction with us without the consent of our audit committee. If the related party is, or is associated with, a member of our audit committee, the transaction must be reviewed and approved by our compensation   governance committee. Any request for us to enter into a transaction with a related party must first be presented to our legal department for review. Our legal department then refers any transaction with a related party in which the amount involved exceeds $120,000 and such party would have a direct or indirect material interest to our audit committee for review, consideration and approval. If advance approval of a transaction between a related party and our company was not feasible or was not obtained, the transaction must be submitted to the legal department for review as soon as reasonably practicable for determination of whether the transaction constituted a related-party transaction. The legal department then refers such transaction to the audit committee, at which time the audit committee considers whether to ratify and continue, amend and ratify, or terminate or rescind such related-party transaction. All of the transactions described above, including transactions in which the related party did not have a material interest, were reviewed and considered by, and were entered into with the approval of, or ratification by, our audit committee. 
+  Board Independence 
+    
+  The rules of NASDAQ generally require that a majority of the members of a listed company s board of directors be independent. Although we are a  controlled company  under the corporate governance rules of NASDAQ and, therefore, are not required to comply with certain rules requiring director independence, we have nevertheless opted, under our corporate governance guidelines, to have a majority of the members of our board of directors be independent and to have a compensation   governance committee comprised solely of independent directors. Our board of directors has determined that none of our non-employee directors has a relationship that would interfere with the exercise of independent judgment in carrying out the responsibilities of a director and that each of these directors is  independent  as that term is defined under the rules of NASDAQ.  
+
+Item 14. 
+    Principal Accounting Fees and Services 
+     The following table sets forth the aggregate fees for audit and other services provided by our independent registered public accounting firm, Ernst   Young LLP, for the years ended December 31, 2015 and 2014 (in thousands): 
+
+_________________________________ 
+  (1)	Audit fees consist of the aggregate fees billed for professional services rendered for (i) the audit of our annual financial statements included in our Annual Report on Form 10-K and a review of financial statements included in our Quarterly Reports on Form 10-Q, (ii) the filing of our registration statements, including our Registration Statements on Form S-3 in October 2014, (iii) services that are normally provided in connection with statutory and regulatory filings or engagements for those years, and (iv) accounting consultations.  
+  (2)	Audit-related fees consist of service organization control examinations. Prior period has been reclassified to conform to current year presentation.  
+  (3)	Tax fees in 2015 include $2.7 million for tax compliance projects and $2.3 million for tax advisory projects. Tax fees in 2014 include $1.7 million for tax compliance projects and $3.6 million for tax advisory projects.    
+  (4)	All other fees consist of fees for services other than the services reported in audit fees, audit-related fees, and tax fees.    
+  The audit committee's policy is to pre-approve all audit and permissible non-audit services provided by the independent accountants. These services may include audit services, audit-related services, tax services, and other services. The audit committee generally pre-approves particular services or categories of services on a case-by-case basis. The independent registered public accounting firm and management are required to periodically report to the audit committee regarding the extent of services provided by the independent registered public accounting firm in accordance with these pre-approvals, and the fees for the services performed to date.    
+  All of the services of Ernst   Young LLP for 2015 and 2014 described above were pre-approved by the audit committee. 
+
+PART IV 
+   
+           Item 15. 
+    Exhibits, Financial Statement Schedules 
+     We have filed the following documents as part of this report: 
+    
+  1. Consolidated Financial Statements: 
+                 
+      Reports of Independent Registered Public Accounting Firm* 
+      Consolidated Balance Sheets* 
+      Consolidated Statements of Income* 
+      Consolidated Statements of Comprehensive Income* 
+      Consolidated Statements of Stockholders' Equity* 
+      Consolidated Statements of Cash Flows* 
+      Notes to Consolidated Financial Statements* 
+
+2. Financial Statement Schedules 
+    
+  All schedules have been omitted because they are not required, not applicable, not present in amounts sufficient to require submission of the schedule, or the required information is otherwise included. 
+    
+  3. Exhibits 
+    
+  See the Exhibit Index immediately following the signature page of this report. 
+    
+           * 
+    Previously filed with our Annual Report on Form 10-K filed with the SEC on January 28, 2016, which is being amended hereby. 
+
+SIGNATURE 
+    
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused Amendment No. 1 to this report to be signed on its behalf by the undersigned, thereunto duly authorized.   
+
+FACEBOOK, INC. 
+
+Date: 
+    April 27, 2016 
+      
+    /s/ David M. Wehner 
+
+David M. Wehner 
+
+Chief Financial Officer 
+
+EXHIBIT INDEX 
+
++ Indicates a management contract or compensatory plan.     
+    Portions of exhibit have been granted confidential treatment by the SEC. 
+  * Previously filed with our Annual Report on Form 10-K filed with the SEC on January 28, 2016. 
+  ** Previously furnished with our Annual Report on Form 10-K filed with the SEC on January 28, 2016. 
+
+<EX-31.3>
+ 2
+ a1231201510k-aexhibit313.htm
+ EXHIBIT 31.3
+
+Exhibit 
+
+EXHIBIT 31.3 
+    
+  CERTIFICATION OF PERIODIC REPORT UNDER SECTION 302 OF 
+  THE SARBANES-OXLEY ACT OF 2002 
+    
+  I, Mark Zuckerberg, certify that: 
+    
+  1. I have reviewed this Amendment No. 1 to annual report on Form 10-K of Facebook, Inc.; and 
+    
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report. 
+    
+                   Date: 
+    April 27, 2016 
+
+/s/ MARK ZUCKERBERG 
+
+Mark Zuckerberg 
+
+Chairman and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.3>
+
+<EX-31.4>
+ 3
+ a1231201510k-aexhibit314.htm
+ EXHIBIT 31.4
+
+Exhibit 
+
+EXHIBIT 31.4 
+    
+  CERTIFICATION OF PERIODIC REPORT UNDER SECTION 302 OF 
+  THE SARBANES-OXLEY ACT OF 2002 
+    
+  I, David M. Wehner, certify that: 
+    
+  1. I have reviewed this Amendment No. 1 to the annual report on Form 10-K of Facebook, Inc.; and 
+    
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report. 
+    
+                   Date: 
+    April 27, 2016 
+
+/s/ DAVID M. WEHNER 
+
+David M. Wehner 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.4>
+

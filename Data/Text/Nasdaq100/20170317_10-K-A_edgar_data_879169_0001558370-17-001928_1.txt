@@ -1,0 +1,496 @@
+<Header>
+<FileStats>
+    <FileName>20170317_10-K-A_edgar_data_879169_0001558370-17-001928_1.txt</FileName>
+    <GrossFileSize>199248</GrossFileSize>
+    <NetFileSize>19902</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>120629</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>8</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001558370-17-001928.hdr.sgml : 20170317
+<ACCEPTANCE-DATETIME>20170317161644
+ACCESSION NUMBER:		0001558370-17-001928
+CONFORMED SUBMISSION TYPE:	10-K/A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20161231
+FILED AS OF DATE:		20170317
+DATE AS OF CHANGE:		20170317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INCYTE CORP
+		CENTRAL INDEX KEY:			0000879169
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				943136539
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12400
+		FILM NUMBER:		17698184
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1801 AUGUSTINE CUT-OFF
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+		BUSINESS PHONE:		3024986700
+
+	MAIL ADDRESS:	
+		STREET 1:		1801 AUGUSTINE CUT-OFF
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE CORP
+		DATE OF NAME CHANGE:	20030318
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE GENOMICS INC
+		DATE OF NAME CHANGE:	20000710
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INCYTE PHARMACEUTICALS INC
+		DATE OF NAME CHANGE:	19930902
+
+</SEC-Header>
+</Header>
+
+ 0001558370-17-001928.txt : 20170317
+
+10-K/A
+ 1
+ incy-20161231x10ka.htm
+ 10-K/A
+
+incy_Current folio_10KA
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10 K/A 
+
+(Amendment No. 1) 
+
+For the fiscal year ended December 31, 2016 
+
+or 
+
+For the transition period from                          to                       
+
+Commission File Number: 001 12400 
+
+INCYTE CORPORATION 
+
+(Exact name of registrant as specified in its charter) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class  
+
+Name of exchange on which registered  
+
+Common Stock, $.001 par value per share  
+
+The NASDAQ Stock Market LLC  
+
+Securities registered pursuant to Section 12(g) of the Act: 
+
+None 
+
+Indicate by check mark if the registrant is a well known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes        No     
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15 (d) of the Act. Yes         No     
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes        No     
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes        No     
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S K (  229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10 K or any amendment to this Form 10 K.     
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer ,  accelerated filer  and  smaller reporting company  in Rule 12b 2 of the Exchange Act. (check one) 
+
+Large accelerated filer      
+
+Accelerated filer      
+
+Non accelerated filer      
+					 
+						 (Do not check if a smaller reporting company)  
+
+Smaller reporting company      
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b 2 of the Exchange Act). Yes        No     
+
+The aggregate market value of Common Stock held by non affiliates (based on the closing sale price on The NASDAQ Global Select Market on June 30, 2016) was approximately $13.1 billion. 
+
+As of February 7, 2017 there were 189,408,381 shares of Common Stock, $.001 par value per share, outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Items 10 (as to directors and Section 16(a) Beneficial Ownership Reporting Compliance), 11, 12, 13 and 14 of Part III incorporate by reference information from the registrant s proxy statement to be filed with the Securities and Exchange Commission in connection with the solicitation of proxies for the registrant s 2017 Annual Meeting of Stockholders to be held on May 26, 2017  . 
+
+EXPLANATORY NOTE 
+
+This Amendment No. 1 to Form 10-K (this  Amendment ) amends the Annual Report on Form 10-K for the fiscal year ended December 31, 2016, originally filed on February 14, 2017 (the  Original Form 10-K ) of Incyte Corporation (the  Company  or  we ).  We are filing this Amendment to amend Item 15(b) to include a corrected copy of Exhibit 23.1, Consent of Ernst   Young LLP, as the version filed with the Original Form 10-K inadvertently omitted a reference to one of the Company s registration statements in which Ernst   Young LLP s reports are incorporated by reference and referenced a number of registration statements as to which all shares registered thereunder have been issued.   
+
+This Amendment should be read in conjunction with the Original Form 10-K and the Company s other filings made with the Securities and Exchange Commission subsequent to the filing of the Original Form 10-K.  The Original Form 10-K has not been amended or updated to reflect events occurring after February 14, 2017, except as specifically set forth in this Amendment. 
+
+Item 15.    Exhibits, Financial Statement Schedule  s 
+
+(a)  Documents filed as part of this report: 
+
+(1) 
+
+Financial Statements     
+
+Reference is made to the Index to Consolidated Financial Statements of Incyte Corporation under Item 8 of Part II of the Original Form 10-K. 
+
+(2) 
+
+Financial Statement Schedules     
+
+All financial statement schedules have been omitted because they are not applicable or not required or because the information is included elsewhere in the Consolidated Financial Statements or the Notes thereto referred to under Item 15(a)(1) above. 
+
+See Item 15(b) below. Each management contract or compensatory plan or arrangement required to be filed has been identified. 
+
+(b)  Exhibits  
+
+Exhibit Number  
+
+Description of Document  
+
+3(i)  
+
+Integrated copy of the Restated Certificate of Incorporation, as amended, of the Company (incorporated by reference to Exhibit 3(i) to the Company s Annual Report on Form 10 K for the year ended December 31, 2009).  
+
+3(ii)  
+
+Bylaws of the Company amended and restated as of July 31, 2015 (incorporated by reference to Exhibit 3.1 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2015).  
+
+4.1  
+
+Form of Common Stock Certificate (incorporated by reference to the exhibit of the same number to the Company s Annual Report on Form 10 K for the year ended December 31, 2002).  
+
+4.2  
+
+Indenture, dated as of November 14, 2013, between the Company and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.1 to the Company s Current Report on Form 8 K filed November 14, 2013).  
+
+4.3  
+
+Indenture, dated as of November 14, 2013, between the Company and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.2 to the Company s Current Report on Form 8 K filed November 14, 2013).  
+
+10.1#  
+
+1991 Stock Plan of Incyte Corporation, as amended (incorporated by reference to Exhibit 10.1 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2009).  
+
+2 
+
+3 
+
+Exhibit Number 
+
+Description of Document 
+
+10.18   
+
+Collaborative Research and License Agreement dated as of November 18, 2005, by and between the Company and Pfizer Inc. (incorporated by reference to Exhibit 10.49 to the Company s Annual Report on Form 10 K for the year ended December 31, 2005).  
+
+10.19   
+
+Collaboration and License Agreement entered into as of November 24, 2009, by and between the Company and Novartis International Pharmaceutical Ltd. (incorporated by reference to Exhibit 10.21 to the Company s Annual Report on Form 10 K for the year ended December 31, 2009).  
+
+10.20   
+
+Amendment, dated as of April 5, 2016, to Collaboration and License Agreement entered into as of November 24, 2009, by and between the Company and Novartis International Pharmaceutical Ltd. (incorporated by reference to Exhibit 10.1 to the Company s Quarterly Report on Form 10-Q for the quarter ended June 30, 2016).  
+
+10.20.1   
+
+License, Development and Commercialization Agreement, entered into as of December 18, 2009, by and between the Company and Eli Lilly and Company (incorporated by reference to Exhibit 10.22 to the Company s Annual Report on Form 10 K for the year ended December 31, 2009).  
+
+10.20.2   
+
+Amendment, dated June 22, 2010, to License, Development and Commercialization Agreement entered into as of December 18, 2009, by and between the Company and Eli Lilly and Company (incorporated by reference to Exhibit 10.6 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2010).  
+
+10.20.3   
+
+Third Amendment, entered into effective March 31, 2016, to License, Development and Commercialization Agreement entered into as of December 18, 2009, by and between the Company and Eli Lilly and Company (incorporated by reference to Exhibit 10.1 to the Company s Quarterly Report on Form 10-Q for the quarter ended March 31, 2016).  
+
+10.20.4 *  
+
+Fourth Amendment, entered into effective December 13, 2016, to License, Development and Commercialization Agreement entered into as of December 18, 2009, by and between the Company and Eli Lilly and Company.   
+
+10.21   
+
+License, Development and Commercialization Agreement, entered into as of January 9, 2015, by and between the Company, Incyte Europe S.a.r.l. (a wholly owned subsidiary of the Company), Agenus, Inc. and 4-Antibody AG (incorporated by reference to Exhibit 10.1 to the Company s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015).  
+
+10.22  
+
+Stock Purchase Agreement, entered into as of January 9, 2015, between the Company and Agenus, Inc. (incorporated by reference to Exhibit 10.2 to the Company s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015).  
+
+10.23   
+
+License and Collaboration Agreement, dated as of September 1, 2015, by and between Incyte Europe S. .r.l. and Jiangsu Hengrui Medicine Co., Ltd. (incorporated by reference to Exhibit 10.2 to the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2015).  
+
+10.24   
+
+Share Purchase Agreement, dated as of May 9, 2016, by and among Incyte Europe S. .r.l., ARIAD Pharmaceuticals (Cayman) L.P., ARIAD Pharmaceuticals, Inc., as guarantor, and the Company, as guarantor (incorporated by reference to Exhibit 10.2 to the Company s Quarterly Report on Form 10-Q for the quarter ended June 30, 2016).  
+
+10.25   
+
+Amended and Restated Buy-In License Agreement, dated as of June 1, 2016, between ARIAD Pharmaceuticals, Inc., ARIAD Pharmaceuticals (Europe) S. .r.l. and the Company, as guarantor (incorporated by reference to Exhibit 10.3 to the Company s Amendment No. 1 to Quarterly Report on Form 10-Q/A for the quarter ended June 30, 2016).  
+
+10.26 *  
+
+Collaboration and License Agreement, dated December 20, 2016, by and between the Company and Merus N.V.  
+
+10.27 *  
+
+Share Subscription Agreement, dated December 20, 2016, by and between the Company and Merus N.V.  
+
+10.28  
+
+Letter Agreement dated September 24, 2009 among the Company and the entities named therein (incorporated by reference to Exhibit 10.2 to the Company s Current Report on Form 8 K filed September 30, 2009).  
+
+10.29  
+
+Letter Agreement dated November 7, 2013 among the Company and the entities named therein (incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8 K filed November 14, 2013).  
+
+4 
+
+*  
+
+Filed with the Original Form 10-K.  
+
+**  
+
+Filed herewith  
+
+***  
+
+In accordance with Item 601(b)(32)(ii) of Regulation S K and SEC Release Nos. 33 8238 and 34 47986, Final Rule: Management s Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 are deemed to accompany the Form 10 K and will not be deemed  filed  for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.  
+
+Confidential treatment has been requested with respect to certain portions of these agreements.  
+
+#  
+
+Indicates management contract or compensatory plan or arrangement.  
+
+Copies of above exhibits not contained herein are available to any stockholder upon written request to: Investor Relations, Incyte Corporation, 1801 Augustine Cut Off, Wilmington, DE 19803. 
+
+(c)  Financial Statements and Schedules 
+
+Reference is made to Item 15(a)(2) above. 
+
+5 
+
+SIGNATURES   
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Amendment to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+INCYTE CORPORATION  
+
+By:  
+
+/s/   
+
+David W. Gryska  
+
+David W. Gryska  
+
+Executive Vice President and Chief Financial Officer  
+
+Date: March 17, 2017 
+
+6 
+
+EXHIBIT INDEX  
+
+Exhibit Number  
+
+Description of Document  
+
+3(i)  
+
+Integrated copy of the Restated Certificate of Incorporation, as amended, of the Company (incorporated by reference to Exhibit 3(i) to the Company s Annual Report on Form 10 K for the year ended December 31, 2009).  
+
+3(ii)  
+
+Bylaws of the Company amended and restated as of July 31, 2015 (incorporated by reference to Exhibit 3.1 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2015).  
+
+4.1  
+
+Form of Common Stock Certificate (incorporated by reference to the exhibit of the same number to the Company s Annual Report on Form 10 K for the year ended December 31, 2002).  
+
+4.2  
+
+Indenture, dated as of November 14, 2013, between the Company and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.1 to the Company s Current Report on Form 8 K filed November 14, 2013).  
+
+4.3  
+
+Indenture, dated as of November 14, 2013, between the Company and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.2 to the Company s Current Report on Form 8 K filed November 14, 2013).  
+
+10.1#  
+
+1991 Stock Plan of Incyte Corporation, as amended (incorporated by reference to Exhibit 10.1 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2009).  
+
+10.2#  
+
+Form of Incentive Stock Option Agreement under the 1991 Plan (incorporated by reference to the exhibit of the same number to the Company s Registration Statement on Form S 1 (File No. 33 68138)).  
+
+10.3#  
+
+Form of Nonstatutory Stock Option Agreement under the 1991 Plan (incorporated by reference to the exhibit of the same number to the Company s Registration Statement on Form S 1 (File No. 33 68138)).  
+
+10.4#  
+
+1993 Directors  Stock Option Plan of Incyte Corporation, as amended (incorporated by reference to Exhibit 10.2 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2009).  
+
+10.5#  
+
+Incyte Corporation Amended and Restated 2010 Stock Incentive Plan, as amended (incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8 K filed May 27, 2016).  
+
+10.6#  
+
+Form of Stock Option Agreement for Executive Officers under the Incyte Corporation Amended and Restated 2010 Stock Incentive Plan, as amended (incorporated by reference to Exhibit 10.7 to the Company s Quarterly Report on Form 10-Q for the quarter ended June 30, 2016).  
+
+10.7#  
+
+Form of Nonstatutory Stock Option Agreement under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2014).  
+
+10.8#  
+
+Form of Incentive Stock Option Agreement under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.5 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2014).  
+
+10.9#  
+
+Form of Nonstatutory Stock Option Agreement for Outside Directors under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.24 to the Company s Annual Report on Form 10 K for the year ended December 31, 2013).  
+
+10.10#  
+
+Form of Restricted Stock Unit Award Agreement under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.6 to the Company s Quarterly Report on Form 10 Q for the quarter ended June 30, 2014).  
+
+10.11#  
+
+Form of Performance Share Award Agreement under the 2010 Stock Incentive Plan (incorporated by reference to Exhibit 10.4 to the Company s Quarterly Report on Form 10 Q for the quarter ended March 31, 2014).  
+
+10.12#  
+
+Form of Indemnity Agreement between the Company and its directors and officers (incorporated by reference to Exhibit 10.5 to the Company s Registration Statement on Form S 1 (File No. 33 68138)).  
+
+10.13#  
+
+1997 Employee Stock Purchase Plan of Incyte Corporation, as amended (incorporated by reference to Exhibit 10.2 to the Company s Current Report on Form 8-K filed May 27, 2016).  
+
+7 
+
+8 
+
+*  
+
+Filed with the Original Form 10-K.  
+
+**  
+
+Filed herewith.  
+
+9 
+
+***  
+
+In accordance with Item 601(b)(32)(ii) of Regulation S K and SEC Release Nos. 33 8238 and 34 47986, Final Rule: Management s Reports on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Periodic Reports, the certifications furnished in Exhibits 32.1 and 32.2 are deemed to accompany the Form 10 K and will not be deemed  filed  for purpose of Section 18 of the Exchange Act. Such certifications will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.  
+
+Confidential treatment has been requested with respect to certain portions of these agreements.  
+
+#  
+
+Indicates management contract or compensatory plan or arrangement.  
+
+10 
+
+<EX-23.1>
+ 2
+ incy-20161231ex231a91ddf.htm
+ EX-23.1
+
+incy_Exhibit_23_1
+
+Exhibit 23.1 
+
+Consent of Independent Registered Public Accounting Firm 
+
+We consent to the incorporation by reference in the following Registration Statements: (Form S-3 No. 333-209694) of Incyte Corporation, (Form S-8 Nos. 333-91556, 333-125995, and 333-160006) pertaining to the 1993 Directors  Stock Option Plan of Incyte Corporation, (Form S-8 333-160005) pertaining to the 1991 Stock Plan of Incyte Corporation, (Form S-8 Nos. 333-174919 and 333-212102) pertaining to the 1997 Employee Stock Purchase Plan of Incyte Corporation, (Form S-8 Nos. 333-174918, 333-182218, 333-189424, 333-197907, and 333-212104) pertaining to the 2010 Stock Incentive Plan of Incyte Corporation, (Form S-8 No. 333-193333) pertaining to the 2014 Restricted Stock Unit Award Agreement between Incyte Corporation and Herv  Hoppenot, as applicable, of our reports dated February 14, 2017, with respect to the consolidated financial statements of Incyte Corporation and the effectiveness of internal control over financial reporting of Incyte Corporation, included in this Annual Report (Form 10-K) for the year ended December 31, 2016. 
+
+/s/ Ernst   Young LLP  
+
+Philadelphia, Pennsylvania 
+
+February 14, 2017 
+
+</EX-23.1>
+
+<EX-31.3>
+ 3
+ incy-20161231ex31333717f.htm
+ EX-31.3
+
+incy_Exhibit_31_3
+
+Exhibit 31.3 
+
+CERTIFICATION 
+
+I, Herv  Hoppenot, certify that: 
+
+1.  I have reviewed this Amendment No. 1 to Annual Report on Form 10 K of Incyte Corporation; 
+
+2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+Date: March 17, 2017 
+
+/s/ Herv  Hoppenot  
+
+Herv  Hoppenot  
+
+Chief Executive Officer  
+
+</EX-31.3>
+
+<EX-31.4>
+ 4
+ incy-20161231ex314700af9.htm
+ EX-31.4
+
+incy_Exhibit_31_4
+
+Exhibit 31.4 
+
+CERTIFICATION 
+
+I, David W. Gryska, certify that: 
+
+1.  I have reviewed this Amendment No. 1 to Annual Report on Form 10 K of Incyte Corporation; 
+
+2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+Date: March 17, 2017 
+
+/s/ David W. Gryska  
+
+David W. Gryska  
+
+Chief Financial Officer  
+
+</EX-31.4>
+
